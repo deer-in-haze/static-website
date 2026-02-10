@@ -3,6 +3,7 @@
     --glass-colour: rgba(20, 25, 40, 0.4);
     --glass-colour-hover: rgba(20, 25, 40, 0.6);
     --glass-blur: blur(1px);
+    --glass-super-blur: blur(3px);
     --text-main: #eaeaf0;
     --glass-border: 1px solid rgba(178, 184, 197, 0.38);
     --glass-border-hover: 1px solid rgba(20, 25, 40, 0.6);
@@ -84,15 +85,15 @@
 }
 
 .calendar-day .event-tags .badge {
-    font-size: 0.7rem;      /* smaller so it fits */
+    font-size: 0.7rem;
     line-height: 1;
     padding: 0.35em 0.5em;
 }
 
 .modal-content {
     background: var(--glass-colour);
-    backdrop-filter: var(--glass-blur);
-    -webkit-backdrop-filter: var(--glass-blur);
+    backdrop-filter: var(--glass-super-blur);
+    -webkit-backdrop-filter: var(--glass-super-blur);
     border: var(--glass-border);
     color: var(--text-main);
 }
