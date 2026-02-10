@@ -1,0 +1,79 @@
+:root {
+    --bg-main: url("../images/main_background.svg");
+    --glass-colour: rgba(20, 25, 40, 0.4);
+    --glass-colour-hover: rgba(20, 25, 40, 0.6);
+    --glass-blur: blur(1px);
+    --text-main: #eaeaf0;
+    --glass-border: 1px solid rgba(178, 184, 197, 0.38);
+    --glass-border-hover: 1px solid rgba(20, 25, 40, 0.6);
+}
+
+body {
+    background-image: var(--bg-main);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#navbar {
+    background: var(--glass-colour);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    color: var(--text-main);
+}
+
+#navbar a.navbar-brand {
+    color: var(--text-main);
+}
+
+#navbar a.nav-link {
+    color: var(--text-main);
+}
+
+#footer {
+    background: var(--glass-colour);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    color: var(--text-main);
+}
+
+#homepage-hero {
+    background: var(--glass-colour);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    border: var(--glass-border);
+    color: var(--text-main);
+}
+
+#homepage-cards .card {
+    background: var(--glass-colour);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    border: var(--glass-border);
+    color: var(--text-main);
+}
+
+#homepage-cards .btn {
+    background: var(--glass-colour);
+    border: var(--glass-border);
+    color: var(--text-main);
+}
+
+#homepage-cards .btn:hover {
+    background: var(--glass-colour-hover);
+    border: var(--glass-border-hover)
+}
+
+#homepage-cards .btn:active {
+    background: var(--glass-colour);
+}
+
+.calendar-day {
+    border-radius: 10px;
+    background: var(--glass-colour);
+    border: var(--glass-border);
+
+    font-size: 1.1rem;
+}
+

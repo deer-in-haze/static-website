@@ -1,0 +1,202 @@
+[
+  {
+    "id": "2026-01-03_quadrantids_meteor_shower",
+    "date": "2026-01-03",
+    "time_utc": "00:00",
+    "type": "meteor_shower",
+    "title": "Quadrantids Meteor Shower Peak",
+    "description": "Peak of the Quadrantids meteor shower, one of the strongest annual showers.",
+    "source": "Astronomy Calendar 2026"
+  },
+  {
+    "id": "2026-01-10_jupiter_opposition",
+    "date": "2026-01-10",
+    "time_utc": "00:00",
+    "type": "opposition",
+    "title": "Jupiter at Opposition",
+    "description": "Jupiter is at its brightest and visible all night as it reaches opposition.",
+    "source": "Astronomy Calendar 2026"
+  },
+  {
+    "id": "2026-01-18_new_moon",
+    "date": "2026-01-18",
+    "time_utc": "00:00",
+    "type": "moon_phase",
+    "title": "New Moon",
+    "description": "Moon is between Earth and Sun, invisible from Earth.",
+    "source": "Astronomy Calendar 2026"
+  },
+  {
+    "id": "2026-02-01_full_moon",
+    "date": "2026-02-01",
+    "time_utc": "17:09",
+    "type": "moon_phase",
+    "title": "Full Moon (Snow Moon)",
+    "description": "Full Moon with traditional 'Snow Moon' name.",
+    "source": "Royal Observatory Greenwich"
+  },
+  {
+    "id": "2026-02-17_annular_solar_eclipse",
+    "date": "2026-02-17",
+    "time_utc": "12:13",
+    "type": "solar_eclipse",
+    "title": "Annular Solar Eclipse",
+    "description": "Annular solar eclipse visible in parts of Antarctica, southern Africa, South America.",
+    "source": "NASA eclipse catalog"
+  },
+  {
+    "id": "2026-03-03_total_lunar_eclipse",
+    "date": "2026-03-03",
+    "time_utc": "11:33",
+    "type": "lunar_eclipse",
+    "title": "Total Lunar Eclipse",
+    "description": "Total lunar eclipse with totality lasting ~58 min.",
+    "details": {
+      "partial_start": "09:50",
+      "totality_start": "11:04",
+      "totality_end": "12:02",
+      "partial_end": "14:22"
+    },
+    "source": "Wikipedia lunar eclipse"
+  },
+  {
+    "id": "2026-04-02_full_moon",
+    "date": "2026-04-02",
+    "time_utc": "03:12",
+    "type": "moon_phase",
+    "title": "Full Moon (Pink Moon)",
+    "description": "Full Moon of April.",
+    "source": "Royal Observatory Greenwich"
+  },
+  {
+    "id": "2026-04-22_lyrids_meteor_shower",
+    "date": "2026-04-22",
+    "time_utc": "03:00",
+    "type": "meteor_shower",
+    "title": "Lyrids Meteor Shower Peak",
+    "description": "Peak of the Lyrids meteor shower.",
+    "source": "Space.com Lyrids guide"
+  },
+  {
+    "id": "2026-05-01_full_moon",
+    "date": "2026-05-01",
+    "time_utc": "18:23",
+    "type": "moon_phase",
+    "title": "Full Moon (Flower Moon)",
+    "description": "Full Moon of May.",
+    "source": "Royal Observatory Greenwich"
+  },
+  {
+    "id": "2026-05-06_eta_aquarids_meteor_shower",
+    "date": "2026-05-06",
+    "time_utc": "00:00",
+    "type": "meteor_shower",
+    "title": "Eta Aquarids Meteor Shower Peak",
+    "description": "Peak of the Eta Aquarids meteor shower.",
+    "source": "Astronomy Calendar 2026"
+  },
+  {
+    "id": "2026-05-31_full_blue_moon",
+    "date": "2026-05-31",
+    "time_utc": "09:45",
+    "type": "moon_phase",
+    "title": "Full Blue Moon",
+    "description": "Second Full Moon in May (Blue Moon).",
+    "source": "Royal Observatory Greenwich"
+  },
+  {
+    "id": "2026-06-09_venus_jupiter_conjunction",
+    "date": "2026-06-09",
+    "time_utc": "00:00",
+    "type": "conjunction",
+    "title": "Venus-Jupiter Conjunction",
+    "description": "Close conjunction of Venus and Jupiter.",
+    "source": "NASA Sky Events"
+  },
+  {
+    "id": "2026-06-21_summer_solstice",
+    "date": "2026-06-21",
+    "time_utc": "14:00",
+    "type": "seasonal",
+    "title": "June Solstice",
+    "description": "Northern Hemisphere summer / Southern Hemisphere winter solstice.",
+    "source": "Astronomy Calendar 2026"
+  },
+  {
+    "id": "2026-08-12_total_solar_eclipse",
+    "date": "2026-08-12",
+    "time_utc": "17:47",
+    "type": "solar_eclipse",
+    "title": "Total Solar Eclipse",
+    "description": "Total solar eclipse visible in Greenland, Iceland, northern Spain.",
+    "source": "Wikipedia solar eclipse"
+  },
+  {
+    "id": "2026-08-12_perseids_meteor_shower",
+    "date": "2026-08-12",
+    "time_utc": "22:00",
+    "type": "meteor_shower",
+    "title": "Perseids Meteor Shower Peak",
+    "description": "Peak of the Perseids meteor shower, very active in August.",
+    "source": "Astronomy Event Calendar 2026"
+  },
+  {
+    "id": "2026-08-28_partial_lunar_eclipse",
+    "date": "2026-08-28",
+    "time_utc": "04:12",
+    "type": "lunar_eclipse",
+    "title": "Partial Lunar Eclipse",
+    "description": "Partial lunar eclipse visible across much of the world.",
+    "details": {
+      "partial_start": "02:33",
+      "greatest": "04:12",
+      "partial_end": "05:51"
+    },
+    "source": "Wikipedia lunar eclipse"
+  },
+  {
+    "id": "2026-09-23_autumn_equinox",
+    "date": "2026-09-23",
+    "time_utc": "05:30",
+    "type": "seasonal",
+    "title": "September Equinox",
+    "description": "Autumnal equinox in the Northern Hemisphere.",
+    "source": "Astronomy Calendar 2026"
+  },
+  {
+    "id": "2026-10-21_orionids_meteor_shower",
+    "date": "2026-10-21",
+    "time_utc": "02:00",
+    "type": "meteor_shower",
+    "title": "Orionids Meteor Shower Peak",
+    "description": "Peak of the Orionids meteor shower.",
+    "source": "Astronomy Calendar 2026"
+  },
+  {
+    "id": "2026-12-13_geminids_meteor_shower",
+    "date": "2026-12-13",
+    "time_utc": "02:00",
+    "type": "meteor_shower",
+    "title": "Geminids Meteor Shower Peak",
+    "description": "Peak of the Geminids meteor shower.",
+    "source": "Astronomy Event Guides"
+  },
+  {
+    "id": "2026-12-24_cold_moon",
+    "date": "2026-12-24",
+    "time_utc": "01:28",
+    "type": "moon_phase",
+    "title": "Full Cold Moon",
+    "description": "Full Moon with traditional Cold Moon name.",
+    "source": "Royal Observatory Greenwich"
+  },
+  {
+    "id": "2026-12-21_winter_solstice",
+    "date": "2026-12-21",
+    "time_utc": "10:27",
+    "type": "seasonal",
+    "title": "December Solstice",
+    "description": "Winter solstice in the Northern Hemisphere.",
+    "source": "Astronomy Calendar 2026"
+  }
+]

@@ -1,0 +1,21 @@
+/* animations.css: transitions, hover, motion */
+
+#homepage-cards .card {
+    transition: all 0.25s ease;
+}
+
+#homepage-cards .card:hover {
+    transform: translateY(-4px);
+}
+
+#homepage-cards .btn {
+    transition: all 0.25s ease;
+}
+
+#homepage-cards .btn:hover {
+    transform: translateY(-2px);
+}
+
+#homepage-cards .btn:active {
+    transform: translateY(0);
+}

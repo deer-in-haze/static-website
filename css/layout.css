@@ -1,0 +1,29 @@
+#homepage-cards .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+#homepage-cards .card-img-top {
+    display: block;
+    width: 100%;
+    height: 220px;
+    object-fit: contain;
+    object-position: bottom;
+}
+
+#calendarGrid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 0.5rem;
+}
+
+.calendar-day {
+    min-height: 80px;
+    padding: 10px;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+

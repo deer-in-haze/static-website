@@ -1,0 +1,11 @@
+body {
+    background-color: var(--bg-main);
+    color: #eaeaf0;
+}
+
+.btn:focus-visible {
+    outline: 2px solid rgba(120, 160, 255, 0.8);
+    outline-offset: 2px;
+}
+
+
