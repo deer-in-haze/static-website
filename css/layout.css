@@ -1,3 +1,9 @@
+.hamburger {
+    width: 28px;
+    height: 28px;
+    display: block;
+}
+
 #homepage-cards .card {
     display: flex;
     flex-direction: column;
