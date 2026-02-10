@@ -8,14 +8,6 @@
     --glass-border-hover: 1px solid rgba(20, 25, 40, 0.6);
 }
 
-body {
-    background-image: var(--bg-main);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-}
-
 #navbar {
     background: var(--glass-colour);
     backdrop-filter: var(--glass-blur);
@@ -71,10 +63,37 @@ body {
 }
 
 .calendar-day {
-    border-radius: 10px;
-    background: var(--glass-colour);
+    position: relative;
+    min-height: 90px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
     border: var(--glass-border);
+    border-radius: 10px;
+}
 
-    font-size: 1.1rem;
+.calendar-day .day-number {
+    font-weight: 600;
+}
+
+.calendar-day .event-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+.calendar-day .event-tags .badge {
+    font-size: 0.7rem;      /* smaller so it fits */
+    line-height: 1;
+    padding: 0.35em 0.5em;
+}
+
+.modal-content {
+    background: var(--glass-colour);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    border: var(--glass-border);
+    color: var(--text-main);
 }
 
