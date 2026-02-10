@@ -42,7 +42,8 @@ body {
     background: var(--glass-colour);
     backdrop-filter: var(--glass-blur);
     -webkit-backdrop-filter: var(--glass-blur);
-    border: var(--glass-border);
+    border-top: var(--glass-border);
+    border-bottom: var(--glass-border);
     color: var(--text-main);
 }
 
