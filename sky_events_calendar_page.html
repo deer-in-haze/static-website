@@ -12,55 +12,7 @@
 <body>
   <div id="navbar"></div>
 
-  <div class="container">
-
-    <div class="d-flex align-items-center justify-content-between mb-3">
-      <div></div>
-
-      <h3 class="m-0 text-center flex-grow-1" id="monthTitle"></h3>
-
-      <div class="d-flex gap-2">
-        <button class="btn btn-outline-light btn-sm" id="prevMonthBtn" type="button" aria-label="Previous month">
-          &lt;
-        </button>
-
-        <button class="btn btn-outline-light btn-sm" id="nextMonthBtn" type="button" aria-label="Next month">
-          &gt;
-        </button>
-      </div>
-    </div>
-
-    <div class="row text-center fw-bold mb-2">
-      <div class="col">Mon</div>
-      <div class="col">Tue</div>
-      <div class="col">Wed</div>
-      <div class="col">Thu</div>
-      <div class="col">Fri</div>
-      <div class="col">Sat</div>
-      <div class="col">Sun</div>
-    </div>
-
-    <div id="calendarGrid"></div>
-  </div>
-
-  <div class="modal fade" id="eventModal" tabindex="-1" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg">
-      <div class="modal-content">
-
-        <div class="modal-header">
-          <h5 class="modal-title" id="eventModalTitle">Events</h5>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-
-        <div class="modal-body" id="eventModalBody"></div>
-
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-        </div>
-
-      </div>
-    </div>
-  </div>
+  <div id="calendar"></div>
 
   <div id="footer"></div>
 

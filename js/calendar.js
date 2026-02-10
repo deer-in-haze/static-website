@@ -5,8 +5,8 @@ let skyEvents = [];
 let eventsByDate = new Map();
 
 async function loadSkyEvents() {
-    const response = await fetch("data/skycal.json");
-    if (!response.ok) throw new Error("failed to load data/skycal.json");
+    const response = await fetch("./data/skycal.json");
+    if (!response.ok) throw new Error("failed to load ./data/skycal.json");
     skyEvents = await response.json();
 
     eventsByDate = new Map();
@@ -19,6 +19,8 @@ async function loadSkyEvents() {
 function renderCalendar(year, monthIndex) {
     const grid = document.getElementById("calendarGrid");
     const title = document.getElementById("monthTitle");
+
+    if (!grid || !title) return;
 
     grid.innerHTML = "";
 
@@ -59,8 +61,8 @@ function createDayCell(year, monthIndex, day) {
 
     const iso = toIsoDate(year, monthIndex, day);
     const todaysEvents = eventsByDate.get(iso) ?? [];
-    const dayNumber = document.createElement("div");
 
+    const dayNumber = document.createElement("div");
     dayNumber.className = "day-number";
     dayNumber.textContent = day;
     cell.appendChild(dayNumber);
@@ -85,7 +87,6 @@ function createDayCell(year, monthIndex, day) {
 
         cell.style.cursor = "pointer";
         cell.addEventListener("click", () => openEventModal(iso, todaysEvents));
-
         cell.title = todaysEvents.map(e => e.title).join(" • ");
     }
 
@@ -112,19 +113,6 @@ function changeMonth(delta) {
 
     renderCalendar(currentYear, currentMonthIndex);
 }
-
-document.addEventListener("DOMContentLoaded", async () => {
-    const now = new Date();
-    currentYear = now.getFullYear();
-    currentMonthIndex = now.getMonth();
-
-    await loadSkyEvents();
-
-    document.getElementById("prevMonthBtn").addEventListener("click", () => changeMonth(-1));
-    document.getElementById("nextMonthBtn").addEventListener("click", () => changeMonth(1));
-
-    renderCalendar(currentYear, currentMonthIndex);
-});
 
 function escapeHtml(str) {
     return String(str)
@@ -164,6 +152,8 @@ function openEventModal(isoDate, events) {
     const modalTitle = document.getElementById("eventModalTitle");
     const modalBody = document.getElementById("eventModalBody");
 
+    if (!modalTitle || !modalBody) return;
+
     modalTitle.textContent = `Events — ${isoDate}`;
 
     modalBody.innerHTML = events.map(ev => `
@@ -194,6 +184,24 @@ function openEventModal(isoDate, events) {
     `).join("");
 
     const modalEl = document.getElementById("eventModal");
+    if (!modalEl) return;
+
     const modal = bootstrap.Modal.getOrCreateInstance(modalEl);
     modal.show();
+}
+
+async function init_calendar() {
+    const now = new Date();
+    currentYear = now.getFullYear();
+    currentMonthIndex = now.getMonth();
+
+    await loadSkyEvents();
+
+    const prevBtn = document.getElementById("prevMonthBtn");
+    const nextBtn = document.getElementById("nextMonthBtn");
+
+    if (prevBtn) prevBtn.addEventListener("click", () => changeMonth(-1));
+    if (nextBtn) nextBtn.addEventListener("click", () => changeMonth(1));
+
+    renderCalendar(currentYear, currentMonthIndex);
 }

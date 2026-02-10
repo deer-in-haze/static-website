@@ -1,13 +1,24 @@
 console.log("JS loaded");
 
-fetch("./partials/navbar.html")
-    .then(r => r.text())
-    .then(html => {
-        document.getElementById("navbar").innerHTML = html;
-    });
+function loadPartial(id, path) {
+    return fetch(path)
+        .then(r => {
+            if (!r.ok) throw new Error(`failed to load ${path}`);
+            return r.text();
+        })
+        .then(html => {
+            document.getElementById(id).innerHTML = html;
+        });
+}
 
-fetch("./partials/footer.html")
-    .then(r => r.text())
-    .then(html => {
-        document.getElementById("footer").innerHTML = html;
-    });
+document.addEventListener("DOMContentLoaded", async () => {
+    await loadPartial("navbar", "./partials/navbar.html");
+    await loadPartial("calendar", "./partials/calendar.html");
+    await loadPartial("footer", "./partials/footer.html");
+
+    if (typeof init_calendar === "function") {
+        init_calendar();
+    } else {
+        console.warn("init_calendar() not found");
+    }
+});
