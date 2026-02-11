@@ -11,6 +11,6 @@
     const typeLabel = type =>
         String(type ?? "").replaceAll("_", " ");
 
-    window.helpers = { escapeHtml, typeLabel };
+    window.helper = { escapeHtml, typeLabel };
 
 })();
