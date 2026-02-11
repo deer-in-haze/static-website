@@ -1,0 +1,118 @@
+#eventModal .modal-content {
+    background: var(--glass-colour);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+}
+#eventModal .modal-title {
+    color: var(--text-main);
+}
+
+.calendar-event-card {
+    padding: var(--modal-padding);
+    border-radius: var(--glass-border-radius);
+    border: var(--glass-border);
+    margin-bottom: var(--modal-margin-bottom);
+    background: var(--glass-colour);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    color: var(--text-main);
+}
+
+.calendar-event-card-top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.calendar-event-title {
+    color: var(--text-main);
+    font-weight: 600;
+}
+
+.calendar-event-meta {
+    font-size: 0.9rem;
+    margin-top: 2px;
+    color: var(--text-sub);
+}
+
+.calendar-event-card-actions {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 10px;
+}
+
+.add-to-google-calendar-btn {
+    padding: var(--button-padding);
+    border-radius: var(--glass-border-radius);
+    border: var(--glass-border);
+    text-decoration: none;
+    color: var(--text-main);
+    font-size: 0.8rem;
+    white-space: nowrap;   /* prevent line breaks */
+    display: inline-flex;
+}
+
+.calendar-event-description {
+    margin-top: var(--modal-margin-top);
+}
+
+.calendar-event-divider {
+    height: 1px;
+    background: var(--calendar-divider-colour);
+    margin: 12px 0;
+}
+
+.calendar-event-details {
+    font-size: 0.9rem;
+}
+
+.calendar-event-detail-row {
+    margin-top: 4px;
+    color: var(--text-main);
+}
+
+.calendar-event-detail-key {
+    opacity: 0.7;
+    margin-right: 6px;
+}
+
+.calendar-event-badge {
+    display: inline-block;
+    padding: .35em .65em;
+    font-size: var(--font-size-xs);
+    font-weight: 700;
+    line-height: 1;
+    border-radius: .375rem;
+    vertical-align: baseline;
+}
+
+.calendar-event-badge--more {
+    background: var(--glass-colour);
+    color: var(--text-main);
+}
+
+.calendar-event-badge--meteor_shower { background: #0dcaf0; color: black; }
+.calendar-event-badge--moon_phase    { background: #f8f9fa; color: black; }
+.calendar-event-badge--solar_eclipse { background: #ffc107; color: black; }
+.calendar-event-badge--lunar_eclipse { background: #0d6efd; color: white; }
+.calendar-event-badge--opposition    { background: #0d6efd; color: white; }
+.calendar-event-badge--conjunction   { background: #198754; color: white; }
+.calendar-event-badge--seasonal      { background: #6c757d; color: white; }
+
+#eventModal .modal-footer .btn {
+    background: rgba(232, 13, 13, 0.37);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+
+    color: var(--text-main);
+
+    border: var(--glass-border);
+    border-radius: var(--glass-border-radius);
+
+    padding: var(--pad-m-y) var(--pad-m-x);
+
+    font-size: var(--font-size-s);
+
+    transition: all 0.2s ease;
+}
+

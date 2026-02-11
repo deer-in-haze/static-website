@@ -1,3 +1,4 @@
+// calendar.js
 let currentYear;
 let currentMonthIndex;
 
@@ -19,7 +20,6 @@ async function loadSkyEvents() {
 function renderCalendar(year, monthIndex) {
     const grid = document.getElementById("calendarGrid");
     const title = document.getElementById("monthTitle");
-
     if (!grid || !title) return;
 
     grid.innerHTML = "";
@@ -28,25 +28,15 @@ function renderCalendar(year, monthIndex) {
     title.textContent = `${monthName} ${year}`;
 
     const firstDate = new Date(year, monthIndex, 1);
-
     const mondayIndex = (firstDate.getDay() + 6) % 7;
-
     const daysInMonth = new Date(year, monthIndex + 1, 0).getDate();
 
-    for (let i = 0; i < mondayIndex; i++) {
-        grid.appendChild(createEmptyCell());
-    }
-
-    for (let day = 1; day <= daysInMonth; day++) {
-        grid.appendChild(createDayCell(year, monthIndex, day));
-    }
+    for (let i = 0; i < mondayIndex; i++) grid.appendChild(createEmptyCell());
+    for (let day = 1; day <= daysInMonth; day++) grid.appendChild(createDayCell(year, monthIndex, day));
 
     const totalCells = mondayIndex + daysInMonth;
     const remaining = (7 - (totalCells % 7)) % 7;
-
-    for (let i = 0; i < remaining; i++) {
-        grid.appendChild(createEmptyCell());
-    }
+    for (let i = 0; i < remaining; i++) grid.appendChild(createEmptyCell());
 }
 
 function toIsoDate(year, monthIndex, day) {
@@ -72,13 +62,11 @@ function createDayCell(year, monthIndex, day) {
         tags.className = "event-tags";
 
         const maxTags = 2;
-        todaysEvents.slice(0, maxTags).forEach(ev => {
-            tags.appendChild(createTypeBadge(ev.type));
-        });
+        todaysEvents.slice(0, maxTags).forEach((ev) => tags.appendChild(createTypeBadge(ev.type)));
 
         if (todaysEvents.length > maxTags) {
             const more = document.createElement("span");
-            more.className = "badge bg-dark";
+            more.className = "calendar-event-badge calendar-event-badge--more";
             more.textContent = `+${todaysEvents.length - maxTags}`;
             tags.appendChild(more);
         }
@@ -86,8 +74,8 @@ function createDayCell(year, monthIndex, day) {
         cell.appendChild(tags);
 
         cell.style.cursor = "pointer";
-        cell.addEventListener("click", () => openEventModal(iso, todaysEvents));
-        cell.title = todaysEvents.map(e => e.title).join(" • ");
+        cell.addEventListener("click", () => window.openEventModal(iso, todaysEvents));
+        cell.title = todaysEvents.map((e) => e.title).join(" • ");
     }
 
     return cell;
@@ -114,81 +102,17 @@ function changeMonth(delta) {
     renderCalendar(currentYear, currentMonthIndex);
 }
 
-function escapeHtml(str) {
-    return String(str)
-        .replaceAll("&", "&amp;")
-        .replaceAll("<", "&lt;")
-        .replaceAll(">", "&gt;")
-        .replaceAll('"', "&quot;")
-        .replaceAll("'", "&#039;");
-}
-
-function badgeClassForType(type) {
-    const map = {
-        meteor_shower: "bg-info",
-        moon_phase: "bg-light text-dark",
-        solar_eclipse: "bg-warning text-dark",
-        lunar_eclipse: "bg-primary",
-        opposition: "bg-success",
-        conjunction: "bg-success",
-        seasonal: "bg-secondary",
-    };
-    return map[type] ?? "bg-dark";
-}
-
 function createTypeBadge(type) {
     const span = document.createElement("span");
-    span.className = `badge ${badgeClassForType(type)}`;
-    span.textContent = type.replaceAll("_", " ");
+
+    const safeType = String(type ?? "").toLowerCase().replace(/[^a-z0-9_-]/g, "");
+
+    span.className = `calendar-event-badge calendar-event-badge--${safeType}`;
+    span.textContent = window.helpers.typeLabel(type);
+
     return span;
 }
 
-function typeBadge(type) {
-    const cls = badgeClassForType(type);
-    return `<span class="badge ${cls}">${escapeHtml(type.replaceAll("_", " "))}</span>`;
-}
-
-function openEventModal(isoDate, events) {
-    const modalTitle = document.getElementById("eventModalTitle");
-    const modalBody = document.getElementById("eventModalBody");
-
-    if (!modalTitle || !modalBody) return;
-
-    modalTitle.textContent = `Events — ${isoDate}`;
-
-    modalBody.innerHTML = events.map(ev => `
-      <div class="mb-3 p-3 border rounded">
-        <div class="d-flex justify-content-between align-items-start gap-2">
-          <div>
-            <div class="fw-semibold">${escapeHtml(ev.title)}</div>
-            <div class="small" style="opacity:0.8;">
-              ${escapeHtml(ev.time_utc)} UTC${ev.source ? ` • ${escapeHtml(ev.source)}` : ""}
-            </div>
-          </div>
-          <div>${typeBadge(ev.type)}</div>
-        </div>
-
-        <div class="mt-2">
-          ${escapeHtml(ev.description ?? "")}
-        </div>
-
-        ${ev.details ? `
-          <hr class="my-2" />
-          <div class="small">
-            ${Object.entries(ev.details).map(([k, v]) =>
-        `<div><span style="opacity:0.75;">${escapeHtml(k.replaceAll("_", " "))}:</span> ${escapeHtml(v)}</div>`
-    ).join("")}
-          </div>
-        ` : ""}
-      </div>
-    `).join("");
-
-    const modalEl = document.getElementById("eventModal");
-    if (!modalEl) return;
-
-    const modal = bootstrap.Modal.getOrCreateInstance(modalEl);
-    modal.show();
-}
 
 async function init_calendar() {
     const now = new Date();

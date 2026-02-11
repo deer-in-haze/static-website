@@ -2,11 +2,45 @@
     --bg-main: url("../images/main_background.svg");
     --glass-colour: rgba(20, 25, 40, 0.4);
     --glass-colour-hover: rgba(20, 25, 40, 0.6);
+
     --glass-blur: blur(1px);
     --glass-super-blur: blur(3px);
+
     --text-main: #eaeaf0;
+    --text-sub: #dddcd7;
+
+    --font-size-m: 1rem;
+    --font-size-s: 0.875rem;
+    --font-size-xs: 0.75rem;
+
+    --pad-m-y: 0.5em;
+    --pad-m-x: 0.9em;
+
+    --pad-s-y: 0.4em;
+    --pad-s-x: 0.75em;
+
+    --pad-xs-y: 0.3em;
+    --pad-xs-x: 0.6em;
+
+    --navbar-height: 4.5rem;
+    --card-picture-height: 31.25rem;
+    --calendar-gap: 0.5rem;
+    --calendar-day-padding:0.625rem;
+    --calendar-day-min-height: 4.375rem;
+
     --glass-border: 1px solid rgba(178, 184, 197, 0.38);
     --glass-border-hover: 1px solid rgba(20, 25, 40, 0.6);
+    --glass-border-radius: 10px;
+
+    --modal-padding: 14px;
+    --modal-margin-bottom: 12px;
+    --modal-margin-top: 10px;
+
+    --button-padding: 6px 10px;
+
+    --badge-padding: 0 6px;
+
+    --calendar-divider-colour: rgba(255,255,255,0.12);
 }
 
 #navbar {
@@ -104,4 +138,3 @@
     border: 0;
     display:block;
 }
-
