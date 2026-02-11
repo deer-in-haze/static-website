@@ -108,7 +108,7 @@ function createTypeBadge(type) {
     const safeType = String(type ?? "").toLowerCase().replace(/[^a-z0-9_-]/g, "");
 
     span.className = `calendar-event-badge calendar-event-badge--${safeType}`;
-    span.textContent = window.helpers.typeLabel(type);
+    span.textContent = window.helper.typeLabel(type);
 
     return span;
 }

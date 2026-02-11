@@ -1,6 +1,6 @@
 // calendar_event_modal.js
 (() => {
-    const h = window.helpers;
+    const h = window.helper;
     const esc = h.escapeHtml;
     const typeLabel = h.typeLabel;
 
