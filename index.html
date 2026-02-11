@@ -1,107 +1,125 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <title>Homepage</title>
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/styles.css" />
 </head>
 
 <body>
-    <nav id="navbar" class="navbar navbar-expand-lg fixed-top"></nav>
+<nav id="navbar" class="navbar navbar-expand-lg fixed-top"></nav>
 
-    <header id="homepage-hero" class="py-5">
-        <div class="container py-5 text-center">
-            <p class="lead mt-3 mb-4">
-                Lorem ipsum dolor sit amet. Et ipsa quasi non porro earum in dicta tenetur eum galisum omnis qui aspernatur voluptatum in assumenda dolores aut aspernatur quia. Qui rerum molestias ex ratione sunt et magni deserunt in neque accusantium non rerum tempora ea voluptate facilis.
+<header id="homepage-hero" class="py-5">
+    <div class="container py-5 text-center">
+        <p class="lead mt-3 mb-4">
+            Lorem ipsum dolor sit amet. Et ipsa quasi non porro earum in dicta tenetur eum galisum omnis qui aspernatur
+            voluptatum in assumenda dolores aut aspernatur quia. Qui rerum molestias ex ratione sunt et magni deserunt in
+            neque accusantium non rerum tempora ea voluptate facilis.
 
-                Aut velit pariatur vel nostrum sapiente eum ullam nemo in accusamus iure et inventore iste ut necessitatibus voluptates ut magni veniam. Rem cumque officia ex dolorum ipsam qui libero dolorem.
+            Aut velit pariatur vel nostrum sapiente eum ullam nemo in accusamus iure et inventore iste ut necessitatibus
+            voluptates ut magni veniam. Rem cumque officia ex dolorum ipsam qui libero dolorem.
 
-                Hic quaerat quod et neque dolores ut voluptatem quam qui dolore quia aut ipsum omnis hic deserunt doloremque hic quia deleniti? At facere illum et autem esse 33 iusto itaque sed pariatur doloribus aut optio atque ut laudantium Quis a sunt voluptas!
-            </p>
-        </div>
-    </header>
+            Hic quaerat quod et neque dolores ut voluptatem quam qui dolore quia aut ipsum omnis hic deserunt doloremque hic
+            quia deleniti? At facere illum et autem esse 33 iusto itaque sed pariatur doloribus aut optio atque ut laudantium
+            Quis a sunt voluptas!
+        </p>
+    </div>
+</header>
 
-    <section id="homepage-cards" class="py-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 mb-4 ">
-                    <div class="card h-100">
+<section id="homepage-cards" class="py-5">
+    <div class="container">
+        <div class="row">
+
+            <!-- Moon phase card -->
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img
+                            id="moonphase-img"
+                            class="card-img-top"
+                            src="images/moon_phases/new_moon.png"
+                            alt="Moon phase"
+                    />
+
+                    <div class="card-body">
+                        <h5 class="card-title" id="moonphase-title">Moon phase</h5>
+                        <p class="card-text" id="moonphase-text">Loading today’s moon phase…</p>
+
+                        <a
+                                href="sky_events_calendar_page.html"
+                                class="btn btn-primary btn-sm"
+                                id="sky_events_calendar-btn"
+                        >
+                            Sky Events Calendar (SKYCAL)
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- VirtualSky card -->
+            <div class="col-md-4 mb-4">
+                <div class="card h-100 shadow">
+                    <img src="images/cygnus.svg" class="card-img-top" alt="Cygnus constellation" />
+
+                    <div class="card-body">
+                        <h5 class="card-title">VirtualSky</h5>
+                        <p class="card-text">Explore the planetarium</p>
+
+                        <a href="planetarium.html" class="btn btn-primary btn-sm">
+                            Planetarium (VirtualSky)
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- APOD slideshow card -->
+            <div class="col-md-4 mb-4">
+                <div class="card h-100 shadow" id="apod-card">
+                    <div class="apod-media">
                         <img
-                                id="moonphase-img"
+                                id="apod-img"
                                 class="card-img-top"
-                                src="images/moon_phases/new_moon.png"
-                                alt="Moon phase">
+                                src="images/placeholder_cat.png"
+                                alt="NASA Astronomy Picture of the Day"
+                        />
 
-                        <div class="card-body">
-                            <h5 class="card-title" id="moonphase-title">Moon phase</h5>
-
-                            <p class="card-text" id="moonphase-text">
-                                Loading today’s moon phase…
-                            </p>
-
-                            <a href="sky_events_calendar_page.html" class="btn btn-primary btn-sm" id="sky_events_calendar-btn">
-                                Sky Events Calendar (SKYCAL)
-                            </a>
+                        <div class="apod-controls" aria-label="APOD controls">
+                            <button class="apod-btn" id="apod-prev" type="button" aria-label="Previous APOD">‹</button>
+                            <button class="apod-btn" id="apod-next" type="button" aria-label="Next APOD">›</button>
                         </div>
                     </div>
 
-                </div>
+                    <div class="card-body">
+                        <h5 class="card-title" id="apod-title">NASA APOD (Last 7 Days)</h5>
+                        <p class="card-text" id="apod-text">Loading…</p>
 
-                <div class="col-md-4 mb-4">
-                    <div class="card h-100 shadow">
-                        <img src="images/cygnus.svg" class="card-img-top" alt="...">
-
-                        <div class="card-body">
-                            <h5 class="card-title">VirtualSky</h5>
-
-                            <p class="card-text">
-                                Explore the planetarium
-                            </p>
-
-                            <a href="planetarium.html" class="btn btn-primary btn-sm">
-                                Planetarium (VirtualSky)
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4 mb-4">
-                    <div class="card h-100 shadow">
-                        <img src="images/placeholder_cat.png" class="card-img-top" alt="Spiral galaxy">
-
-                        <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-
-                            <p class="card-text">
-                                Text
-                            </p>
-
-                            <a href="#" class="btn btn-primary btn-sm">
-                                Button
+                        <div class="apod-meta">
+                            <span id="apod-date"></span>
+                            <a id="apod-link" class="apod-link" href="#" target="_blank" rel="noopener">
+                                Open
                             </a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
 
-    <div id="footer"></div>
+<div id="footer"></div>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" defer></script>
 
-    <script src="./js/api.js"></script>
-    <script src="./js/user.js"></script>
+<script src="./js/api.js" defer></script>
+<script src="./js/user.js" defer></script>
+<script src="./js/helper.js" defer></script>
 
-    <script src="./js/helper.js"></script>
-    <script src="./js/google_calendar.js"></script>
-    <script src="./js/calendar_event_modal.js"></script>
-    <script src="./js/calendar.js"></script>
+<script src="./js/moon_card.js" defer></script>
+<script src="./js/apod_card.js" defer></script>
 
-    <script src="./js/moon_card.js"></script>
-    <script src="./js/main.js"></script>
+<script src="./js/main.js" defer></script>
 </body>
 </html>

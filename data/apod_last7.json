@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "date": "2026-02-05",
+      "title": "The Orion Nebula in Infrared",
+      "explanation": "This infrared image reveals stars forming deep inside the Orion Nebula.",
+      "image": "images/apod/1.jpg",
+      "apod_url": "https://apod.nasa.gov/apod/ap260205.html"
+    },
+    {
+      "id": 2,
+      "date": "2026-02-06",
+      "title": "Spiral Galaxy NGC 4414",
+      "explanation": "A nearly perfect spiral galaxy seen face-on from Earth.",
+      "image": "images/apod/2.jpg",
+      "apod_url": "https://apod.nasa.gov/apod/ap260206.html"
+    },
+    {
+      "id": 3,
+      "date": "2026-02-07",
+      "title": "Aurora Over Northern Lights",
+      "explanation": "Colorful auroras ripple across polar skies after a solar storm.",
+      "image": "images/apod/3.jpg",
+      "apod_url": "https://apod.nasa.gov/apod/ap260207.html"
+    },
+    {
+      "id": 4,
+      "date": "2026-02-08",
+      "title": "The Pillars of Creation",
+      "explanation": "Towering columns of gas inside the Eagle Nebula.",
+      "image": "images/apod/4.jpg",
+      "apod_url": "https://apod.nasa.gov/apod/ap260208.html"
+    },
+    {
+      "id": 5,
+      "date": "2026-02-09",
+      "title": "Jupiter and Its Moons",
+      "explanation": "A detailed view of Jupiter and four Galilean moons.",
+      "image": "images/apod/5.jpg",
+      "apod_url": "https://apod.nasa.gov/apod/ap260209.html"
+    },
+    {
+      "id": 6,
+      "date": "2026-02-10",
+      "title": "Milky Way Over Desert Dunes",
+      "explanation": "The Milky Way arches over sand dunes in a remote desert.",
+      "image": "images/apod/6.jpg",
+      "apod_url": "https://apod.nasa.gov/apod/ap260210.html"
+    },
+    {
+      "id": 7,
+      "date": "2026-02-11",
+      "title": "Sunspots and Solar Flares",
+      "explanation": "Active regions on the Sun produce dramatic solar flares.",
+      "image": "images/apod/7.jpg",
+      "apod_url": "https://apod.nasa.gov/apod/ap260211.html"
+    }
+  ]
+}

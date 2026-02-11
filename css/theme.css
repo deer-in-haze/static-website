@@ -138,3 +138,19 @@
     border: 0;
     display:block;
 }
+
+.apod-controls {
+    display: flex;
+    align-items: flex-end;
+}
+
+.apod-btn {
+    background: var(--glass-colour);
+    color: var(--text-main);
+    border: var(--glass-border);
+    border-radius: 5px;
+}
+
+.apod-link {
+    color: var(--text-main);
+}
