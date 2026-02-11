@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1920" height="1080"
+     viewBox="0 0 1920 1080"
+     preserveAspectRatio="xMidYMid slice"
+     role="img" aria-labelledby="title desc">
+
+    <title id="title">Cygnus Starfield (No Lines)</title>
+    <desc id="desc">
+        Dark blue night sky starfield with Cygnus (Northern Cross) highlighted by brighter stars.
+    </desc>
+
+    <defs>
+        <!-- Deep night gradient -->
+        <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="#050a16"/>
+            <stop offset="0.55" stop-color="#061a3a"/>
+            <stop offset="1" stop-color="#040812"/>
+        </linearGradient>
+
+        <!-- Small star -->
+        <radialGradient id="starSmall" cx="50%" cy="50%" r="50%">
+            <stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+            <stop offset="35%" stop-color="#d6e7ff" stop-opacity="0.55"/>
+            <stop offset="75%" stop-color="#8ab8ff" stop-opacity="0.18"/>
+            <stop offset="100%" stop-color="#8ab8ff" stop-opacity="0"/>
+        </radialGradient>
+
+        <!-- Bright constellation star -->
+        <radialGradient id="starBright" cx="50%" cy="50%" r="50%">
+            <stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+            <stop offset="22%" stop-color="#eef6ff" stop-opacity="0.85"/>
+            <stop offset="55%" stop-color="#b9d7ff" stop-opacity="0.35"/>
+            <stop offset="100%" stop-color="#8ab8ff" stop-opacity="0"/>
+        </radialGradient>
+
+        <!-- Subtle glow -->
+        <filter id="glow" x="-250%" y="-250%" width="500%" height="500%">
+            <feGaussianBlur stdDeviation="0.55" result="b"/>
+            <feMerge>
+                <feMergeNode in="b"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+
+        <!-- Stronger glow for Cygnus stars -->
+        <filter id="glowStrong" x="-300%" y="-300%" width="600%" height="600%">
+            <feGaussianBlur stdDeviation="1.25" result="b2"/>
+            <feMerge>
+                <feMergeNode in="b2"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+
+        <!-- Vignette -->
+        <radialGradient id="vignette" cx="50%" cy="45%" r="80%">
+            <stop offset="60%" stop-color="#000" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#000" stop-opacity="0.55"/>
+        </radialGradient>
+    </defs>
+
+    <!-- Background -->
+    <rect width="1920" height="1080" fill="url(#bg)"/>
+
+    <!-- Starfield -->
+    <g filter="url(#glow)" opacity="0.95">
+        <!-- sprinkle of stars (you can add more circles if you want denser sky) -->
+        <circle cx="120" cy="110" r="2.2" fill="url(#starSmall)"/>
+        <circle cx="260" cy="160" r="1.7" fill="url(#starSmall)"/>
+        <circle cx="380" cy="90" r="2.0" fill="url(#starSmall)"/>
+        <circle cx="520" cy="140" r="1.6" fill="url(#starSmall)"/>
+        <circle cx="690" cy="110" r="2.1" fill="url(#starSmall)"/>
+        <circle cx="860" cy="150" r="1.8" fill="url(#starSmall)"/>
+        <circle cx="1020" cy="120" r="2.0" fill="url(#starSmall)"/>
+        <circle cx="1180" cy="170" r="1.6" fill="url(#starSmall)"/>
+        <circle cx="1360" cy="110" r="2.2" fill="url(#starSmall)"/>
+        <circle cx="1550" cy="160" r="1.7" fill="url(#starSmall)"/>
+        <circle cx="1750" cy="120" r="2.0" fill="url(#starSmall)"/>
+
+        <circle cx="180" cy="320" r="1.7" fill="url(#starSmall)"/>
+        <circle cx="340" cy="260" r="2.0" fill="url(#starSmall)"/>
+        <circle cx="520" cy="320" r="1.6" fill="url(#starSmall)"/>
+        <circle cx="710" cy="260" r="1.8" fill="url(#starSmall)"/>
+        <circle cx="900" cy="310" r="1.7" fill="url(#starSmall)"/>
+        <circle cx="1100" cy="280" r="1.6" fill="url(#starSmall)"/>
+        <circle cx="1280" cy="330" r="2.0" fill="url(#starSmall)"/>
+        <circle cx="1500" cy="270" r="1.7" fill="url(#starSmall)"/>
+        <circle cx="1690" cy="330" r="1.9" fill="url(#starSmall)"/>
+
+        <circle cx="140" cy="520" r="1.9" fill="url(#starSmall)"/>
+        <circle cx="320" cy="470" r="1.6" fill="url(#starSmall)"/>
+        <circle cx="520" cy="540" r="2.0" fill="url(#starSmall)"/>
+        <circle cx="760" cy="480" r="1.7" fill="url(#starSmall)"/>
+        <circle cx="980" cy="540" r="1.8" fill="url(#starSmall)"/>
+        <circle cx="1220" cy="500" r="2.1" fill="url(#starSmall)"/>
+        <circle cx="1440" cy="540" r="1.6" fill="url(#starSmall)"/>
+        <circle cx="1660" cy="490" r="1.9" fill="url(#starSmall)"/>
+        <circle cx="1840" cy="540" r="1.7" fill="url(#starSmall)"/>
+
+        <circle cx="220" cy="760" r="1.8" fill="url(#starSmall)"/>
+        <circle cx="420" cy="720" r="1.6" fill="url(#starSmall)"/>
+        <circle cx="640" cy="780" r="2.0" fill="url(#starSmall)"/>
+        <circle cx="860" cy="710" r="1.7" fill="url(#starSmall)"/>
+        <circle cx="1080" cy="780" r="1.8" fill="url(#starSmall)"/>
+        <circle cx="1300" cy="730" r="2.1" fill="url(#starSmall)"/>
+        <circle cx="1540" cy="790" r="1.6" fill="url(#starSmall)"/>
+        <circle cx="1760" cy="720" r="1.9" fill="url(#starSmall)"/>
+    </g>
+
+    <!-- Cygnus (Northern Cross) - brighter stars ONLY, no lines -->
+    <g id="cygnus" filter="url(#glowStrong)" opacity="0.98">
+        <!-- Deneb (tail/top) -->
+        <circle cx="980" cy="170" r="10.5" fill="url(#starBright)"/>
+
+        <!-- Sadr (center) -->
+        <circle cx="950" cy="420" r="9.0" fill="url(#starBright)"/>
+
+        <!-- Albireo (head/bottom) -->
+        <circle cx="920" cy="720" r="10.0" fill="url(#starBright)"/>
+
+        <!-- Wings: Gienah + Delta Cyg (approx crossbar) -->
+        <circle cx="820" cy="470" r="7.2" fill="url(#starBright)"/>
+        <circle cx="1105" cy="455" r="7.0" fill="url(#starBright)"/>
+
+        <!-- Supporting stars along the spine -->
+        <circle cx="965" cy="290" r="5.8" fill="url(#starBright)"/>
+        <circle cx="935" cy="570" r="6.2" fill="url(#starBright)"/>
+
+        <!-- Small extra near the wing region (adds “swan” feel) -->
+        <circle cx="1010" cy="520" r="5.0" fill="url(#starBright)"/>
+    </g>
+
+    <!-- Vignette -->
+    <rect width="1920" height="1080" fill="url(#vignette)"/>
+</svg>
