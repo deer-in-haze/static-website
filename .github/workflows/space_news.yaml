@@ -1,0 +1,30 @@
+name: Update space news
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch SNAPI and write data file
+        run: node scripts/update_space_news.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add data/space_news.json
+          git commit -m "chore: update space news" || exit 0
+          git push

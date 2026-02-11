@@ -154,3 +154,43 @@
 .apod-link {
     color: var(--text-main);
 }
+
+.hero-news {
+    margin-top: 1rem;
+    padding: 1rem;
+    border: var(--glass-border);
+    border-radius: var(--glass-border-radius);
+    background: var(--glass-colour);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    text-align: left;
+}
+
+.hero-news-title {
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+    color: var(--text-main);
+}
+
+.hero-news-item {
+    display: block;
+    padding: 0.6rem 0;
+    text-decoration: none;
+    color: var(--text-main);
+    border-top: 1px solid rgba(255,255,255,0.12);
+}
+
+.hero-news-item:first-child {
+    border-top: 0;
+}
+
+.hero-news-item-title {
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+.hero-news-item-meta {
+    margin-top: 0.2rem;
+    font-size: var(--font-size-s);
+    color: var(--text-sub);
+}
