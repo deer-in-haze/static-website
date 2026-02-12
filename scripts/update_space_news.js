@@ -1,10 +1,8 @@
-// scripts/update_space_news.js
 const fs = require("fs");
 const path = require("path");
 
 const OUT = path.join(process.cwd(), "data", "space_news.json");
 
-// SNAPI v4 docs: https://api.spaceflightnewsapi.net/v4/docs/  (articles endpoint)
 const SNAPI_URL = "https://api.spaceflightnewsapi.net/v4/articles/?limit=8";
 
 (async () => {
@@ -13,7 +11,6 @@ const SNAPI_URL = "https://api.spaceflightnewsapi.net/v4/articles/?limit=8";
 
     const json = await res.json();
 
-    // v4 returns { count, next, previous, results: [...] }
     const results = Array.isArray(json.results) ? json.results : [];
 
     const items = results.map((a) => ({

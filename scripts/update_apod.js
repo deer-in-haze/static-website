@@ -68,10 +68,8 @@ async function downloadToFile(url, filepath) {
         .filter(Boolean)
         .sort((a, b) => (a.date > b.date ? 1 : -1)); // oldest -> newest
 
-    // We'll write 1..7 oldest->newest (1 = oldest, 7 = newest)
     const manifest = [];
 
-    // Clear old files 1..7.* so extension changes won't leave leftovers
     for (let i = 1; i <= DAYS; i++) {
         for (const ext of [".jpg", ".png", ".webp", ".gif"]) {
             const p = path.join(outImgDir, `${i}${ext}`);

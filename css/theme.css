@@ -9,6 +9,7 @@
     --text-main: #eaeaf0;
     --text-sub: #dddcd7;
 
+    --font-size-l: 1.25rem;
     --font-size-m: 1rem;
     --font-size-s: 0.875rem;
     --font-size-xs: 0.75rem;
@@ -48,6 +49,7 @@
     backdrop-filter: var(--glass-blur);
     -webkit-backdrop-filter: var(--glass-blur);
     color: var(--text-main);
+    height: var(--navbar-height);
 }
 
 #navbar a.navbar-brand {
@@ -194,3 +196,27 @@
     font-size: var(--font-size-s);
     color: var(--text-sub);
 }
+
+.navbar-logo{
+    height: 2.5rem;
+    width: auto;
+    display: block;
+    color: var(--text-main);
+}
+
+.hero-links {
+    padding-top: 1.5rem;
+}
+
+.hero-links a {
+    text-decoration: none;
+    color: var(--text-main);
+    font-size: var(--font-size-l);
+}
+
+.hero-links span {
+    color: var(--text-main);
+    font-size: var(--font-size-l);
+}
+
+
