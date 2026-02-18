@@ -1,69 +1,69 @@
 {
-  "updated": "2026-02-17T06:57:05.606Z",
+  "updated": "2026-02-18T06:59:41.649Z",
   "items": [
     {
-      "id": 36272,
-      "title": "NASA to attempt second full fueling test of its Space Launch System rocket",
-      "url": "https://spaceflightnow.com/2026/02/17/nasa-to-attempt-second-full-fueling-test-of-its-space-launch-system-rocket/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260216_WDR-2_annoucement-1_MC-1.jpeg",
-      "source": "Spaceflight Now",
+      "id": 36298,
+      "title": "A Second Cyclone Slams Madagascar",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-second-cyclone-slams-madagascar/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-second-cyclone-slams-madagascar/cyclonegezani_tmo_20260210.jpg",
+      "source": "NASA",
+      "published_at": "2026-02-18"
+    },
+    {
+      "id": 36297,
+      "title": "Curiosity Blog Sols 4804-4811: Kicking Off the Final Phase of Boxwork Exploration",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4804-4811-kicking-off-the-final-phase-of-boxwork-exploration/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/february/https___mars.nasa.gov_msl-raw-images_msss_04803_mhli_4803MH0007740011703773C00_DXXX.jpg",
+      "source": "NASA",
+      "published_at": "2026-02-18"
+    },
+    {
+      "id": 36295,
+      "title": "Starbase Pad 2 prepares to receive Booster 19 ahead of Block 3 milestones",
+      "url": "https://www.nasaspaceflight.com/2026/02/starbase-pad-2-booster-19/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/NSF-2026-02-17-23-16-56-823.jpg",
+      "source": "NASASpaceflight",
       "published_at": "2026-02-17"
     },
     {
-      "id": 36271,
-      "title": "NASA Will Conduct Second Artemis II WDR on Thursday",
-      "url": "https://spacepolicyonline.com/news/nasa-will-conduct-second-artemis-ii-wdr-on-thursday/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/02/Artemis-II-in-walkway-300x200.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-02-16"
-    },
-    {
-      "id": 36270,
-      "title": "Launch Preview: Firefly to launch Alpha, SpaceX to launch three Starlink missions",
-      "url": "https://www.nasaspaceflight.com/2026/02/launch-preview-021626/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/IMG_2706.jpeg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-02-16"
-    },
-    {
-      "id": 36268,
-      "title": "Launching the first Ariane 6 with four boosters",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/02/Launching_the_first_Ariane_6_with_four_boosters",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/02/launching_the_first_ariane_6_with_four_boosters/27113296-1-eng-GB/Launching_the_first_Ariane_6_with_four_boosters_card_full.png",
-      "source": "ESA",
-      "published_at": "2026-02-16"
-    },
-    {
-      "id": 36267,
-      "title": "NASA work on several programs pending responses to White House executive order",
-      "url": "https://spacenews.com/nasa-work-on-several-programs-pending-responses-to-white-house-executive-order/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/NHQ202602130037large.jpg?fit=1024%2C683&ssl=1",
+      "id": 36296,
+      "title": "Simera Sense to offer larger cameras and enhanced autonomy",
+      "url": "https://spacenews.com/simera-sense-to-offer-larger-cameras-and-enhanced-autonomy/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_press_release_media_kit_simera_2.jpg?fit=879%2C586&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-02-16"
+      "published_at": "2026-02-17"
     },
     {
-      "id": 36269,
-      "title": "RFA Begins Final Preparations for Inaugural RFA ONE Launch",
-      "url": "https://europeanspaceflight.com/rfa-begins-final-preparations-for-inaugural-rfa-one-launch/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/02/RFA-Advances-Preparations-for-Inaugural-RFA-ONE-Launch.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-02-16"
-    },
-    {
-      "id": 36265,
-      "title": "The space nuclear power bottleneck — and how to fix it",
-      "url": "https://spacenews.com/the-space-nuclear-power-bottleneck-and-how-to-fix-it/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Fission-Surface-Power_mid_01.jpg?fit=1024%2C576&ssl=1",
+      "id": 36292,
+      "title": "China’s Space Epoch raises new funding, targets 2026 launch and recovery attempt",
+      "url": "https://spacenews.com/chinas-space-epoch-raises-new-funding-targets-2026-launch-and-recovery-attempt/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/Sepoch-Hiker1-test-article-VTsplashdown-test-May2025.jpg?fit=1024%2C575&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-02-16"
+      "published_at": "2026-02-17"
     },
     {
-      "id": 36264,
-      "title": "Low-profile Chinese launch firm conducts first stage static fire",
-      "url": "https://spacenews.com/low-profile-chinese-launch-firm-conducts-first-stage-static-fire/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/ZH-1-first-stage-hot-fire-HOS-1-Shandong-feb2026-ZenkSpace.jpg?fit=1024%2C573&ssl=1",
+      "id": 36291,
+      "title": "Stormy, Snowy Winter for Hokkaido",
+      "url": "https://www.nasa.gov/image-article/stormy-snowy-winter-for-hokkaido/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/japansnow-tmo-20260205-lrg.jpg",
+      "source": "NASA",
+      "published_at": "2026-02-17"
+    },
+    {
+      "id": 36290,
+      "title": "NASA Advances High-Altitude Traffic Management",
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-advances-high-altitude-traffic-management/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/acd25-0110-018.jpg",
+      "source": "NASA",
+      "published_at": "2026-02-17"
+    },
+    {
+      "id": 36289,
+      "title": "SatVu to expand thermal imaging constellation with NATO-backed funds",
+      "url": "https://spacenews.com/satvu-to-expand-thermal-imaging-constellation-with-nato-backed-funds/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Bander-Abbas-Port-Strait-of-Homuz-Iran-captions--scaled.jpg?fit=1024%2C576&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-02-16"
+      "published_at": "2026-02-17"
     }
   ]
 }
