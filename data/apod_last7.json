@@ -1,74 +1,74 @@
 {
-  "updated": "2026-02-18",
+  "updated": "2026-02-19",
   "items": [
     {
       "slot": 1,
-      "date": "2026-02-12",
-      "title": "The Bay of Rainbows",
-      "explanation": "Dark, smooth regions that cover the Moon's familiar face are called by Latin names for oceans and seas. That naming convention is historical, though it may seem a little ironic to denizens of the space age who recognize the Moon as a mostly dry and airless world, and the smooth, dark areas as lava-flooded impact basins. For example, this telescopic lunar vista, looks over the expanse of the northwestern Mare Imbrium, or Sea of Rains and into the Sinus Iridum, the Bay of Rainbows. Ringed by the Jura Mountains (montes), the bay is about 250 kilometers across. Seen after local sunrise, the mountains form part of the Sinus Iridum impact crater wall. Their rugged sunlit arc is bounded at the top by Cape (promontorium) Laplace reaching nearly 3,000 meters above the bay's surface. At the bottom of the arc is Cape Heraclides, depicted by Giovanni Cassini in his 1679 telescope-based drawings mapping the moon, as a moon maiden seen in profile with long, flowing hair.",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger1080.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger.jpg",
-      "image_path": "images/apod/1.jpg"
-    },
-    {
-      "slot": 2,
       "date": "2026-02-13",
       "title": "NGC 147 and NGC 185",
       "explanation": "Dwarf galaxies NGC 147 (left) and NGC 185 stand side by side in this deep telescopic portrait. The two are not-often-imaged satellite galaxies of M31, the great spiral Andromeda Galaxy, some 2.5 million light-years away. Their separation on the sky, less than one degree across a pretty field of view toward the constellation Cassiopeia, translates to only about 35 thousand light-years at Andromeda's distance, but Andromeda itself is found well outside this frame. Brighter and more famous satellite galaxies of Andromeda, M32 and M110, are seen much closer to the great spiral. NGC 147 and NGC 185 have been identified as binary galaxies, forming a gravitationally stable binary system. But recently discovered faint dwarf galaxy Cassiopeia II also seems to be part of their system, forming a gravitationally bound group within Andromeda's intriguing population of small satellite galaxies.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2602/N147N1851024.png",
       "hdurl": "https://apod.nasa.gov/apod/image/2602/N147N185.png",
-      "image_path": "images/apod/2.png"
+      "image_path": "images/apod/1.png"
     },
     {
-      "slot": 3,
+      "slot": 2,
       "date": "2026-02-14",
       "title": "Roses are Red",
       "explanation": "Roses are red, nebulas are too, and this Valentine's gift is a stunning view! Pictured is a loving look at the Rosette Nebula (NGC 2237): a cosmic bloom of bright young stars sitting atop a stem of glowing hot gas. The rose’s blue-white speckles are among the most luminous stars in the galaxy, with some burning millions of times brighter than the Sun. Their stellar winds sculpt the famed rose shape by pushing gas and dust away from the center. Though only a few million years old, these massive stars are already nearing the end of their lives, while dimmer stars embedded in the nebula will burn for billions of years to come. The vibrant red hue comes from hydrogen gas, ionized by the ultraviolet light from the young stars. The rose’s blue-white center is color-mapped to indicate the presence of similarly ionized oxygen. The Rosette Nebula reminds us of the beauty and transformation woven into the fabric of the universe.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2602/RosetteCalcagno1082.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2602/RosetteCalcagno.jpg",
-      "image_path": "images/apod/3.jpg"
+      "image_path": "images/apod/2.jpg"
     },
     {
-      "slot": 4,
+      "slot": 3,
       "date": "2026-02-15",
       "title": "To Fly Free in Space",
       "explanation": "What would it be like to fly free in space?  About 100 meters from the cargo bay of a space shuttle, Bruce McCandless II was living the dream -- floating farther out than anyone had ever been before.  Guided by a Manned Maneuvering Unit (MMU), astronaut McCandless, pictured, was floating free in space. During Space Shuttle mission 41-B in 1984,  McCandless and fellow NASA astronaut Robert Stewart were the first to experience such an \"untethered space walk\". The MMU worked by shooting jets of nitrogen and was used to help deploy and retrieve satellites.  With a mass over 140 kilograms, an MMU is heavy on Earth, but, like everything, is weightless when drifting in orbit. The MMU was later replaced with the SAFER backpack propulsion unit.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_900.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_3000.jpg",
-      "image_path": "images/apod/4.jpg"
+      "image_path": "images/apod/3.jpg"
     },
     {
-      "slot": 5,
+      "slot": 4,
       "date": "2026-02-16",
       "title": "Unexplained Shocks Around a White Dwarf Star",
       "explanation": "How is RXJ0528+2838 creating such shock waves?  A recently discovered white dwarf star, the farther left of the two largest white spots, RXJ0528+2838, was found 730 light-years away from Earth.  Most stars, when done fusing nuclei in their cores for energy, become red giant stars, the cores of which live on as faint dense white dwarfs that slowly cool down for the rest of time.  White dwarfs are so dense that the only thing that stops them from collapsing further is quantum mechanics. In about 5 billion years, our Sun will become a white dwarf, too.  The featured image, obtained with the European Southern Observatory’s Very Large Telescope, shows unexplained bow shocks around RXJ0528+2838, similar to the bow wave of water around a fast-moving ship. Astronomers don’t yet know what is powering these shocks, which have existed for at least 1,000 years.  The red, green and blue colors represent trace amounts of glowing hydrogen, nitrogen and oxygen gas.    Open Science: Browse 3,900+ codes in the Astrophysics Source Code Library",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg",
-      "image_path": "images/apod/5.jpg"
+      "image_path": "images/apod/4.jpg"
     },
     {
-      "slot": 6,
+      "slot": 5,
       "date": "2026-02-17",
       "title": "Tails of Comet Wierzchoś",
       "explanation": "Some comets are regular guests of our solar neighborhood; others come by only once, never to return.  We won’t have another chance to see Comet C/2024 E1 (Wierzchoś), which is currently making its way through the inner Solar System.  The hyperbolic orbit of this comet indicates that it will likely become an interstellar traveler.  Comet Wierzchoś is today near its closest approach to the Earth, passing roughly the same distance from the Earth as is the Sun.  The featured 30-minute exposure was taken last week in Chile and shows a 5-degree long ion tail as well as three shorter dust tails.  The green hue of the coma comes from the breakdown of dicarbon molecules by sunlight, but that process does not last long enough to also tinge the tails.  On the far right lies a spiral galaxy far in the distance: NGC 300.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1080.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1280.jpg",
-      "image_path": "images/apod/6.jpg"
+      "image_path": "images/apod/5.jpg"
     },
     {
-      "slot": 7,
+      "slot": 6,
       "date": "2026-02-18",
       "title": "Orion's Cradle",
       "explanation": "Cradled in red-glowing hydrogen gas, stars are being born in Orion.  These stellar nurseries lie at the edge of the giant Orion molecular cloud complex, some 1,500 light-years away.  This detailed view spans about 12 degrees across the center of the well-known constellation, with the Great Orion Nebula, the closest large star-forming region, visible toward the lower right.  The deep mosaic also includes, near the top center, the Flame Nebula and the Horsehead Nebula.  Image data acquired with a hydrogen-alpha filter adds other remarkable features to this wide-angle cosmic vista: pervasive tendrils of energized atomic hydrogen gas and portions of the surrounding Barnard's Loop. While the Orion Nebula and many stars in Orion are easy to see with the unaided eye, emission from the extensive interstellar gas is faint and much harder to record, even in telescopic views of the nebula-rich complex.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_3000.jpg",
+      "image_path": "images/apod/6.jpg"
+    },
+    {
+      "slot": 7,
+      "date": "2026-02-19",
+      "title": "IC 2574: Coddington's Nebula",
+      "explanation": "Grand spiral galaxies often seem to get all the glory, flaunting their young, bright, blue star clusters in beautiful, symmetric spiral arms. But small, irregular galaxies form stars too. In fact, dwarf galaxy IC 2574 shows clear evidence of intense star forming activity in its telltale reddish regions of glowing hydrogen gas. Just as in spiral galaxies, the turbulent star-forming regions in IC 2574 are churned by stellar winds and supernova explosions spewing material into the galaxy's interstellar medium and triggering further star formation. A mere 12 million light-years distant, IC 2574 is part of the M81 group of galaxies, seen toward the northern constellation Ursa Major. Also known as Coddington's Nebula, the faint but intriguing island universe is about 50,000 light-years across, discovered by American astronomer Edwin Coddington in 1898.",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2602/IC2574Vetter1050.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2602/IC2574Vetter.jpg",
       "image_path": "images/apod/7.jpg"
     }
   ]
