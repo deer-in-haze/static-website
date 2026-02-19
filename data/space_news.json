@@ -1,69 +1,69 @@
 {
-  "updated": "2026-02-18T06:59:41.649Z",
+  "updated": "2026-02-19T06:58:33.670Z",
   "items": [
     {
-      "id": 36298,
-      "title": "A Second Cyclone Slams Madagascar",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-second-cyclone-slams-madagascar/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-second-cyclone-slams-madagascar/cyclonegezani_tmo_20260210.jpg",
+      "id": 36337,
+      "title": "Northern Glow Spans Iceland and Canada",
+      "url": "https://science.nasa.gov/earth/earth-observatory/northern-glow-spans-iceland-and-canada/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/northern-glow-spans-iceland-and-canada/icelandaurora_vir_20260216.jpg",
+      "source": "NASA",
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": 36336,
+      "title": "Pentagon seeks commercially built GEO spy satellites",
+      "url": "https://spacenews.com/pentagon-seeks-commercially-built-geo-spy-satellites/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/161021-D-ZZ999-998-e1771452020431.jpg?fit=1024%2C550&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-02-18"
+    },
+    {
+      "id": 36335,
+      "title": "Digital Surface and Terrain Models from Vantor’s Precision3D Product Line Added to Satellite Data Explorer",
+      "url": "https://science.nasa.gov/uncategorized/digital-surface-and-terrain-models-from-vantors-precision3d-product-line-added-to-satellite-data-explorer/",
+      "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/peoria-vantor-dsm.jpg",
       "source": "NASA",
       "published_at": "2026-02-18"
     },
     {
-      "id": 36297,
-      "title": "Curiosity Blog Sols 4804-4811: Kicking Off the Final Phase of Boxwork Exploration",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4804-4811-kicking-off-the-final-phase-of-boxwork-exploration/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/february/https___mars.nasa.gov_msl-raw-images_msss_04803_mhli_4803MH0007740011703773C00_DXXX.jpg",
+      "id": 36332,
+      "title": "Vantor Archive Imagery Added to Satellite Data Explorer",
+      "url": "https://science.nasa.gov/uncategorized/vantor-archive-imagery-added-to-satellite-data-explorer/",
+      "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/vator-multispectral-dc.jpg",
       "source": "NASA",
       "published_at": "2026-02-18"
     },
     {
-      "id": 36295,
-      "title": "Starbase Pad 2 prepares to receive Booster 19 ahead of Block 3 milestones",
-      "url": "https://www.nasaspaceflight.com/2026/02/starbase-pad-2-booster-19/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/NSF-2026-02-17-23-16-56-823.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-02-17"
-    },
-    {
-      "id": 36296,
-      "title": "Simera Sense to offer larger cameras and enhanced autonomy",
-      "url": "https://spacenews.com/simera-sense-to-offer-larger-cameras-and-enhanced-autonomy/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_press_release_media_kit_simera_2.jpg?fit=879%2C586&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-02-17"
-    },
-    {
-      "id": 36292,
-      "title": "China’s Space Epoch raises new funding, targets 2026 launch and recovery attempt",
-      "url": "https://spacenews.com/chinas-space-epoch-raises-new-funding-targets-2026-launch-and-recovery-attempt/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/Sepoch-Hiker1-test-article-VTsplashdown-test-May2025.jpg?fit=1024%2C575&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-02-17"
-    },
-    {
-      "id": 36291,
-      "title": "Stormy, Snowy Winter for Hokkaido",
-      "url": "https://www.nasa.gov/image-article/stormy-snowy-winter-for-hokkaido/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/japansnow-tmo-20260205-lrg.jpg",
+      "id": 36333,
+      "title": "CSDA Releases New Data Acquisition Request System",
+      "url": "https://science.nasa.gov/uncategorized/csda-releases-new-data-acquisition-request-system/",
+      "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/sdx-dashboard.jpg",
       "source": "NASA",
-      "published_at": "2026-02-17"
+      "published_at": "2026-02-18"
     },
     {
-      "id": 36290,
-      "title": "NASA Advances High-Altitude Traffic Management",
-      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-advances-high-altitude-traffic-management/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/acd25-0110-018.jpg",
+      "id": 36334,
+      "title": "CSDA Program Announces Eight New Data Agreements",
+      "url": "https://science.nasa.gov/uncategorized/csda-program-announces-eight-new-data-agreements/",
+      "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/pittsburg-capella-space.png",
       "source": "NASA",
-      "published_at": "2026-02-17"
+      "published_at": "2026-02-18"
     },
     {
-      "id": 36289,
-      "title": "SatVu to expand thermal imaging constellation with NATO-backed funds",
-      "url": "https://spacenews.com/satvu-to-expand-thermal-imaging-constellation-with-nato-backed-funds/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Bander-Abbas-Port-Strait-of-Homuz-Iran-captions--scaled.jpg?fit=1024%2C576&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-02-17"
+      "id": 36325,
+      "title": "Notes from the Field",
+      "url": "https://science.nasa.gov/missions/explorer/notes-from-the-field/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/tucker1.jpg",
+      "source": "NASA",
+      "published_at": "2026-02-18"
+    },
+    {
+      "id": 36326,
+      "title": "42 Years of Measuring the Sun, the Earth and the Energy in Between",
+      "url": "https://science.nasa.gov/missions/explorer/42-years-of-measuring-the-sun-the-earth-and-the-energy-in-between/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/galleries/images/erbe.jpg",
+      "source": "NASA",
+      "published_at": "2026-02-18"
     }
   ]
 }
