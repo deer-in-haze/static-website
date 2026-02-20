@@ -1,69 +1,69 @@
 {
-  "updated": "2026-02-19T06:58:33.670Z",
+  "updated": "2026-02-20T06:54:38.549Z",
   "items": [
     {
-      "id": 36337,
-      "title": "Northern Glow Spans Iceland and Canada",
-      "url": "https://science.nasa.gov/earth/earth-observatory/northern-glow-spans-iceland-and-canada/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/northern-glow-spans-iceland-and-canada/icelandaurora_vir_20260216.jpg",
+      "id": 36377,
+      "title": "Winds Whip Up Fires and Dust on the Southern Plains",
+      "url": "https://science.nasa.gov/earth/earth-observatory/winds-whip-up-fires-and-dust-on-the-southern-plains/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/winds-whip-up-fires-and-dust-on-the-southern-plains/oklakansasfires_amo_20260217.jpg",
       "source": "NASA",
+      "published_at": "2026-02-20"
+    },
+    {
+      "id": 36376,
+      "title": "Moon mission fueling test concludes with no major problems",
+      "url": "https://spaceflightnow.com/2026/02/20/moon-mission-fueling-test-concludes-with-no-major-problems/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260219_Artemis-II_WDR-2_clock.jpeg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-02-20"
+    },
+    {
+      "id": 36375,
+      "title": "Artemis II Could Launch As Soon as March Following Successful WDR",
+      "url": "https://spacepolicyonline.com/news/artemis-ii-could-launch-as-soon-as-march-following-successful-wdr/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/Artemis-II-smiling-Apr-2023-NASA-261x300.png",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-02-20"
+    },
+    {
+      "id": 36374,
+      "title": "Independent report sharply criticizes NASA management, Boeing for troubled Starliner flight",
+      "url": "https://spaceflightnow.com/2026/02/19/independent-report-sharply-criticizes-nasa-management-boeing-for-troubled-starliner-flight/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260219_starliner_nile_horizontal.jpeg",
+      "source": "Spaceflight Now",
       "published_at": "2026-02-19"
     },
     {
-      "id": 36336,
-      "title": "Pentagon seeks commercially built GEO spy satellites",
-      "url": "https://spacenews.com/pentagon-seeks-commercially-built-geo-spy-satellites/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/161021-D-ZZ999-998-e1771452020431.jpg?fit=1024%2C550&ssl=1",
+      "id": 36372,
+      "title": "NASA Classifies Starliner CFT as Type-A Mishap, Leadership Changes Coming",
+      "url": "https://spacepolicyonline.com/news/nasa-classifies-starliner-cft-as-type-a-mishap-leadership-changes-coming/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/02/isaacman-Amit-Feb-19-26-Starliner-300x169.png",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": 36373,
+      "title": "Live coverage: SpaceX to launch second Falcon 9 rocket to return to a landing in The Bahamas",
+      "url": "https://spaceflightnow.com/2026/02/19/live-coverage-spacex-to-launch-second-falcon-9-rocket-with-booster-landing-adjacent-to-the-bahamas/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260219_F9_Bahamas_landing.jpeg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": 36371,
+      "title": "NASA chief classifies Starliner flight as \"Type A\" mishap, says agency made mistakes",
+      "url": "https://arstechnica.com/space/2026/02/nasa-chief-classifies-starliner-flight-as-type-a-mishap-says-agency-made-mistakes/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2156180680.jpg",
+      "source": "Arstechnica",
+      "published_at": "2026-02-19"
+    },
+    {
+      "id": 36370,
+      "title": "Starliner investigation identifies flawed NASA decision making",
+      "url": "https://spacenews.com/starliner-investigation-identifies-flawed-nasa-decision-making/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/06/starliner-cft-20240613.jpg?fit=1024%2C897&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-02-18"
-    },
-    {
-      "id": 36335,
-      "title": "Digital Surface and Terrain Models from Vantor’s Precision3D Product Line Added to Satellite Data Explorer",
-      "url": "https://science.nasa.gov/uncategorized/digital-surface-and-terrain-models-from-vantors-precision3d-product-line-added-to-satellite-data-explorer/",
-      "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/peoria-vantor-dsm.jpg",
-      "source": "NASA",
-      "published_at": "2026-02-18"
-    },
-    {
-      "id": 36332,
-      "title": "Vantor Archive Imagery Added to Satellite Data Explorer",
-      "url": "https://science.nasa.gov/uncategorized/vantor-archive-imagery-added-to-satellite-data-explorer/",
-      "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/vator-multispectral-dc.jpg",
-      "source": "NASA",
-      "published_at": "2026-02-18"
-    },
-    {
-      "id": 36333,
-      "title": "CSDA Releases New Data Acquisition Request System",
-      "url": "https://science.nasa.gov/uncategorized/csda-releases-new-data-acquisition-request-system/",
-      "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/sdx-dashboard.jpg",
-      "source": "NASA",
-      "published_at": "2026-02-18"
-    },
-    {
-      "id": 36334,
-      "title": "CSDA Program Announces Eight New Data Agreements",
-      "url": "https://science.nasa.gov/uncategorized/csda-program-announces-eight-new-data-agreements/",
-      "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/pittsburg-capella-space.png",
-      "source": "NASA",
-      "published_at": "2026-02-18"
-    },
-    {
-      "id": 36325,
-      "title": "Notes from the Field",
-      "url": "https://science.nasa.gov/missions/explorer/notes-from-the-field/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/tucker1.jpg",
-      "source": "NASA",
-      "published_at": "2026-02-18"
-    },
-    {
-      "id": 36326,
-      "title": "42 Years of Measuring the Sun, the Earth and the Energy in Between",
-      "url": "https://science.nasa.gov/missions/explorer/42-years-of-measuring-the-sun-the-earth-and-the-energy-in-between/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/galleries/images/erbe.jpg",
-      "source": "NASA",
-      "published_at": "2026-02-18"
+      "published_at": "2026-02-19"
     }
   ]
 }
