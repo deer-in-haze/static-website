@@ -1,69 +1,69 @@
 {
-  "updated": "2026-02-20T06:54:38.549Z",
+  "updated": "2026-02-21T06:39:07.338Z",
   "items": [
     {
-      "id": 36377,
-      "title": "Winds Whip Up Fires and Dust on the Southern Plains",
-      "url": "https://science.nasa.gov/earth/earth-observatory/winds-whip-up-fires-and-dust-on-the-southern-plains/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/winds-whip-up-fires-and-dust-on-the-southern-plains/oklakansasfires_amo_20260217.jpg",
+      "id": 36393,
+      "title": "Bruno says he joined Blue Origin to work on ‘urgent’ national security projects",
+      "url": "https://spacenews.com/bruno-says-he-joined-blue-origin-to-work-on-urgent-national-security-projects/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/bruno-blue.jpeg?fit=1024%2C731&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-02-21"
+    },
+    {
+      "id": 36392,
+      "title": "Live coverage: Falcon 9 to launch 25 Starlink satellites after weather delays",
+      "url": "https://spaceflightnow.com/2026/02/20/live-coverage-falcon-9-to-launch-25-starlink-satellites-after-weather-delays/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260116_NROL-105_F9_pad.jpeg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-02-20"
+    },
+    {
+      "id": 36391,
+      "title": "Aalto plots Australia base to boost planned high-altitude pseudo satellite service",
+      "url": "https://spacenews.com/aalto-plots-australia-base-to-boost-planned-high-altitude-pseudo-satellite-service/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Zephyr_Take-off.jpg?fit=1024%2C576&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-02-20"
+    },
+    {
+      "id": 36390,
+      "title": "Boeing insists NASA criticism will reinforce efforts on Starliner",
+      "url": "https://www.nasaspaceflight.com/2026/02/boeing-nasa-criticism-reinforce-starliner/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/NSF-2026-02-20-20-50-40-184-wmarked.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-02-20"
+    },
+    {
+      "id": 36389,
+      "title": "NASA Is Helping Bring Giant Tortoises Back to the Galápagos",
+      "url": "https://science.nasa.gov/earth/nasa-is-helping-bring-giant-tortoises-back-to-the-galapagos/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/tort.jpg",
       "source": "NASA",
       "published_at": "2026-02-20"
     },
     {
-      "id": 36376,
-      "title": "Moon mission fueling test concludes with no major problems",
-      "url": "https://spaceflightnow.com/2026/02/20/moon-mission-fueling-test-concludes-with-no-major-problems/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260219_Artemis-II_WDR-2_clock.jpeg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-02-20"
-    },
-    {
-      "id": 36375,
-      "title": "Artemis II Could Launch As Soon as March Following Successful WDR",
-      "url": "https://spacepolicyonline.com/news/artemis-ii-could-launch-as-soon-as-march-following-successful-wdr/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/Artemis-II-smiling-Apr-2023-NASA-261x300.png",
+      "id": 36388,
+      "title": "NASA Confirms March 6 as Target Date for Astronaut Moon Mission",
+      "url": "https://spacepolicyonline.com/news/nasa-confirms-march-6-as-target-date-for-astronaut-moon-mission/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/02/Lori-Glaze-Feb-20-26-presser-300x155.jpg",
       "source": "SpacePolicyOnline.com",
       "published_at": "2026-02-20"
     },
     {
-      "id": 36374,
-      "title": "Independent report sharply criticizes NASA management, Boeing for troubled Starliner flight",
-      "url": "https://spaceflightnow.com/2026/02/19/independent-report-sharply-criticizes-nasa-management-boeing-for-troubled-starliner-flight/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260219_starliner_nile_horizontal.jpeg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-02-19"
-    },
-    {
-      "id": 36372,
-      "title": "NASA Classifies Starliner CFT as Type-A Mishap, Leadership Changes Coming",
-      "url": "https://spacepolicyonline.com/news/nasa-classifies-starliner-cft-as-type-a-mishap-leadership-changes-coming/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/02/isaacman-Amit-Feb-19-26-Starliner-300x169.png",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-02-19"
-    },
-    {
-      "id": 36373,
-      "title": "Live coverage: SpaceX to launch second Falcon 9 rocket to return to a landing in The Bahamas",
-      "url": "https://spaceflightnow.com/2026/02/19/live-coverage-spacex-to-launch-second-falcon-9-rocket-with-booster-landing-adjacent-to-the-bahamas/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260219_F9_Bahamas_landing.jpeg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-02-19"
-    },
-    {
-      "id": 36371,
-      "title": "NASA chief classifies Starliner flight as \"Type A\" mishap, says agency made mistakes",
-      "url": "https://arstechnica.com/space/2026/02/nasa-chief-classifies-starliner-flight-as-type-a-mishap-says-agency-made-mistakes/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2156180680.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-02-19"
-    },
-    {
-      "id": 36370,
-      "title": "Starliner investigation identifies flawed NASA decision making",
-      "url": "https://spacenews.com/starliner-investigation-identifies-flawed-nasa-decision-making/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/06/starliner-cft-20240613.jpg?fit=1024%2C897&ssl=1",
+      "id": 36386,
+      "title": "NASA targeting March 6 for Artemis 2 launch",
+      "url": "https://spacenews.com/nasa-targeting-march-6-for-artemis-2-launch/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/art2-260129.jpeg?fit=1024%2C683&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-02-19"
+      "published_at": "2026-02-20"
+    },
+    {
+      "id": 36387,
+      "title": "The UK Amends Launch Liability Rules as RFA Prepares for Inaugural Flight",
+      "url": "https://europeanspaceflight.com/the-uk-amends-launch-liability-rules-as-rfa-prepares-for-inaugural-flight/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/02/The-UK-Amends-Launch-Liability-Rules-as-RFA-Prepares-for-Inaugural-Flight.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-02-20"
     }
   ]
 }
