@@ -1,6 +1,30 @@
 {
-  "updated": "2026-02-22T06:44:29.439Z",
+  "updated": "2026-02-23T07:02:22.346Z",
   "items": [
+    {
+      "id": 36402,
+      "title": "Juno data provides insight into thickness of Europa’s surface ice sheet",
+      "url": "https://www.nasaspaceflight.com/2026/02/juno-europa-ice-sheet/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2021/06/Europa.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-02-23"
+    },
+    {
+      "id": 36401,
+      "title": "What’s Happening in Space Policy February 22-28, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-22-28-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/01/Artemis-2-rolling-out-best-Jan-17-26-200x300.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-02-23"
+    },
+    {
+      "id": 36400,
+      "title": "German defense firm said to be weighing bid for Mynaric",
+      "url": "https://spacenews.com/german-defense-firm-said-to-be-weighing-bid-for-mynaric/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/08/FocqgZhaUAECh_z-scaled.jpeg?fit=1024%2C576&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-02-22"
+    },
     {
       "id": 36399,
       "title": "Live coverage: SpaceX’s most-flown Falcon booster to launch on record 33rd flight",
@@ -40,30 +64,6 @@
       "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/art2-20260202.jpeg?fit=1024%2C683&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-02-21"
-    },
-    {
-      "id": 36394,
-      "title": "Artemis II Likely Delayed Due to Upper Stage Problem",
-      "url": "https://spacepolicyonline.com/news/artemis-ii-likely-delayed-due-to-upper-stage-problem/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/02/trouble-300x100.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-02-21"
-    },
-    {
-      "id": 36393,
-      "title": "Bruno says he joined Blue Origin to work on ‘urgent’ national security projects",
-      "url": "https://spacenews.com/bruno-says-he-joined-blue-origin-to-work-on-urgent-national-security-projects/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/bruno-blue.jpeg?fit=1024%2C731&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-02-21"
-    },
-    {
-      "id": 36392,
-      "title": "Live coverage: Falcon 9 to launch 25 Starlink satellites after weather delays",
-      "url": "https://spaceflightnow.com/2026/02/20/live-coverage-falcon-9-to-launch-25-starlink-satellites-after-weather-delays/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260116_NROL-105_F9_pad.jpeg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-02-20"
     }
   ]
 }
