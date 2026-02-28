@@ -1,74 +1,74 @@
 {
-  "updated": "2026-02-27",
+  "updated": "2026-02-28",
   "items": [
     {
       "slot": 1,
-      "date": "2026-02-21",
-      "title": "Twilight with Moon and Planets",
-      "explanation": "Only two days after the February New Moon's annular eclipse of the Sun, a slender lunar crescent poses near the western horizon in this wintry twilight skyscape. Its nightside faintly illuminated by earthshine, the young Moon is joined by three bright planets in the mostly clear, early evening skies above the village of Kirazli, Turkiye. Inner planet Venus appears closest to the horizon. Near the beginning of its 2026 performance as planet Earth's evening star, brilliant Venus is seen through the warm sunset glare near picture center. Straight above Venus, innermost planet Mercury is easy to spot as it stands remarkably high above the horizon even as the twilight sky is growing dark. Outer planet Saturn, most distant of the naked-eye planets, is found just left of the Moon's sunlit crescent.",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2602/20260219a_c1024.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2602/20260219a.jpg",
-      "image_path": "images/apod/1.jpg"
-    },
-    {
-      "slot": 2,
       "date": "2026-02-22",
       "title": "Shadow of a Martian Robot",
       "explanation": "What if you saw your shadow on Mars and it wasn't human?  Then you might be the Opportunity rover exploring Mars.  Opportunity explored the Red Planet from 2004 to 2018, finding evidence of ancient water, and sending breathtaking images across the inner Solar System.  Pictured here in 2004, Opportunity looks opposite the Sun into Endurance Crater and sees its own shadow.  Two wheels are visible on the lower left and right, while the floor and walls of the unusual crater are visible in the background.  Caught in a dust storm in 2018, Opportunity stopped responding, and NASA stopped trying to contact it in 2019 and declared the ground-breaking mission, originally planned for only 92 days, complete.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_1024.jpg",
-      "image_path": "images/apod/2.jpg"
+      "image_path": "images/apod/1.jpg"
     },
     {
-      "slot": 3,
+      "slot": 2,
       "date": "2026-02-23",
       "title": "Pleiades: The Seven Sisters Star Cluster",
       "explanation": "Have you ever seen the Pleiades star cluster? Even if you have, you probably have never seen it as large and clear as this. Perhaps the most famous star cluster on the sky, the bright stars of the Pleiades can be seen with the unaided eye even from the depths of a light-polluted city.  With a long exposure from a dark location, though, the dust cloud surrounding the Pleiades star cluster becomes very evident. The featured 18-hour exposure, taken from Bory Tucholskie, Poland covers a sky area several times the size of the full moon.  Also known as the Seven Sisters and M45, the Pleiades lies about 400 light years away toward the constellation of the Bull (Taurus).  A common legend with a modern twist is that one of the brighter stars faded since the cluster was named, leaving only six of the sister stars visible to the unaided eye. The actual number of Pleiades stars visible, however, may be more or less than seven, depending on the darkness of the surrounding sky and the clarity of the observer's eyesight.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2602/Pleiades_Fiedosiuk_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2602/Pleiades_Fiedosiuk_2200.jpg",
-      "image_path": "images/apod/3.jpg"
+      "image_path": "images/apod/2.jpg"
     },
     {
-      "slot": 4,
+      "slot": 3,
       "date": "2026-02-24",
       "title": "Planet Parade over Sydney Opera House",
       "explanation": "Look up this week and see a whole bunch of planets.  Just after sunset, looking west (mostly), planets Mercury, Venus, Saturn, and Jupiter will all be visible to the unaided eye simultaneously.  If you have a telescope, planets Uranus and Neptune can also be seen.  In order up from the horizon, the lineup this week will be Venus (the brightest), Mercury, Saturn, Neptune, Uranus, and Jupiter (second brightest).  It doesn't matter where on Earth you live because this early evening planet parade will be visible through clear skies all around the globe.  The planets will appear to be nearly in a line because they all orbit the Sun in nearly the same plane: the ecliptic.  The featured image shows a similar planet parade that occurred in 2022, captured over the Sydney Opera House in southern Australia.  Although visible all week, the planets will be most easily seen together this weekend.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_960_ann.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_1663.jpg",
-      "image_path": "images/apod/4.jpg"
+      "image_path": "images/apod/3.jpg"
     },
     {
-      "slot": 5,
+      "slot": 4,
       "date": "2026-02-25",
       "title": "The Egg Nebula from the Hubble Telescope",
       "explanation": "ver wonder what it would look like to crack open the Sun?  The Egg Nebula, a dying Sun-like star, can unscramble this question.  Pictured is a combination of several visible and infrared images of the nebula (also known as RAFGL 2688 or CRL 2688) taken with the Hubble Space Telescope.  The star has shed its outer layers, and a bright, hot core (or \"yolk\") now illuminates the milky \"egg white\" shells of gas and dust surrounding the center.  The central lobes and rings are structures of gas and dust recently ejected into space, with the dust being dense enough to block our view of the stellar core.  Light beams emanate from that blocked core, escaping through holes carved in the older ejected material by newer, faster jets expelled from the star’s poles.  Astronomers are still trying to figure out what causes the disks, lobes, and jets during this short (only a few thousand years!) phase of the star’s evolution, making this an egg-cellent image to study!",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2602/Egg_Hubble_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2602/Egg_Hubble_2048.jpg",
-      "image_path": "images/apod/5.jpg"
+      "image_path": "images/apod/4.jpg"
     },
     {
-      "slot": 6,
+      "slot": 5,
       "date": "2026-02-26",
       "title": "Webb and Hubble: IC 5332",
       "explanation": "What does the universe look like through infrared goggles? Our eyes can only see visible light, but astronomers want to see more. Today’s APOD shows spiral galaxy IC 5332 as seen by two NASA telescopes: Webb in mid-infrared and Hubble in ultraviolet and visible light. To toggle between the two space-based views just slide your cursor over the image (or follow this link). The Hubble image highlights the spiral arms of the galaxy separated by dark regions, whereas the Webb image reveals a finer, more tangled structure. Interstellar dust scatters and absorbs light from the stars in the galaxy, causing the dark dust lanes in the Hubble image, and then emits heat in infrared light, so dust glows in this Webb image. The Mid-InfraRed Instrument on Webb needs to operate at a chilling temperature of -266ºC (or - 447ºF), otherwise it would detect infrared radiation from the telescope itself. Combining these observations, astronomers connect the “small scale” of gas and stars to the truly large scale of galactic structure and evolution.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2602/IC5332webb2209c_1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2602/potm2209c.jpg",
-      "image_path": "images/apod/6.jpg"
+      "image_path": "images/apod/5.jpg"
     },
     {
-      "slot": 7,
+      "slot": 6,
       "date": "2026-02-27",
       "title": "Sharpless 249 and the Jellyfish Nebula",
       "explanation": "Normally faint and elusive, the Jellyfish Nebula is caught in this alluring telescopic field of view. Floating in the interstellar sea, the nebula is anchored right and left by two bright stars, Mu and Eta Geminorum, at the foot of the celestial twins. The Jellyfish Nebula itself is right of center, seen as a brighter arcing ridge of emission with dangling tentacles. In fact, this cosmic jellyfish is part of bubble-shaped supernova remnant IC 443, the expanding debris cloud from a massive star that exploded. Light from the explosion first reached planet Earth over 30,000 years ago. Like its cousin in astrophysical waters the Crab Nebula supernova remnant, the Jellyfish Nebula is known to harbor a neutron star, the ultradense remnant of the collapsed stellar core. An emission nebula cataloged as Sharpless 249 fills the field at the upper left. The Jellyfish Nebula is about 5,000 light-years away. At that distance, this image would be about 300 light-years across.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2602/JellyfishBeecroft_final1_1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2602/JellyfishBeecroft_final1_2048.jpg",
+      "image_path": "images/apod/6.jpg"
+    },
+    {
+      "slot": 7,
+      "date": "2026-02-28",
+      "title": "Lunar Occultation of Mercury",
+      "explanation": "Fans of the western sky after sunset have lately enjoyed this month's remarkable array of bright planets. Witnessed from some locations, on February 18 planet Mercury even appeared to slide behind the Moon, an event known as a lunar occultation. These two snapshots, taken in early evening skies show before and after telescopic views of the rare disappearance of innermost planet behind young Moon. The top panel finds bright Mercury just visible at the northern (right) edge of the earthshine-illuminated lunar disk. In the bottom panel the bright planet has emerged in darker skies beyond the Moon's sunlit crescent. As seen south of Sallisaw, Oklahoma, planet Earth, this lunar occultation of Mercury lasted only about 3 minutes (video). But you can still check out a parade of planets tonight.  March 3: Total Lunar Eclipse",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri_1065.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri.jpg",
       "image_path": "images/apod/7.jpg"
     }
   ]
