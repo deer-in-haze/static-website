@@ -1,69 +1,69 @@
 {
-  "updated": "2026-03-01T06:43:00.122Z",
+  "updated": "2026-03-02T06:55:42.286Z",
   "items": [
     {
-      "id": 36545,
-      "title": "Live Coverage: SpaceX to launch 25 Starlink Satellites from the West Coast",
-      "url": "https://spaceflightnow.com/2026/03/01/live-coverage-spacex-to-launch-25-starlink-satellites-from-the-west-coast/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/02/20240214_Starlink_7-14_prelaunch_small-678x452.jpg",
+      "id": 36555,
+      "title": "NASA outlines objectives for Mars communications orbiter",
+      "url": "https://spacenews.com/nasa-outlines-objectives-for-mars-communications-orbiter/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rocketlab-mtn.jpeg?fit=1024%2C606&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-03-02"
+    },
+    {
+      "id": 36554,
+      "title": "What’s Happening in Space Policy March 1-7, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-1-7-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/sls-versions-300x140.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-03-01"
+    },
+    {
+      "id": 36553,
+      "title": "Shareholder Advisory Firms Disagree on Avio Bylaw Amendments",
+      "url": "https://europeanspaceflight.com/shareholder-advisory-firms-disagree-on-avio-bylaw-amendments/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/03/Shareholder-Advisory-Firms-Disagree-on-Avio-Bylaw-Amendments.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-03-01"
+    },
+    {
+      "id": 36551,
+      "title": "Space Force opens secretive space tracking to commercial firms",
+      "url": "https://spacenews.com/space-force-opens-secretive-space-tracking-to-commercial-firms/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/250129-X-IF173-1014-scaled-e1772391694206.jpg?fit=1024%2C576&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-03-01"
+    },
+    {
+      "id": 36550,
+      "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
+      "url": "https://spaceflightnow.com/2026/03/01/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file-678x416.jpg",
       "source": "Spaceflight Now",
       "published_at": "2026-03-01"
     },
     {
-      "id": 36544,
-      "title": "Intuitive Machines raises $175 million in stock sale",
-      "url": "https://spacenews.com/intuitive-machines-raises-175-million-in-stock-sale/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/novac-im4.jpg?fit=1024%2C576&ssl=1",
-      "source": "SpaceNews",
+      "id": 36549,
+      "title": "NASA astronaut who required evacuation from ISS 'doing very well'",
+      "url": "https://www.spacedaily.com/reports/NASA_astronaut_who_required_evacuation_from_ISS_doing_very_well_999.html",
+      "image_url": "https://www.spxdaily.com/images-bg/mike-fincke-boeing-starliner-testing-bg.jpg",
+      "source": "SpaceDaily",
       "published_at": "2026-03-01"
     },
     {
-      "id": 36543,
-      "title": "Rocket Lab Showcases Hypersonic Test Flight",
-      "url": "https://www.spacescout.info/2026/02/rocket-lab-showcases-hypersonic-test-flight/",
-      "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/02/JJC05788.jpg",
-      "source": "Space Scout",
-      "published_at": "2026-02-28"
+      "id": 36548,
+      "title": "NASA rolls Moon rocket off launchpad for repairs",
+      "url": "https://www.spacedaily.com/reports/NASA_rolls_Moon_rocket_off_launchpad_for_repairs_999.html",
+      "image_url": "https://www.spxdaily.com/images-bg/artemis-ii-full-stack-crawler-dawn-bg.jpg",
+      "source": "SpaceDaily",
+      "published_at": "2026-03-01"
     },
     {
-      "id": 36542,
-      "title": "NASA on ‘aggressive’ schedule to complete SLS repairs for April launch",
-      "url": "https://spacenews.com/nasa-on-aggressive-schedule-to-complete-sls-repairs-for-april-launch/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/KSC-20260225-PH-CSH01-0064-large.jpg?fit=1024%2C511&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-02-28"
-    },
-    {
-      "id": 36541,
-      "title": "Firefly Alpha FLTA007 “Stairway to Seven” set for launch from California coast",
-      "url": "https://www.nasaspaceflight.com/2026/02/firefly-flta007-launch/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/NSF-2026-02-28-14-26-36-956.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-02-28"
-    },
-    {
-      "id": 36540,
-      "title": "NASA Makes a “Course Correction” for the Artemis Program",
-      "url": "https://spacepolicyonline.com/news/nasa-makes-a-course-correction-for-the-artemis-program/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/02/Artemis-change-panel-Feb-27-2026-300x106.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-02-27"
-    },
-    {
-      "id": 36539,
-      "title": "Firefly Eyes Late February for Return to Flight",
-      "url": "https://www.spacescout.info/2026/02/firefly-eyes-late-february-for-return-to-flight/",
-      "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/02/55086659466_ed4441d259_k.jpg",
-      "source": "Space Scout",
-      "published_at": "2026-02-27"
-    },
-    {
-      "id": 36538,
-      "title": "Harnessing the Sun to Extract Oxygen on the Moon",
-      "url": "https://www.nasa.gov/image-article/harnessing-the-sun-to-extract-oxygen-on-the-moon/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/jsc2025e075711orig.jpg",
-      "source": "NASA",
-      "published_at": "2026-02-27"
+      "id": 36547,
+      "title": "NASA announces overhaul of Artemis lunar program amid technical delays",
+      "url": "https://www.spacedaily.com/reports/NASA_announces_overhaul_of_Artemis_lunar_program_amid_technical_delays_999.html",
+      "image_url": "https://www.spxdaily.com/images-bg/nasa-artemis-ii-sls-space-launch-system-orion-moon-stack-rollback-bg.jpg",
+      "source": "SpaceDaily",
+      "published_at": "2026-03-01"
     }
   ]
 }
