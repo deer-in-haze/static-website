@@ -1,69 +1,69 @@
 {
-  "updated": "2026-03-05T06:50:01.331Z",
+  "updated": "2026-03-06T06:44:49.258Z",
   "items": [
     {
-      "id": 36620,
-      "title": "A Little Town with a Long Name",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-little-town-with-a-long-name/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-little-town-with-a-long-name/welshtownzm_oli_20250409.jpg",
+      "id": 36658,
+      "title": "Ailing “Megaberg” Sparks Surge of Microscopic Life",
+      "url": "https://science.nasa.gov/earth/earth-observatory/ailing-megaberg-sparks-surge-of-microscopic-life/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ailing--megaberg--sparks-surge-of-microscopic-life/iceberg_pce_20260125.jpg",
       "source": "NASA",
-      "published_at": "2026-03-05"
+      "published_at": "2026-03-06"
     },
     {
-      "id": 36619,
-      "title": "Senate Committee Clears New NASA Authorization Bill, Calls for Moon Base",
-      "url": "https://spacepolicyonline.com/news/senate-committee-clears-new-nasa-authorization-bill-calls-for-moon-base/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Cruz-Cantwell-NASA-auth-300x183.jpg",
+      "id": 36657,
+      "title": "About Air Traffic Management and Safety Project",
+      "url": "https://www.nasa.gov/directorates/armd/aosp/atms/about-atms/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2023/02/08_future_airspace_1.gif",
+      "source": "NASA",
+      "published_at": "2026-03-06"
+    },
+    {
+      "id": 36656,
+      "title": "About Advanced Air Mobility Pathfinders Project",
+      "url": "https://www.nasa.gov/directorates/armd/aosp/amp/about-aamp/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2023/02/02_healthcare_ops_web.gif",
+      "source": "NASA",
+      "published_at": "2026-03-06"
+    },
+    {
+      "id": 36655,
+      "title": "Anderson Breezes Through Senate Nomination Hearing to be NASA Deputy Administrator",
+      "url": "https://spacepolicyonline.com/news/anderson-breezes-through-senate-nomination-hearing-to-be-nasa-deputy-administrator/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Matt-Anderson-hrg-4-Ingalls-300x228.jpg",
       "source": "SpacePolicyOnline.com",
-      "published_at": "2026-03-05"
+      "published_at": "2026-03-06"
     },
     {
-      "id": 36618,
-      "title": "Third Kairos launch fails",
-      "url": "https://spacenews.com/third-kairos-launch-fails/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/kairos-flight3.jpeg?fit=1024%2C558&ssl=1",
+      "id": 36654,
+      "title": "Poland-based Liftero will provide chemical propulsion for Indian firm OrbitAID’s in-orbit servicing mission",
+      "url": "https://spacenews.com/poland-based-liftero-will-provide-chemical-propulsion-for-indian-firm-orbitaids-in-orbit-servicing-mission/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/1-Liftero.jpg?fit=1024%2C683&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-03-05"
     },
     {
-      "id": 36617,
-      "title": "Spanish launch startup PLD Space raises $209 million to scale its rocket production",
-      "url": "https://spaceflightnow.com/2026/03/05/spanish-launch-startup-pld-space-raises-209-million-to-scale-its-rocket-production/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260304_Miura-5_manufacturing.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-03-05"
-    },
-    {
-      "id": 36616,
-      "title": "High-Speed Flight Project Overview",
-      "url": "https://www.nasa.gov/directorates/armd/aavp/hsf/high-speed-flight-project-overview/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2023/06/high-speed-aircraft.png",
-      "source": "NASA",
-      "published_at": "2026-03-05"
-    },
-    {
-      "id": 36615,
-      "title": "Senate committee advances NASA authorization bill that changes Artemis and extends ISS",
-      "url": "https://spacenews.com/senate-committee-advances-nasa-authorization-bill-that-changes-artemis-and-extends-iss/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/slseus.jpeg?fit=1024%2C683&ssl=1",
+      "id": 36653,
+      "title": "NASA deputy administrator nominee sails through confirmation hearing",
+      "url": "https://spacenews.com/nasa-deputy-administrator-nominee-sails-through-confirmation-hearing/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/NHQ202603050016-large.jpg?fit=1024%2C731&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-03-05"
     },
     {
-      "id": 36614,
-      "title": "Telus invests in AST SpaceMobile to expand D2D coverage in Canada",
-      "url": "https://spacenews.com/telus-invests-in-ast-spacemobile-to-expand-d2d-coverage-in-canada/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/BB7.jpeg?fit=768%2C1024&ssl=1",
+      "id": 36652,
+      "title": "Terran Orbital Appoints Kwon Park as Senior Director of Manufacturing Operations",
+      "url": "https://spacenews.com/terran-orbital-appoints-kwon-park-as-senior-director-of-manufacturing-operations/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/terran-orbital-square.png?fit=1024%2C1024&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-03-04"
+      "published_at": "2026-03-05"
     },
     {
-      "id": 36613,
-      "title": "Space Force presses case for more personnel and training",
-      "url": "https://spacenews.com/space-force-presses-case-for-more-personnel-and-training/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Screenshot-2026-03-04-at-4.14.25-PM.png?fit=1024%2C581&ssl=1",
+      "id": 36649,
+      "title": "General Galactic aims to become “the galaxy’s energy logistics company”",
+      "url": "https://spacenews.com/general-galactic-aims-to-become-the-galaxys-energy-logistics-company/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/EngineTestShot.png?fit=879%2C493&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-03-04"
+      "published_at": "2026-03-05"
     }
   ]
 }
