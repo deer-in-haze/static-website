@@ -1,6 +1,30 @@
 {
-  "updated": "2026-03-07T06:38:08.938Z",
+  "updated": "2026-03-08T06:40:11.176Z",
   "items": [
+    {
+      "id": 36688,
+      "title": "RFA plans first launch this summer",
+      "url": "https://spacenews.com/rfa-plans-first-launch-this-summer/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rfaone-march2026.jpeg?fit=1024%2C768&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-03-08"
+    },
+    {
+      "id": 36687,
+      "title": "Baikonur Launch Pad restored, clearing path for Progress MS-33 ISS Mission",
+      "url": "https://www.nasaspaceflight.com/2026/03/baikonur-launch-pad-restored-progress-ms-33/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-07-19-07-16-386.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-03-07"
+    },
+    {
+      "id": 36686,
+      "title": "Air Force lab awards BlackSky contract worth up to $99 million for large optical satellite payload",
+      "url": "https://spacenews.com/air-force-lab-awards-blacksky-contract-worth-up-to-99-million-for-large-optical-satellite-payload/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Screenshot-2026-03-07-at-5.17.18-AM.png?fit=1024%2C666&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-03-07"
+    },
     {
       "id": 36685,
       "title": "NASA contract confirms selection of ULA’s Centaur 5 as new upper stage for the SLS rocket",
@@ -39,30 +63,6 @@
       "url": "https://www.nasaspaceflight.com/2026/03/artemis-course-correction-moonward-details/",
       "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-06-18-57-48-225.jpg",
       "source": "NASASpaceflight",
-      "published_at": "2026-03-06"
-    },
-    {
-      "id": 36679,
-      "title": "NASA’s DART Mission Changed Orbit of Asteroid Didymos Around Sun",
-      "url": "https://www.nasa.gov/missions/dart/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/1-licia-cube-nasa.jpg",
-      "source": "NASA",
-      "published_at": "2026-03-06"
-    },
-    {
-      "id": 36678,
-      "title": "Eutelsat completes $5.8 billion refinancing plan",
-      "url": "https://spacenews.com/eutelsat-completes-5-8-billion-refinancing-plan/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/Intelsat-PR_EutelsatGroup-scaled-1.webp?fit=1024%2C576&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-03-06"
-    },
-    {
-      "id": 36677,
-      "title": "Live coverage: SpaceX plans mid-afternoon Falcon 9 rocket launch from Vandenberg SFB",
-      "url": "https://spaceflightnow.com/2026/03/06/live-coverage-spacex-plans-mid-afternoon-falcon-9-rocket-launch-from-vandenberg-sfb/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/01/20240118-Starlink-File-Photo-Feature-Image.jpg",
-      "source": "Spaceflight Now",
       "published_at": "2026-03-06"
     }
   ]
