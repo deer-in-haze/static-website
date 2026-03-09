@@ -1,6 +1,46 @@
 {
-  "updated": "2026-03-08T06:40:11.176Z",
+  "updated": "2026-03-09T06:59:33.999Z",
   "items": [
+    {
+      "id": 36693,
+      "title": "Changing the Rules Mid-Race - How Artemis Lets Washington Redefine \"Winning\" at the Moon - Part 4",
+      "url": "https://www.spacedaily.com/reports/Changing_the_Rules_Mid_Race_How_Artemis_Lets_Washington_Redefine_Winning_at_the_Moon_Part_4_999.html",
+      "image_url": "https://www.spxdaily.com/images-bg/trump-musk-tesla-whitehouse-wapo-pool-bg.jpg",
+      "source": "SpaceDaily",
+      "published_at": "2026-03-09"
+    },
+    {
+      "id": 36690,
+      "title": "Course Correction or Controlled Crash? Inside NASA's Artemis Overhaul - Part 1",
+      "url": "https://www.spacedaily.com/reports/Course_Correction_or_Controlled_Crash_Inside_NASAs_Artemis_Overhaul_Part_1_999.html",
+      "image_url": "https://www.spxdaily.com/images-bg/nasa-administrator-jared-isaacman-corridor-of-portraits-bg.jpg",
+      "source": "SpaceDaily",
+      "published_at": "2026-03-09"
+    },
+    {
+      "id": 36692,
+      "title": "Apollo Cosplay on a 21st-Century Clock - Why Artemis Keeps Slipping Toward 2029 - Part 3",
+      "url": "https://www.spacedaily.com/reports/Apollo_Cosplay_on_a_21st_Century_Clock_Why_Artemis_Keeps_Slipping_Toward_2029_Part_3_999.html",
+      "image_url": "https://www.spxdaily.com/images-bg/lunar-apollo-15-landing-site-lander-buggy-bg.jpg",
+      "source": "SpaceDaily",
+      "published_at": "2026-03-09"
+    },
+    {
+      "id": 36691,
+      "title": "Hostage to the Moon - How Artemis Became Industrial Welfare in a Space Suit - Part 2",
+      "url": "https://www.spacedaily.com/reports/Hostage_to_the_Moon_How_Artemis_Became_Industrial_Welfare_in_a_Space_Suit_Part_2_999.html",
+      "image_url": "https://www.spxdaily.com/images-bg/lunar-spix-2-bg.jpg",
+      "source": "SpaceDaily",
+      "published_at": "2026-03-09"
+    },
+    {
+      "id": 36689,
+      "title": "What’s Happening in Space Policy March 8-14, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-8-14-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Matt-Anderson-hrg-4-Ingalls-1-300x228.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-03-08"
+    },
     {
       "id": 36688,
       "title": "RFA plans first launch this summer",
@@ -24,46 +64,6 @@
       "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Screenshot-2026-03-07-at-5.17.18-AM.png?fit=1024%2C666&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-03-07"
-    },
-    {
-      "id": 36685,
-      "title": "NASA contract confirms selection of ULA’s Centaur 5 as new upper stage for the SLS rocket",
-      "url": "https://spaceflightnow.com/2026/03/07/nasa-contract-confirms-selection-of-ulas-centaur-5-as-new-upper-stage-for-the-sls-rocket/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260306_Centuar-V_Cert-1_pressure_testing.jpeg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-03-07"
-    },
-    {
-      "id": 36684,
-      "title": "NASA selects Centaur for new SLS upper stage",
-      "url": "https://spacenews.com/nasa-selects-centaur-for-new-sls-upper-stage/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/12/54091767752_006ce7503a_k.jpg?fit=1024%2C683&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-03-06"
-    },
-    {
-      "id": 36683,
-      "title": "Ding-dong! The Exploration Upper Stage is dead",
-      "url": "https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/upper-exploration-witch-hat.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-03-06"
-    },
-    {
-      "id": 36682,
-      "title": "NASA Invites Media to Northrop Grumman CRS-24 Station Resupply Launch",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-24-station-resupply-launch/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/crs-24-resupply-launch-advisory-march-6.jpg",
-      "source": "NASA",
-      "published_at": "2026-03-06"
-    },
-    {
-      "id": 36680,
-      "title": "NASA’s Artemis ‘Course Correction’ Boosts Moonward Momentum: Key Details Still Maturing",
-      "url": "https://www.nasaspaceflight.com/2026/03/artemis-course-correction-moonward-details/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-06-18-57-48-225.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-03-06"
     }
   ]
 }
