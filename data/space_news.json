@@ -1,69 +1,69 @@
 {
-  "updated": "2026-03-11T06:51:24.153Z",
+  "updated": "2026-03-12T06:53:20.607Z",
   "items": [
     {
-      "id": 36784,
-      "title": "Curiosity Blog, Sols 4825-4831: Exploring the Borderlands",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4825-4831-exploring-the-borderlands/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/march/https___mars.nasa.gov_msl-raw-images_msss_04827_mhli_4827MH0001710001704368R00_DXXX.jpg",
-      "source": "NASA",
-      "published_at": "2026-03-11"
+      "id": 36802,
+      "title": "Firefly Alpha returns to flight",
+      "url": "https://spacenews.com/firefly-alpha-returns-to-flight/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55143071969_a1ed891f84_k.jpg?fit=1024%2C683&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-03-12"
     },
     {
-      "id": 36782,
-      "title": "A Most Unusual Lake",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-most-unusual-lake/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-most-unusual-lake/lakeuntersee_oli2_20260216.jpg",
+      "id": 36801,
+      "title": "Dust Outbreak Reaches Europe",
+      "url": "https://science.nasa.gov/earth/earth-observatory/dust-outbreak-reaches-europe/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/154000/154772/tarimbasindust_vir2_20250901.jpg",
       "source": "NASA",
-      "published_at": "2026-03-11"
+      "published_at": "2026-03-12"
     },
     {
-      "id": 36783,
-      "title": "Anduril to acquire space-tracking firm ExoAnalytic Solutions",
-      "url": "https://spacenews.com/anduril-to-acquire-space-tracking-firm-exoanalytic-solutions/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-26-at-10.57.30-AM.png?fit=1024%2C627&ssl=1",
+      "id": 36800,
+      "title": "The Post-Capacity Era of Satellite Connectivity",
+      "url": "https://spacenews.com/the-post-capacity-era-of-satellite-connectivity/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square.png?fit=1021%2C1024&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-03-12"
+    },
+    {
+      "id": 36799,
+      "title": "Enpulsion raises $26 million",
+      "url": "https://spacenews.com/enpulsion-raises-26-million/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/enpulsion.jpeg?fit=1024%2C733&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-03-12"
+    },
+    {
+      "id": 36798,
+      "title": "Report criticizes delays in Artemis lunar lander development",
+      "url": "https://spacenews.com/report-criticizes-delays-in-artemis-lunar-lander-development/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/lunarlanders.jpeg?fit=1024%2C638&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-03-11"
     },
     {
-      "id": 36781,
-      "title": "NASA IG Applauds NASA Contracting for Artemis HLS, Raises Concerns About Crew Safety",
-      "url": "https://spacepolicyonline.com/news/nasa-ig-applauds-nasa-contracting-for-artemis-hls-raises-concerns-about-crew-safety/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/OIG-1-300x207.jpg",
-      "source": "SpacePolicyOnline.com",
+      "id": 36797,
+      "title": "New crew arrivals and science highlight February aboard the ISS",
+      "url": "https://www.nasaspaceflight.com/2026/03/iss-roundup-022026/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/IMG_2855.jpeg",
+      "source": "NASASpaceflight",
       "published_at": "2026-03-11"
     },
     {
-      "id": 36780,
-      "title": "About Subsonic Vehicle Technologies and Tools Project",
-      "url": "https://www.nasa.gov/directorates/armd/aavp/svtt/about-svtt/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2016/07/hwb-artist-concept_1.jpg",
+      "id": 36796,
+      "title": "FCC chair blasts Amazon after it criticizes SpaceX megaconstellation",
+      "url": "https://arstechnica.com/space/2026/03/fcc-chair-blasts-amazon-after-it-criticizes-spacex-megaconstellation/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/brendan-carr-1751402466.jpg",
+      "source": "Arstechnica",
+      "published_at": "2026-03-11"
+    },
+    {
+      "id": 36794,
+      "title": "2026 William T. Pecora Award Nominations Now Being Accepted",
+      "url": "https://science.nasa.gov/missions/landsat/2026-william-t-pecora-award-nominations-now-being-accepted/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2026/03/WTPecora_PressPhoto1970.jpg",
       "source": "NASA",
       "published_at": "2026-03-11"
-    },
-    {
-      "id": 36779,
-      "title": "NASA inspector general assesses agency’s management of moon lander risk",
-      "url": "https://spaceflightnow.com/2026/03/10/nasa-inspector-general-assesses-agencys-management-of-moon-lander-risk/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260310_Apollo_Artemis_landers_comparison.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-03-10"
-    },
-    {
-      "id": 36778,
-      "title": "Starlab Space fully books commercial payload space on planned space station",
-      "url": "https://spacenews.com/starlab-space-fully-books-commercial-payload-space-on-planned-space-station/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Starlab_-_External_Config_2025_-_04.png?fit=1024%2C576&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-03-10"
-    },
-    {
-      "id": 36777,
-      "title": "Viasat wins $14 million contract to provide in-flight satcom for Navy executive aircraft",
-      "url": "https://spacenews.com/viasat-wins-14-million-contract-to-provide-in-flight-satcom-for-navy-executive-aircraft/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Screenshot-2026-03-10-at-6.02.31-PM.png?fit=1024%2C580&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-03-10"
     }
   ]
 }
