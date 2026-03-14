@@ -1,69 +1,69 @@
 {
-  "updated": "2026-03-13T06:51:09.354Z",
+  "updated": "2026-03-14T06:42:53.890Z",
   "items": [
     {
-      "id": 36825,
-      "title": "Eruption at Mayon",
-      "url": "https://science.nasa.gov/earth/earth-observatory/eruption-at-mayon/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/eruption-at-mayon/mayonvolcano_oli_20260226.jpg",
-      "source": "NASA",
-      "published_at": "2026-03-13"
-    },
-    {
-      "id": 36824,
-      "title": "Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base",
-      "url": "https://spaceflightnow.com/2026/03/13/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/09/20250818_Starlink_G17_5_Vertical.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-03-13"
-    },
-    {
-      "id": 36823,
-      "title": "Live coverage: SpaceX to launch Friday morning Starlink mission from Cape Canaveral",
-      "url": "https://spaceflightnow.com/2026/03/13/live-coverage-spacex-to-launch-friday-morning-starlink-mission-from-cape-canaveral/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/10/20241022_Starlink_6-61_prelaunch_AB-1-678x445.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-03-13"
-    },
-    {
-      "id": 36821,
-      "title": "NASA Now Targeting April 1 for Artemis II’s Launch Around The Moon",
-      "url": "https://spacepolicyonline.com/news/nasa-now-targeting-april-1-for-artemis-ii-launch-around-the-moon/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Artemis-2-April-dates-297x300.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-03-12"
-    },
-    {
-      "id": 36819,
-      "title": "China’s Tianwen-3 Mars sample return mission moves into spacecraft construction phase",
-      "url": "https://spacenews.com/chinas-tianwen-3-mars-sample-return-mission-moves-into-spacecraft-construction-phase/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/05/mars-northern-hemisphere-medium-res-Tianwen1-26march2021-cnsa-pec-scaled.jpg?fit=1024%2C768&ssl=1",
+      "id": 36860,
+      "title": "iMetalX emerges from stealth with technology to model resident space objects",
+      "url": "https://spacenews.com/imetalx-emerges-from-stealth-with-technology-to-model-resident-space-objects/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_imetalx-p030126.png?fit=879%2C628&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-03-12"
+      "published_at": "2026-03-13"
     },
     {
-      "id": 36822,
-      "title": "About Low Boom Flight Demonstrator (LBFD) Project",
-      "url": "https://www.nasa.gov/directorates/armd/iasp/armd-iasp-lbfd/about-lbfd/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/afrc2025-0168-038orig.jpg",
+      "id": 36859,
+      "title": "Volunteers Find Oddly High Solar Flare Rates",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/volunteers-find-oddly-high-solar-flare-rates/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Solar_Active_Region_Spotter.png",
       "source": "NASA",
-      "published_at": "2026-03-12"
+      "published_at": "2026-03-13"
     },
     {
-      "id": 36818,
-      "title": "NASA to Cover Upcoming US Spacewalks 94, 95 Outside Space Station",
-      "url": "https://www.nasa.gov/news-release/nasa-to-cover-upcoming-us-spacewalks-94-95-outside-space-station/",
-      "image_url": "https://images-assets.nasa.gov/image/iss073e0008485/iss073e0008485~large.jpg",
+      "id": 36858,
+      "title": "Extra Extra! Extra Data Stream Added to the Daily Minor Planet!",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/extra-extra-extra-data-stream-added-to-the-daily-minor-planet/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg",
       "source": "NASA",
-      "published_at": "2026-03-12"
+      "published_at": "2026-03-13"
     },
     {
-      "id": 36820,
-      "title": "About Integrated Aviation Systems Program (IASP)",
-      "url": "https://www.nasa.gov/directorates/armd/iasp/about-iasp/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/iasp-cover-03a.jpeg",
+      "id": 36856,
+      "title": "Astroscale selects Isar Aerospace to launch ELSA-M mission",
+      "url": "https://spacenews.com/astroscale-selects-isar-aerospace-to-launch-elsa-m-mission/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/Astroscales-ELSA-M-Servicer_2025-1-scaled.png?fit=1024%2C672&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-03-13"
+    },
+    {
+      "id": 36855,
+      "title": "From Steel Rolls to Starship at the Starfactory",
+      "url": "https://www.nasaspaceflight.com/2026/03/steel-rolls-to-starship/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-13-20-41-45-960.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-03-13"
+    },
+    {
+      "id": 36854,
+      "title": "NASA ready for another shot at launching Artemis 2 moon mission",
+      "url": "https://spaceflightnow.com/2026/03/13/nasa-ready-for-another-shot-at-launching-artemis-2-moon-mission/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260313_Artemis-2_VAB_work.jpeg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-03-13"
+    },
+    {
+      "id": 36853,
+      "title": "China is developing low-cost lunar cargo options for its expanding moon program",
+      "url": "https://spacenews.com/china-is-developing-low-cost-lunar-cargo-options-for-its-expanding-moon-program/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/ChangE6-farside-mobile-camera-2024-CNSA.jpg?fit=1024%2C640&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-03-13"
+    },
+    {
+      "id": 36852,
+      "title": "NASA Selects Finalists in Student Aircraft Maintenance Competition",
+      "url": "https://www.nasa.gov/aeronautics/nasa-selects-finalists-in-student-aircraft-maintenance-competition/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png",
       "source": "NASA",
-      "published_at": "2026-03-12"
+      "published_at": "2026-03-13"
     }
   ]
 }
