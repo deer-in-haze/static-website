@@ -1,6 +1,22 @@
 {
-  "updated": "2026-03-14T06:42:53.890Z",
+  "updated": "2026-03-15T06:54:45.169Z",
   "items": [
+    {
+      "id": 36862,
+      "title": "Blue Origin Unveils NEO Hunter: A Hybrid Planetary Defense Concept",
+      "url": "https://www.nasaspaceflight.com/2026/03/blue-origin-neo-hunter-planetary-defense/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-14-21-00-18-971.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-03-14"
+    },
+    {
+      "id": 36861,
+      "title": "NASA Administrator teases further Artemis program updates in one-on-one interview",
+      "url": "https://spaceflightnow.com/2026/03/14/nasa-administrator-teases-further-artemis-program-updates-in-one-on-one-interview/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260312_Isaacman_Interview_JP-1.jpeg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-03-14"
+    },
     {
       "id": 36860,
       "title": "iMetalX emerges from stealth with technology to model resident space objects",
@@ -47,22 +63,6 @@
       "url": "https://spaceflightnow.com/2026/03/13/nasa-ready-for-another-shot-at-launching-artemis-2-moon-mission/",
       "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260313_Artemis-2_VAB_work.jpeg",
       "source": "Spaceflight Now",
-      "published_at": "2026-03-13"
-    },
-    {
-      "id": 36853,
-      "title": "China is developing low-cost lunar cargo options for its expanding moon program",
-      "url": "https://spacenews.com/china-is-developing-low-cost-lunar-cargo-options-for-its-expanding-moon-program/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/ChangE6-farside-mobile-camera-2024-CNSA.jpg?fit=1024%2C640&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-03-13"
-    },
-    {
-      "id": 36852,
-      "title": "NASA Selects Finalists in Student Aircraft Maintenance Competition",
-      "url": "https://www.nasa.gov/aeronautics/nasa-selects-finalists-in-student-aircraft-maintenance-competition/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png",
-      "source": "NASA",
       "published_at": "2026-03-13"
     }
   ]
