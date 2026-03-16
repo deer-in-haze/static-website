@@ -1,6 +1,46 @@
 {
-  "updated": "2026-03-15T06:54:45.169Z",
+  "updated": "2026-03-16T07:14:00.778Z",
   "items": [
+    {
+      "id": 36867,
+      "title": "Starcloud files plans for 88,000-satellite constellation",
+      "url": "https://spacenews.com/starcloud-files-plans-for-88000-satellite-constellation/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/starcloud.jpeg?fit=1024%2C566&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-03-15"
+    },
+    {
+      "id": 36866,
+      "title": "What’s Happening in Space Policy March 15-22, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-15-22-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Artemis-II-back-to-VAB-Feb-25-26-300x200.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-03-15"
+    },
+    {
+      "id": 36865,
+      "title": "OSTP taking on space policy coordination work in place of National Space Council",
+      "url": "https://spacenews.com/ostp-taking-on-space-policy-coordination-work-in-place-of-national-space-council/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/NSC_meeting-scaled.jpg?fit=1024%2C576&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-03-15"
+    },
+    {
+      "id": 36864,
+      "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
+      "url": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Screenshot-2026-03-15-at-10.59.03-AM.png?fit=1024%2C526&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-03-15"
+    },
+    {
+      "id": 36863,
+      "title": "Raytheon contract for protected satellite communications terminals raised by $2 billion",
+      "url": "https://spacenews.com/raytheon-contract-for-protected-satellite-communications-terminals-raised-by-2-billion/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/9335717-scaled.jpg?fit=1024%2C683&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-03-15"
+    },
     {
       "id": 36862,
       "title": "Blue Origin Unveils NEO Hunter: A Hybrid Planetary Defense Concept",
@@ -23,46 +63,6 @@
       "url": "https://spacenews.com/imetalx-emerges-from-stealth-with-technology-to-model-resident-space-objects/",
       "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_imetalx-p030126.png?fit=879%2C628&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-03-13"
-    },
-    {
-      "id": 36859,
-      "title": "Volunteers Find Oddly High Solar Flare Rates",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/volunteers-find-oddly-high-solar-flare-rates/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Solar_Active_Region_Spotter.png",
-      "source": "NASA",
-      "published_at": "2026-03-13"
-    },
-    {
-      "id": 36858,
-      "title": "Extra Extra! Extra Data Stream Added to the Daily Minor Planet!",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/extra-extra-extra-data-stream-added-to-the-daily-minor-planet/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg",
-      "source": "NASA",
-      "published_at": "2026-03-13"
-    },
-    {
-      "id": 36856,
-      "title": "Astroscale selects Isar Aerospace to launch ELSA-M mission",
-      "url": "https://spacenews.com/astroscale-selects-isar-aerospace-to-launch-elsa-m-mission/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/Astroscales-ELSA-M-Servicer_2025-1-scaled.png?fit=1024%2C672&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-03-13"
-    },
-    {
-      "id": 36855,
-      "title": "From Steel Rolls to Starship at the Starfactory",
-      "url": "https://www.nasaspaceflight.com/2026/03/steel-rolls-to-starship/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-13-20-41-45-960.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-03-13"
-    },
-    {
-      "id": 36854,
-      "title": "NASA ready for another shot at launching Artemis 2 moon mission",
-      "url": "https://spaceflightnow.com/2026/03/13/nasa-ready-for-another-shot-at-launching-artemis-2-moon-mission/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260313_Artemis-2_VAB_work.jpeg",
-      "source": "Spaceflight Now",
       "published_at": "2026-03-13"
     }
   ]
