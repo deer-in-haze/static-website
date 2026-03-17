@@ -1,69 +1,69 @@
 {
-  "updated": "2026-03-16T07:14:00.778Z",
+  "updated": "2026-03-17T07:02:12.057Z",
   "items": [
     {
-      "id": 36867,
-      "title": "Starcloud files plans for 88,000-satellite constellation",
-      "url": "https://spacenews.com/starcloud-files-plans-for-88000-satellite-constellation/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/starcloud.jpeg?fit=1024%2C566&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-03-15"
+      "id": 36890,
+      "title": "A Bit of Gray on an Emerald Isle",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-bit-of-gray-in-an-emerald-isle/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpzm_oli_20250526.jpg",
+      "source": "NASA",
+      "published_at": "2026-03-17"
     },
     {
-      "id": 36866,
-      "title": "What’s Happening in Space Policy March 15-22, 2026",
-      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-15-22-2026/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Artemis-II-back-to-VAB-Feb-25-26-300x200.jpg",
+      "id": 36889,
+      "title": "Kshatriya Hints NASA May Reconsider South Pole for Initial Artemis Landings",
+      "url": "https://spacepolicyonline.com/news/kshatriya-hints-nasa-may-reconsider-south-pole-for-initial-artemis-landings/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Amit-Kshatryia-Feb-27-26-presser-300x160.jpg",
       "source": "SpacePolicyOnline.com",
-      "published_at": "2026-03-15"
+      "published_at": "2026-03-17"
     },
     {
-      "id": 36865,
-      "title": "OSTP taking on space policy coordination work in place of National Space Council",
-      "url": "https://spacenews.com/ostp-taking-on-space-policy-coordination-work-in-place-of-national-space-council/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/NSC_meeting-scaled.jpg?fit=1024%2C576&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-03-15"
-    },
-    {
-      "id": 36864,
-      "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
-      "url": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Screenshot-2026-03-15-at-10.59.03-AM.png?fit=1024%2C526&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-03-15"
-    },
-    {
-      "id": 36863,
-      "title": "Raytheon contract for protected satellite communications terminals raised by $2 billion",
-      "url": "https://spacenews.com/raytheon-contract-for-protected-satellite-communications-terminals-raised-by-2-billion/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/9335717-scaled.jpg?fit=1024%2C683&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-03-15"
-    },
-    {
-      "id": 36862,
-      "title": "Blue Origin Unveils NEO Hunter: A Hybrid Planetary Defense Concept",
-      "url": "https://www.nasaspaceflight.com/2026/03/blue-origin-neo-hunter-planetary-defense/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-14-21-00-18-971.jpg",
+      "id": 36888,
+      "title": "Launch Preview: Falcon 9, Spectrum, Electron to launch during busy week of launches",
+      "url": "https://www.nasaspaceflight.com/2026/03/launch-preview-031626/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2023/04/julia-streak-scaled.jpg",
       "source": "NASASpaceflight",
-      "published_at": "2026-03-14"
+      "published_at": "2026-03-16"
     },
     {
-      "id": 36861,
-      "title": "NASA Administrator teases further Artemis program updates in one-on-one interview",
-      "url": "https://spaceflightnow.com/2026/03/14/nasa-administrator-teases-further-artemis-program-updates-in-one-on-one-interview/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260312_Isaacman_Interview_JP-1.jpeg",
+      "id": 36887,
+      "title": "Live coverage: SpaceX to launch a Falcon 9 rocket on St. Patrick’s Day morning",
+      "url": "https://spaceflightnow.com/2026/03/16/live-coverage-spacex-to-launch-a-falcon-9-rocket-on-st-patricks-day-morning/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/09/20240904_F9_Starlink_8-11_prelaunch-678x452.jpg",
       "source": "Spaceflight Now",
-      "published_at": "2026-03-14"
+      "published_at": "2026-03-16"
     },
     {
-      "id": 36860,
-      "title": "iMetalX emerges from stealth with technology to model resident space objects",
-      "url": "https://spacenews.com/imetalx-emerges-from-stealth-with-technology-to-model-resident-space-objects/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_imetalx-p030126.png?fit=879%2C628&ssl=1",
+      "id": 36886,
+      "title": "Nvidia unveils AI computing module for space-based data centers",
+      "url": "https://spacenews.com/nvidia-unveils-ai-computing-module-for-space-based-data-centers/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/space-computing.jpg?fit=1024%2C576&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-03-13"
+      "published_at": "2026-03-16"
+    },
+    {
+      "id": 36884,
+      "title": "Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from California",
+      "url": "https://spaceflightnow.com/2026/03/16/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-california/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/10/20251007_Falcon-9_sunset.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-03-16"
+    },
+    {
+      "id": 36883,
+      "title": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
+      "url": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Strait-of-Hormuz-Kuva-Space-HF-1.png?fit=882%2C896&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-03-16"
+    },
+    {
+      "id": 36882,
+      "title": "NASA Invites Media to Learn About Upcoming X-59 Test Flights",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-upcoming-x-59-test-flights/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg",
+      "source": "NASA",
+      "published_at": "2026-03-16"
     }
   ]
 }
