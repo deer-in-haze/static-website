@@ -1,69 +1,69 @@
 {
-  "updated": "2026-03-18T06:59:44.059Z",
+  "updated": "2026-03-19T06:56:06.760Z",
   "items": [
     {
-      "id": 36910,
-      "title": "Wave of Dust Rolls Through Texas",
-      "url": "https://science.nasa.gov/earth/earth-observatory/wave-of-dust-rolls-through-texas/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/wave-of-dust-rolls-through-texas/texasdust_amo_20260315.jpg",
+      "id": 36929,
+      "title": "Australia’s “Red Centre” Turns Green",
+      "url": "https://science.nasa.gov/earth/earth-observatory/australias-red-centre-turns-green/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/australia%E2%80%99s-%E2%80%9Cred-centre%E2%80%9D-turns-green/alicespringsgreening_tmo_20260121.jpg",
+      "source": "NASA",
+      "published_at": "2026-03-19"
+    },
+    {
+      "id": 36928,
+      "title": "Rocket Lab wins $190 million Pentagon deal for hypersonic test flights",
+      "url": "https://spacenews.com/rocket-lab-wins-190-million-pentagon-deal-for-hypersonic-test-flights/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55125753485_c81ceb4d34_k.jpg?fit=1024%2C683&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-03-18"
+    },
+    {
+      "id": 36926,
+      "title": "Space Command classified wargame to include 25 commercial players",
+      "url": "https://spacenews.com/space-command-classified-wargame-to-include-25-commercial-players/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/250428-X-VE588-1022-scaled.jpg?fit=1024%2C683&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-03-18"
+    },
+    {
+      "id": 36925,
+      "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
+      "url": "https://spaceflightnow.com/2026/03/18/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/12/20250827_Starlink_10_11_30.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-03-18"
+    },
+    {
+      "id": 36924,
+      "title": "Curiosity Blog, Sols 4832–4837: Driving the (Contact) Line!",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4832-4837-driving-the-contact-line/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/march/https___mars.nasa.gov_msl-raw-images_msss_04834_mcam_4834ML1089360100210987C00_DXXX.jpg",
       "source": "NASA",
       "published_at": "2026-03-18"
     },
     {
-      "id": 36909,
-      "title": "Space Force overhauls buying structure with new mission portfolios",
-      "url": "https://spacenews.com/space-force-overhauls-buying-structure-with-new-mission-portfolios/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/250910-X-X0813-1003-scaled.jpg?fit=1024%2C682&ssl=1",
+      "id": 36923,
+      "title": "Booster 19 concludes initial test campaign on Pad 2",
+      "url": "https://www.nasaspaceflight.com/2026/03/booster-19-initial-test-pad-2/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-18-18-43-05-561.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-03-18"
+    },
+    {
+      "id": 36922,
+      "title": "A private space company has a radical new plan to bag an asteroid",
+      "url": "https://arstechnica.com/space/2026/03/a-private-space-company-has-a-radical-new-plan-to-bag-an-asteroid/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/New-Moon-Rotated-060425.jpg",
+      "source": "Arstechnica",
+      "published_at": "2026-03-18"
+    },
+    {
+      "id": 36921,
+      "title": "TransAstra aims to move 100-ton asteroid to stable orbit for processing",
+      "url": "https://spacenews.com/transastra-aims-to-move-100-ton-asteroid-to-stable-orbit-for-processing/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_transastra_asteroid_capture.png?fit=879%2C568&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-03-17"
-    },
-    {
-      "id": 36908,
-      "title": "Telesat pivots Lightspeed toward defense as delays push global service to 2028",
-      "url": "https://spacenews.com/telesat-pivots-lightspeed-toward-defense-as-delays-push-global-service-to-2028/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/11/UPDATED-Telesat-Lightspeed-Satellite-Rendering.webp?fit=856%2C600&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-03-17"
-    },
-    {
-      "id": 36907,
-      "title": "NASA’s X-59 Prepares for Second Flight",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-second-flight/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/afrc2026-0048-20.jpg",
-      "source": "NASA",
-      "published_at": "2026-03-17"
-    },
-    {
-      "id": 36906,
-      "title": "Office of Space Commerce weighing options for TraCSS user fees",
-      "url": "https://spacenews.com/office-of-space-commerce-weighing-options-for-tracss-user-fees/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/cropped-TraCSS_16x9-1024x683-1.jpg?fit=1024%2C576&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-03-17"
-    },
-    {
-      "id": 36905,
-      "title": "Dim Delights in Cancer",
-      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/dim-delights-in-cancer/",
-      "image_url": "https://science.nasa.gov/wp-content/uploads/2024/02/m44-wfc3-ok-flat-final.jpg",
-      "source": "NASA",
-      "published_at": "2026-03-17"
-    },
-    {
-      "id": 36904,
-      "title": "Space boom strains supply chain, industry report warns",
-      "url": "https://spacenews.com/space-boom-strains-supply-chain-industry-report-warns/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/07/Solar-Array-Assembly-Amazon-Image-scaled.jpg?fit=1024%2C683&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-03-17"
-    },
-    {
-      "id": 36903,
-      "title": "Golden Dome cost estimate rises to $185 billion as Pentagon expands space layer",
-      "url": "https://spacenews.com/golden-dome-cost-estimate-rises-to-185-billion-as-pentagon-expands-space-layer/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/GmVvfBTWEAAH71U-e1742329268424.jpeg?fit=1024%2C560&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-03-17"
+      "published_at": "2026-03-18"
     }
   ]
 }
