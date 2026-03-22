@@ -1,6 +1,38 @@
 {
-  "updated": "2026-03-21T06:40:05.116Z",
+  "updated": "2026-03-22T06:49:22.348Z",
   "items": [
+    {
+      "id": 36982,
+      "title": "Some European Launcher Challenge funding remains in limbo",
+      "url": "https://spacenews.com/some-european-launcher-challenge-funding-remains-in-limbo/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/orbexprime-nov2025.jpeg?fit=1024%2C682&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-03-22"
+    },
+    {
+      "id": 36981,
+      "title": "Progress MS-33 set to resume Russian flights to ISS from repaired pad",
+      "url": "https://www.nasaspaceflight.com/2026/03/progress-ms33/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/IMG_5463.png",
+      "source": "NASASpaceflight",
+      "published_at": "2026-03-21"
+    },
+    {
+      "id": 36980,
+      "title": "Artemis 2 returns to the pad for April launch attempt",
+      "url": "https://spacenews.com/artemis-2-returns-to-the-pad-for-april-launch-attempt/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/NHQ20260320_admin_0005-large.jpg?fit=1024%2C683&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-03-21"
+    },
+    {
+      "id": 36979,
+      "title": "Blue Origin ramps up New Glenn manufacturing, unveils Orbital Data Center ambitions",
+      "url": "https://www.nasaspaceflight.com/2026/03/blue-new-glenn-manufacturing-data-ambitions/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-21-03-51-23-616.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-03-21"
+    },
     {
       "id": 36978,
       "title": "NASA’s X-59 Experimental Supersonic Aircraft Makes Second Flight",
@@ -31,38 +63,6 @@
       "url": "https://spacenews.com/rocket-lab-launches-eighth-synspective-radar-imaging-satellite/",
       "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55158658336_49d39f6c9f_k.jpg?fit=1024%2C683&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-03-20"
-    },
-    {
-      "id": 36973,
-      "title": "Hangar One Restoration Project",
-      "url": "https://www.nasa.gov/centers-and-facilities/ames/hangar-one-restoration-project/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2022/04/25987_acd06-0074-020.jpeg",
-      "source": "NASA",
-      "published_at": "2026-03-20"
-    },
-    {
-      "id": 36972,
-      "title": "Another GPS launch shifts from ULA to SpaceX as Vulcan investigation continues",
-      "url": "https://spacenews.com/another-gps-launch-shifts-from-ula-to-spacex-as-vulcan-investigation-continues/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/G_u3fIOWgAAl80A-scaled.jpeg?fit=1024%2C683&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-03-20"
-    },
-    {
-      "id": 36970,
-      "title": "NASA Selects University Finalists for Technology Concepts Competition",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-selects-university-finalists-for-technology-concepts-competition/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/2026-rasc-al-graphic-header.png",
-      "source": "NASA",
-      "published_at": "2026-03-20"
-    },
-    {
-      "id": 36971,
-      "title": "How Open NASA Data on Comet 3I/ATLAS Will Power Tomorrow’s Discoveries",
-      "url": "https://science.nasa.gov/open-science/interstellar-comet-3i-atlas-data/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/news-images/STSCI-H-atlas-B-f-3437x2598.jpg",
-      "source": "NASA",
       "published_at": "2026-03-20"
     }
   ]
