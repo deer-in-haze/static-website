@@ -1,69 +1,69 @@
 {
-  "updated": "2026-03-25T07:00:01.207Z",
+  "updated": "2026-03-26T07:05:23.812Z",
   "items": [
     {
-      "id": 37040,
-      "title": "Kona Storms Flood Oʻahu",
-      "url": "https://science.nasa.gov/earth/earth-observatory/kona-storms-flood-o%ca%bbahu/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/kona-storms-flood-o'ahu/oahu_oli2_20260125.jpg",
+      "id": 37071,
+      "title": "A Hot Start to Spring in the Southwest",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-hot-start-to-spring-in-the-southwest/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-hot-start-to-spring-in-the-southwest/swheatwave_gmao_20260320.jpg",
+      "source": "NASA",
+      "published_at": "2026-03-26"
+    },
+    {
+      "id": 37070,
+      "title": "NASA Gears Up for Artemis II Launch Around the Moon a Week From Now",
+      "url": "https://spacepolicyonline.com/news/nasa-gears-up-for-artemis-ii-launch-around-the-moon-a-week-from-now/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Artemis-II-back-on-pad-March-20-2026-Kowsky-209x300.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-03-26"
+    },
+    {
+      "id": 37069,
+      "title": "La NASA anuncia la cobertura de la misión lunar Artemis II",
+      "url": "https://www.nasa.gov/es/la-nasa-anuncia-la-cobertura-de-la-mision-lunar-artemis-ii/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/a2crew-7ff19d.jpg",
       "source": "NASA",
       "published_at": "2026-03-25"
     },
     {
-      "id": 37039,
-      "title": "NASA outlines ambitious $20 billion plan for moon base",
-      "url": "https://spaceflightnow.com/2026/03/25/nasa-outlines-ambitious-20-billion-plan-for-moon-base/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260324_Isaacman_Ignition.jpeg",
-      "source": "Spaceflight Now",
+      "id": 37068,
+      "title": "NASA outlines Moon Base plans, pivots on Gateway",
+      "url": "https://www.nasaspaceflight.com/2026/03/nasa-moon-base-pivots-gateway/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-25-22-12-49-708.jpg",
+      "source": "NASASpaceflight",
       "published_at": "2026-03-25"
     },
     {
-      "id": 37038,
-      "title": "NASA PC-12 Aircraft Makes Move to Support Flight Research Across Agency",
-      "url": "https://www.nasa.gov/image-article/nasa-pc-12-aircraft-makes-move-to-support-flight-research-across-agency/",
-      "image_url": "https://images-assets.nasa.gov/image/AFRC2026-0025-18/AFRC2026-0025-18~large.jpg",
+      "id": 37067,
+      "title": "NASA Ames Experts Available for Artemis II Flight Test Interviews",
+      "url": "https://www.nasa.gov/general/nasa-ames-experts-available-for-artemis-ii-flight-test-interviews/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/iss-blog-nasa-meatball.jpg",
       "source": "NASA",
-      "published_at": "2026-03-24"
+      "published_at": "2026-03-25"
     },
     {
-      "id": 37037,
-      "title": "Geopolitical shifts bring opportunities and headaches for satellite execs",
-      "url": "https://spacenews.com/geopolitical-shifts-bring-opportunities-and-headaches-for-satellite-execs/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Satellite-execs-Satshow-20262-scaled.jpg?fit=1024%2C777&ssl=1",
+      "id": 37065,
+      "title": "NASA Sets Coverage for First Artemis Crewed Mission Around Moon",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-first-artemis-crewed-mission-around-moon/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/a2crew-7ff19d.jpg",
+      "source": "NASA",
+      "published_at": "2026-03-25"
+    },
+    {
+      "id": 37066,
+      "title": "Space Force weighs launch alternatives as Vulcan faces potential months-long grounding",
+      "url": "https://spacenews.com/space-force-weighs-launch-alternatives-as-vulcan-faces-potential-months-long-grounding/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55090240803_a555b0ee7e_k.jpg?fit=1024%2C683&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-03-24"
+      "published_at": "2026-03-25"
     },
     {
-      "id": 37036,
-      "title": "Reminders of Where We’ve Been, Where We’re Going",
-      "url": "https://www.nasa.gov/image-article/reminders-of-where-weve-been-where-were-going/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/55166159616-92fbcbb330-o.jpg",
+      "id": 37061,
+      "title": "NASA Sets Coverage for Artemis II Moon Mission",
+      "url": "https://www.nasa.gov/missions/artemis/artemis-2/nasa-sets-coverage-for-artemis-ii-moon-mission/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/a2crew.jpg",
       "source": "NASA",
-      "published_at": "2026-03-24"
-    },
-    {
-      "id": 37035,
-      "title": "3 Ways Students Can Get Involved With Artemis",
-      "url": "https://www.nasa.gov/learning-resources/3-ways-students-can-get-involved-with-artemis/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/53799655822-2bf7127061-o-1.jpg",
-      "source": "NASA",
-      "published_at": "2026-03-24"
-    },
-    {
-      "id": 37033,
-      "title": "NASA X-Ray Mission Gets Fresh Look at 2,000-Year-Old Supernova",
-      "url": "https://www.nasa.gov/image-article/nasa-x-ray-mission-gets-fresh-look-at-2000-year-old-supernova/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/rcw86-xray-ixpe-optical.jpg",
-      "source": "NASA",
-      "published_at": "2026-03-24"
-    },
-    {
-      "id": 37032,
-      "title": "Moog taps Redwire to provide solar arrays for Meteor",
-      "url": "https://spacenews.com/moog-taps-redwire-to-provide-solar-arrays-for-meteor/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/redwire-elsa.jpeg?fit=1024%2C576&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-03-24"
+      "published_at": "2026-03-25"
     }
   ]
 }
