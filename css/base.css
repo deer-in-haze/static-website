@@ -17,10 +17,47 @@ body {
 /* BODY END */
 
 
-/* FOCUS */
-/* Visible focus ring for keyboard navigation */
-.btn:focus-visible {
-    outline: 2px solid var(--event-circle-colour);
-    outline-offset: 2px;
+/* ACCESSIBILITY */
+
+/* Visible focus ring for all interactive elements — keyboard navigation */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+    outline: 3px solid var(--event-circle-colour);
+    outline-offset: 3px;
 }
-/* FOCUS END */
+
+/* Hides content visually while keeping it readable by screen readers */
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    border: 0;
+    white-space: nowrap;
+}
+
+/* Skip link — hidden off-screen until focused, then slides into view */
+.skip-link {
+    position: absolute;
+    left: -9999px;
+    top: 0;
+    padding: 0.6rem 0.8rem;
+    background: rgba(20, 25, 40, 0);
+    color: var(--text-main);
+    border: var(--glass-border);
+    border-radius: var(--glass-border-radius);
+    z-index: 9999;
+}
+
+.skip-link:focus {
+    left: 50%;
+    top: 1rem;
+    transform: translateX(-50%);
+}
+/* ACCESSIBILITY END */
