@@ -1,5 +1,8 @@
+/* styles.css — entry point: imports all stylesheets in dependency order */
+
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap");
 @import url("base.css");
-@import url("theme.css");
+@import url("variables.css");
 @import url("layout.css");
 @import url("modals.css");
 @import url("animations.css");

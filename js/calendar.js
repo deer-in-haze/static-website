@@ -1,131 +1,141 @@
-// calendar.js
-let currentYear;
-let currentMonthIndex;
+// calendar.js — builds the monthly sky-events calendar grid and wires up month navigation
 
-let skyEvents = [];
-let eventsByDate = new Map();
+(() => {
+    let currentYear;
+    let currentMonthIndex;
+    let eventsByDate = new Map();
 
-async function loadSkyEvents() {
-    const response = await fetch("./data/skycal.json");
-    if (!response.ok) throw new Error("failed to load ./data/skycal.json");
-    skyEvents = await response.json();
+    // ── Data loading ──────────────────────────────────────────────────────────
 
-    eventsByDate = new Map();
-    for (const ev of skyEvents) {
-        if (!eventsByDate.has(ev.date)) eventsByDate.set(ev.date, []);
-        eventsByDate.get(ev.date).push(ev);
+    async function loadSkyEvents() {
+        const res = await fetch("./data/skycal.json");
+        if (!res.ok) throw new Error("failed to load ./data/skycal.json");
+
+        const events = await res.json();
+
+        eventsByDate = new Map();
+        for (const ev of events) {
+            if (!eventsByDate.has(ev.date)) eventsByDate.set(ev.date, []);
+            eventsByDate.get(ev.date).push(ev);
+        }
     }
-}
 
-function renderCalendar(year, monthIndex) {
-    const grid = document.getElementById("calendarGrid");
-    const title = document.getElementById("monthTitle");
-    if (!grid || !title) return;
+    // ── Rendering ─────────────────────────────────────────────────────────────
 
-    grid.innerHTML = "";
+    function renderCalendar(year, monthIndex) {
+        const grid  = document.getElementById("calendarGrid");
+        const title = document.getElementById("monthTitle");
+        if (!grid || !title) return;
 
-    const monthName = new Date(year, monthIndex).toLocaleString("default", { month: "long" });
-    title.textContent = `${monthName} ${year}`;
+        grid.innerHTML = "";
 
-    const firstDate = new Date(year, monthIndex, 1);
-    const mondayIndex = (firstDate.getDay() + 6) % 7;
-    const daysInMonth = new Date(year, monthIndex + 1, 0).getDate();
+        const monthName = new Date(year, monthIndex).toLocaleString("default", { month: "long" });
+        title.textContent = `${monthName} ${year}`;
 
-    for (let i = 0; i < mondayIndex; i++) grid.appendChild(createEmptyCell());
-    for (let day = 1; day <= daysInMonth; day++) grid.appendChild(createDayCell(year, monthIndex, day));
+        const firstDay    = new Date(year, monthIndex, 1);
+        const leadingDays = (firstDay.getDay() + 6) % 7; // shift Sunday-first to Monday-first
+        const daysInMonth = new Date(year, monthIndex + 1, 0).getDate();
 
-    const totalCells = mondayIndex + daysInMonth;
-    const remaining = (7 - (totalCells % 7)) % 7;
-    for (let i = 0; i < remaining; i++) grid.appendChild(createEmptyCell());
-}
+        for (let i = 0; i < leadingDays; i++) grid.appendChild(createEmptyCell());
+        for (let day = 1; day <= daysInMonth; day++) grid.appendChild(createDayCell(year, monthIndex, day));
 
-function toIsoDate(year, monthIndex, day) {
-    const mm = String(monthIndex + 1).padStart(2, "0");
-    const dd = String(day).padStart(2, "0");
-    return `${year}-${mm}-${dd}`;
-}
+        const totalCells = leadingDays + daysInMonth;
+        const trailingDays = (7 - (totalCells % 7)) % 7;
+        for (let i = 0; i < trailingDays; i++) grid.appendChild(createEmptyCell());
+    }
 
-function createDayCell(year, monthIndex, day) {
-    const cell = document.createElement("div");
-    cell.className = "calendar-day";
+    function createEmptyCell() {
+        const cell = document.createElement("div");
+        cell.className = "calendar-day";
+        cell.style.visibility = "hidden";
+        return cell;
+    }
 
-    const iso = toIsoDate(year, monthIndex, day);
-    const todaysEvents = eventsByDate.get(iso) ?? [];
+    function createDayCell(year, monthIndex, day) {
+        const cell = document.createElement("div");
+        cell.className = "calendar-day";
 
-    const dayNumber = document.createElement("div");
-    dayNumber.className = "day-number";
-    dayNumber.textContent = day;
-    cell.appendChild(dayNumber);
+        const iso    = toIsoDate(year, monthIndex, day);
+        const events = eventsByDate.get(iso) ?? [];
 
-    if (todaysEvents.length > 0) {
+        const dayNumber = document.createElement("div");
+        dayNumber.className = "day-number";
+        dayNumber.textContent = day;
+        cell.appendChild(dayNumber);
+
+        if (events.length > 0) {
+            cell.appendChild(createEventTags(events));
+            cell.style.cursor = "pointer";
+            cell.title = events.map((e) => e.title).join(" • ");
+            cell.addEventListener("click", () => window.openEventModal(iso, events));
+        }
+
+        return cell;
+    }
+
+    function createEventTags(events) {
+        const MAX_VISIBLE = 2;
         const tags = document.createElement("div");
         tags.className = "event-tags";
 
-        const maxTags = 2;
-        todaysEvents.slice(0, maxTags).forEach((ev) => tags.appendChild(createTypeBadge(ev.type)));
+        events.slice(0, MAX_VISIBLE).forEach((ev) => tags.appendChild(createTypeBadge(ev.type)));
 
-        if (todaysEvents.length > maxTags) {
+        if (events.length > MAX_VISIBLE) {
             const more = document.createElement("span");
             more.className = "calendar-event-badge calendar-event-badge--more";
-            more.textContent = `+${todaysEvents.length - maxTags}`;
+            more.textContent = `+${events.length - MAX_VISIBLE}`;
             tags.appendChild(more);
         }
 
-        cell.appendChild(tags);
-
-        cell.style.cursor = "pointer";
-        cell.addEventListener("click", () => window.openEventModal(iso, todaysEvents));
-        cell.title = todaysEvents.map((e) => e.title).join(" • ");
+        return tags;
     }
 
-    return cell;
-}
-
-function createEmptyCell() {
-    const cell = document.createElement("div");
-    cell.className = "calendar-day";
-    cell.style.visibility = "hidden";
-    return cell;
-}
-
-function changeMonth(delta) {
-    currentMonthIndex += delta;
-
-    if (currentMonthIndex < 0) {
-        currentMonthIndex = 11;
-        currentYear -= 1;
-    } else if (currentMonthIndex > 11) {
-        currentMonthIndex = 0;
-        currentYear += 1;
+    function createTypeBadge(type) {
+        const safeType = String(type ?? "").toLowerCase().replace(/[^a-z0-9_-]/g, "");
+        const span = document.createElement("span");
+        span.className = `calendar-event-badge calendar-event-badge--${safeType}`;
+        span.textContent = window.helper.typeLabel(type);
+        return span;
     }
 
-    renderCalendar(currentYear, currentMonthIndex);
-}
+    // ── Navigation ────────────────────────────────────────────────────────────
 
-function createTypeBadge(type) {
-    const span = document.createElement("span");
+    function changeMonth(delta) {
+        currentMonthIndex += delta;
 
-    const safeType = String(type ?? "").toLowerCase().replace(/[^a-z0-9_-]/g, "");
+        if (currentMonthIndex < 0) {
+            currentMonthIndex = 11;
+            currentYear -= 1;
+        } else if (currentMonthIndex > 11) {
+            currentMonthIndex = 0;
+            currentYear += 1;
+        }
 
-    span.className = `calendar-event-badge calendar-event-badge--${safeType}`;
-    span.textContent = window.helper.typeLabel(type);
+        renderCalendar(currentYear, currentMonthIndex);
+    }
 
-    return span;
-}
+    // ── Helpers ───────────────────────────────────────────────────────────────
 
+    function toIsoDate(year, monthIndex, day) {
+        const mm = String(monthIndex + 1).padStart(2, "0");
+        const dd = String(day).padStart(2, "0");
+        return `${year}-${mm}-${dd}`;
+    }
 
-async function init_calendar() {
-    const now = new Date();
-    currentYear = now.getFullYear();
-    currentMonthIndex = now.getMonth();
+    // ── Init (called from main.js after the calendar partial is injected) ─────
 
-    await loadSkyEvents();
+    async function init_calendar() {
+        const now = new Date();
+        currentYear       = now.getFullYear();
+        currentMonthIndex = now.getMonth();
 
-    const prevBtn = document.getElementById("prevMonthBtn");
-    const nextBtn = document.getElementById("nextMonthBtn");
+        await loadSkyEvents();
 
-    if (prevBtn) prevBtn.addEventListener("click", () => changeMonth(-1));
-    if (nextBtn) nextBtn.addEventListener("click", () => changeMonth(1));
+        document.getElementById("prevMonthBtn")?.addEventListener("click", () => changeMonth(-1));
+        document.getElementById("nextMonthBtn")?.addEventListener("click", () => changeMonth(1));
 
-    renderCalendar(currentYear, currentMonthIndex);
-}
+        renderCalendar(currentYear, currentMonthIndex);
+    }
+
+    window.init_calendar = init_calendar;
+})();

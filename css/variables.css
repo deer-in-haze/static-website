@@ -1,0 +1,518 @@
+/* variables.css — design tokens (:root) and component-level glass styles */
+
+/* DESIGN TOKENS */
+:root {
+    /* Colours & glass effect */
+    --bg-main:              url("../images/main_background.svg");
+    --glass-colour:         rgba(20, 25, 40, 0.4);
+    --glass-colour-hover:   rgba(20, 25, 40, 0.6);
+    --event-circle-colour:  rgb(154, 166, 255);
+
+    --glass-blur:       blur(1px);
+    --glass-super-blur: blur(3px);  /* used on modals for stronger frosting */
+
+    /* Text */
+    --text-main: #eaeaf0;
+    --text-sub:  #dddcd7;
+
+    /* Typography */
+    --font-size-l:  1.25rem;
+    --font-size-m:  1rem;
+    --font-size-s:  0.875rem;
+    --font-size-xs: 0.75rem;
+
+    --font-weight-l: 600;
+    --font-weight-m: 500;
+
+    --line-height-m: 1.5;
+
+    /* Padding — directional (used for small inline elements) */
+    --pad-m-y: 0.5em;
+    --pad-m-x: 0.9em;
+
+    --pad-s-y: 0.4em;
+    --pad-s-x: 0.75em;
+
+    --pad-xs-y: 0.3em;
+    --pad-xs-x: 0.6em;
+
+    /* Padding — shorthand (used for sections and components) */
+    --pad-section: 3rem 0;
+    --pad-form:    0.6rem 0.7rem;
+    --pad-news:    0.5rem 0.75rem;
+
+    --pad-l:  2rem;
+    --pad-m:  1.5rem;
+    --pad-s:  1rem;
+    --pad-xs: 0.5rem;
+
+    /* Margin */
+    --margin-l: 3rem;
+    --margin-m: 1.5rem;
+    --margin-s: 1rem;
+
+    /* Gap (flex/grid spacing) */
+    --gap-l: 1.25rem;
+    --gap-m: 0.75rem;
+    --gap-s: 0.35rem;
+
+    /* Width constraints */
+    --width-xl: 1400px;
+    --width-l:  1200px;
+    --width-m:  900px;
+    --width-s:  700px;
+
+    /* Heights */
+    --height-m: 220px;
+    --height-s: 120px;
+
+    --min-height-m: 4rem;
+    --min-height-s: 3rem;
+
+    /* Component-specific sizes */
+    --navbar-height:      4.5rem;
+    --card-picture-height: 31.25rem;
+
+    /* Borders */
+    --glass-border:        1px solid rgba(178, 184, 197, 0.38);
+    --glass-border-hover:  1px solid rgba(20, 25, 40, 0.6);
+    --glass-border-radius: 10px;
+
+    --button-padding: 6px 10px;
+
+    --calendar-divider-colour: rgba(255, 255, 255, 0.12);
+}
+/* DESIGN TOKENS END */
+
+
+/* NAVBAR */
+#navbar {
+    background: var(--glass-colour);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    color: var(--text-main);
+    height: var(--navbar-height);
+}
+
+#navbar a.navbar-brand,
+#navbar a.nav-link {
+    color: var(--text-main);
+}
+
+.navbar-logo {
+    height: 2.5rem;
+    width: auto;
+    display: block;
+}
+/* NAVBAR END */
+
+
+/* FOOTER */
+#footer {
+    background: var(--glass-colour);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    color: var(--text-main);
+}
+/* FOOTER END */
+
+
+/* HERO */
+#homepage-hero {
+    background: var(--glass-colour);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    border-top: var(--glass-border);
+    border-bottom: var(--glass-border);
+    color: var(--text-main);
+}
+
+.hero-links {
+    padding-top: var(--pad-m);
+}
+
+.hero-links a,
+.hero-links span {
+    text-decoration: none;
+    color: var(--text-main);
+    font-size: var(--font-size-l);
+}
+/* HERO END */
+
+
+/* NEWS */
+.hero-news {
+    margin-top: var(--margin-s);
+    padding: var(--pad-s);
+    border: var(--glass-border);
+    border-radius: var(--glass-border-radius);
+    background: var(--glass-colour);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    text-align: left;
+}
+
+.hero-news-title {
+    font-weight: var(--font-weight-l);
+    margin-bottom: var(--gap-l);
+    color: var(--text-main);
+}
+
+/* Each news item is a link row separated by a subtle divider */
+.hero-news-item {
+    display: block;
+    padding: 0.6rem 0;
+    text-decoration: none;
+    color: var(--text-main);
+    border-top: 1px solid var(--calendar-divider-colour);
+}
+
+.hero-news-item:first-child {
+    border-top: 0;
+}
+
+.hero-news-item-title {
+    font-weight: var(--font-weight-l);
+    line-height: var(--line-height-m);
+}
+
+.hero-news-item-meta {
+    margin-top: 0.2rem;
+    font-size: var(--font-size-s);
+    color: var(--text-sub);
+}
+/* NEWS END */
+
+
+/* CARDS */
+#homepage-cards .card {
+    background: var(--glass-colour);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    border: var(--glass-border);
+    color: var(--text-main);
+}
+
+#homepage-cards .btn {
+    background: var(--glass-colour);
+    border: var(--glass-border);
+    color: var(--text-main);
+}
+
+#homepage-cards .btn:hover {
+    background: var(--glass-colour-hover);
+    border: var(--glass-border-hover);
+}
+
+#homepage-cards .btn:active {
+    background: var(--glass-colour);
+}
+/* CARDS END */
+
+
+/* CALENDAR */
+.calendar-day {
+    position: relative;
+    min-height: var(--min-height-m);
+    padding: var(--pad-xs);
+    display: flex;
+    flex-direction: column;
+    gap: var(--gap-s);
+    border: var(--glass-border);
+    border-radius: var(--glass-border-radius);
+}
+
+.calendar-day .day-number {
+    font-weight: var(--font-weight-l);
+}
+
+.calendar-day .event-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--gap-s);
+}
+
+.calendar-day .event-tags .badge {
+    font-size: 0.7rem;
+    line-height: 1;
+    padding: 0.35em 0.5em;
+}
+/* CALENDAR END */
+
+
+/* MODAL */
+.modal-content {
+    background: var(--glass-colour);
+    backdrop-filter: var(--glass-super-blur);
+    -webkit-backdrop-filter: var(--glass-super-blur);
+    border: var(--glass-border);
+    color: var(--text-main);
+}
+/* MODAL END */
+
+
+/* GLOSSARY */
+.glossary-controls {
+    display: flex;
+    flex-direction: column;
+    gap: var(--gap-l);
+    margin-bottom: var(--margin-m);
+}
+
+.glossary-search-wrap {
+    position: relative;
+}
+
+/* Search input inherits glass theme */
+.glossary-search-wrap input {
+    width: 100%;
+    padding: var(--pad-form);
+    background: var(--glass-colour);
+    color: var(--text-main);
+    border: var(--glass-border);
+    border-radius: var(--glass-border-radius);
+    font-size: var(--font-size-m);
+}
+
+.glossary-search-wrap input::placeholder {
+    color: var(--text-sub);
+    opacity: 0.7;
+}
+
+.glossary-search-wrap input:focus {
+    outline: none;
+    border-color: var(--event-circle-colour);
+    box-shadow: 0 0 0 2px rgba(154, 166, 255, 0.25);
+}
+
+/* Category filter row */
+.glossary-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--gap-m);
+    align-items: center;
+}
+
+.glossary-filter-btn {
+    padding: var(--pad-s-y) var(--pad-s-x);
+    background: var(--glass-colour);
+    color: var(--text-main);
+    border: var(--glass-border);
+    border-radius: var(--glass-border-radius);
+    font-size: var(--font-size-s);
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.glossary-filter-btn:hover {
+    background: var(--glass-colour-hover);
+}
+
+/* Active filter is highlighted with the accent colour */
+.glossary-filter-btn.active {
+    border-color: var(--event-circle-colour);
+    box-shadow: 0 0 0 1px var(--event-circle-colour);
+}
+
+.glossary-count {
+    font-size: var(--font-size-s);
+    color: var(--text-sub);
+    margin-left: auto;
+}
+
+/* 3-column grid of term cards */
+.glossary-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--gap-l);
+}
+
+@media (max-width: 900px) {
+    .glossary-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 700px) {
+    .glossary-grid { grid-template-columns: 1fr; }
+}
+
+.glossary-card {
+    background: var(--glass-colour);
+    border: var(--glass-border);
+    border-radius: var(--glass-border-radius);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    padding: var(--pad-s);
+    display: flex;
+    flex-direction: column;
+    gap: var(--gap-m);
+}
+
+.glossary-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: var(--gap-m);
+}
+
+.glossary-term {
+    margin: 0;
+    font-size: var(--font-size-l);
+    font-weight: var(--font-weight-l);
+    color: var(--text-main);
+}
+
+.glossary-definition {
+    margin: 0;
+    font-size: var(--font-size-s);
+    color: var(--text-sub);
+    line-height: var(--line-height-m);
+}
+
+.glossary-empty {
+    color: var(--text-sub);
+    font-size: var(--font-size-s);
+    grid-column: 1 / -1;
+}
+
+/* Category badges — colour-coded to match the event badges */
+.glossary-badge {
+    display: inline-block;
+    padding: 0.25em 0.6em;
+    font-size: var(--font-size-xs);
+    font-weight: var(--font-weight-l);
+    border-radius: var(--glass-border-radius);
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.glossary-badge--orbital      { background: #0d6efd; color: white; }
+.glossary-badge--navigation   { background: #198754; color: white; }
+.glossary-badge--measurement  { background: #0dcaf0; color: black; }
+.glossary-badge--physics      { background: #ffc107; color: black; }
+.glossary-badge--objects      { background: #6c757d; color: white; }
+/* GLOSSARY END */
+
+
+/* SUGGESTION BOX */
+.suggestion-box {
+    max-width: var(--width-s);
+    margin: var(--margin-l) auto;
+    padding: var(--pad-m);
+    background: var(--glass-colour);
+    border: var(--glass-border);
+    border-radius: var(--glass-border-radius);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+}
+
+.suggestion-title {
+    text-align: center;
+    margin-bottom: var(--margin-m);
+    color: var(--text-main);
+}
+
+/* Override Bootstrap form controls to match glass theme */
+.suggestion-box .form-label {
+    font-size: var(--font-size-s);
+    color: var(--text-sub);
+}
+
+.suggestion-box .form-control,
+.suggestion-box .form-select {
+    background: var(--glass-colour);
+    color: var(--text-main);
+    border: var(--glass-border);
+    border-radius: var(--glass-border-radius);
+    font-size: var(--font-size-m);
+}
+
+.suggestion-box .form-control:focus,
+.suggestion-box .form-select:focus {
+    background: var(--glass-colour-hover);
+    color: var(--text-main);
+    border-color: var(--event-circle-colour);
+    box-shadow: 0 0 0 2px rgba(154, 166, 255, 0.25);
+}
+
+/* Dropdown options need a solid background to be readable */
+.suggestion-box .form-select option {
+    background: #141928;
+    color: var(--text-main);
+}
+
+.suggestion-box .form-control::placeholder {
+    color: var(--text-sub);
+    opacity: 0.7;
+}
+
+.suggestion-box textarea.form-control {
+    resize: vertical;
+    min-height: var(--height-s);
+}
+
+/* Radio rating buttons styled as pill toggles */
+.rating-group {
+    display: flex;
+    gap: var(--gap-m);
+    flex-wrap: wrap;
+}
+
+.rating-group .form-check {
+    display: flex;
+    align-items: center;
+    gap: var(--gap-s);
+    padding: var(--pad-s-y) var(--pad-s-x);
+    background: var(--glass-colour);
+    border: var(--glass-border);
+    border-radius: var(--glass-border-radius);
+    cursor: pointer;
+    margin: 0;
+}
+
+.rating-group .form-check-input {
+    margin: 0;
+}
+
+.rating-group .form-check-label {
+    color: var(--text-main);
+    cursor: pointer;
+    margin: 0;
+}
+
+/* Success message shown after form submission */
+#suggestion-success {
+    display: none;
+    padding: var(--pad-s);
+    border: var(--glass-border);
+    border-radius: var(--glass-border-radius);
+    background: rgba(13, 202, 240, 0.15);
+    color: var(--text-main);
+    text-align: center;
+}
+/* SUGGESTION BOX END */
+
+
+/* APOD */
+#sky {
+    width: 100%;
+    height: 80vh;
+    border: 0;
+    display: block;
+}
+
+.apod-controls {
+    display: flex;
+    align-items: flex-end;
+}
+
+.apod-btn {
+    background: var(--glass-colour);
+    color: var(--text-main);
+    border: var(--glass-border);
+    border-radius: var(--glass-border-radius);
+}
+
+.apod-link {
+    color: var(--text-main);
+}
+/* APOD END */

@@ -1,7 +1,6 @@
-console.log("JS loaded");
+// main.js — loads shared partials (navbar, calendar, footer) then boots the calendar
 
 function getBasePath() {
-
     const parts = window.location.pathname.split("/").filter(Boolean);
     return parts.length > 0 ? `/${parts[0]}` : "";
 }
@@ -16,10 +15,10 @@ async function loadPartial(id, pathFromBase) {
     }
 
     const url = `${base}${pathFromBase}`;
-    const r = await fetch(url);
-    if (!r.ok) throw new Error(`failed to load ${url} (${r.status})`);
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`failed to load ${url} (${res.status})`);
 
-    el.innerHTML = await r.text();
+    el.innerHTML = await res.text();
 }
 
 document.addEventListener("DOMContentLoaded", async () => {

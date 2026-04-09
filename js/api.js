@@ -1,3 +1,6 @@
+// api.js — builds API request URLs used by other modules
+
+// Constructs the USNO one-day rise/set/twilight URL for the given coordinates
 function build_usno_url(coordinates) {
     const timezone = -new Date().getTimezoneOffset() / 60; // east-positive
     const now = new Date();

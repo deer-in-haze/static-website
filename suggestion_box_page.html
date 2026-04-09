@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>ASTRAEUS | Suggestion Box</title>
+
+  <meta name="description" content="Send feedback and suggestions about the ASTRAEUS astronomy website. Share your ideas and help improve the platform.">
+  <meta name="keywords" content="suggestion box, feedback form, astronomy website, user feedback, contact form, space project">
+  <meta name="author" content="Miglė Lukoševičiūtė">
+  <meta name="robots" content="index, follow">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="ASTRAEUS | Suggestion Box">
+  <meta property="og:description" content="Submit your feedback and ideas for improving the ASTRAEUS astronomy website.">
+  <meta property="og:type" content="website">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+  <!-- Navbar injected by main.js from partials/navbar.html -->
+  <nav id="navbar" class="navbar navbar-expand-lg fixed-top"></nav>
+
+  <!-- SUGGESTION BOX: user feedback form -->
+  <main class="py-5">
+    <section class="suggestion-box">
+
+      <h1 class="suggestion-title">Suggestion Box</h1>
+
+      <!-- Form hides itself on submit and shows success message instead -->
+      <form id="suggestion-form" novalidate>
+
+        <!-- Name field -->
+        <div class="mb-3">
+          <label for="name" class="form-label">Your Name</label>
+          <input
+            type="text"
+            class="form-control"
+            id="name"
+            name="name"
+            placeholder="Enter your name"
+            required
+          >
+        </div>
+
+        <!-- Email field -->
+        <div class="mb-3">
+          <label for="email" class="form-label">Email Address</label>
+          <input
+            type="email"
+            class="form-control"
+            id="email"
+            name="email"
+            placeholder="you@example.com"
+            required
+          >
+        </div>
+
+        <!-- Category dropdown -->
+        <div class="mb-3">
+          <label for="category" class="form-label">Suggestion Type</label>
+          <select class="form-select" id="category" name="category" required>
+            <option value="">Choose one...</option>
+            <option>Website</option>
+            <option>Content</option>
+            <option>Design</option>
+            <option>Feature</option>
+            <option>Other</option>
+          </select>
+        </div>
+
+        <!-- Message textarea -->
+        <div class="mb-3">
+          <label for="message" class="form-label">Your Suggestion</label>
+          <textarea
+            class="form-control"
+            id="message"
+            name="message"
+            rows="5"
+            placeholder="Write your suggestion here..."
+            required
+          ></textarea>
+        </div>
+
+        <!-- Rating radio group -->
+        <div class="mb-4">
+          <label class="form-label d-block">How helpful is our site?</label>
+          <div class="rating-group">
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="rating" id="rating1" value="1" required>
+              <label class="form-check-label" for="rating1">1</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="rating" id="rating2" value="2">
+              <label class="form-check-label" for="rating2">2</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="rating" id="rating3" value="3">
+              <label class="form-check-label" for="rating3">3</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="rating" id="rating4" value="4">
+              <label class="form-check-label" for="rating4">4</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="rating" id="rating5" value="5">
+              <label class="form-check-label" for="rating5">5</label>
+            </div>
+          </div>
+        </div>
+
+        <!-- Submit button — event handled by suggestion_box.js -->
+        <div class="d-flex justify-content-end">
+          <button type="submit" class="btn btn-primary">
+            Send Suggestion
+          </button>
+        </div>
+
+      </form>
+
+      <!-- Shown by suggestion_box.js after successful submission -->
+      <div id="suggestion-success">
+        Thank you for your suggestion! We appreciate your feedback.
+      </div>
+
+    </section>
+  </main>
+
+  <!-- Footer injected by main.js from partials/footer.html -->
+  <div id="footer"></div>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Shared utilities -->
+  <script src="./js/api.js"></script>
+  <script src="./js/user.js"></script>
+  <script src="./js/helper.js"></script>
+
+  <!-- Page-specific: form submit handler -->
+  <script src="./js/suggestion_box.js"></script>
+
+  <!-- Page bootstrap: loads navbar and footer partials -->
+  <script src="./js/main.js"></script>
+
+</body>
+</html>

@@ -1,9 +1,11 @@
-// js/hero_news.js
+// hero_news.js — fetches space_news.json and renders the latest headlines in the hero section
+
 (() => {
     const listEl = document.getElementById("hero-news-list");
     if (!listEl) return;
 
-    const resolveUrl = (p) => new URL(p, document.baseURI).href;
+    const esc = window.helper.escapeHtml;
+    const resolveUrl = (path) => new URL(path, document.baseURI).href;
 
     async function load() {
         try {
@@ -18,28 +20,17 @@
 
             listEl.innerHTML = items
                 .slice(0, 5)
-                .map(
-                    (n) => `
-          <a class="hero-news-item" href="${n.url}" target="_blank" rel="noopener">
-            <div class="hero-news-item-title">${escapeHtml(n.title)}</div>
-            <div class="hero-news-item-meta">${escapeHtml(n.source)} • ${escapeHtml(n.published_at)}</div>
-          </a>
-        `
-                )
+                .map((n) => `
+                    <a class="hero-news-item" href="${n.url}" target="_blank" rel="noopener">
+                        <div class="hero-news-item-title">${esc(n.title)}</div>
+                        <div class="hero-news-item-meta">${esc(n.source)} • ${esc(n.published_at)}</div>
+                    </a>
+                `)
                 .join("");
         } catch (e) {
             console.error(e);
             listEl.textContent = "Could not load news.";
         }
-    }
-
-    function escapeHtml(s) {
-        return String(s ?? "")
-            .replaceAll("&", "&amp;")
-            .replaceAll("<", "&lt;")
-            .replaceAll(">", "&gt;")
-            .replaceAll('"', "&quot;")
-            .replaceAll("'", "&#039;");
     }
 
     load();

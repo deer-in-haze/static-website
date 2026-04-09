@@ -1,17 +1,37 @@
+/* modals.css — Bootstrap event modal overrides and calendar event card styles */
+
+/* EVENT MODAL */
 #eventModal .modal-content {
     background: var(--glass-colour);
     backdrop-filter: var(--glass-blur);
     -webkit-backdrop-filter: var(--glass-blur);
 }
+
 #eventModal .modal-title {
     color: var(--text-main);
 }
 
+/* Close button uses a red-tinted glass style */
+#eventModal .modal-footer .btn {
+    background: rgba(232, 13, 13, 0.37);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    color: var(--text-main);
+    border: var(--glass-border);
+    border-radius: var(--glass-border-radius);
+    padding: var(--pad-m-y) var(--pad-m-x);
+    font-size: var(--font-size-s);
+    transition: all 0.2s ease;
+}
+/* EVENT MODAL END */
+
+
+/* EVENT CARD */
 .calendar-event-card {
-    padding: var(--modal-padding);
+    padding: var(--pad-s);
     border-radius: var(--glass-border-radius);
     border: var(--glass-border);
-    margin-bottom: var(--modal-margin-bottom);
+    margin-bottom: var(--gap-m);
     background: var(--glass-colour);
     backdrop-filter: var(--glass-blur);
     -webkit-backdrop-filter: var(--glass-blur);
@@ -25,11 +45,11 @@
 
 .calendar-event-title {
     color: var(--text-main);
-    font-weight: 600;
+    font-weight: var(--font-weight-l);
 }
 
 .calendar-event-meta {
-    font-size: 0.9rem;
+    font-size: var(--font-size-s);
     margin-top: 2px;
     color: var(--text-sub);
 }
@@ -38,7 +58,7 @@
     display: flex;
     flex-direction: column;
     align-items: flex-end;
-    gap: 10px;
+    gap: var(--gap-m);
 }
 
 .add-to-google-calendar-btn {
@@ -47,23 +67,24 @@
     border: var(--glass-border);
     text-decoration: none;
     color: var(--text-main);
-    font-size: 0.8rem;
-    white-space: nowrap;   /* prevent line breaks */
+    font-size: var(--font-size-xs);
+    white-space: nowrap;
     display: inline-flex;
 }
 
 .calendar-event-description {
-    margin-top: var(--modal-margin-top);
+    margin-top: var(--pad-xs);
 }
 
+/* Thin rule separating description from detail rows */
 .calendar-event-divider {
     height: 1px;
     background: var(--calendar-divider-colour);
-    margin: 12px 0;
+    margin: var(--gap-m) 0;
 }
 
 .calendar-event-details {
-    font-size: 0.9rem;
+    font-size: var(--font-size-s);
 }
 
 .calendar-event-detail-row {
@@ -75,44 +96,27 @@
     opacity: 0.7;
     margin-right: 6px;
 }
+/* EVENT CARD END */
 
+
+/* EVENT BADGES */
 .calendar-event-badge {
     display: inline-block;
-    padding: .35em .65em;
+    padding: 0.35em 0.65em;
     font-size: var(--font-size-xs);
     font-weight: 700;
     line-height: 1;
-    border-radius: .375rem;
+    border-radius: 0.375rem;
     vertical-align: baseline;
 }
 
-.calendar-event-badge--more {
-    background: var(--glass-colour);
-    color: var(--text-main);
-}
-
-.calendar-event-badge--meteor_shower { background: #0dcaf0; color: black; }
-.calendar-event-badge--moon_phase    { background: #f8f9fa; color: black; }
-.calendar-event-badge--solar_eclipse { background: #ffc107; color: black; }
-.calendar-event-badge--lunar_eclipse { background: #0d6efd; color: white; }
-.calendar-event-badge--opposition    { background: #0d6efd; color: white; }
-.calendar-event-badge--conjunction   { background: #198754; color: white; }
-.calendar-event-badge--seasonal      { background: #6c757d; color: white; }
-
-#eventModal .modal-footer .btn {
-    background: rgba(232, 13, 13, 0.37);
-    backdrop-filter: var(--glass-blur);
-    -webkit-backdrop-filter: var(--glass-blur);
-
-    color: var(--text-main);
-
-    border: var(--glass-border);
-    border-radius: var(--glass-border-radius);
-
-    padding: var(--pad-m-y) var(--pad-m-x);
-
-    font-size: var(--font-size-s);
-
-    transition: all 0.2s ease;
-}
-
+/* Colour-coded by event type */
+.calendar-event-badge--more           { background: var(--glass-colour); color: var(--text-main); }
+.calendar-event-badge--meteor_shower  { background: #0dcaf0; color: black; }
+.calendar-event-badge--moon_phase     { background: #f8f9fa; color: black; }
+.calendar-event-badge--solar_eclipse  { background: #ffc107; color: black; }
+.calendar-event-badge--lunar_eclipse  { background: #0d6efd; color: white; }
+.calendar-event-badge--opposition     { background: #0d6efd; color: white; }
+.calendar-event-badge--conjunction    { background: #198754; color: white; }
+.calendar-event-badge--seasonal       { background: #6c757d; color: white; }
+/* EVENT BADGES END */

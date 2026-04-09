@@ -1,4 +1,6 @@
-const default_coords = { lat: 54.6872, lon: 25.2797 }; // vilnius
+// user.js — geolocation helper with a Vilnius fallback
+
+const default_coords = { lat: 54.6872, lon: 25.2797 }; // fallback when geolocation is unavailable
 
 function get_user_location() {
     return new Promise((resolve, reject) => {

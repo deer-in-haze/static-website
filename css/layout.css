@@ -1,15 +1,29 @@
+/* layout.css — structural layout rules and responsive breakpoints */
+
+/* NAVBAR */
 .hamburger {
     width: 28px;
     height: 28px;
     display: block;
 }
 
+/* Keep the fixed navbar flush to both edges */
+#navbar.fixed-top {
+    left: 0;
+    right: 0;
+    z-index: 1030;
+}
+/* NAVBAR END */
+
+
+/* CARDS */
 #homepage-cards .card {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
 }
 
+/* Card image fills the top of the card at a fixed height */
 #homepage-cards .card-img-top {
     width: 100%;
     height: var(--card-picture-height);
@@ -17,27 +31,68 @@
     object-position: center;
     display: block;
 }
+/* CARDS END */
 
+
+/* CALENDAR */
+/* 7-column grid — one column per day of the week */
 #calendarGrid {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
-    gap: var(--calendar-gap);
+    gap: var(--gap-s);
 }
 
 .calendar-day {
     position: relative;
-    min-height: var(--calendar-day-min-height);
-    padding: var(--calendar-day-padding);
+    min-height: var(--min-height-m);
+    padding: var(--pad-xs);
 }
 
 .centeredTitle {
     display: flex;
     justify-content: center;
 }
+/* CALENDAR END */
 
-#navbar.fixed-top {
-    left: 0;
-    right: 0;
-    z-index: 1030;
+
+/* RESPONSIVE */
+
+/* Tablet — 900px and below */
+@media (max-width: 900px) {
+    .calendar-day {
+        min-height: var(--min-height-s);
+        font-size: var(--font-size-s);
+    }
+
+    .calendar-day .event-tags .badge {
+        font-size: 0.6rem;
+    }
 }
 
+/* Mobile — 700px and below */
+@media (max-width: 700px) {
+    /* Prevent fixed background from causing scroll jank on mobile */
+    body {
+        background-attachment: scroll;
+    }
+
+    .calendar-day {
+        min-height: 2.5rem;
+        font-size: var(--font-size-xs);
+        padding: 0.2rem;
+    }
+
+    /* Hide event badges on very small screens to avoid overflow */
+    .calendar-day .event-tags {
+        display: none;
+    }
+
+    #homepage-cards .card-img-top {
+        height: var(--height-m);
+    }
+
+    .hero-news {
+        padding: var(--pad-xs);
+    }
+}
+/* RESPONSIVE END */

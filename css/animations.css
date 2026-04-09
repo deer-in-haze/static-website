@@ -1,5 +1,6 @@
-/* animations.css: transitions, hover, motion */
+/* animations.css — transitions, hover effects, and motion */
 
+/* CARDS */
 #homepage-cards .card {
     transition: all 0.25s ease;
 }
@@ -7,7 +8,10 @@
 #homepage-cards .card:hover {
     transform: translateY(-4px);
 }
+/* CARDS END */
 
+
+/* BUTTONS */
 #homepage-cards .btn {
     transition: all 0.25s ease;
 }
@@ -19,3 +23,4 @@
 #homepage-cards .btn:active {
     transform: translateY(0);
 }
+/* BUTTONS END */
