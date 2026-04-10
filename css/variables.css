@@ -104,6 +104,24 @@
     width: auto;
     display: block;
 }
+
+/* Mobile: give the open dropdown a glass background and right-align items */
+@media (max-width: 991px) {
+    #navbar .navbar-collapse.show,
+    #navbar .navbar-collapse.collapsing {
+        background: var(--glass-colour);
+        backdrop-filter: var(--glass-super-blur);
+        -webkit-backdrop-filter: var(--glass-super-blur);
+        border: var(--glass-border);
+        border-radius: var(--glass-border-radius);
+        padding: var(--pad-xs) var(--pad-s);
+        margin-top: var(--gap-s);
+    }
+
+    #navbar .navbar-nav {
+        align-items: flex-end;
+    }
+}
 /* NAVBAR END */
 
 
