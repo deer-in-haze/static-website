@@ -1,69 +1,69 @@
 {
-  "updated": "2026-04-09T07:19:22.578Z",
+  "updated": "2026-04-10T07:24:58.485Z",
   "items": [
     {
-      "id": 37357,
-      "title": "Snow in the Shadow of the Andes",
-      "url": "https://science.nasa.gov/earth/earth-observatory/snow-in-the-shadow-of-the-andes/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/snow-in-the-shadow-of-the-andes/patagoniasnow_tmo_20260403.jpg",
-      "source": "NASA",
-      "published_at": "2026-04-09"
+      "id": 37386,
+      "title": "Artemis II closing in on Earth return",
+      "url": "https://www.nasaspaceflight.com/2026/04/artemis-ii-closing-earth-return/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-10-05-12-49-784.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-04-10"
     },
     {
-      "id": 37356,
-      "title": "Artemis II Less Than Two Days from Home",
-      "url": "https://spacepolicyonline.com/news/artemis-ii-less-than-two-days-from-home/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-Milky-Way-300x200.jpg",
+      "id": 37385,
+      "title": "Earthset From the Lunar Far Side",
+      "url": "https://science.nasa.gov/earth/earth-observatory/earthset-from-the-lunar-far-side/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg",
+      "source": "NASA",
+      "published_at": "2026-04-10"
+    },
+    {
+      "id": 37384,
+      "title": "Artemis II Getting Ready For Splashdown Tomorrow",
+      "url": "https://spacepolicyonline.com/news/artemis-ii-getting-ready-for-splashdown-tomorrow/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2024/05/Orion-char-OIG-300x135.png",
       "source": "SpacePolicyOnline.com",
+      "published_at": "2026-04-10"
+    },
+    {
+      "id": 37383,
+      "title": "Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)",
+      "url": "https://www.nasa.gov/aeronautics/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2023/07/windshaper-pic-2.png",
+      "source": "NASA",
       "published_at": "2026-04-09"
     },
     {
-      "id": 37355,
-      "title": "Improved thresholds and SSA accuracy can reduce most satellite collision risk",
-      "url": "https://spacenews.com/improved-thresholds-and-ssa-accuracy-can-reduce-most-satellite-collision-risk/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/space-situational-awareness-ESA-scaled.jpg?fit=1024%2C533&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-04-08"
-    },
-    {
-      "id": 37354,
-      "title": "Twin NASA Control Rooms Support Artemis Safety, Success",
-      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/twin-nasa-control-rooms-support-artemis-safety-success/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/dsc-3710.jpg",
+      "id": 37382,
+      "title": "I Am Artemis: Dan Florez",
+      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-dan-florez/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nhq202604070001-copy.jpg",
       "source": "NASA",
-      "published_at": "2026-04-08"
+      "published_at": "2026-04-09"
     },
     {
-      "id": 37353,
-      "title": "Space Sovereignty Is No Longer Optional",
-      "url": "https://spacenews.com/space-sovereignty-is-no-longer-optional/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/04/header-Image-option-3.jpg?fit=1024%2C565&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-04-08"
-    },
-    {
-      "id": 37352,
-      "title": "Solar Eclipse of the Heart",
-      "url": "https://www.nasa.gov/image-article/solar-eclipse-of-the-heart/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e009573orig.jpg",
+      "id": 37381,
+      "title": "Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)",
+      "url": "https://www.nasa.gov/image-article/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/windshaper-pic-1.png",
       "source": "NASA",
-      "published_at": "2026-04-08"
+      "published_at": "2026-04-09"
     },
     {
-      "id": 37351,
-      "title": "April 30: Opportunities for On-Orbit Computing",
-      "url": "https://spacenews.com/opportunities-for-on-orbit-computing-event/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/orbital-data-centers-spacenews-april-2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-04-08"
+      "id": 37380,
+      "title": "Starstruck",
+      "url": "https://www.nasa.gov/image-article/starstruck/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e012588orig.jpg",
+      "source": "NASA",
+      "published_at": "2026-04-09"
     },
     {
-      "id": 37350,
-      "title": "With Orion still flying, NASA is nearing key decisions about Artemis III",
-      "url": "https://arstechnica.com/space/2026/04/with-orion-still-flying-nasa-is-nearing-key-decisions-about-artemis-iii/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/lunar-lander.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-04-08"
+      "id": 37374,
+      "title": "Watching the Artemis II Mission Unfold at JPL’s Space Flight Operations Facility",
+      "url": "https://science.nasa.gov/photojournal/watching-the-artemis-ii-mission-unfold-at-jpls-space-flight-operations-facility/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26747/PIA26747.jpg",
+      "source": "NASA",
+      "published_at": "2026-04-09"
     }
   ]
 }
