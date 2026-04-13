@@ -1,6 +1,38 @@
 {
-  "updated": "2026-04-12T07:11:34.383Z",
+  "updated": "2026-04-13T07:59:57.206Z",
   "items": [
+    {
+      "id": 37451,
+      "title": "Sophia and Kepler to marry orbital compute with optical links",
+      "url": "https://spacenews.com/sophia-and-kepler-to-marry-orbital-compute-with-optical-links/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_sophia_tile_cluster.png?fit=879%2C494&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-04-13"
+    },
+    {
+      "id": 37450,
+      "title": "What’s Happening in Space Policy April 12-18, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-12-18-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-Isaacman-Apr-11-26-welcome-home-300x169.png",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-04-12"
+    },
+    {
+      "id": 37449,
+      "title": "Ship 39 and Booster 19 Roll out for Static Fire Testing",
+      "url": "https://www.nasaspaceflight.com/2026/04/ship-39-booster-19-static-fire/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-12-13-50-27-033.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-04-12"
+    },
+    {
+      "id": 37448,
+      "title": "Rocket Lab wins contract for three more iQPS launches",
+      "url": "https://spacenews.com/rocket-lab-wins-contract-for-three-more-iqps-launches/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/electron-f79.jpeg?fit=1024%2C683&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-04-12"
+    },
     {
       "id": 37447,
       "title": "Artemis II Crew Joyously Back Home in Houston",
@@ -31,38 +63,6 @@
       "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-aboard-northrop-grumman-crs-24/",
       "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/blog-ng24-launch-041126.jpg",
       "source": "NASA",
-      "published_at": "2026-04-11"
-    },
-    {
-      "id": 37443,
-      "title": "Falcon 9 launches CRS NG-24 cargo ship to ISS",
-      "url": "https://www.nasaspaceflight.com/2026/04/crs-ng-24-launch/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_8691-scaled.jpeg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-04-11"
-    },
-    {
-      "id": 37442,
-      "title": "Artemis II Splashes Down",
-      "url": "https://www.nasa.gov/image-article/artemis-ii-splashes-down/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nhq202604100018.jpg",
-      "source": "NASA",
-      "published_at": "2026-04-11"
-    },
-    {
-      "id": 37441,
-      "title": "NASA Cheers First Successful Moon Mission Since 1972",
-      "url": "https://spacepolicyonline.com/news/nasa-cheers-first-successful-moon-mission-since-1972/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-splashdown-NASA-tweet-300x154.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-04-11"
-    },
-    {
-      "id": 37440,
-      "title": "The Artemis II mission has ended. Where does NASA go from here?",
-      "url": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e021278large.jpg",
-      "source": "Arstechnica",
       "published_at": "2026-04-11"
     }
   ]
