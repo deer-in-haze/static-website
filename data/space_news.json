@@ -1,69 +1,69 @@
 {
-  "updated": "2026-04-15T07:28:33.816Z",
+  "updated": "2026-04-16T07:42:52.796Z",
   "items": [
     {
-      "id": 37524,
-      "title": "Contours of the James Bay Lowlands",
-      "url": "https://science.nasa.gov/earth/earth-observatory/contours-of-the-james-bay-lowlands/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/contours-of-the-james-bay-lowlands/ISS074-E-417243.jpg",
+      "id": 37556,
+      "title": "Eyeing the Richat Structure",
+      "url": "https://science.nasa.gov/earth/earth-observatory/eyeing-the-richat-structure/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/eyeing-the-richat-structure/richatstructure_oli_20260306.jpg",
       "source": "NASA",
-      "published_at": "2026-04-15"
+      "published_at": "2026-04-16"
     },
     {
-      "id": 37523,
-      "title": "White House Releases Space Nuclear Initiative",
-      "url": "https://spacepolicyonline.com/news/white-house-releases-space-nuclear-initiative/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/SR1-Ignition-event-300x173.jpg",
+      "id": 37555,
+      "title": "Two New Documents Outline Future Evolution of the U.S. Space Force",
+      "url": "https://spacepolicyonline.com/news/two-new-documents-outline-future-evolution-of-the-u-s-space-force/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/Saltzman-Space-Symp-Apr-15-26-AF-photo-300x231.jpg",
       "source": "SpacePolicyOnline.com",
+      "published_at": "2026-04-16"
+    },
+    {
+      "id": 37554,
+      "title": "Space Force reorg signals end of SDA as standalone agency",
+      "url": "https://spacenews.com/space-force-reorg-signals-end-of-sda-as-standalone-agency/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/SDAT3_LHX-2026.jpg-scaled.jpeg?fit=1024%2C573&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-04-16"
+    },
+    {
+      "id": 37553,
+      "title": "Seraphim forms space advisory council",
+      "url": "https://spacenews.com/seraphim-forms-space-advisory-council/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Cluster-14-Beauty-Shot-Reduced.webp?fit=1024%2C447&ssl=1",
+      "source": "SpaceNews",
       "published_at": "2026-04-15"
     },
     {
-      "id": 37522,
-      "title": "Live Coverage: West Coast SpaceX Falcon 9 mission to launch 25 Starlink satellites",
-      "url": "https://spaceflightnow.com/2026/04/15/west-coast-spacex-falcon-9-mission-to-launch-25-starlink-satellites/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+      "id": 37552,
+      "title": "Expedition 74 sees vehicle departures and a spacewalk during March",
+      "url": "https://www.nasaspaceflight.com/2026/04/iss-roundup-032026/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_3366.jpeg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-04-15"
+    },
+    {
+      "id": 37551,
+      "title": "Meink: Space Force must ‘execute’ as budget set to surge",
+      "url": "https://spacenews.com/meink-space-force-must-execute-as-budget-set-to-surge/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/55209605379_01b70f7962_k.jpg?fit=1024%2C683&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-04-15"
+    },
+    {
+      "id": 37550,
+      "title": "Blue Origin one step closer to launching New Glenn from Vandenberg Space Force Base",
+      "url": "https://spaceflightnow.com/2026/04/15/blue-origin-one-step-closer-to-launching-new-glenn-from-vandenberg-space-force-base/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260415-NG3_VerticalNight2.jpeg",
       "source": "Spaceflight Now",
       "published_at": "2026-04-15"
     },
     {
-      "id": 37521,
-      "title": "Curiosity Blog, Sols 4859-4866: One Small Crater and Thousands of Polygons",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4859-4866-one-small-crater-and-thousands-of-polygons/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/april/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04861_opgs_edr_ncam_NLB_829029179EDR_F1212490NCAM00291M_.jpg",
-      "source": "NASA",
-      "published_at": "2026-04-15"
-    },
-    {
-      "id": 37520,
-      "title": "Kepler to lead interoperability tests for ESA’s HydRON optical relay network",
-      "url": "https://spacenews.com/kepler-to-lead-interoperability-tests-for-esas-hydron-optical-relay-network/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/11/Kepler-Network-Graphic.jpg?fit=1024%2C732&ssl=1",
+      "id": 37549,
+      "title": "Defining acquisition on a wartime footing",
+      "url": "https://spacenews.com/defining-acquisition-on-a-wartime-footing/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-4.58.55-AM.png?fit=1024%2C945&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-04-15"
-    },
-    {
-      "id": 37519,
-      "title": "Blue Origin moves toward launch at Vandenberg",
-      "url": "https://spacenews.com/blue-origin-moves-toward-launch-at-vandenberg/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/NG-2-Ascent-2.jpg?fit=1024%2C683&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-04-14"
-    },
-    {
-      "id": 37518,
-      "title": "NRO highlights government and industry partnerships",
-      "url": "https://spacenews.com/nro-highlights-government-and-industry-partnerships/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_adkins_nro.jpg?fit=879%2C586&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-04-14"
-    },
-    {
-      "id": 37517,
-      "title": "SES and Boeing move toward factory-installed multi-orbit inflight connectivity",
-      "url": "https://spacenews.com/ses-and-boeing-move-toward-factory-installed-multi-orbit-inflight-connectivity/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/737-factory-in-Renton-scaled.jpg?fit=1024%2C683&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-04-14"
     }
   ]
 }
