@@ -1,74 +1,74 @@
 {
-  "updated": "2026-04-16",
+  "updated": "2026-04-17",
   "items": [
     {
       "slot": 1,
-      "date": "2026-04-10",
-      "title": "Exploring the Antennae",
-      "explanation": "Some 60 million light-years away in the southerly constellation Corvus, two large galaxies are colliding. Stars in the two galaxies, cataloged as NGC 4038 and NGC 4039, very rarely collide in the course of the ponderous cataclysm that lasts for hundreds of millions of years. But the galaxies' large clouds of molecular gas and dust often do, triggering furious episodes of star formation near the center of the cosmic wreckage. Spanning over 50 thousand light-years, this stunning telescopic frame also reveals new star clusters and matter flung far from the scene of the accident by gravitational tidal forces. The remarkably sharp ground-based image follows the faint tidal tails and distant background galaxies in the field of view. The suggestive overall visual appearance of the extended arcing structures gives the galaxy pair, also known as Arp 244, its popular name - The Antennae.   Artemis II: Splashdown",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2604/n4038_n4039_antennaeSelbyColombari1024.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2604/n4038_n4039_antennaeSelbyColombari.jpg",
-      "image_path": "images/apod/1.jpg"
-    },
-    {
-      "slot": 2,
       "date": "2026-04-11",
       "title": "Artemis II: Flight Day 6",
       "explanation": "On flight day 6 (April 6) the Artemis II mission achieved a historic lunar flyby. Rounding the lunar far side, the deep space maneuver marked humanity's first venture to the Moon since Apollo 17 in 1972. The Orion spacecraft Integrity reached a maximum distance of nearly 407,000 kilometers, and the Artemis II crew, Reid Wiseman, Victor Glover, and Christina Koch, and Jeremy Hansen, set the record for the farthest distance from Earth traveled by any human since the Apollo 13 crew in 1970. From behind the Moon on flight day 6, a solar array wing camera recorded this space age selfie, framing the spacecraft and lunar far side. Planet Earth, home to the Artemis II crew, is the small, bright crescent beyond the lunar limb. The crew safely returned home on Artemis II mission flight day 10.   Artemis II: Splashdown",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2604/art002e009567_1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2604/art002e009567_1920.jpg",
-      "image_path": "images/apod/2.jpg"
+      "image_path": "images/apod/1.jpg"
     },
     {
-      "slot": 3,
+      "slot": 2,
       "date": "2026-04-12",
       "title": "Comet R3 (PanSTARRS) Brightens",
       "explanation": "Comet R3 is brightening rapidly -- will it survive?  C/2025 R3 (PanSTARRS) has been slowly brightening and extending an ion tail since its discovery last year.  This shedding mountain of dirty ice puts on its best sky show this month, though, because it passes its closest to both the Sun (April 19) and the Earth (April 25).  The featured image, showing R3 already sporting a tail extending over 10 degrees, was taken two nights ago from Sion, Switzerland with the big mountain Bietschhorn on the left.  Comet R3 will be visible during mid-April before sunrise. Although the future brightness of any comet is hard to predict, the brightness of R3 makes it already a good camera comet and it may become visible to the unaided eye in the next week.  Comet R3's physical future is also unknown because, like Comet A1 (MAPS) earlier this month, it may disintegrate when it passes its closest to the Sun.  Or it may live to leave the Solar System.    Growing Gallery: Comet R3 in 2026",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_1707.jpg",
-      "image_path": "images/apod/3.jpg"
+      "image_path": "images/apod/2.jpg"
     },
     {
-      "slot": 4,
+      "slot": 3,
       "date": "2026-04-13",
       "title": "NGC 602 and Beyond",
       "explanation": "The clouds may look like an oyster, and the stars like pearls, but look beyond. Near the outskirts of the Small Magellanic Cloud, a satellite galaxy some 200 thousand light-years distant, lies 5 million year young star cluster NGC 602. Surrounded by natal gas and dust, NGC 602 is featured in this stunning Hubble image of the region. Fantastic ridges and swept back shapes strongly suggest that energetic radiation and shock waves from NGC 602's massive young stars have eroded the dusty material and triggered a progression of star formation moving away from the cluster's center. At the estimated distance of the Small Magellanic Cloud, the featured picture spans about 200 light-years, but a tantalizing assortment of background galaxies are also visible in this sharp multi-colored view. The background galaxies are hundreds of millions of light-years or more beyond NGC 602.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_3749.jpg",
-      "image_path": "images/apod/4.jpg"
+      "image_path": "images/apod/3.jpg"
     },
     {
-      "slot": 5,
+      "slot": 4,
       "date": "2026-04-14",
       "title": "The Long Wispy Tail of Comet R3 (PanSTARRS)",
       "explanation": "Why does Comet R3 (PanSTARRS) have a wispy tail?  The newest bright member of the inner Solar System, Comet C/2025 R3 (PanSTARRS) is already extending an impressive stream of glowing gas. This tail starts from an unseen central nucleus of dirty ice that is likely a few kilometers across. The nucleus is warmed by the Sun and emits a cloud of neutral gas into a coma that glows light green. Nuclear gas ionized by energetic sunlight is pushed away from the Sun by the solar wind into an ion tail that glows light blue.  The wispy nature of the ion tail is caused by the constantly changing structure of the solar wind.  Pictured from Rhode Island, USA two days ago, Comet R3 (PanSTARRS) shows off a many-degree ion tail.  Comet R3 (PanSTARRS) is best seen before dawn from northern skies for another 10 days, after which it will be best visible from southern skies.    Growing Gallery: Comet R3 in 2026",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2604/CometR3_Hamdi_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2604/CometR3_Hamdi_2710.jpg",
-      "image_path": "images/apod/5.jpg"
+      "image_path": "images/apod/4.jpg"
     },
     {
-      "slot": 6,
+      "slot": 5,
       "date": "2026-04-15",
       "title": "The ISS Transits the Moon",
       "explanation": "Nope, that is not an alien spaceship landing on the Moon! This is an image of the International Space Station (ISS) as it begins to transit in front of the Moon. The ISS is in low-Earth orbit (LEO) where it wizzes around the Earth every 90 minutes. Orbiting the Earth 16 times per day\t for 25 years, the ISS has photobombed many familiar celestial objects including Venus, Mars, Saturn, and the Sun. Thousands of experiments led by researchers from over one hundred countries have been conducted on the ISS. Growing protein crystals in low gravity was one of the first experiments onboard the ISS and continues to contribute to new medical treatments. ISS astronauts study plant growth, water recycling, human health, and more to support the Artemis missions which will take humans farther than they’ve ever gone before. Next time you are out and about at night, try to  spot the ISS zooming across the sky!",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2604/iss_moon_transit_zoom.jpeg",
       "hdurl": "https://apod.nasa.gov/apod/image/2604/iss_moon_transit.jpeg",
-      "image_path": "images/apod/6.jpg"
+      "image_path": "images/apod/5.jpg"
     },
     {
-      "slot": 7,
+      "slot": 6,
       "date": "2026-04-16",
       "title": "South Celestial Tree",
       "explanation": "If you live in the northern hemisphere, you may have learned how to locate the North Star, Polaris, in the night sky. It can be used to find north, and it approximately marks the northern celestial pole. If you live in the southern hemisphere, there is no bright star marking the southern celestial pole, but the Southern Cross can be used to find south. The featured image was taken in Padre Bernardo (GO), Brazil. It shows the apparent motion of the stars around the apparently empty southern celestial pole over 2 hours, on August 20, 2018. Each star takes about 24 hours to make a complete turn around the pole in the sky. Padre Bernardo is located in the Cerrado region, a tropical savanna that occupies most of central Brazil and supports rich biodiversity. The barren branch that apparently supports this sky wheel of rotating stars is a common sight there in the dry season during the southern winter.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole_800.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole.jpg",
+      "image_path": "images/apod/6.jpg"
+    },
+    {
+      "slot": 7,
+      "date": "2026-04-17",
+      "title": "M82: Starburst Galaxy with a Superwind",
+      "explanation": "Messier 82 is a starburst galaxy with a superwind. In fact, through supernova explosions and powerful winds from massive stars, the burst of star formation in M82 is driving a prodigious outflow. Evidence for the superwind from the galaxy's central regions is clear in the sharp telescopic portrait. The composite image includes 33 hours of narrowband data, highlighting emission from long outflow filaments of atomic hydrogen gas in reddish hues. Some of the gas in the superwind, enriched in heavy elements forged in the massive stars, will eventually escape into intergalactic space. Triggered by a close encounter with nearby large galaxy M81, the furious burst of star formation in M82 should last about 100 million years or so. Also known as the Cigar Galaxy for its elongated visual appearance, M82 is about 30,000 light-years across. It lies 12 million light-years away near the northern boundary of Ursa Major.",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2604/M82_V3_1024.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2604/M82_V3.jpg",
       "image_path": "images/apod/7.jpg"
     }
   ]
