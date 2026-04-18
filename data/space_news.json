@@ -1,69 +1,69 @@
 {
-  "updated": "2026-04-17T07:43:06.856Z",
+  "updated": "2026-04-18T07:04:47.179Z",
   "items": [
     {
-      "id": 37579,
-      "title": "Spring Rains Saturate Michigan",
-      "url": "https://science.nasa.gov/earth/earth-observatory/spring-rains-saturate-michigan/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/spring-rains-saturate-michigan/michiganflooding764_oli_20250416.jpg",
+      "id": 37593,
+      "title": "Live coverage: SpaceX attempts 600th Falcon booster landing amid West Coast Starlink mission",
+      "url": "https://spaceflightnow.com/2026/04/18/live-coverage-spacex-attempts-600th-falcon-booster-landing-amid-west-coast-starlink-mission/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260329_20260313_Starlink_G17_31.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-04-18"
+    },
+    {
+      "id": 37592,
+      "title": "CSDA Quality Assessment Report Evaluates Satellogic NewSat Data",
+      "url": "https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/",
+      "image_url": "https://science.nasa.gov/wp-content/uploads/2026/04/satellogic-cover.jpg",
       "source": "NASA",
       "published_at": "2026-04-17"
     },
     {
-      "id": 37578,
-      "title": "Artemis II Crew Says Lunar Landing Doable Soon",
-      "url": "https://spacepolicyonline.com/news/artemis-ii-crew-says-lunar-landing-doable-soon/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-post-mission-presser-Apr-16-26-300x184.jpg",
-      "source": "SpacePolicyOnline.com",
+      "id": 37591,
+      "title": "Webinar 4/29: NASA CSDA Program Vendor Focus- MDA Space",
+      "url": "https://science.nasa.gov/science-research/earth-science/webinar-4-29-nasa-csda-program-vendor-focus-mda-space/",
+      "image_url": "https://science.nasa.gov/wp-content/uploads/2026/04/csda-banner-rs2.jpg",
+      "source": "NASA",
       "published_at": "2026-04-17"
     },
     {
-      "id": 37577,
-      "title": "India’s TakeMe2Space sets sights on 50-kilowatt data center",
-      "url": "https://spacenews.com/indias-takeme2space-sets-sights-on-50-kilowatt-data-center/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_takeme2space_satellite.jpg?fit=879%2C495&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-04-16"
+      "id": 37590,
+      "title": "NASA Artemis II Human Research Data Methodology Challenge",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/",
+      "image_url": "https://images-assets.nasa.gov/image/art002e013365/art002e013365~large.jpg",
+      "source": "NASA",
+      "published_at": "2026-04-17"
     },
     {
-      "id": 37576,
-      "title": "Countering missile threats ‘left of launch’",
-      "url": "https://spacenews.com/countering-missile-threats-left-of-launch/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_55211398279_747ed3286d_o.jpg?fit=879%2C586&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-04-16"
+      "id": 37589,
+      "title": "NASA, OPM Announce New NASA Force Website, Open Job Applications",
+      "url": "https://www.nasa.gov/news-release/nasa-opm-announce-new-nasa-force-website-open-job-applications/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-force-website.png",
+      "source": "NASA",
+      "published_at": "2026-04-17"
     },
     {
-      "id": 37573,
-      "title": "Taiwan floats shared satcom constellation amid calls for more space collaboration",
-      "url": "https://spacenews.com/taiwan-floats-shared-satcom-constellation-amid-calls-for-more-space-collaboration/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/09/Taiwan-scaled.jpg?fit=1024%2C681&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-04-16"
-    },
-    {
-      "id": 37574,
-      "title": "Companies make the case for commercial space station markets",
-      "url": "https://spacenews.com/companies-make-the-case-for-commercial-space-station-markets/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/55211362853_608de7e574_k.jpg?fit=1024%2C683&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-04-16"
-    },
-    {
-      "id": 37572,
-      "title": "Artemis II astronauts say landing on the Moon is \"absolutely doable\" soon",
-      "url": "https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e013365large.jpg",
+      "id": 37588,
+      "title": "Artemis II pilot describes landing in Orion: \"From intense to pure elation\"",
+      "url": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e016204large.jpg",
       "source": "Arstechnica",
-      "published_at": "2026-04-16"
+      "published_at": "2026-04-17"
     },
     {
-      "id": 37571,
-      "title": "Boeing and its subsidiary Millennium Space team on new mid-size satellite",
-      "url": "https://spacenews.com/boeing-and-its-subsidiary-millennium-space-team-on-new-mid-size-satellite/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Resolute.jpg-scaled.jpeg?fit=1024%2C576&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-04-16"
+      "id": 37587,
+      "title": "Quality Assessment Report Evaluates Tomorrow.io Precipitation Radar Data",
+      "url": "https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-tomorrow-io-precipitation-radar-data/",
+      "image_url": "https://science.nasa.gov/wp-content/uploads/2026/04/report-with-outline.jpg",
+      "source": "NASA",
+      "published_at": "2026-04-17"
+    },
+    {
+      "id": 37586,
+      "title": "Volunteers Discover Rare Space Weather Events Using Their Ears",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/HARP_graphic.jpg",
+      "source": "NASA",
+      "published_at": "2026-04-17"
     }
   ]
 }
