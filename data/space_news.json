@@ -1,6 +1,30 @@
 {
-  "updated": "2026-04-18T07:04:47.179Z",
+  "updated": "2026-04-19T07:16:43.769Z",
   "items": [
+    {
+      "id": 37597,
+      "title": "Live Coverage: Third flight of Blue Origin’s New Glenn rocket to feature 1st reuse of booster",
+      "url": "https://spaceflightnow.com/2026/04/19/third-flight-of-blue-origins-new-glenn-rocket-to-feature-1st-reuse-of-booster/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260418-NG-3-Pad-shot.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-04-19"
+    },
+    {
+      "id": 37596,
+      "title": "New Glenn set to launch on third mission, reuse booster for the first time",
+      "url": "https://www.nasaspaceflight.com/2026/04/ng-3-launch/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_7032.jpeg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-04-18"
+    },
+    {
+      "id": 37595,
+      "title": "Vast unveils Astronaut Flight Suit and revolutionary Large Docking Adapter",
+      "url": "https://www.nasaspaceflight.com/2026/04/vast-astronaut-flight-suit-docking-adapter/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-18-22-21-59-920.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-04-18"
+    },
     {
       "id": 37593,
       "title": "Live coverage: SpaceX attempts 600th Falcon booster landing amid West Coast Starlink mission",
@@ -38,30 +62,6 @@
       "title": "NASA, OPM Announce New NASA Force Website, Open Job Applications",
       "url": "https://www.nasa.gov/news-release/nasa-opm-announce-new-nasa-force-website-open-job-applications/",
       "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-force-website.png",
-      "source": "NASA",
-      "published_at": "2026-04-17"
-    },
-    {
-      "id": 37588,
-      "title": "Artemis II pilot describes landing in Orion: \"From intense to pure elation\"",
-      "url": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e016204large.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-04-17"
-    },
-    {
-      "id": 37587,
-      "title": "Quality Assessment Report Evaluates Tomorrow.io Precipitation Radar Data",
-      "url": "https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-tomorrow-io-precipitation-radar-data/",
-      "image_url": "https://science.nasa.gov/wp-content/uploads/2026/04/report-with-outline.jpg",
-      "source": "NASA",
-      "published_at": "2026-04-17"
-    },
-    {
-      "id": 37586,
-      "title": "Volunteers Discover Rare Space Weather Events Using Their Ears",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/HARP_graphic.jpg",
       "source": "NASA",
       "published_at": "2026-04-17"
     }
