@@ -1,6 +1,22 @@
 {
-  "updated": "2026-04-19T07:16:43.769Z",
+  "updated": "2026-04-20T08:03:47.885Z",
   "items": [
+    {
+      "id": 37600,
+      "title": "AST SpaceMobile’s BlueBird 7 declared lost following New Glenn launch",
+      "url": "https://www.nasaspaceflight.com/2026/04/ast-bluebird-7-lost-new-glenn-launch/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-19-23-30-22-253-wmarked.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-04-19"
+    },
+    {
+      "id": 37599,
+      "title": "What’s Happening in Space Policy April 19-25, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-19-25-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-Isaacman-Apr-11-26-welcome-home-300x169.png",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-04-19"
+    },
     {
       "id": 37597,
       "title": "Live Coverage: Third flight of Blue Origin’s New Glenn rocket to feature 1st reuse of booster",
@@ -26,6 +42,14 @@
       "published_at": "2026-04-18"
     },
     {
+      "id": 37598,
+      "title": "Antitrust Authority Approves Creation of Rheinmetall-OHB Satellite Joint Venture",
+      "url": "https://europeanspaceflight.com/antitrust-authority-approves-creation-of-rheinmetall-ohb-satellite-joint-venture/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/04/Antitrust-Authority-Approves-Creation-of-Rheinmetall-OHB-Satellite-Joint-Venture-.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-04-18"
+    },
+    {
       "id": 37593,
       "title": "Live coverage: SpaceX attempts 600th Falcon booster landing amid West Coast Starlink mission",
       "url": "https://spaceflightnow.com/2026/04/18/live-coverage-spacex-attempts-600th-falcon-booster-landing-amid-west-coast-starlink-mission/",
@@ -38,30 +62,6 @@
       "title": "CSDA Quality Assessment Report Evaluates Satellogic NewSat Data",
       "url": "https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/",
       "image_url": "https://science.nasa.gov/wp-content/uploads/2026/04/satellogic-cover.jpg",
-      "source": "NASA",
-      "published_at": "2026-04-17"
-    },
-    {
-      "id": 37591,
-      "title": "Webinar 4/29: NASA CSDA Program Vendor Focus- MDA Space",
-      "url": "https://science.nasa.gov/science-research/earth-science/webinar-4-29-nasa-csda-program-vendor-focus-mda-space/",
-      "image_url": "https://science.nasa.gov/wp-content/uploads/2026/04/csda-banner-rs2.jpg",
-      "source": "NASA",
-      "published_at": "2026-04-17"
-    },
-    {
-      "id": 37590,
-      "title": "NASA Artemis II Human Research Data Methodology Challenge",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/",
-      "image_url": "https://images-assets.nasa.gov/image/art002e013365/art002e013365~large.jpg",
-      "source": "NASA",
-      "published_at": "2026-04-17"
-    },
-    {
-      "id": 37589,
-      "title": "NASA, OPM Announce New NASA Force Website, Open Job Applications",
-      "url": "https://www.nasa.gov/news-release/nasa-opm-announce-new-nasa-force-website-open-job-applications/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-force-website.png",
       "source": "NASA",
       "published_at": "2026-04-17"
     }
