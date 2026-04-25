@@ -1,74 +1,74 @@
 {
-  "updated": "2026-04-24",
+  "updated": "2026-04-25",
   "items": [
     {
       "slot": 1,
-      "date": "2026-04-18",
-      "title": "PanSTARRS and Planets",
-      "explanation": "Near the eastern horizon before sunrise, Comet C/2025 R3 PanSTARRS is getting brighter. Readily visible in binoculars and small telescopes, the comet may be just on the verge of naked-eye visibility from dark sky sites. Though it was not quite apparent to the eye, PanSTARRS is still easy to spot in this camera image taken on April 16. In the view from a volcanic peak overlooking France's Reunion Island, planet Earth, the comet shares eastern predawn skies with naked-eye planets Mars and Mercury and fainter Neptune. Saturn is hiding behind the low cloudbank that doesn't quite hide an old crescent Moon. This is a good weekend for northern hemisphere comet watchers to try to catch PanSTARRS an hour or so before sunrise, as the comet grows brighter approaching its perihelion on April 19. On April 26 the comet makes its closest approach to our fair planet but by then will be difficult to see in the solar glare. Good views of this comet PanSTARRS in late April and early May will be from the southern hemisphere.",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrot.jpg",
-      "image_path": "images/apod/1.jpg"
-    },
-    {
-      "slot": 2,
       "date": "2026-04-19",
       "title": "Eye on the Milky Way",
       "explanation": "Have you ever had stars in your eyes? It appears that the eye on the left does, and moreover, it appears to be gazing at even more stars. The featured 27-frame mosaic was taken in 2019 from Ojas de Salar in the Atacama Desert of Chile.  The eye is actually a small lagoon captured reflecting the dark night sky as the Milky Way Galaxy arched overhead. The seemingly smooth band of the Milky Way is really composed of billions of stars, but decorated with filaments of light-absorbing dust and red-glowing nebulas. Additionally, both Jupiter (slightly left the galactic arch) and Saturn (slightly to the right) are visible.  The lights of small towns dot the unusual vertical horizon.  The rocky terrain around the lagoon appears to some more like the surface of Mars than our Earth.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_1380.jpg",
-      "image_path": "images/apod/2.jpg"
+      "image_path": "images/apod/1.jpg"
     },
     {
-      "slot": 3,
+      "slot": 2,
       "date": "2026-04-20",
       "title": "Comet R3 PanSTARRS over a Himalayan Valley",
       "explanation": "The best way to see comet R3 PanSTARRS’s long tail is with a camera. This week, the recently brightened comet appears in northern skies to the east just before dawn, but is only barely visible to the unaided eye. The many-degree ion tail captured on long duration camera exposures is not unusual for a comet - it is primarily due to the Earth's nearly sideways view of the tail as it points away from the Sun.  In the featured image taken last week, Comet C/2025 R3 (PanSTARRS) showed off its flowing tail through a valley between two peaks in the Himalayan mountains of India.   The comet passed its closest to the Sun yesterday. As it nears its closest approach to Earth next week, a bushy dust tail may become visible.  The comet is slowly moving out of northern skies and by the end of the month will be visible after sunset in southern skies as it fades and leaves our Solar System.    Growing Gallery: Comet R3 PanSTARRS in 2026",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_3900.jpg",
-      "image_path": "images/apod/3.jpg"
+      "image_path": "images/apod/2.jpg"
     },
     {
-      "slot": 4,
+      "slot": 3,
       "date": "2026-04-21",
       "title": "Three Sky Arches over Snowy Alps",
       "explanation": "Why are there three arches across the sky instead of two? Last month, after being dropped off by a helicopter at a high mountain peak in the Alps near the Swiss Italian border, an adventurous astrophotographer expected two arches of our Milky Way galaxy to be visible during the night. These were the inner arch looking in toward the center of our galaxy on the left, visible just before sunrise, and the outer arch on the right visible just after sunset.  But there were three arches. The surprised astrophotographer soon realized that the sky was so dark that an entire arc of faint zodiacal light was also noticeable -- sunlight scattered by inner Solar System dust.  And it artfully connected the two Milky Way arches!  The next morning a helicopter picked the astrophotographer back up, and after 40 hours of processing and combining that night's images, the featured triple-arch 360-degree panorama resulted.    Jigsaw Vistas: Astronomy Puzzle of the Day",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2604/TripleArchAlps_Fux_1080.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2604/TripleArchAlps_Fux_7500.jpg",
-      "image_path": "images/apod/4.jpg"
+      "image_path": "images/apod/3.jpg"
     },
     {
-      "slot": 5,
+      "slot": 4,
       "date": "2026-04-22",
       "title": "Earthset with an iPhone",
       "explanation": "What does it mean for the Earth to set? Artemis II Commander Reid Wiseman gave us another spectacular view of Earth from their historic flyby of the Moon. Commander Wiseman's video, taken with an iPhone at 8x zoom, shows our entire planet gradually blocked from view by the Moon. On the Earth, the 24-hour planetary rotation causes the Sun to set below your horizon every night. However, on Artemis II the Earthset was caused not by the Moon’s rotation but by the spacecraft moving behind the Moon (at about 55 seconds in this video). Once rare, views of Earth are now taken many times a day from many spacecraft, including NASA’s SWOT (Surface Water and Ocean Topography) satellite tracking freshwater resources and USGS Landsat 8 and 9 satellites supporting water management for farmers, for example. Space agencies around our home planet now work together to provide unique and ever-improving views of our Earth.   Celebrate: Earth Day",
       "media_type": "video",
       "apod_url": "https://youtube.com/embed/MT8tg5b3b8E?si=46r2TF9THNvtq1ep",
       "hdurl": null,
-      "image_path": "images/apod/5.jpg"
+      "image_path": "images/apod/4.jpg"
     },
     {
-      "slot": 6,
+      "slot": 5,
       "date": "2026-04-23",
       "title": "Large Scale Structure of the Universe",
       "explanation": "This is a map of the universe. The Dark Energy Spectroscopic Instrument (DESI) at Kitt Peak National Observatory, Arizona, has finished its five-year survey. It observed more than 47 million galaxies and quasars and created a 3D map centered on the Earth. Today's featured image shows a thin slice of these data: the black gaps indicate where our Galaxy obscures distant objects. The feathery web in the inset shows the large scale structure of the universe. Light of the most distant galaxies shown here travelled for 11 billion years to reach the Earth. Galaxies cluster throughout cosmic history under the competing influences of gravity and dark energy, responsible for the accelerated expansion of the universe. Analysis of early DESI results hinted at the possibility that dark energy, described as a cosmological constant by Albert Einstein, may not be constant after all. But we still have to wait for the analysis of the now complete dataset. The nature of dark energy is the biggest mystery of cosmology.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2604/noirlab2610c_1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2604/noirlab2610c.jpg",
+      "image_path": "images/apod/5.jpg"
+    },
+    {
+      "slot": 6,
+      "date": "2026-04-24",
+      "title": "Young Moon and Sister Stars",
+      "explanation": "Sunlit arms of a crescent moon seem to embrace the faint lunar night side in this dramatic celestial view from planet Earth. The single telephoto exposure tracking the sky was captured on the night of April 19, when a two day old Moon was near perigee in its elliptical orbit. On that date, the young Moon was also close on the sky to the lovely Pleiades Star Cluster. With the moonlight dimmed by clouds the Pleiades sister stars gather below the Moon's bright crescent, seen through a faint but colorful lunar corona. The lunar night side is illuminated by earthshine, sunlight reflected from the Earth itself. The Moon's ashen glow, also known as the \"old moon in the young moon's arms,\" tends to be bright in the northern hemisphere spring. And for now, the Moon's orbit takes it near the Pleiades stars each month in planet Earth's sky, though their close conjunctions are easiest to see when the Moon is near a crescent phase.",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400_1024.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400.jpg",
       "image_path": "images/apod/6.jpg"
     },
     {
       "slot": 7,
-      "date": "2026-04-24",
-      "title": "Young Moon and Sister Stars",
-      "explanation": "Sunlit arms of a crescent moon seem to embrace the faint lunar night side in this dramatic celestial scene from planet Earth. The single telephoto exposure tracking the sky was captured on the night of April 19, when a two day old Moon was near perigee in its elliptical orbit. On that date, the young Moon was also close on the sky to the lovely Pleiades Star Cluster. With the moonlight dimmed by clouds the Pleiades sister stars gather below the Moon's bright crescent, seen through a faint but colorful lunar corona. The lunar night side is illuminated by earthshine, sunlight reflected from the Earth itself. The Moon's ashen glow, also known as the \"old moon in the young moon's arms\", tends to be brighter in the northern hemisphere spring. And for now, the Moon's orbit takes it near the Pleiades stars each month in planet Earth's sky, though their close conjunctions are easiest to see when the Moon is near a crescent phase.",
+      "date": "2026-04-25",
+      "title": "The Persistence of Sunlight",
+      "explanation": "This seaside sunset offered a surreal experience, captured in a sea and skyscape from the west coast of Sardinia, Italy, planet Earth. The Daliesque scene is a composition of sequential exposures made with a camera and long telephoto lens. The Sun is not melting, though. Its shifting and fluid appearance as it nears the horizon is caused as refraction along the line of sight changes and creates distorted images or mirages of the reddened solar disk. The changes in atmospheric refraction correspond to atmospheric layers with sharply different temperatures and densities. Another famous but fleeting effect of atmospheric refraction produced by a long sight-line to the setting (or rising) Sun is often called the green flash.",
       "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400_1024.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400.jpg",
+      "apod_url": "https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida1024.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida.jpg",
       "image_path": "images/apod/7.jpg"
     }
   ]
