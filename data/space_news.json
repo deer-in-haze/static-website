@@ -1,6 +1,14 @@
 {
-  "updated": "2026-04-25T07:12:40.538Z",
+  "updated": "2026-04-26T07:26:19.551Z",
   "items": [
+    {
+      "id": 37675,
+      "title": "Progress MS-34 to launch from Baikonur for ISS cargo delivery",
+      "url": "https://www.nasaspaceflight.com/2026/04/progress-ms34/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_9490.png",
+      "source": "NASASpaceflight",
+      "published_at": "2026-04-25"
+    },
     {
       "id": 37674,
       "title": "I Am Artemis: Peter Rossoni",
@@ -55,14 +63,6 @@
       "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/2026_first_quarter_Future_Launchers_Preparatory_Programme_highlights",
       "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/07/refilling_in_space_with_odyssey/26812220-3-eng-GB/Refilling_in_space_with_Odyssey_card_full.png",
       "source": "ESA",
-      "published_at": "2026-04-24"
-    },
-    {
-      "id": 37668,
-      "title": "Rocket Report: Some Canadians don't want a spaceport; Falcon hits 600 landings",
-      "url": "https://arstechnica.com/space/2026/04/rocket-report-some-canadians-dont-want-a-spaceport-falcon-hits-600-landings/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/RDRE-Hot-Fire-Image-2048x1366-1.jpg",
-      "source": "Arstechnica",
       "published_at": "2026-04-24"
     }
   ]
