@@ -1,6 +1,46 @@
 {
-  "updated": "2026-04-26T07:26:19.551Z",
+  "updated": "2026-04-27T08:21:12.109Z",
   "items": [
+    {
+      "id": 37680,
+      "title": "Live coverage: SpaceX to launch final ViaSat-3 satellite on Falcon Heavy rocket",
+      "url": "https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2023/04/20230430fhviasatpre1-678x452.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-04-27"
+    },
+    {
+      "id": 37679,
+      "title": "SpaceX set to launch Falcon Heavy on Monday after 18 month hiatus",
+      "url": "https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/DSC07904-scaled.jpeg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-04-26"
+    },
+    {
+      "id": 37678,
+      "title": "Curiosity Rover uncovers fresh organic clues on Ancient Mars",
+      "url": "https://www.nasaspaceflight.com/2026/04/nasas-curiosity-rover-organic-clues-mars/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-26-20-06-48-645.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-04-26"
+    },
+    {
+      "id": 37677,
+      "title": "What’s Happening in Space Policy April 26-May 2, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-26-may-2-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/Scott-Pace-GW-photo-Apr-2026-197x300.png",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-04-26"
+    },
+    {
+      "id": 37676,
+      "title": "Live Coverage: SpaceX to fly 25 Starlink satellites on its 50th Falcon 9 launch of the year",
+      "url": "https://spaceflightnow.com/2026/04/26/live-coverage-spacex-to-fly-25-starlink-satellites-on-its-50th-falcon-9-launch-of-the-year/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260329_20260313_Starlink_G17_31.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-04-26"
+    },
     {
       "id": 37675,
       "title": "Progress MS-34 to launch from Baikonur for ISS cargo delivery",
@@ -23,46 +63,6 @@
       "url": "https://www.nasa.gov/image-article/the-day-of-the-trifid-nebula/",
       "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/full-res-for-display.png",
       "source": "NASA",
-      "published_at": "2026-04-24"
-    },
-    {
-      "id": 37672,
-      "title": "Well, this is embarrassing: The Lunar Gateway's primary modules are corroded",
-      "url": "https://arstechnica.com/space/2026/04/well-this-is-embarrassing-the-lunar-gateways-primary-modules-are-corroded/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/jsc2025e034729large.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-04-24"
-    },
-    {
-      "id": 37671,
-      "title": "NASA Astronauts to Answer Questions from Missouri Students",
-      "url": "https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/jessica-meir-and-jack-hathaway-downlink-advisory-april-24.jpg",
-      "source": "NASA",
-      "published_at": "2026-04-24"
-    },
-    {
-      "id": 37670,
-      "title": "Week in images: 20-24 April 2026",
-      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_20-24_April_2026",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/close-up_of_plato_s_cameras/27212574-1-eng-GB/Close-up_of_Plato_s_cameras_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-04-24"
-    },
-    {
-      "id": 37669,
-      "title": "NASA Celebrates Decade of University Innovation in Aeronautics",
-      "url": "https://www.nasa.gov/aeronautics/university-innovation-uli-at-10/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2020/11/uli-graphic-2026.png",
-      "source": "NASA",
-      "published_at": "2026-04-24"
-    },
-    {
-      "id": 37665,
-      "title": "2026 first quarter: Future Launchers Preparatory Programme highlights",
-      "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/2026_first_quarter_Future_Launchers_Preparatory_Programme_highlights",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/07/refilling_in_space_with_odyssey/26812220-3-eng-GB/Refilling_in_space_with_Odyssey_card_full.png",
-      "source": "ESA",
       "published_at": "2026-04-24"
     }
   ]
