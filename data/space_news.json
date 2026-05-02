@@ -1,69 +1,69 @@
 {
-  "updated": "2026-05-01T08:09:06.092Z",
+  "updated": "2026-05-02T07:40:58.230Z",
   "items": [
     {
-      "id": 37746,
-      "title": "Earth from Space: Netherlands in bloom",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Netherlands_in_bloom",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/earth_from_space_netherlands_in_bloom/27249984-3-eng-GB/Earth_from_Space_Netherlands_in_bloom_card_full.jpg",
-      "source": "ESA",
+      "id": 37758,
+      "title": "SpaceX aims for mid-May Starship Flight 12 launch with revised trajectory",
+      "url": "https://www.nasaspaceflight.com/2026/05/spacex-mid-may-starship-flight-12-revised-trajectory/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/NSF-2026-05-01-21-44-08-212.jpg",
+      "source": "NASASpaceflight",
       "published_at": "2026-05-01"
     },
     {
-      "id": 37745,
-      "title": "Cyclone Rains Spur Papua New Guinea Landslides",
-      "url": "https://science.nasa.gov/earth/earth-observatory/cyclone-rains-spur-papua-new-guinea-landslides/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cyclone-rains-spur-papua-new-guinea-landslides/papuanewguinea_landslide_oli2_20250924.jpg",
-      "source": "NASA",
-      "published_at": "2026-05-01"
-    },
-    {
-      "id": 37744,
-      "title": "House Appropriations Subcommittee Clears NASA Bill on Party-Line Vote",
-      "url": "https://spacepolicyonline.com/news/house-appropriations-subcommittee-clears-nasa-bill-on-party-line-vote/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/rogers-markup-Apr-30-26-249x300.jpg",
+      "id": 37757,
+      "title": "Lt. Gen. Doug Schiess Nominated to Succeed Space Force CSO Saltzman",
+      "url": "https://spacepolicyonline.com/news/lt-gen-doug-schiess-nominated-to-succeed-space-force-cso-saltzman/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/LTG-Doug-Schiess-USSF-240x300.avif",
       "source": "SpacePolicyOnline.com",
       "published_at": "2026-05-01"
     },
     {
-      "id": 37743,
-      "title": "Russia debuts new rocket with maiden Soyuz-5 launch",
-      "url": "https://www.nasaspaceflight.com/2026/04/russia-maiden-soyuz-5-launch/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-30-22-15-52-245.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-04-30"
-    },
-    {
-      "id": 37742,
-      "title": "NASA Invites Media to Ireland Artemis Accords Signing",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-ireland-artemis-accords-signing/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
+      "id": 37756,
+      "title": "NASA Kennedy Center Director Announces Plans to Retire",
+      "url": "https://www.nasa.gov/news-release/nasa-kennedy-center-director-announces-plans-to-retire/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/janetp.jpg",
       "source": "NASA",
-      "published_at": "2026-04-30"
+      "published_at": "2026-05-01"
     },
     {
-      "id": 37741,
-      "title": "Blue Origin certainly has ambitious launch targets for New Glenn",
-      "url": "https://arstechnica.com/space/2026/04/blue-origin-certainly-has-ambitious-launch-targets-for-new-glenn/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/new-glenn-9x4-1.jpg",
+      "id": 37754,
+      "title": "NASA Artemis II Crew Rings Nasdaq Closing Bell",
+      "url": "https://www.nasa.gov/image-article/nasa-artemis-ii-crew-rings-nasdaq-closing-bell/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/55241093118-d474b58236-o.jpg",
+      "source": "NASA",
+      "published_at": "2026-05-01"
+    },
+    {
+      "id": 37753,
+      "title": "Key Support Equipment Arrives at Kennedy for Roman Space Telescope",
+      "url": "https://www.nasa.gov/image-article/key-support-equipment-arrives-at-kennedy-for-roman-space-telescope/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/ksc-20260427-ph-lnl01-0005.jpg",
+      "source": "NASA",
+      "published_at": "2026-05-01"
+    },
+    {
+      "id": 37755,
+      "title": "NASA’s STORIE Mission to Tell Tale of Earth’s Ring Current",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-storie-mission-to-tell-tale-of-earths-ring-current/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/geospace/Inner%20Magnetosphere%20Background%20with%20Expanded%20Ring%20Current.jpg",
+      "source": "NASA",
+      "published_at": "2026-05-01"
+    },
+    {
+      "id": 37752,
+      "title": "The suborbital space tourism industry is on life support",
+      "url": "https://arstechnica.com/space/2026/05/the-suborbital-space-tourism-industry-is-on-life-support/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HHJd9nqbYAAGbnb.jpg",
       "source": "Arstechnica",
-      "published_at": "2026-04-30"
+      "published_at": "2026-05-01"
     },
     {
-      "id": 37739,
-      "title": "Odyssey Team Celebrates on a Global Map of Mars",
-      "url": "https://science.nasa.gov/photojournal/odyssey-team-celebrates-on-a-global-map-of-mars/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26722/PIA26722.jpg",
+      "id": 37751,
+      "title": "Space Out This Summer with Variety of NASA STEM Activities",
+      "url": "https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/o2o-downlink-orion-flight-day-two.jpg",
       "source": "NASA",
-      "published_at": "2026-04-30"
-    },
-    {
-      "id": 37740,
-      "title": "What’s Up: May 2026 Skywatching Tips from NASA",
-      "url": "https://science.nasa.gov/solar-system/whats-up-may-2026-skywatching-tips-from-nasa/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/may/Eta%20Aquarids_TextAlt.png",
-      "source": "NASA",
-      "published_at": "2026-04-30"
+      "published_at": "2026-05-01"
     }
   ]
 }
