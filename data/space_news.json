@@ -1,6 +1,22 @@
 {
-  "updated": "2026-05-02T07:40:58.230Z",
+  "updated": "2026-05-03T07:59:19.587Z",
   "items": [
+    {
+      "id": 37760,
+      "title": "Live coverage: SpaceX to launch South Korean Earth observation satellite, plus 44 more payloads on overnight Falcon 9 rideshare mission",
+      "url": "https://spaceflightnow.com/2026/05/02/live-coverage-spacex-to-launch-south-korean-earth-observation-satellite-44-more-payloads-on-overnight-falcon-9-rideshare-mission/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-05-02"
+    },
+    {
+      "id": 37759,
+      "title": "Ribbon Cutting at Alabama’s Redstone Arsenal Welcomes U.S. Space Command",
+      "url": "https://spacepolicyonline.com/news/ribbon-cutting-at-alabamas-redstone-arsenal-welcomes-u-s-space-command/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Ribbon-Cutting-Apr-29-26-300x200.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-05-02"
+    },
     {
       "id": 37758,
       "title": "SpaceX aims for mid-May Starship Flight 12 launch with revised trajectory",
@@ -46,22 +62,6 @@
       "title": "NASA’s STORIE Mission to Tell Tale of Earth’s Ring Current",
       "url": "https://science.nasa.gov/science-research/heliophysics/nasas-storie-mission-to-tell-tale-of-earths-ring-current/",
       "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/geospace/Inner%20Magnetosphere%20Background%20with%20Expanded%20Ring%20Current.jpg",
-      "source": "NASA",
-      "published_at": "2026-05-01"
-    },
-    {
-      "id": 37752,
-      "title": "The suborbital space tourism industry is on life support",
-      "url": "https://arstechnica.com/space/2026/05/the-suborbital-space-tourism-industry-is-on-life-support/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HHJd9nqbYAAGbnb.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-05-01"
-    },
-    {
-      "id": 37751,
-      "title": "Space Out This Summer with Variety of NASA STEM Activities",
-      "url": "https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/o2o-downlink-orion-flight-day-two.jpg",
       "source": "NASA",
       "published_at": "2026-05-01"
     }
