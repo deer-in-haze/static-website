@@ -1,6 +1,30 @@
 {
-  "updated": "2026-05-03T07:59:19.587Z",
+  "updated": "2026-05-04T08:26:45.419Z",
   "items": [
+    {
+      "id": 37763,
+      "title": "Launch boosts European Earth monitoring and connectivity",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/Launch_boosts_European_Earth_monitoring_and_connectivity",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/launch_boosts_european_earth_monitoring_and_connectivity/27254257-3-eng-GB/Launch_boosts_European_Earth_monitoring_and_connectivity_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-05-04"
+    },
+    {
+      "id": 37762,
+      "title": "What’s Happening in Space Policy May 3-9, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-3-9-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Alan-Shepard-NASA-Freedom-7-300x171.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-05-03"
+    },
+    {
+      "id": 37761,
+      "title": "SpaceX launches CAS500-2 and 45 other payloads to Sun-synchronous orbit",
+      "url": "https://www.nasaspaceflight.com/2026/05/spacex-launch-cas500-2-45-payloads-orbit/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/NSF-2026-05-03-18-57-04-759.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-05-03"
+    },
     {
       "id": 37760,
       "title": "Live coverage: SpaceX to launch South Korean Earth observation satellite, plus 44 more payloads on overnight Falcon 9 rideshare mission",
@@ -38,30 +62,6 @@
       "title": "NASA Kennedy Center Director Announces Plans to Retire",
       "url": "https://www.nasa.gov/news-release/nasa-kennedy-center-director-announces-plans-to-retire/",
       "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/janetp.jpg",
-      "source": "NASA",
-      "published_at": "2026-05-01"
-    },
-    {
-      "id": 37754,
-      "title": "NASA Artemis II Crew Rings Nasdaq Closing Bell",
-      "url": "https://www.nasa.gov/image-article/nasa-artemis-ii-crew-rings-nasdaq-closing-bell/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/55241093118-d474b58236-o.jpg",
-      "source": "NASA",
-      "published_at": "2026-05-01"
-    },
-    {
-      "id": 37753,
-      "title": "Key Support Equipment Arrives at Kennedy for Roman Space Telescope",
-      "url": "https://www.nasa.gov/image-article/key-support-equipment-arrives-at-kennedy-for-roman-space-telescope/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/ksc-20260427-ph-lnl01-0005.jpg",
-      "source": "NASA",
-      "published_at": "2026-05-01"
-    },
-    {
-      "id": 37755,
-      "title": "NASA’s STORIE Mission to Tell Tale of Earth’s Ring Current",
-      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-storie-mission-to-tell-tale-of-earths-ring-current/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/geospace/Inner%20Magnetosphere%20Background%20with%20Expanded%20Ring%20Current.jpg",
       "source": "NASA",
       "published_at": "2026-05-01"
     }
