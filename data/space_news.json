@@ -1,69 +1,69 @@
 {
-  "updated": "2026-05-04T08:26:45.419Z",
+  "updated": "2026-05-05T08:06:11.571Z",
   "items": [
     {
-      "id": 37763,
-      "title": "Launch boosts European Earth monitoring and connectivity",
-      "url": "https://www.esa.int/Applications/Observing_the_Earth/Launch_boosts_European_Earth_monitoring_and_connectivity",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/launch_boosts_european_earth_monitoring_and_connectivity/27254257-3-eng-GB/Launch_boosts_European_Earth_monitoring_and_connectivity_card_full.jpg",
-      "source": "ESA",
+      "id": 37778,
+      "title": "Ahuachapán and Its Restive Neighbors",
+      "url": "https://science.nasa.gov/earth/earth-observatory/ahuachapan-and-its-restive-neighbors/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ahuachap%C3%A1n-and-its-restive-neighbors/ahuachapan_oli_20241125.jpg",
+      "source": "NASA",
+      "published_at": "2026-05-05"
+    },
+    {
+      "id": 37777,
+      "title": "Lockheed Martin announces collaboration with Firefly Aerospace and Seagate for off-shore launches",
+      "url": "https://spaceflightnow.com/2026/05/04/lockheed-martin-announces-collaboration-with-firefly-aerospace-and-seagate-for-off-shore-launches/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260504_Seagate-Space-Platform-Firefly-Alpha-Rocket-Render.jpg",
+      "source": "Spaceflight Now",
       "published_at": "2026-05-04"
     },
     {
-      "id": 37762,
-      "title": "What’s Happening in Space Policy May 3-9, 2026",
-      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-3-9-2026/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Alan-Shepard-NASA-Freedom-7-300x171.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-05-03"
-    },
-    {
-      "id": 37761,
-      "title": "SpaceX launches CAS500-2 and 45 other payloads to Sun-synchronous orbit",
-      "url": "https://www.nasaspaceflight.com/2026/05/spacex-launch-cas500-2-45-payloads-orbit/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/NSF-2026-05-03-18-57-04-759.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-05-03"
-    },
-    {
-      "id": 37760,
-      "title": "Live coverage: SpaceX to launch South Korean Earth observation satellite, plus 44 more payloads on overnight Falcon 9 rideshare mission",
-      "url": "https://spaceflightnow.com/2026/05/02/live-coverage-spacex-to-launch-south-korean-earth-observation-satellite-44-more-payloads-on-overnight-falcon-9-rideshare-mission/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-05-02"
-    },
-    {
-      "id": 37759,
-      "title": "Ribbon Cutting at Alabama’s Redstone Arsenal Welcomes U.S. Space Command",
-      "url": "https://spacepolicyonline.com/news/ribbon-cutting-at-alabamas-redstone-arsenal-welcomes-u-s-space-command/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Ribbon-Cutting-Apr-29-26-300x200.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-05-02"
-    },
-    {
-      "id": 37758,
-      "title": "SpaceX aims for mid-May Starship Flight 12 launch with revised trajectory",
-      "url": "https://www.nasaspaceflight.com/2026/05/spacex-mid-may-starship-flight-12-revised-trajectory/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/NSF-2026-05-01-21-44-08-212.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-05-01"
-    },
-    {
-      "id": 37757,
-      "title": "Lt. Gen. Doug Schiess Nominated to Succeed Space Force CSO Saltzman",
-      "url": "https://spacepolicyonline.com/news/lt-gen-doug-schiess-nominated-to-succeed-space-force-cso-saltzman/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/LTG-Doug-Schiess-USSF-240x300.avif",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-05-01"
-    },
-    {
-      "id": 37756,
-      "title": "NASA Kennedy Center Director Announces Plans to Retire",
-      "url": "https://www.nasa.gov/news-release/nasa-kennedy-center-director-announces-plans-to-retire/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/janetp.jpg",
+      "id": 37776,
+      "title": "NASA Welcomes Ireland as Newest Artemis Accords Signatory",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-welcomes-ireland-as-newest-artemis-accords-signatory/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/55249468219-fc774342a0-k.jpg",
       "source": "NASA",
-      "published_at": "2026-05-01"
+      "published_at": "2026-05-04"
+    },
+    {
+      "id": 37775,
+      "title": "NASA Fosters Development of Lunar Resource-Seeking Technologies",
+      "url": "https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/",
+      "image_url": "https://images-assets.nasa.gov/image/art002e009287/art002e009287~large.jpg",
+      "source": "NASA",
+      "published_at": "2026-05-04"
+    },
+    {
+      "id": 37774,
+      "title": "Launch Preview: three launches — a calm before the storm?",
+      "url": "https://www.nasaspaceflight.com/2026/05/launch-preview-050426/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/IMG_0610.jpeg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-05-04"
+    },
+    {
+      "id": 37773,
+      "title": "NASA Welcomes Malta as Newest Artemis Accords Signatory",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-welcomes-malta-as-newest-artemis-accords-signatory/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/artemis-accords-malta-65-050426.jpg",
+      "source": "NASA",
+      "published_at": "2026-05-04"
+    },
+    {
+      "id": 37771,
+      "title": "Breaking Barriers at 3rd Annual Findings from the Field Symposium",
+      "url": "https://science.nasa.gov/learning-resources/science-activation/breaking-barriers-at-3rd-annual-findings-from-the-field-symposium/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/Findings_field_symposium_lene.jpg",
+      "source": "NASA",
+      "published_at": "2026-05-04"
+    },
+    {
+      "id": 37772,
+      "title": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber",
+      "url": "https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/blue-origin-mk-1.jpg",
+      "source": "NASA",
+      "published_at": "2026-05-04"
     }
   ]
 }
