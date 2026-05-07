@@ -1,74 +1,74 @@
 {
-  "updated": "2026-05-05",
+  "updated": "2026-05-07",
   "items": [
     {
       "slot": 1,
-      "date": "2026-04-29",
-      "title": "The Moon, Venus, and the Pleiades",
-      "explanation": "No, Earth did not recently acquire six more moons!  Today’s APOD is a combination of images following the Moon, Venus, and the Pleiades across a southern Sicilian sky as twilight turned to evening on April 19. From 2023 to 2029, the Pleiades' and the Moon “visit\" each other once per month due to the Pleiades' location in the ecliptic plane. April 2026 saw the celestial alignment of their visit with Venus.  About six stars in the Pleiades cluster (Messier 45) are typically visible with the unaided eye. Due to the cluster’s visibility across the world, there are many myths and legends across cultures associated with the Pleiades. The Haudenosaunee people of North America, for example, say that seven boys danced so enthusiastically that they lifted off into the sky. Astronomers recently found thousands more Pleiades members, showing that after thousands of years of gazing upon this cluster, there is yet more to learn about the Pleiades.",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades.jpg",
-      "image_path": "images/apod/1.jpg"
-    },
-    {
-      "slot": 2,
-      "date": "2026-04-30",
-      "title": "Waves on Titan",
-      "explanation": "Have you ever thought about surfing on an alien world? We can now expand the search for the perfect wave from Earth to the rest of the Solar System, and beyond. Scientists have developed a new model for simulating waves on other planets. Titan is one of the 274 confirmed moons of Saturn to date, and the only object in the solar system (besides Earth) known to have liquid lakes and seas on its surface.  The featured video shows a simulation of waves on Earth (right) and on Titan (left), under the same conditions (the scale marker is in meters). A light breeze would create taller, slower-moving waves on Titan than on Earth, because the lakes there are filled with light liquid hydrocarbons, and because of Titan's low gravity and higher atmospheric pressure. In a couple of years, NASA expects to launch the Dragonfly mission, which will travel for 6 years and send a rotorcraft to explore Titan and study its microbial habitability.",
-      "media_type": "video",
-      "apod_url": "https://apod.nasa.gov/apod/image/2604/waves.mp4",
-      "hdurl": null,
-      "image_path": "images/apod/2.jpg"
-    },
-    {
-      "slot": 3,
       "date": "2026-05-01",
       "title": "Markarian's Chain",
       "explanation": "Near the heart of the Virgo Galaxy Cluster, a string of galaxies known as Markarian's Chain stretches across this telescopic field of view. Anchored in the frame at bottom right by prominent lenticular galaxies, M84 (bottom) and M86, you can follow the chain's gentle arc up and toward the left. Near center you'll spot the pair of interacting galaxies NGC 4438 and NGC 4435, known to some as Markarian's Eyes. An estimated 50 million light-years distant, the Virgo Cluster itself is the nearest galaxy cluster. With up to about 2,000 member galaxies, it has a noticeable gravitational influence on our own Local Group of Galaxies. Within the Virgo Cluster at least seven galaxies in Markarian's Chain  appear to move coherently, while others may appear to be part of the chain by chance.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2605/M84andM86_1024.png",
       "hdurl": "https://apod.nasa.gov/apod/image/2605/M84andM86.png",
-      "image_path": "images/apod/3.png"
+      "image_path": "images/apod/1.png"
     },
     {
-      "slot": 4,
+      "slot": 2,
       "date": "2026-05-02",
       "title": "Seeing Titan",
       "explanation": "Shrouded in a thick atmosphere, the surface of Saturn's largest moon, Titan, is really hard to see. Small particles suspended in Titan's upper atmosphere cause an almost impenetrable haze, strongly scattering light at visible wavelengths and hiding surface features from prying eyes. Still, Titan's surface is better imaged at infrared wavelengths, where scattering is weaker and atmospheric absorption is reduced. Arrayed around this visible light image (center) of Titan are some of the clearest global infrared views of the tantalizing moon so far. In false color, the six panels present a consistent processing of 13 years of infrared image data from the Visual and Infrared Mapping Spectrometer (VIMS) on board the Cassini spacecraft orbiting Saturn from 2004 to 2017. They offer a stunning comparison with Cassini's visible light view. NASA's revolutionary rotorcraft mission to Titan's surface is due to launch no earlier than July, 2028.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan2400.jpg",
-      "image_path": "images/apod/4.jpg"
+      "image_path": "images/apod/2.jpg"
     },
     {
-      "slot": 5,
+      "slot": 3,
       "date": "2026-05-03",
       "title": "Trifid Pillars and Jets",
       "explanation": "Dust pillars are like interstellar mountains.  They survive because they are more dense than their surroundings, but they are slowly being  eroded away by a hostile environment.  Visible in the featured picture by the Hubble Space Telescope is the end of a huge gas and dust pillar in the Trifid Nebula (M20), punctuated by a smaller pillar pointing up and an unusual jet pointing to the upper left.  Many of the bright dots are newly formed stars. A star near the small pillar's end is slowly being stripped of its accreting gas by radiation from a tremendously brighter star situated off the top of the image.  The jet extends nearly a light-year and would not be visible without external illumination.  As gas and dust evaporate from the pillars, the hidden stellar source of this jet will likely be uncovered, possibly over the next 20,000 years.   Explore the Universe: Random APOD Generator",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_4074.jpg",
-      "image_path": "images/apod/5.jpg"
+      "image_path": "images/apod/3.jpg"
     },
     {
-      "slot": 6,
+      "slot": 4,
       "date": "2026-05-04",
       "title": "Superplumes Inside Earth",
       "explanation": "Why are there huge, unusual masses inside the Earth? No one is sure.  By noting how earthquakes rumble through our planet's interior, humanity has discovered two deep structures that appear to have unusual temperatures and/or chemical compositions. One hypothesis holds that the superplumes are sunken debris left over from the Earth-shattering collision that created Earth's Moon about 4.5 billion years ago.  A competing hypothesis is that they are graveyards for old tectonic plates that slowly slid under each other over the past few billion years. No matter their origin, the superplumes are thought to affect Earth’s surface volcanism, possibly creating, for example, island chains such as Hawaii.  Also known as large low-shear-velocity provinces (LLSVPs), Earth's superplumes are visualized in the featured animation.",
       "media_type": "video",
       "apod_url": "https://apod.nasa.gov/apod/image/2605/SuperPlumeEarth_Cottaar.mp4",
       "hdurl": null,
-      "image_path": "images/apod/6.jpg"
+      "image_path": "images/apod/4.jpg"
     },
     {
-      "slot": 7,
+      "slot": 5,
       "date": "2026-05-05",
       "title": "Orion over Mount Teide",
       "explanation": "Orion is rarely seen like this.  To achieve this majestic vista, you need a camera capable of taking such long duration exposures that faint features in the night sky become revealed.  Iconic nebulas that appear include the Orion Nebula, the Flame Nebula, and Barnard's Loop. For contrast, it also helps to have a volcano on the foreground, in this case the Teide volcano on Tenerife on the Canary Islands of Spain.  But if you want your Teide volcano snow-covered, you also need good timing -- because that only happens, typically, for a few days each year.  Good timing also includes waiting for Orion to appear just behind Teide, which occurred late last year after sunset.  The featured image is the result of a series of images taken consecutively with the same camera from the same location.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_4247.jpg",
+      "image_path": "images/apod/5.jpg"
+    },
+    {
+      "slot": 6,
+      "date": "2026-05-06",
+      "title": "The Retrograde Dance of Saturn and Neptune",
+      "explanation": "What does it mean for Saturn and Neptune to be in retrograde? Featured is a composite of images taken over 34 nights from May 2025 to February 2026 tracing Saturn (brighter, foreground) and Neptune (dimmer, background). Over that time, the two planets exhibited retrograde motion, meaning they appeared to move backward in the sky. This apparent backwards motion occurs when Earth overtakes the slower outer planets as they orbit the Sun. Imagine the Solar System is a running track. Earth \"runs\" faster along the inside of the track compared to the outer planets. As Earth approaches, aligns, and then \"laps\" the outer planets, they change position from ahead to behind from the Earth's perspective. This perspective shift is what causes the outer planets to change position in the night sky. An animation corresponding to today’s image shows Saturn and Neptune’s months-long dance across the northern night sky. Saturn stepped from the Pisces constellation into Aquarius and back again while Neptune remained in Pisces. This is the closest Saturn and Neptune have been in the sky since their last conjunction in 1989.",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2605/saturn_neptune_retrograde_1024.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2605/saturn_neptune_retrograde.jpg",
+      "image_path": "images/apod/6.jpg"
+    },
+    {
+      "slot": 7,
+      "date": "2026-05-07",
+      "title": "Supernova in a Sideways Spiral",
+      "explanation": "A long time ago, in a distant galaxy, a massive star was destroyed in a supernova explosion. The light of this event travelled for tens of millions of years and reached Earth last week as Supernova 2026kid. The featured video shows a time-lapse over three nights of the host galaxy NGC 5907, an edge-on spiral also known as the Splinter or Knife Edge Galaxy, as the supernova appears and becomes brighter. (The occasional streaks are satellites in Earth orbit.) At its brightest, a supernova can outshine the sum of all other stars in its galaxy. Supernova 2026kid appears relatively dim, probably because we are seeing it through the edge-on disk of the galaxy. Such explosions typically happen about once per century in galaxies similar to the Milky Way, and their light can take months to fade away. The brightest supernova in recorded history was SN 1006; it is reported to have been brighter than Venus, and even visible in the sky during daytime.",
+      "media_type": "video",
+      "apod_url": "https://apod.nasa.gov/apod/image/2605/supernova.mp4",
+      "hdurl": null,
       "image_path": "images/apod/7.jpg"
     }
   ]
