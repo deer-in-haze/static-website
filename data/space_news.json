@@ -1,69 +1,69 @@
 {
-  "updated": "2026-05-08T07:27:06.430Z",
+  "updated": "2026-05-09T07:53:44.404Z",
   "items": [
     {
-      "id": 37823,
-      "title": "Tracy Arm’s Post-Tsunami Landscape",
-      "url": "https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tracy-arm%E2%80%99s-post-tsunami-landscape/alaskalandslide_oli_20250726.jpg",
+      "id": 37838,
+      "title": "Rescue mission for NASA’s $500 million space telescope passes key testing milestone",
+      "url": "https://spaceflightnow.com/2026/05/08/rescue-mission-for-nasas-500-million-space-telescope-passes-key-testing-milestone/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260508-Testing-Link-Vibration-tests-2.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-05-08"
+    },
+    {
+      "id": 37836,
+      "title": "NASA’s SpaceX 34th Commercial Resupply Mission Overview",
+      "url": "https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/nasa-spacex-crs-34-mission-overview.png",
       "source": "NASA",
       "published_at": "2026-05-08"
     },
     {
-      "id": 37822,
-      "title": "Meet the Fleet: NASA Armstrong Continues Legacy of Flight Research",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/afrc2025-0168-030-edit.jpg",
-      "source": "NASA",
-      "published_at": "2026-05-07"
-    },
-    {
-      "id": 37821,
-      "title": "Rocket Lab announces five-launch Neutron deal as it continues aiming for late 2026 debut",
-      "url": "https://spaceflightnow.com/2026/05/07/rocket-lab-announces-five-launch-neutron-deal-as-it-continues-aiming-for-late-2026-debut/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260507_Neutron_launch_simulation.jpeg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-05-07"
-    },
-    {
-      "id": 37820,
-      "title": "China prepares cargo, crew, and deep space missions, as commercial sector steps towards reusability",
-      "url": "https://www.nasaspaceflight.com/2026/05/china-cargo-crew-reusability/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/Leap-1A-in-flight-render-video-still-Cosmoleap.png",
+      "id": 37837,
+      "title": "Booster 19 completes Static Fire as Ship 39 prepares for rollout",
+      "url": "https://www.nasaspaceflight.com/2026/05/booster-19-33-ship-39-rollout/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/NSF-2026-05-08-23-42-01-222.jpg",
       "source": "NASASpaceflight",
-      "published_at": "2026-05-07"
+      "published_at": "2026-05-08"
     },
     {
-      "id": 37819,
-      "title": "NASA Welcomes Paraguay as 67th Artemis Accords Signatory",
-      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-paraguay-as-67th-artemis-accords-signatory/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/artemis-accords-paraguay-67-050726.jpg",
-      "source": "NASA",
-      "published_at": "2026-05-07"
+      "id": 37835,
+      "title": "Brian Hughes Returns to NASA in Charge of Kennedy and Wallops Launch Operations",
+      "url": "https://spacepolicyonline.com/news/brian-hughes-returns-to-nasa-in-charge-of-kennedy-and-wallops-launch-operations/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Brian-Hughes-Ingalls-June-25-25-300x226.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-05-08"
     },
     {
-      "id": 37817,
-      "title": "NASA Sends Mars Helicopter Blades Beyond Mach 1",
-      "url": "https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26649/PIA26649.jpg",
+      "id": 37834,
+      "title": "NASA’s Psyche Mission Captures Mars During Gravity Assist Approach",
+      "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-captures-mars-during-gravity-assist-approach/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26750/PIA26750.jpg",
       "source": "NASA",
-      "published_at": "2026-05-07"
+      "published_at": "2026-05-08"
     },
     {
-      "id": 37818,
-      "title": "NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast",
-      "url": "https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26648/PIA26648.jpg",
+      "id": 37833,
+      "title": "I Am Artemis: Anton Kiriwas",
+      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-anton-kiriwas/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/ksc-20260508-ph-csh01-0032-e1778260308717.jpg",
       "source": "NASA",
-      "published_at": "2026-05-07"
+      "published_at": "2026-05-08"
     },
     {
-      "id": 37815,
-      "title": "NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1",
-      "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/1-pia26648-superrotor2-crop.jpg",
+      "id": 37832,
+      "title": "NASA, Industry Advance High Performance Spaceflight Computing",
+      "url": "https://www.nasa.gov/directorates/stmd/nasa-industry-advance-high-performance-spaceflight-computing/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/d2026-0227-rl0028902.jpg",
       "source": "NASA",
-      "published_at": "2026-05-07"
+      "published_at": "2026-05-08"
+    },
+    {
+      "id": 37831,
+      "title": "Glowing Views from the Space Station",
+      "url": "https://www.nasa.gov/image-article/glowing-views-from-the-space-station/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/iss074e0521637orig.jpg",
+      "source": "NASA",
+      "published_at": "2026-05-08"
     }
   ]
 }
