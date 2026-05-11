@@ -1,6 +1,14 @@
 {
-  "updated": "2026-05-10T08:05:24.000Z",
+  "updated": "2026-05-11T09:35:38.926Z",
   "items": [
+    {
+      "id": 37842,
+      "title": "What’s Happening in Space Policy May 9-16, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-9-16-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Cargo-Dragon-dock-Aug-25-25-Mali-300x200.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-05-10"
+    },
     {
       "id": 37838,
       "title": "Rescue mission for NASA’s $500 million space telescope passes key testing milestone",
@@ -54,14 +62,6 @@
       "title": "NASA, Industry Advance High Performance Spaceflight Computing",
       "url": "https://www.nasa.gov/directorates/stmd/nasa-industry-advance-high-performance-spaceflight-computing/",
       "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/d2026-0227-rl0028902.jpg",
-      "source": "NASA",
-      "published_at": "2026-05-08"
-    },
-    {
-      "id": 37831,
-      "title": "Glowing Views from the Space Station",
-      "url": "https://www.nasa.gov/image-article/glowing-views-from-the-space-station/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/iss074e0521637orig.jpg",
       "source": "NASA",
       "published_at": "2026-05-08"
     }
