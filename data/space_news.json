@@ -1,69 +1,69 @@
 {
-  "updated": "2026-05-11T09:35:38.926Z",
+  "updated": "2026-05-12T08:36:26.171Z",
   "items": [
     {
-      "id": 37842,
-      "title": "What’s Happening in Space Policy May 9-16, 2026",
-      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-9-16-2026/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Cargo-Dragon-dock-Aug-25-25-Mali-300x200.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-05-10"
+      "id": 37857,
+      "title": "Smile's journey from launch to orbit",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/04/Smile_s_journey_from_launch_to_orbit",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/04/smile_s_journey_from_launch_to_orbit/27167788-1-eng-GB/Smile_s_journey_from_launch_to_orbit_card_full.png",
+      "source": "ESA",
+      "published_at": "2026-05-12"
     },
     {
-      "id": 37838,
-      "title": "Rescue mission for NASA’s $500 million space telescope passes key testing milestone",
-      "url": "https://spaceflightnow.com/2026/05/08/rescue-mission-for-nasas-500-million-space-telescope-passes-key-testing-milestone/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260508-Testing-Link-Vibration-tests-2.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-05-08"
-    },
-    {
-      "id": 37836,
-      "title": "NASA’s SpaceX 34th Commercial Resupply Mission Overview",
-      "url": "https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/nasa-spacex-crs-34-mission-overview.png",
+      "id": 37856,
+      "title": "Australia’s Cloudy Beauty",
+      "url": "https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511.jpg",
       "source": "NASA",
-      "published_at": "2026-05-08"
+      "published_at": "2026-05-12"
     },
     {
-      "id": 37837,
-      "title": "Booster 19 completes Static Fire as Ship 39 prepares for rollout",
-      "url": "https://www.nasaspaceflight.com/2026/05/booster-19-33-ship-39-rollout/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/NSF-2026-05-08-23-42-01-222.jpg",
+      "id": 37855,
+      "title": "Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04887_mhli_4887MH0004350001800890R00_DXXX.jpg",
+      "source": "NASA",
+      "published_at": "2026-05-12"
+    },
+    {
+      "id": 37854,
+      "title": "NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill",
+      "url": "https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26724/PIA26724.png",
+      "source": "NASA",
+      "published_at": "2026-05-12"
+    },
+    {
+      "id": 37853,
+      "title": "May 2026 Satellite Puzzler",
+      "url": "https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/satellite-puzzler/2026_maypuzzler.jpg",
+      "source": "NASA",
+      "published_at": "2026-05-11"
+    },
+    {
+      "id": 37852,
+      "title": "Launch Preview: SpaceX and Chinese missions fill busy launch manifest",
+      "url": "https://www.nasaspaceflight.com/2026/05/launch-preview-051126/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/IMG_2706.jpeg",
       "source": "NASASpaceflight",
-      "published_at": "2026-05-08"
+      "published_at": "2026-05-11"
     },
     {
-      "id": 37835,
-      "title": "Brian Hughes Returns to NASA in Charge of Kennedy and Wallops Launch Operations",
-      "url": "https://spacepolicyonline.com/news/brian-hughes-returns-to-nasa-in-charge-of-kennedy-and-wallops-launch-operations/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Brian-Hughes-Ingalls-June-25-25-300x226.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-05-08"
-    },
-    {
-      "id": 37834,
-      "title": "NASA’s Psyche Mission Captures Mars During Gravity Assist Approach",
-      "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-captures-mars-during-gravity-assist-approach/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26750/PIA26750.jpg",
+      "id": 37851,
+      "title": "Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-4.jpg",
       "source": "NASA",
-      "published_at": "2026-05-08"
+      "published_at": "2026-05-11"
     },
     {
-      "id": 37833,
-      "title": "I Am Artemis: Anton Kiriwas",
-      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-anton-kiriwas/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/ksc-20260508-ph-csh01-0032-e1778260308717.jpg",
-      "source": "NASA",
-      "published_at": "2026-05-08"
-    },
-    {
-      "id": 37832,
-      "title": "NASA, Industry Advance High Performance Spaceflight Computing",
-      "url": "https://www.nasa.gov/directorates/stmd/nasa-industry-advance-high-performance-spaceflight-computing/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/d2026-0227-rl0028902.jpg",
-      "source": "NASA",
-      "published_at": "2026-05-08"
+      "id": 37850,
+      "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+      "url": "https://spaceflightnow.com/2026/05/11/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260116_NROL-105_F9_pad.jpeg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-05-11"
     }
   ]
 }
