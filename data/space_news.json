@@ -1,69 +1,69 @@
 {
-  "updated": "2026-05-12T08:36:26.171Z",
+  "updated": "2026-05-13T08:41:22.163Z",
   "items": [
     {
-      "id": 37857,
-      "title": "Smile's journey from launch to orbit",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/04/Smile_s_journey_from_launch_to_orbit",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/04/smile_s_journey_from_launch_to_orbit/27167788-1-eng-GB/Smile_s_journey_from_launch_to_orbit_card_full.png",
-      "source": "ESA",
-      "published_at": "2026-05-12"
-    },
-    {
-      "id": 37856,
-      "title": "Australia’s Cloudy Beauty",
-      "url": "https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511.jpg",
+      "id": 37870,
+      "title": "America’s Emerald Isle",
+      "url": "https://science.nasa.gov/earth/earth-observatory/americas-emerald-isle/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/america%E2%80%99s-emerald-isle/beaverisland_oli2_20240802.jpg",
       "source": "NASA",
-      "published_at": "2026-05-12"
+      "published_at": "2026-05-13"
     },
     {
-      "id": 37855,
-      "title": "Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04887_mhli_4887MH0004350001800890R00_DXXX.jpg",
-      "source": "NASA",
-      "published_at": "2026-05-12"
+      "id": 37869,
+      "title": "CBO Estimates Golden Dome at $1.2 Trillion, Space-Based Interceptors Biggest Cost",
+      "url": "https://spacepolicyonline.com/news/cbo-estimates-golden-dome-at-1-2-trillion-space-based-interceptors-biggest-cost/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/CBO-Golden-Dome-cost-table-May-2026-300x172.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-05-13"
     },
     {
-      "id": 37854,
-      "title": "NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill",
-      "url": "https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26724/PIA26724.png",
-      "source": "NASA",
-      "published_at": "2026-05-12"
-    },
-    {
-      "id": 37853,
-      "title": "May 2026 Satellite Puzzler",
-      "url": "https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/satellite-puzzler/2026_maypuzzler.jpg",
-      "source": "NASA",
-      "published_at": "2026-05-11"
-    },
-    {
-      "id": 37852,
-      "title": "Launch Preview: SpaceX and Chinese missions fill busy launch manifest",
-      "url": "https://www.nasaspaceflight.com/2026/05/launch-preview-051126/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/IMG_2706.jpeg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-05-11"
-    },
-    {
-      "id": 37851,
-      "title": "Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-4.jpg",
-      "source": "NASA",
-      "published_at": "2026-05-11"
-    },
-    {
-      "id": 37850,
-      "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
-      "url": "https://spaceflightnow.com/2026/05/11/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260116_NROL-105_F9_pad.jpeg",
+      "id": 37868,
+      "title": "SpaceX targets May 19 for debut of Starship Version 3, Launch Pad 2",
+      "url": "https://spaceflightnow.com/2026/05/12/spacex-targets-may-19-for-debut-of-starship-super-heavy-version-3-launch-pad-2/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260512_Starship-Super_Heavy_integration.jpeg",
       "source": "Spaceflight Now",
-      "published_at": "2026-05-11"
+      "published_at": "2026-05-12"
+    },
+    {
+      "id": 37867,
+      "title": "SpaceX CRS-34 resupply mission to ISS delayed 24 hours",
+      "url": "https://www.nasaspaceflight.com/2026/05/crs-34-launch/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/IMG_7476-scaled.jpeg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-05-12"
+    },
+    {
+      "id": 37866,
+      "title": "NASA Langley Engineer Attends FAA Training",
+      "url": "https://www.nasa.gov/general/nasa-langley-engineer-attends-faa-training/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/06/cummings-will.jpg",
+      "source": "NASA",
+      "published_at": "2026-05-12"
+    },
+    {
+      "id": 37865,
+      "title": "Perseverance Stuns in New Selfie",
+      "url": "https://www.nasa.gov/image-article/perseverance-stuns-in-new-selfie/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/pia26650-watson-take-6-up-small.png",
+      "source": "NASA",
+      "published_at": "2026-05-12"
+    },
+    {
+      "id": 37862,
+      "title": "NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier",
+      "url": "https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/e1-pia26753-mastcam-z-arbot-sol1822-l0-z110-enhanced-web.jpg",
+      "source": "NASA",
+      "published_at": "2026-05-12"
+    },
+    {
+      "id": 37863,
+      "title": "NASA’s Perseverance Captures Panorama at ‘Arbot’",
+      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-panorama-at-arbot/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26753/PIA26753.png",
+      "source": "NASA",
+      "published_at": "2026-05-12"
     }
   ]
 }
