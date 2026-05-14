@@ -1,69 +1,69 @@
 {
-  "updated": "2026-05-13T08:41:22.163Z",
+  "updated": "2026-05-14T08:34:45.316Z",
   "items": [
     {
-      "id": 37870,
-      "title": "America’s Emerald Isle",
-      "url": "https://science.nasa.gov/earth/earth-observatory/americas-emerald-isle/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/america%E2%80%99s-emerald-isle/beaverisland_oli2_20240802.jpg",
+      "id": 37885,
+      "title": "Ice Moves Out of Aniak",
+      "url": "https://science.nasa.gov/earth/earth-observatory/ice-moves-out-of-aniak/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ice-moves-out-of-aniak/alaskaicebreak_oli2_20260421.jpg",
       "source": "NASA",
-      "published_at": "2026-05-13"
+      "published_at": "2026-05-14"
     },
     {
-      "id": 37869,
-      "title": "CBO Estimates Golden Dome at $1.2 Trillion, Space-Based Interceptors Biggest Cost",
-      "url": "https://spacepolicyonline.com/news/cbo-estimates-golden-dome-at-1-2-trillion-space-based-interceptors-biggest-cost/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/CBO-Golden-Dome-cost-table-May-2026-300x172.jpg",
+      "id": 37884,
+      "title": "House Appropriators Reject Deep Cuts to NASA in FY2027",
+      "url": "https://spacepolicyonline.com/news/house-appropriators-reject-deep-cuts-to-nasa-in-fy2027/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/H-App-CJS-rpt-FY27-table-300x169.jpg",
       "source": "SpacePolicyOnline.com",
+      "published_at": "2026-05-14"
+    },
+    {
+      "id": 37880,
+      "title": "NASA-Supported Space Tech Advances Earthly Construction",
+      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/lunar-habitat-e1778695522319.png",
+      "source": "NASA",
       "published_at": "2026-05-13"
     },
     {
-      "id": 37868,
-      "title": "SpaceX targets May 19 for debut of Starship Version 3, Launch Pad 2",
-      "url": "https://spaceflightnow.com/2026/05/12/spacex-targets-may-19-for-debut-of-starship-super-heavy-version-3-launch-pad-2/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260512_Starship-Super_Heavy_integration.jpeg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-05-12"
+      "id": 37879,
+      "title": "Rise Goes to Washington",
+      "url": "https://www.nasa.gov/image-article/rise-goes-to-washington/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605120023orig.jpg",
+      "source": "NASA",
+      "published_at": "2026-05-13"
     },
     {
-      "id": 37867,
-      "title": "SpaceX CRS-34 resupply mission to ISS delayed 24 hours",
-      "url": "https://www.nasaspaceflight.com/2026/05/crs-34-launch/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/IMG_7476-scaled.jpeg",
+      "id": 37878,
+      "title": "NASA provides some details about Artemis III, but hard decisions remain",
+      "url": "https://arstechnica.com/space/2026/05/nasa-provides-some-details-about-artemis-iii-but-hard-decisions-remain/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55193180468_5de0cf977a_o.jpg",
+      "source": "Arstechnica",
+      "published_at": "2026-05-13"
+    },
+    {
+      "id": 37877,
+      "title": "SpaceX’s new Starship pad readies for first launch",
+      "url": "https://www.nasaspaceflight.com/2026/05/spacex-starship-pad-first-launch/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/Ship-39-and-Booster-19-Stacked-on-Pad-2-scaled.jpg",
       "source": "NASASpaceflight",
-      "published_at": "2026-05-12"
+      "published_at": "2026-05-13"
     },
     {
-      "id": 37866,
-      "title": "NASA Langley Engineer Attends FAA Training",
-      "url": "https://www.nasa.gov/general/nasa-langley-engineer-attends-faa-training/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/06/cummings-will.jpg",
+      "id": 37876,
+      "title": "NASA Outlines Preliminary Artemis III Mission Plans",
+      "url": "https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/pad.jpg",
       "source": "NASA",
-      "published_at": "2026-05-12"
+      "published_at": "2026-05-13"
     },
     {
-      "id": 37865,
-      "title": "Perseverance Stuns in New Selfie",
-      "url": "https://www.nasa.gov/image-article/perseverance-stuns-in-new-selfie/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/pia26650-watson-take-6-up-small.png",
+      "id": 37874,
+      "title": "Studying Pneumonia in Space for Heart Health on Earth",
+      "url": "https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/",
+      "image_url": "https://images-assets.nasa.gov/image/iss074e0490731/iss074e0490731~large.jpg",
       "source": "NASA",
-      "published_at": "2026-05-12"
-    },
-    {
-      "id": 37862,
-      "title": "NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier",
-      "url": "https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/e1-pia26753-mastcam-z-arbot-sol1822-l0-z110-enhanced-web.jpg",
-      "source": "NASA",
-      "published_at": "2026-05-12"
-    },
-    {
-      "id": 37863,
-      "title": "NASA’s Perseverance Captures Panorama at ‘Arbot’",
-      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-panorama-at-arbot/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26753/PIA26753.png",
-      "source": "NASA",
-      "published_at": "2026-05-12"
+      "published_at": "2026-05-13"
     }
   ]
 }
