@@ -1,69 +1,69 @@
 {
-  "updated": "2026-05-18T09:58:44.963Z",
+  "updated": "2026-05-19T09:38:23.924Z",
   "items": [
     {
-      "id": 37907,
-      "title": "Landing sideways",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/05/Landing_sideways",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/05/landing_sideways/27277002-1-eng-GB/Landing_sideways_card_full.png",
+      "id": 37923,
+      "title": "Smile launch highlights",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/05/Smile_launch_highlights",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/05/smile_launch_highlights/27281512-1-eng-GB/Smile_launch_highlights_card_full.png",
       "source": "ESA",
+      "published_at": "2026-05-19"
+    },
+    {
+      "id": 37922,
+      "title": "Smile lifts off on quest to reveal Earth’s invisible shield against the solar wind",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/vega-c_liftoff_with_smile/27281000-2-eng-GB/Vega-C_liftoff_with_Smile_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-05-19"
+    },
+    {
+      "id": 37921,
+      "title": "Farming in Ancient Lake Agassiz",
+      "url": "https://science.nasa.gov/earth/earth-observatory/farming-in-ancient-lake-agassiz/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/farming-in-ancient-lake-agassiz/ISS074-E-494130.jpg",
+      "source": "NASA",
+      "published_at": "2026-05-19"
+    },
+    {
+      "id": 37920,
+      "title": "Anderson Confirmed as Deputy NASA Administrator",
+      "url": "https://spacepolicyonline.com/news/anderson-confirmed-as-deputy-nasa-administrator/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Matt-Anderson-hrg-4-Ingalls-1-300x228.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-05-19"
+    },
+    {
+      "id": 37919,
+      "title": "Curiosity Blog, Sols 4893-4899: Drilling at Campo Marte and a Visit From the Psyche Spacecraft",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4893-4899-drilling-at-campo-marte-and-a-visit-from-the-psyche-spacecraft/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04895_opgs_edr_fcam_FRB_832043910EDR_F1220462FHAZ00337M_.jpg",
+      "source": "NASA",
+      "published_at": "2026-05-19"
+    },
+    {
+      "id": 37918,
+      "title": "Vega C set to launch SMILE to study Earth’s magnetosphere",
+      "url": "https://www.nasaspaceflight.com/2026/05/esa-smile-launch/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/HIbIHpZWQAAI9Id-scaled.jpeg",
+      "source": "NASASpaceflight",
       "published_at": "2026-05-18"
     },
     {
-      "id": 37906,
-      "title": "What’s Happening in Space Policy May 17-23, 2026",
-      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-17-23-2026/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/starship-may-20-300x144.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-05-17"
-    },
-    {
-      "id": 37905,
-      "title": "CRS-34 Takes Flight",
-      "url": "https://www.spacescout.info/2026/05/crs-34-takes-flight/",
-      "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/05/launch-cameron.jpg",
-      "source": "Space Scout",
-      "published_at": "2026-05-17"
-    },
-    {
-      "id": 37904,
-      "title": "Artemis III deep into processing and planning for key HLS test",
-      "url": "https://www.nasaspaceflight.com/2026/05/artemis-iii-processing-planning-hls/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/NSF-2026-05-16-22-49-40-467.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-05-17"
-    },
-    {
-      "id": 37903,
-      "title": "NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station",
-      "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-34th-spacex-resupply-mission-to-station/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/crs-34-mission-dragon-liftoff-image-2.png",
+      "id": 37917,
+      "title": "Johnson Photographers Honored for Award-Winning Portraits",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-photographers-honored-for-award-winning-portraits/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/jsc2025e073969-altorig.jpg",
       "source": "NASA",
-      "published_at": "2026-05-15"
+      "published_at": "2026-05-18"
     },
     {
-      "id": 37902,
-      "title": "Live Coverage: SpaceX makes another attempt to launch space station cargo mission",
-      "url": "https://spaceflightnow.com/2026/05/15/live-coverage-spacex-makes-another-attempt-to-launch-space-station-cargo-mission/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260511_CRS-34_pad-1.jpeg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-05-15"
-    },
-    {
-      "id": 37899,
-      "title": "Flight 12 readies for the debut SpaceX’s next Ship evolution",
-      "url": "https://www.nasaspaceflight.com/2026/05/fligth12-debut-spacex-ship-evolution/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/2Q5A8534-wmarked-scaled.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-05-15"
-    },
-    {
-      "id": 37898,
-      "title": "Curiosity Shakes Loose a Pesky Rock",
-      "url": "https://www.nasa.gov/image-article/curiosity-shakes-loose-a-pesky-rock/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/pia26724.png",
-      "source": "NASA",
-      "published_at": "2026-05-15"
+      "id": 37916,
+      "title": "One Mars spacecraft, two Senators, and a cloud of questions",
+      "url": "https://arstechnica.com/space/2026/05/one-mars-spacecraft-two-senators-and-a-cloud-of-questions/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/mars-telecom.jpg",
+      "source": "Arstechnica",
+      "published_at": "2026-05-18"
     }
   ]
 }
