@@ -1,6 +1,22 @@
 {
-  "updated": "2026-05-23T08:15:31.940Z",
+  "updated": "2026-05-24T08:26:43.295Z",
   "items": [
+    {
+      "id": 38045,
+      "title": "NASA to add missions to SpaceX commercial crew contract",
+      "url": "https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/crew9-approach.jpg?fit=1024%2C687&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-05-24"
+    },
+    {
+      "id": 38044,
+      "title": "Shenzhou 23 set to launch new crew to Tiangong space station",
+      "url": "https://www.nasaspaceflight.com/2026/05/shenzhou-23-launch/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/IMG_1727.png",
+      "source": "NASASpaceflight",
+      "published_at": "2026-05-23"
+    },
     {
       "id": 38043,
       "title": "SpaceX Launches New Starship V3 For First Time",
@@ -46,22 +62,6 @@
       "title": "Call for Creatives: NASA Seeks Help Illuminating Mission Storytelling",
       "url": "https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/",
       "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
-      "source": "NASA",
-      "published_at": "2026-05-22"
-    },
-    {
-      "id": 38037,
-      "title": "NASA Announces Major Reorganization",
-      "url": "https://spacepolicyonline.com/news/nasa-announces-major-reorganization/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/nasa-org-chart-May-22-2026-300x225.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-05-22"
-    },
-    {
-      "id": 38035,
-      "title": "NASA Sets Coverage for Roscosmos Spacewalk Outside Space Station",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-outside-space-station-2/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/roscosmosadvisorymay22.jpg",
       "source": "NASA",
       "published_at": "2026-05-22"
     }
