@@ -1,74 +1,74 @@
 {
-  "updated": "2026-05-23",
+  "updated": "2026-05-24",
   "items": [
     {
       "slot": 1,
-      "date": "2026-05-17",
-      "title": "NGC 1300: Barred Spiral Galaxy",
-      "explanation": "Across the center of this spiral galaxy is a bar.  And at the center of this bar is smaller spiral.  And at the center of that spiral is a supermassive black hole.  This all happens in the big, beautiful, barred spiral galaxy cataloged as NGC 1300, a galaxy that lies some 70 million light-years away toward the constellation of the river Eridanus. This Hubble Space Telescope composite view of the gorgeous island universe is one of the most detailed Hubble images ever made of a complete galaxy.  NGC 1300 spans over 100,000 light-years and the Hubble image reveals striking details of the galaxy's dominant central bar and majestic spiral arms. How the giant bar formed, how it remains, and how it affects star formation remains an active topic of research.   Jigsaw Universe: Astronomy Puzzle of the Day",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2605/NGC1300_HST_1080.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2605/NGC1300_HST_6637.jpg",
-      "image_path": "images/apod/1.jpg"
-    },
-    {
-      "slot": 2,
       "date": "2026-05-18",
       "title": "Unraveling NGC 3169",
       "explanation": "Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lies some 70 million light-years away, south of bright star Regulus toward the faint constellation Sextans. Wound up spiral arms are pulled out into sweeping tidal tails as NGC 3169 (left) and neighboring NGC 3166 interact gravitationally. Eventually the galaxies will merge into one, a common fate even for bright galaxies in the local universe. Drawn out stellar arcs and plumes are clear indications of the ongoing gravitational interactions across the deep and colorful galaxy group photo. The telescopic frame spans about 20 arc minutes or about 400,000 light-years at the group's estimated distance, and includes smaller, bluish NGC 3165 to the right. NGC 3169 is also known to shine across the spectrum from radio to X-rays, harboring an active galactic nucleus that is the site of a supermassive black hole.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165.jpg",
-      "image_path": "images/apod/2.jpg"
+      "image_path": "images/apod/1.jpg"
     },
     {
-      "slot": 3,
+      "slot": 2,
       "date": "2026-05-19",
       "title": "NGC 2170: The Angel Nebula",
       "explanation": "Is this a painting or a photograph? In this celestial abstract art composed with a cosmic brush, dusty nebula NGC 2170, also known as the Angel Nebula, shines just above the image center. Reflecting the light of nearby hot stars, NGC 2170 is joined by other bluish reflection nebulae, a red emission region, many dark absorption nebulae, and a backdrop of colorful stars. Like the common household items that abstract painters often choose for their subjects, the clouds of gas, dust, and hot stars featured here are also commonly found in a setting like this one --  a massive, star-forming molecular cloud in the constellation of the Unicorn (Monoceros). The giant molecular cloud Mon R2, is impressively close, estimated to be only 2,400 light-years or so away. At that distance, this canvas would be over 60 light-years across.   Almost Hyperspace: Random APOD Generator",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2605/Angel_Marriott_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2605/Angel_Marriott_1707.jpg",
-      "image_path": "images/apod/3.jpg"
+      "image_path": "images/apod/2.jpg"
     },
     {
-      "slot": 4,
+      "slot": 3,
       "date": "2026-05-20",
       "title": "The Dark Wolf Nebula",
       "explanation": "A dark wolf lies in gum. No, this isn’t a riddle! Today's image features the Dark Wolf Nebula (Sandqvist–Lindroos 17), a spooky dust cloud embedded within the Gum 55 (RCW 113) Nebula in the Scorpius constellation. While dust is a pest to us, it serves a vital role in creating the necessary conditions for stars to be born. The Dark Wolf absorbs the intense ultraviolet and visible light emitted by young stars in Gum 55 and re-emits it at longer, mainly infrared, wavelengths. This prevents the higher energy light from heating up the gas in the region. When a region of gas is cool enough, gravity takes over and causes the gas to collapse into a star. Not only does dust act as an interstellar thermostat, but it is also the meet-cute for single hydrogen atoms forming molecular hydrogen, the building block for stars. The seemingly sinister Dark Wolf is actually a harbinger of cosmic life.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2605/dark_wolf_1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2605/dark_wolf.jpg",
-      "image_path": "images/apod/4.jpg"
+      "image_path": "images/apod/3.jpg"
     },
     {
-      "slot": 5,
+      "slot": 4,
       "date": "2026-05-21",
       "title": "A Collision of Galaxy Clusters",
       "explanation": "This big beautiful spiral shines in X-ray light. It is about 20 times larger than our Galaxy.   It belongs to Abell 2029, a galaxy cluster one billion light-years away.   (To see only the galaxies, hover your cursor over the image, or follow this link.)      Galaxy clusters are the largest structures in the universe that are supported by gravity.     Abell 2029 is formed by thousands of galaxies, surrounded by a huge cloud of hot gas and the equivalent of hundreds of trillions times the mass of the Sun in dark matter.     The spiral is made of gas, mostly hydrogen and helium, heated to tens of millions of degrees.     It was found in a recent study that used data from NASA's Chandra X-ray Observatory to show that Abell 2029 had a collision with a smaller cluster four billion years ago.     The collision affected the gravitational field and caused the intracluster gas to slosh, like wine moving in a wine glass, shaping the spiral.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2605/a2029.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2605/a2029_lg.jpg",
-      "image_path": "images/apod/5.jpg"
+      "image_path": "images/apod/4.jpg"
     },
     {
-      "slot": 6,
+      "slot": 5,
       "date": "2026-05-22",
       "title": "The Nebulous Realm of WR 134",
       "explanation": "This cosmic snapshot covers a field of view over twice as wide as the full Moon within the boundaries of the high-flying constellation Cygnus. Made using astronomical narrowband filters, the image highlights the bright edge of a ring-like nebula traced by the glow of ionized hydrogen and oxygen gas. Embedded in the region's expanse of interstellar clouds, the complex, glowing arcs are sections of shells of material swept up by the wind from Wolf-Rayet star WR 134, the brightest star near image center. Distance estimates put WR 134 about 6,000 light-years away, making this telescopic frame over 100 light-years across. Shedding their outer envelopes in powerful stellar winds, massive Wolf-Rayet stars have burned through their nuclear fuel at a prodigious rate and end their final phase of massive star evolution in a spectacular supernova. Their stellar winds and final supernova explosion enrich the interstellar material with heavy elements to be incorporated in future generations of stars.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2605/WR134morrone1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2605/WR134morrone2048.jpg",
-      "image_path": "images/apod/6.jpg"
+      "image_path": "images/apod/5.jpg"
     },
     {
-      "slot": 7,
+      "slot": 6,
       "date": "2026-05-23",
       "title": "Messier 2",
       "explanation": "After the Crab Nebula, this giant star cluster is the second entry in 18th century astronomer Charles Messier's famous list of things that are not comets. M2 is one of the largest globular star clusters now known to roam the halo of our Milky Way galaxy. Though Messier originally described it as a nebula without stars, this stunning Hubble image resolves stars across the cluster's central 40 light-years. Its population of stars numbers close to 150,000, concentrated within a total diameter of around 175 light-years. About 55,000 light-years distant toward the constellation Aquarius, this ancient denizen of the Milky Way, also known as NGC 7089, is 13 billion years old. An extended stellar debris stream, a signature of past gravitational tidal disruption, was recently found to be associated with Messier 2.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2605/potw1913aM2_1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2605/potw1913aa.jpg",
+      "image_path": "images/apod/6.jpg"
+    },
+    {
+      "slot": 7,
+      "date": "2026-05-24",
+      "title": "A Martian Eclipse: Phobos Crosses the Sun",
+      "explanation": "What's that passing in front of the Sun? It looks like a moon, but it can't be Earth's Moon, because it isn't round. It's the Martian moon Phobos.  The featured video was taken from the surface of Mars in 2022 by the Perseverance rover. Phobos, at 11.5 kilometers across, is 150 times smaller than Luna (our moon) in diameter, but also 50 times closer to its parent planet.  In fact, Phobos is so close to Mars that it is expected to break up and crash into Mars within the next 50 million years.  In the near term, the low orbit of Phobos results in more rapid solar eclipses than seen from Earth. The featured video is shown in real time -- the transit really took about 40 seconds, as shown. The videographer -- the robotic rover Perseverance (Percy) -- continues to explore Jezero Crater on Mars, searching not only for clues to the watery history of the now dry world, but evidence of ancient microbial life.",
+      "media_type": "video",
+      "apod_url": "https://apod.nasa.gov/apod/image/2605/MarsEclipse_perseverance.mp4",
+      "hdurl": null,
       "image_path": "images/apod/7.jpg"
     }
   ]
