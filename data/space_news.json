@@ -1,69 +1,69 @@
 {
-  "updated": "2026-05-26T09:52:11.629Z",
+  "updated": "2026-05-27T09:41:09.642Z",
   "items": [
     {
-      "id": 38055,
-      "title": "Orbit Fab, Thales Alenia to study refueling for electric-propulsion satellites",
-      "url": "https://spacenews.com/orbit-fab-thales-alenia-to-study-refueling-for-electric-propulsion-satellites/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/RAFTI-GRASP-Interface-Graphic.jpg?fit=1024%2C643&ssl=1",
+      "id": 38080,
+      "title": "Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities",
+      "url": "https://spacenews.com/nations-opt-for-a-mix-of-sovereign-bilateral-federated-and-commercial-space-capabilities/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/rsz_iceye_factory_final_1.png?fit=879%2C586&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-05-27"
+    },
+    {
+      "id": 38079,
+      "title": "Ever Restless Mount Dukono Erupts",
+      "url": "https://science.nasa.gov/earth/earth-observatory/ever-restless-mount-dukono-erupts/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ever-restless-mount-dukono-erupts/dukonovolcano_oli2_20260513.jpg",
+      "source": "NASA",
+      "published_at": "2026-05-27"
+    },
+    {
+      "id": 38078,
+      "title": "NASA Awards Initial Moon Base Rover and Lander Contracts",
+      "url": "https://spacepolicyonline.com/news/nasa-awards-initial-moon-base-rover-and-lander-contracts/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/ignition-3-phases-glaze-300x168.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-05-27"
+    },
+    {
+      "id": 38077,
+      "title": "NASA outlines nearly $1 billion investment into initial Moon Base missions",
+      "url": "https://spaceflightnow.com/2026/05/27/nasa-outlines-nearly-1-billion-investment-into-initial-moon-base-missions/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260526_Blue_Moon_CLV-1.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-05-27"
+    },
+    {
+      "id": 38076,
+      "title": "Following Starship V3 debut, SpaceX prepares for follow up",
+      "url": "https://www.nasaspaceflight.com/2026/05/starship-flight-12-v3-follow/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/NSF-2026-05-27-02-01-37-688-wmarked.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-05-27"
+    },
+    {
+      "id": 38075,
+      "title": "SpaceX wins $2.29 billion Space Force contract for military data network",
+      "url": "https://spacenews.com/spacex-wins-2-29-billion-space-force-contract-for-military-data-network/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/9004037.jpg?fit=913%2C488&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-05-26"
     },
     {
-      "id": 38054,
-      "title": "Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions",
-      "url": "https://spacenews.com/exolaunch-and-seops-purchase-falcon-9-launches-for-dedicated-rideshare-missions/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/f9-20260525.jpeg?fit=1024%2C683&ssl=1",
+      "id": 38074,
+      "title": "NASA selects four companies for initial moon base awards",
+      "url": "https://spacenews.com/nasa-selects-four-companies-for-initial-moon-base-awards/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/bluemoon-astrolab.jpeg?fit=1024%2C573&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-05-26"
     },
     {
-      "id": 38053,
-      "title": "Launch Preview: Starlink and Amazon Leo missions fill manifest",
-      "url": "https://www.nasaspaceflight.com/2026/05/launch-preview-052526/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/IMG_4120.jpeg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-05-25"
-    },
-    {
-      "id": 38052,
-      "title": "Starship V3 Debuts, with Mixed Results",
-      "url": "https://www.spacescout.info/2026/05/starship-v3-debuts-with-mixed-results/",
-      "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/05/cameron-liftoff-drama-scaled.jpg",
-      "source": "Space Scout",
-      "published_at": "2026-05-25"
-    },
-    {
-      "id": 38050,
-      "title": "Redwire Delivers Argonaut Robotic Arm Prototype",
-      "url": "https://europeanspaceflight.com/redwire-delivers-argonaut-robotic-arm-prototype/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/05/Redwire-Delivers-Argonaut-Robotic-Arm-Prototype.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-05-25"
-    },
-    {
-      "id": 38051,
-      "title": "Northern Norway is ready to launch. EU Space Regulation — and its new Arctic policy – is not.",
-      "url": "https://spacenews.com/northern-norway-is-ready-to-launch-eu-space-regulation-and-its-new-arctic-policy-is-not/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/11/%C2%A9-Copyright-Andoya-Spaceport_Launch-Pad-A.jpg?fit=1024%2C623&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-05-25"
-    },
-    {
-      "id": 38049,
-      "title": "Shenzhou-23 crew arrives at Tiangong as China maps path to 2030 lunar landing",
-      "url": "https://spacenews.com/shenzhou-23-crew-arrives-at-tiangong-as-china-maps-path-to-2030-lunar-landing/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Shenzhou23-docked-Tiangong-24may2026-CMSEO.jpg?fit=1024%2C489&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-05-24"
-    },
-    {
-      "id": 38048,
-      "title": "Vehicle arrivals, science experiments, and maintenance keep Expedition 74 busy through April",
-      "url": "https://www.nasaspaceflight.com/2026/05/iss-roundup-april/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/IMG_3920.jpeg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-05-24"
+      "id": 38073,
+      "title": "NASA to Announce Artemis III Crew, Provide Mission Progress Update",
+      "url": "https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/cropped-nasa-meatball-1.jpg",
+      "source": "NASA",
+      "published_at": "2026-05-26"
     }
   ]
 }
