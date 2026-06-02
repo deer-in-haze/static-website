@@ -1,74 +1,74 @@
 {
-  "updated": "2026-05-30",
+  "updated": "2026-06-02",
   "items": [
     {
       "slot": 1,
-      "date": "2026-05-24",
-      "title": "A Martian Eclipse: Phobos Crosses the Sun",
-      "explanation": "What's that passing in front of the Sun? It looks like a moon, but it can't be Earth's Moon, because it isn't round. It's the Martian moon Phobos.  The featured video was taken from the surface of Mars in 2022 by the Perseverance rover. Phobos, at 11.5 kilometers across, is 150 times smaller than Luna (our moon) in diameter, but also 50 times closer to its parent planet.  In fact, Phobos is so close to Mars that it is expected to break up and crash into Mars within the next 50 million years.  In the near term, the low orbit of Phobos results in more rapid solar eclipses than seen from Earth. The featured video is shown in real time -- the transit really took about 40 seconds, as shown. The videographer -- the robotic rover Perseverance (Percy) -- continues to explore Jezero Crater on Mars, searching not only for clues to the watery history of the now dry world, but evidence of ancient microbial life.",
-      "media_type": "video",
-      "apod_url": "https://apod.nasa.gov/apod/image/2605/MarsEclipse_perseverance.mp4",
-      "hdurl": null,
-      "image_path": "images/apod/1.jpg"
-    },
-    {
-      "slot": 2,
-      "date": "2026-05-25",
-      "title": "Thackeray's Globules",
-      "explanation": "What are these strange space globs?  Situated in rich star fields and glowing hydrogen gas, these opaque clouds of interstellar dust and gas are so large they might be able to form stars. Their home is known as IC 2944, a bright stellar nursery located about 7,600 light years away toward the constellation of the Centaur (Centaurus). The largest of these  dark globules, first spotted by A. D. Thackeray in 1950 using a telescope in South Africa, is likely two separate but overlapping clouds, each more than one light-year wide. Along with other data, the featured Hubble palette image from the El Sauce Observatory in Chile, indicates that Thackeray's globules are fractured and churning as a result of intense ultraviolet radiation from young, hot stars already energizing and heating the bright emission nebula. These and similar dark globules known to be associated with other star forming regions may ultimately be dissipated by their hostile environment -- like cosmic lumps of butter in a hot frying pan.   Interstellar Jigsaw: Astronomy Puzzle of the Day",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_2664.jpg",
-      "image_path": "images/apod/2.jpg"
-    },
-    {
-      "slot": 3,
-      "date": "2026-05-26",
-      "title": "NGC 3660 and Burçin's Galaxy",
-      "explanation": "The upper galaxy might be more photogenic, but the lower galaxy is more unusual.  The galaxy up top is NGC 3660, a spiral galaxy similar to our own Milky Way galaxy in that it has several bright blue spiral arms and a central bar of stars, dust, and gas. Captured by chance in the featured deep and colorful image, surprisingly, is SN 2026cff, a supernova found just to the right of the central bar.  Farther in the distance is the bottom galaxy, known informally as Burçin’s galaxy, but formally cataloged as LEDA 1000714. The center of this galaxy appears to be an old elliptical galaxy, but it is strangely surrounded by not one but two rings of stars.  What created Burçin's galaxy is a mystery and remains a continuing topic of research, but it likely involves the accretion of one or more smaller galaxies.",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_1176.jpg",
-      "image_path": "images/apod/3.jpg"
-    },
-    {
-      "slot": 4,
       "date": "2026-05-27",
       "title": "PK 164 +31.1: The Headphone Nebula",
       "explanation": "What is a pair of headphones doing in the sky? Today’s image features the Headphone Nebula, also known as PK 164 +31.1 or Jones-Emberson 1. This planetary nebula, the remnant of a dying Sun-like star, faintly occupies an angular region of the Lynx constellation about 1/5th the diameter of the full moon. The red and blue-ish green colors trace hydrogen and oxygen atoms, respectively, that have been excited and ionized by the nebula's central white dwarf. The headphone shape, where two lobes of hydrogen puncture the inner region of oxygen, adds this object to a long list of oddly shaped nebulae. The morphology of such strange nebulae hint at the presence of a stellar or planetary companion, which can stir the material flowing out from the dying star. You can listen to Hubble and JWST sonifications of planetary nebulae through your very own headphones!",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2605/headphone_nebula_900.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2605/headphone_nebula.jpg",
-      "image_path": "images/apod/4.jpg"
+      "image_path": "images/apod/1.jpg"
     },
     {
-      "slot": 5,
+      "slot": 2,
       "date": "2026-05-28",
       "title": "NGC 1514: The Crystal Ball Nebula",
       "explanation": "What do you see in this crystal ball?   The featured image shows NGC 1514, known as the Crystal Ball Nebula, observed by the Gemini North telescope on Maunakea, in Hawai'i.   NGC 1514 is 1,500 light-years away and was discovered by William Herschel in 1790.   This planetary nebula is formed when a star becomes a red giant and ejects its outer gas layers.   The ejected shell of gas is heated up by the core of the star to temperatures hotter than the surface of our Sun: that makes the gas shine, creating beautiful images like this one.       The slightly asymmetrical shape of the Crystal Ball Nebula reveals a secret: the bright star in the center has a companion.   As the two stars orbit each other with a period of about nine years, they shape the gas around them.   In about 10,000 - 25,000 years the nebula will be dissipated by their stellar winds.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2605/noirlab2613a.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2605/noirlab2613a_large.jpg",
-      "image_path": "images/apod/5.jpg"
+      "image_path": "images/apod/2.jpg"
     },
     {
-      "slot": 6,
+      "slot": 3,
       "date": "2026-05-29",
       "title": "Messier 104",
       "explanation": "A gorgeous spiral galaxy, Messier 104 is famous for its nearly edge-on profile featuring a broad ring of obscuring dust lanes. Seen in silhouette against an extensive central bulge of stars, the swath of cosmic dust lends a broad brimmed hat-like appearance to the galaxy suggesting a more popular moniker, the Sombrero Galaxy. Also known as NGC 4594, the Sombrero galaxy can be seen across the spectrum and is host to a central supermassive black hole. About 50,000 light-years across and 28 million light-years away, M104 is one of the largest galaxies at the southern edge of the Virgo Galaxy Cluster. Still, the spiky foreground stars in this field of view lie well within our own Milky Way. This broad view of the well-known galaxy was processed to reveal M104's extended halo, as well as a faint tidal stellar stream. It was captured by the Dark Energy Camera (DECam) on the Blanco 4-meter telescope at the Cerro Tololo Inter-American Observatory.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2605/M104noirlab2612a.jpg",
-      "image_path": "images/apod/6.jpg"
+      "image_path": "images/apod/3.jpg"
     },
     {
-      "slot": 7,
+      "slot": 4,
       "date": "2026-05-30",
       "title": "Supermoon Versus Micromoon",
       "explanation": "What is so micro about tonight's blue micromoon?  Just after sunset, a full moon will appear slightly smaller and dimmer than usual.  The reason is that the Moon's fully illuminated phase occurs within a short time of apogee - when the Moon is farthest from the Earth in its elliptical orbit.  In fact, tonight's micromoon will be the farthest, smallest, and dimmest Moon this year.  But tonight's micromoon is notable for yet another reason: it is also a blue moon, meaning that it is the second full moon in the same month (moon-th).  Pictured here, a supermoon -- when the full moon appears near its largest -- is compared to a micromoon as photographed from Kolkata, India in May and December of 2021.  Although the next micromoon occurs next month, and the next blue moon at the end of 2028, the next blue micromoon will not occur until 2053.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_3000.jpg",
+      "image_path": "images/apod/4.jpg"
+    },
+    {
+      "slot": 5,
+      "date": "2026-05-31",
+      "title": "Eagle Nebula Pillars in Infrared from Hubble",
+      "explanation": "Newborn stars are forming in the Eagle Nebula.  They are gravitationally contracting in pillars of dense gas and dust.  The intense radiation of these newly-formed bright stars is causing surrounding material to boil away. This image, taken with the Hubble Space Telescope in near infrared light, allows the viewer to see through much of the thick dust that makes the pillars opaque in visible light.  The giant structures are light years in length and dubbed informally the Pillars of Creation.  Associated with the open star cluster M16, the Eagle Nebula lies about 6,500 light years away.  The Eagle Nebula is a satisfying target for small telescopes in a nebula-rich part of the sky toward the split constellation Serpens Cauda (the tail of the snake).    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_2786.jpg",
+      "image_path": "images/apod/5.jpg"
+    },
+    {
+      "slot": 6,
+      "date": "2026-06-01",
+      "title": "Saturn at Night",
+      "explanation": "Telescopic views of Saturn and its beautiful rings often make it the star of star parties. But this stunning view of the outer gas gaint planet's rings and night side just isn't possible from telescopes in the vicinity of planet Earth. Peering out from the inner Solar System they can only bring Saturn's day side into view. In fact, this image of Saturn's slender sunlit crescent with the planet's night shadow cast across its broad and complex ring system was captured by the robot spacecraft Cassini. After a seven year long journey from planet Earth, Cassini called Saturn orbit home for 13 years (from 2004 - 2017) before it was directed to dive into the atmosphere of the gas giant on September 15, 2017. This magnificent mosaic is composed of frames recorded by Cassini's wide-angle camera only two days before its grand final plunge. And Saturn's night will not be seen again until another spaceship from Earth calls.",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2605/LastRingPortrait_Cassini_1080.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2605/LastRingPortrait_Cassini_4472.jpg",
+      "image_path": "images/apod/6.jpg"
+    },
+    {
+      "slot": 7,
+      "date": "2026-06-02",
+      "title": "The Vela Supernova Remnant",
+      "explanation": "The explosion is over, but the consequences continue.  About twelve thousand years ago, a relatively normal star in the constellation Vela suddenly exploded, creating a strange point of light briefly visible to humans living near the beginning of recorded history.  The outer layers of the star crashed into the interstellar medium, driving a shock wave that is still visible today.  The featured image, taken piecemeal over 60 hours from the Khomas Region of Namibia, captures some of that filamentary and gigantic shock in visible light, with details highlighted by hydrogen (red) and oxygen (blue) emissions. As gas flies away from the detonated star, it decays and reacts with the interstellar medium, producing light in many different colors and energy bands. Remaining at the center of the Vela Supernova Remnant is a pulsar, a star as dense as nuclear matter that spins around more than ten times in a single second.   Explore the Universe: Random APOD Generator",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_2900.jpg",
       "image_path": "images/apod/7.jpg"
     }
   ]
