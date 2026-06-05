@@ -1,69 +1,69 @@
 {
-  "updated": "2026-06-04T09:52:52.724Z",
+  "updated": "2026-06-05T09:42:37.147Z",
   "items": [
     {
-      "id": 38239,
-      "title": "A new chapter for ESA’s brand",
-      "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/A_new_chapter_for_ESA_s_brand",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/flagship_image/27292778-1-eng-GB/Flagship_image_card_full.jpg",
+      "id": 38260,
+      "title": "Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise",
+      "url": "https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/apex-aries-assemblyline.jpeg?fit=1024%2C721&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-06-05"
+    },
+    {
+      "id": 38258,
+      "title": "The Exploration Company completes drop test of Nyx capsule",
+      "url": "https://spacenews.com/the-exploration-company-completes-drop-test-of-nyx-capsule/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/nyx-droptest.jpeg?fit=1024%2C683&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-06-05"
+    },
+    {
+      "id": 38256,
+      "title": "Webb unveils young stars across every stage of formation",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Webb_unveils_young_stars_across_every_stage_of_formation",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/webb_unveils_young_stars_across_every_stage_of_formation/27308187-1-eng-GB/Webb_unveils_young_stars_across_every_stage_of_formation_card_full.jpg",
       "source": "ESA",
+      "published_at": "2026-06-05"
+    },
+    {
+      "id": 38257,
+      "title": "Earth from Space: Baku, Azerbaijan",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Baku_Azerbaijan",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/earth_from_space_baku_azerbaijan/27309506-1-eng-GB/Earth_from_Space_Baku_Azerbaijan_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-06-05"
+    },
+    {
+      "id": 38255,
+      "title": "Axiom Space adds more than $175 million to funding round",
+      "url": "https://spacenews.com/axiom-space-adds-more-than-175-million-to-funding-round/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/axiom-scaled.jpg?fit=1024%2C513&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-06-05"
+    },
+    {
+      "id": 38254,
+      "title": "Fighting Fire With Fire",
+      "url": "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-fire-with-fire/australiafires_amo_20260528.jpg",
+      "source": "NASA",
+      "published_at": "2026-06-05"
+    },
+    {
+      "id": 38253,
+      "title": "HASC NDAA markup challenges Space Force on satellite programs",
+      "url": "https://spacenews.com/hasc-ndaa-markup-challenges-space-force-on-satellite-programs/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Screenshot-2026-06-04-at-12.02.01-PM-scaled.png?fit=1024%2C542&ssl=1",
+      "source": "SpaceNews",
       "published_at": "2026-06-04"
     },
     {
-      "id": 38238,
-      "title": "ExoMars rover targets vast bed of clay in search for life",
-      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/mars_vast_clay_region/27305677-1-eng-GB/Mars_vast_clay_region_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-06-04"
-    },
-    {
-      "id": 38237,
-      "title": "A Moonlit Earth as Seen From Artemis II",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-moonlit-earth-as-seen-from-artemis-ii/art002e000192~orig_eo.jpg",
+      "id": 38252,
+      "title": "NASA Hosts 2026 Review on Advanced Composite Manufacturing",
+      "url": "https://www.nasa.gov/directorates/armd/aavp/hicam/nasa-hosts-2026-review-on-advanced-composite-manufacturing/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/boeing-hicam-feature.png",
       "source": "NASA",
       "published_at": "2026-06-04"
-    },
-    {
-      "id": 38236,
-      "title": "SpaceX to raise at least $75 billion in IPO",
-      "url": "https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/starship-flt12-liftoffcloseup.jpeg?fit=1024%2C557&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-04"
-    },
-    {
-      "id": 38235,
-      "title": "Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4908-4912-goodbye-campo-marte-its-been-fun/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04908_mhli_4908MH0003260001801155C00_DXXX.jpg",
-      "source": "NASA",
-      "published_at": "2026-06-04"
-    },
-    {
-      "id": 38234,
-      "title": "NASA declares end to MAVEN Mars mission",
-      "url": "https://spacenews.com/nasa-declares-end-to-maven-mars-mission/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/maven.jpeg?fit=1024%2C622&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-04"
-    },
-    {
-      "id": 38233,
-      "title": "Space Force evaluating anomaly-related damage, future danger areas",
-      "url": "https://www.nasaspaceflight.com/2026/06/eastern-range-blast-danger-areas/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/NSF-2026-06-03-22-55-03-517.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-06-03"
-    },
-    {
-      "id": 38232,
-      "title": "AST SpaceMobile sees New Glenn setback delaying initial commercial service into 2027",
-      "url": "https://spacenews.com/ast-spacemobile-sees-new-glenn-setback-delaying-initial-commercial-service-into-2027/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/03/BlueBird-scaled.jpg?fit=1024%2C646&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-03"
     }
   ]
 }
