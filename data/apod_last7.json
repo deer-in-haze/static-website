@@ -1,74 +1,74 @@
 {
-  "updated": "2026-06-04",
+  "updated": "2026-06-06",
   "items": [
     {
       "slot": 1,
-      "date": "2026-05-29",
-      "title": "Messier 104",
-      "explanation": "A gorgeous spiral galaxy, Messier 104 is famous for its nearly edge-on profile featuring a broad ring of obscuring dust lanes. Seen in silhouette against an extensive central bulge of stars, the swath of cosmic dust lends a broad brimmed hat-like appearance to the galaxy suggesting a more popular moniker, the Sombrero Galaxy. Also known as NGC 4594, the Sombrero galaxy can be seen across the spectrum and is host to a central supermassive black hole. About 50,000 light-years across and 28 million light-years away, M104 is one of the largest galaxies at the southern edge of the Virgo Galaxy Cluster. Still, the spiky foreground stars in this field of view lie well within our own Milky Way. This broad view of the well-known galaxy was processed to reveal M104's extended halo, as well as a faint tidal stellar stream. It was captured by the Dark Energy Camera (DECam) on the Blanco 4-meter telescope at the Cerro Tololo Inter-American Observatory.",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2605/M104noirlab2612a.jpg",
-      "image_path": "images/apod/1.jpg"
-    },
-    {
-      "slot": 2,
-      "date": "2026-05-30",
-      "title": "Supermoon Versus Micromoon",
-      "explanation": "What is so micro about tonight's blue micromoon?  Just after sunset, a full moon will appear slightly smaller and dimmer than usual.  The reason is that the Moon's fully illuminated phase occurs within a short time of apogee - when the Moon is farthest from the Earth in its elliptical orbit.  In fact, tonight's micromoon will be the farthest, smallest, and dimmest Moon this year.  But tonight's micromoon is notable for yet another reason: it is also a blue moon, meaning that it is the second full moon in the same month (moon-th).  Pictured here, a supermoon -- when the full moon appears near its largest -- is compared to a micromoon as photographed from Kolkata, India in May and December of 2021.  Although the next micromoon occurs next month, and the next blue moon at the end of 2028, the next blue micromoon will not occur until 2053.",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_3000.jpg",
-      "image_path": "images/apod/2.jpg"
-    },
-    {
-      "slot": 3,
       "date": "2026-05-31",
       "title": "Eagle Nebula Pillars in Infrared from Hubble",
       "explanation": "Newborn stars are forming in the Eagle Nebula.  They are gravitationally contracting in pillars of dense gas and dust.  The intense radiation of these newly-formed bright stars is causing surrounding material to boil away. This image, taken with the Hubble Space Telescope in near infrared light, allows the viewer to see through much of the thick dust that makes the pillars opaque in visible light.  The giant structures are light years in length and dubbed informally the Pillars of Creation.  Associated with the open star cluster M16, the Eagle Nebula lies about 6,500 light years away.  The Eagle Nebula is a satisfying target for small telescopes in a nebula-rich part of the sky toward the split constellation Serpens Cauda (the tail of the snake).    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_2786.jpg",
-      "image_path": "images/apod/3.jpg"
+      "image_path": "images/apod/1.jpg"
     },
     {
-      "slot": 4,
+      "slot": 2,
       "date": "2026-06-01",
       "title": "Saturn at Night",
       "explanation": "Telescopic views of Saturn and its beautiful rings often make it the star of star parties. But this stunning view of the outer gas gaint planet's rings and night side just isn't possible from telescopes in the vicinity of planet Earth. Peering out from the inner Solar System they can only bring Saturn's day side into view. In fact, this image of Saturn's slender sunlit crescent with the planet's night shadow cast across its broad and complex ring system was captured by the robot spacecraft Cassini. After a seven year long journey from planet Earth, Cassini called Saturn orbit home for 13 years (from 2004 - 2017) before it was directed to dive into the atmosphere of the gas giant on September 15, 2017. This magnificent mosaic is composed of frames recorded by Cassini's wide-angle camera only two days before its grand final plunge. And Saturn's night will not be seen again until another spaceship from Earth calls.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2605/LastRingPortrait_Cassini_1080.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2605/LastRingPortrait_Cassini_4472.jpg",
-      "image_path": "images/apod/4.jpg"
+      "image_path": "images/apod/2.jpg"
     },
     {
-      "slot": 5,
+      "slot": 3,
       "date": "2026-06-02",
       "title": "The Vela Supernova Remnant",
       "explanation": "The explosion is over, but the consequences continue.  About twelve thousand years ago, a relatively normal star in the constellation Vela suddenly exploded, creating a strange point of light briefly visible to humans living near the beginning of recorded history.  The outer layers of the star crashed into the interstellar medium, driving a shock wave that is still visible today.  The featured image, taken piecemeal over 60 hours from the Khomas Region of Namibia, captures some of that filamentary and gigantic shock in visible light, with details highlighted by hydrogen (red) and oxygen (blue) emissions. As gas flies away from the detonated star, it decays and reacts with the interstellar medium, producing light in many different colors and energy bands. Remaining at the center of the Vela Supernova Remnant is a pulsar, a star as dense as nuclear matter that spins around more than ten times in a single second.   Explore the Universe: Random APOD Generator",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_2900.jpg",
-      "image_path": "images/apod/5.jpg"
+      "image_path": "images/apod/3.jpg"
     },
     {
-      "slot": 6,
+      "slot": 4,
       "date": "2026-06-03",
       "title": "Andromeda Through Gas and Dust",
       "explanation": "Over 1000 years ago, Persian astronomer Abd al-Rahman al-Sufi published humanity’s oldest known record of the Andromeda Galaxy in \"The Book of Fixed Stars\" (Bodleian Library MS. Marsh 144 p. 167). 800 years later, Andromeda became the 31st entry in Charles Messier’s \"Catalogue of Nebulae and Star Clusters\". From “a small cloud” to “nebula” and now known to be our nearest major galaxy, Andromeda has remained a fundamental astronomical object. Today’s image, taken over 202 hours, shows how far we have come in our ability to observe our neighbor. The diffuse red and blue clouds are mostly foreground ionized hydrogen and oxygen well within our Milky Way. Pink-red clouds of hydrogen ionized by the energetic light of young stars trace the galaxy’s dusty spiral arms. M32 and M110 are satellite galaxies pictured orbiting the larger Andromeda. Despite its long history of observation through ancient unaided eyes to modern telescopes, Andromeda still holds countless secrets that astronomers will continue to search for, including how galaxies merge and evolve, as well as the nature of the dark matter that galaxies reside in.   Teachers! the NASA/IPAC Teacher Archive Research Program is officially open for applications!",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2606/andromeda_1024.png",
       "hdurl": "https://apod.nasa.gov/apod/image/2606/andromeda.png",
-      "image_path": "images/apod/6.png"
+      "image_path": "images/apod/4.png"
     },
     {
-      "slot": 7,
+      "slot": 5,
       "date": "2026-06-04",
       "title": "A Planetary Nebula with Cosmic Buckyballs",
       "explanation": "What is happening inside this unusual nebula?   Planetary nebula Tc 1, captured here in exquisite detail by the James Webb Space Telescope, is the celestial site where buckyballs were first identified in 2010.     Buckminsterfullerene — as buckyballs are officially called — is a molecule with 60 carbon atoms (C60) arranged in the shape of a soccer ball.   The molecule is named for architect Buckminster Fuller because of its resemblance to the geodesic dome he helped popularize.   Webb’s new data reveal where the C60 molecules live in this nebula, and the geometry is striking: they populate a thin spherical shell around the central star, visible here as the bright edge of the nebula’s glowing orange central region.   Look closely near the nebula’s heart and a more perplexing feature emerges: a delicate structure shaped uncannily like an upside-down question mark, fitting punctuation for the many questions this nebula still poses.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2606/buckyballs_1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2606/buckyballs.jpg",
+      "image_path": "images/apod/5.jpg"
+    },
+    {
+      "slot": 6,
+      "date": "2026-06-05",
+      "title": "The Hydra Cluster of Galaxies",
+      "explanation": "Within our own Milky Way galaxy, two bright, spiky stars stand like sentinels in the foreground of this cosmic snapshot. Far beyond them are the galaxies of the Hydra Cluster. In fact, while the spiky foreground stars are hundreds of light-years distant, the Hydra Cluster galaxies are well over 100 million light-years away. Three large galaxies near the cluster center, two yellow ellipticals (NGC 3311, NGC 3309) and one prominent blue spiral (NGC 3312), are the dominant galaxies, each about 150,000 light-years in diameter. An intriguing overlapping galaxy pair cataloged as NGC 3314 lies above and left of NGC 3312. Also known as Abell 1060, the Hydra galaxy cluster is one of three large galaxy clusters within 200 million light-years of the Milky Way. In the nearby universe, galaxies are gravitationally bound into clusters which themselves are loosely bound into superclusters. Superclusters in turn are seen to align over even larger scales.",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio1024.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio.jpg",
+      "image_path": "images/apod/6.jpg"
+    },
+    {
+      "slot": 7,
+      "date": "2026-06-06",
+      "title": "Charon: Moon of Pluto",
+      "explanation": "A darkened and mysterious north polar region known to some as Mordor Macula caps this premier view of Charon, Pluto's largest moon. The high-resolution image was captured by the interplanetary space probe New Horizons near its closest approach to distant Pluto on July 14, 2015. The combined blue, red, and infrared image data was processed to enhance colors and follow variations in Charon's surface properties with a resolution of about 2.9 kilometers (1.8 miles). A stunning image of Charon's Pluto-facing hemisphere, it also features a clear view of an apparently moon-girdling belt of fractures and canyons that seems to separate smooth southern plains from varied northern terrain. Charon is 1,214 kilometers (754 miles) across. That's about 1/10th the size of planet Earth but a whopping 1/2 the diameter of Pluto itself, and makes it the largest satellite relative to its parent body in the Solar System. Still, the moon appears as a small bump at about the 1 o'clock position on Pluto's disk in the grainy, negative, telescopic picture inset at upper left. That image was used by James Christy and Robert Harrington at the U.S. Naval Observatory in Flagstaff to discover Charon in June of 1978.",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2606/charon_then_now_1024.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2606/Charon-Neutral-Bright-Release.jpg",
       "image_path": "images/apod/7.jpg"
     }
   ]
