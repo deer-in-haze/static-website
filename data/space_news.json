@@ -1,69 +1,69 @@
 {
-  "updated": "2026-06-08T10:49:14.712Z",
+  "updated": "2026-06-09T09:38:51.069Z",
   "items": [
     {
-      "id": 38291,
-      "title": "ESA at ILA Berlin International Airshow 2026",
-      "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_Berlin_International_Airshow_2026",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/europe_in_space_ila_2026/27312131-1-eng-GB/Europe_in_space_ILA_2026_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-06-08"
+      "id": 38338,
+      "title": "San Francisco’s Metropolitan Mosaic",
+      "url": "https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/san-francisco%E2%80%99s-metropolitan-mosaic/ISS074-E-619284.jpg",
+      "source": "NASA",
+      "published_at": "2026-06-09"
     },
     {
-      "id": 38290,
-      "title": "ESA and EBRD to advance Earth observation for development and impact finance",
-      "url": "https://www.esa.int/Applications/Observing_the_Earth/ESA_and_EBRD_to_advance_Earth_observation_for_development_and_impact_finance",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/esa_and_ebrd_sign_letter_of_intent_in_riga/27311442-1-eng-GB/ESA_and_EBRD_sign_letter_of_intent_in_Riga_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-06-08"
-    },
-    {
-      "id": 38289,
-      "title": "UK startup NewOrbit raises $18.5 million in Series A round",
-      "url": "https://spacenews.com/uk-startup-neworbit-raises-18-5-million-in-series-a-round/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/rsz_neo_fromabove.jpg?fit=879%2C494&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-08"
-    },
-    {
-      "id": 38288,
-      "title": "OQ Technology plans direct-to-smartphone demo with cellular spectrum",
-      "url": "https://spacenews.com/oq-technology-plans-direct-to-smartphone-demo-with-cellular-spectrum/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/PR_OQ_Telefonica_logos.png?fit=1024%2C692&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-08"
-    },
-    {
-      "id": 38287,
-      "title": "French Space Electronics Firm EREMS Completes €10 Million Expansion",
-      "url": "https://europeanspaceflight.com/french-space-electronics-firm-erems-completes-e10-million-expansion/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/French-Space-Electronics-Firm-EREMS-Completes-E10-Million-Expansion.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-06-08"
-    },
-    {
-      "id": 38286,
-      "title": "NASA concludes MAVEN mission at Mars, uses data to discover new atmospheric phenomenon",
-      "url": "https://www.nasaspaceflight.com/2026/06/maven-end-of-mission/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/maven_mars_sunrise.png",
+      "id": 38337,
+      "title": "Launch Preview: Chinese, Rocket Lab, and Starlink flights scheduled",
+      "url": "https://www.nasaspaceflight.com/2026/06/launch-preview-060826/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2023/04/julia-streak-scaled.jpg",
       "source": "NASASpaceflight",
-      "published_at": "2026-06-07"
+      "published_at": "2026-06-08"
     },
     {
-      "id": 38285,
-      "title": "What’s Happening in Space Policy June 7-13, 2026",
-      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-7-13-2026/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/02/Artemis-II-in-walkway-300x200.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-06-07"
+      "id": 38336,
+      "title": "How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/iss074e0361795.jpg",
+      "source": "NASA",
+      "published_at": "2026-06-08"
     },
     {
-      "id": 38284,
-      "title": "Live coverage: SpaceX to launch Falcon 9 rocket booster on record-breaking 35th flight",
-      "url": "https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/12/20250827_Starlink_10_11_30.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-06-07"
+      "id": 38303,
+      "title": "FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty",
+      "url": "https://spacenews.com/fcc-lets-amazon-leo-miss-deployment-deadline-with-temporary-spectrum-penalty/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/schwarz-smallsat2026.jpeg?fit=1024%2C711&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": 38301,
+      "title": "A Falcon 9 booster turns five years old—and just set a remarkable reuse record",
+      "url": "https://arstechnica.com/space/2026/06/a-falcon-9-booster-turns-five-years-old-and-just-set-a-remarkable-reuse-record/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/falcon-9-35.jpg",
+      "source": "Arstechnica",
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": 38300,
+      "title": "Supersonic!",
+      "url": "https://www.nasa.gov/image-article/supersonic/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-ata-02.png",
+      "source": "NASA",
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": 38302,
+      "title": "NASA’s INCUS Satellites Progress Toward Launch",
+      "url": "https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26614/PIA26614.jpg",
+      "source": "NASA",
+      "published_at": "2026-06-08"
+    },
+    {
+      "id": 38299,
+      "title": "Russia is jamming GPS from space",
+      "url": "https://spacenews.com/russia-is-jamming-gps-from-space/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/Screenshot-2025-05-29-091359.png?fit=1014%2C827&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-06-08"
     }
   ]
 }
