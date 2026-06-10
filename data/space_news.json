@@ -1,69 +1,69 @@
 {
-  "updated": "2026-06-09T09:38:51.069Z",
+  "updated": "2026-06-10T09:55:35.545Z",
   "items": [
     {
-      "id": 38338,
-      "title": "San Francisco’s Metropolitan Mosaic",
-      "url": "https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/san-francisco%E2%80%99s-metropolitan-mosaic/ISS074-E-619284.jpg",
+      "id": 38366,
+      "title": "Tyndall’s Trail of Bergs",
+      "url": "https://science.nasa.gov/earth/earth-observatory/tyndalls-trail-of-bergs/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tyndall%E2%80%99s-trail-of-bergs/ISS074-E-582898.jpg",
+      "source": "NASA",
+      "published_at": "2026-06-10"
+    },
+    {
+      "id": 38365,
+      "title": "Three Americans and a European Named Crew of Artemis III",
+      "url": "https://spacepolicyonline.com/news/three-americans-and-a-european-named-crew-of-artemis-iii/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/06/Artemis-3-crew-Robt-Markowitz.webp-300x198.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-06-09"
+    },
+    {
+      "id": 38364,
+      "title": "Flight Dynamics Research Facility Characteristics",
+      "url": "https://www.nasa.gov/directorates/armd/aetc/fdrf-characteristics/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/clic-x047-2cf8-9.jpg",
       "source": "NASA",
       "published_at": "2026-06-09"
     },
     {
-      "id": 38337,
-      "title": "Launch Preview: Chinese, Rocket Lab, and Starlink flights scheduled",
-      "url": "https://www.nasaspaceflight.com/2026/06/launch-preview-060826/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2023/04/julia-streak-scaled.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-06-08"
-    },
-    {
-      "id": 38336,
-      "title": "How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/iss074e0361795.jpg",
-      "source": "NASA",
-      "published_at": "2026-06-08"
-    },
-    {
-      "id": 38303,
-      "title": "FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty",
-      "url": "https://spacenews.com/fcc-lets-amazon-leo-miss-deployment-deadline-with-temporary-spectrum-penalty/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/schwarz-smallsat2026.jpeg?fit=1024%2C711&ssl=1",
+      "id": 38363,
+      "title": "NASA names crew for Artemis 3 mission to test lunar landers",
+      "url": "https://spacenews.com/nasa-names-crew-for-artemis-3-mission-to-test-lunar-landers/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/artemis3crew.jpeg?fit=1024%2C683&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-06-08"
+      "published_at": "2026-06-09"
     },
     {
-      "id": 38301,
-      "title": "A Falcon 9 booster turns five years old—and just set a remarkable reuse record",
-      "url": "https://arstechnica.com/space/2026/06/a-falcon-9-booster-turns-five-years-old-and-just-set-a-remarkable-reuse-record/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/falcon-9-35.jpg",
+      "id": 38362,
+      "title": "Artemis III Crew Announced",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-crew-announced/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/jsc2026e392659.jpg",
+      "source": "NASA",
+      "published_at": "2026-06-09"
+    },
+    {
+      "id": 38361,
+      "title": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it",
+      "url": "https://arstechnica.com/space/2026/06/nasa-assigns-crew-for-artemis-iii-sets-aggressive-timeline-for-flying-it/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/artemis-3-1.jpg",
       "source": "Arstechnica",
-      "published_at": "2026-06-08"
+      "published_at": "2026-06-09"
     },
     {
-      "id": 38300,
-      "title": "Supersonic!",
-      "url": "https://www.nasa.gov/image-article/supersonic/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-ata-02.png",
-      "source": "NASA",
-      "published_at": "2026-06-08"
+      "id": 38359,
+      "title": "NASA names four-man crew to Artemis 3 mission",
+      "url": "https://spaceflightnow.com/2026/06/09/73614/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/artemis-iii-crew.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-06-09"
     },
     {
-      "id": 38302,
-      "title": "NASA’s INCUS Satellites Progress Toward Launch",
-      "url": "https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26614/PIA26614.jpg",
-      "source": "NASA",
-      "published_at": "2026-06-08"
-    },
-    {
-      "id": 38299,
-      "title": "Russia is jamming GPS from space",
-      "url": "https://spacenews.com/russia-is-jamming-gps-from-space/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/Screenshot-2025-05-29-091359.png?fit=1014%2C827&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-08"
+      "id": 38360,
+      "title": "Replay: Artemis III announcement",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Replay_Artemis_III_announcement",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/replay_artemis_iii_announcement/27318070-2-eng-GB/Replay_Artemis_III_announcement_card_full.png",
+      "source": "ESA",
+      "published_at": "2026-06-09"
     }
   ]
 }
