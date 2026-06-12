@@ -1,69 +1,69 @@
 {
-  "updated": "2026-06-11T10:19:30.508Z",
+  "updated": "2026-06-12T10:08:19.422Z",
   "items": [
     {
-      "id": 38399,
-      "title": "ILA Berlin 2026: ESA Director General press conference",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/ILA_Berlin_2026_ESA_Director_General_press_conference",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/ila_berlin_2026_esa_director_general_press_conference/27322859-5-eng-GB/ILA_Berlin_2026_ESA_Director_General_press_conference_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-06-11"
-    },
-    {
-      "id": 38397,
-      "title": "Tracking urban expansion in hazard-prone areas",
-      "url": "https://www.esa.int/Applications/Observing_the_Earth/Tracking_urban_expansion_in_hazard-prone_areas",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/urban_expansion_and_flood_risk_in_hanoi_2016_2026/27316291-1-eng-GB/Urban_expansion_and_flood_risk_in_Hanoi_2016_2026_card_full.gif",
-      "source": "ESA",
-      "published_at": "2026-06-11"
-    },
-    {
-      "id": 38396,
-      "title": "Air Pollution’s Daily Pulse Over the Northeast",
-      "url": "https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pollution's-daily-pulse-over-the-northeast/nyam_tempo_no2_20260518.jpg",
-      "source": "NASA",
-      "published_at": "2026-06-11"
-    },
-    {
-      "id": 38395,
-      "title": "NASA chief defends selection of all-male Artemis 3 crew",
-      "url": "https://spaceflightnow.com/2026/06/10/nasa-chief-defends-selection-of-all-male-artemis-iii-crew/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260610_Artemis-3_crew.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-06-10"
-    },
-    {
-      "id": 38393,
-      "title": "Isaacman Responds to Criticism of All-Male Artemis III Crew",
-      "url": "https://spacepolicyonline.com/news/isaacman-responds-to-criticism-of-all-male-artemis-iii-crew/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/06/Artemis-3-crew-NASA-300x200.webp",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-06-10"
-    },
-    {
-      "id": 38394,
-      "title": "Artemis 3 commander confident crew will be ready for 2027 mission",
-      "url": "https://spacenews.com/artemis-3-commander-confident-crew-will-be-ready-for-2027-mission/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/art3bresnik.jpeg?fit=1024%2C683&ssl=1",
+      "id": 38435,
+      "title": "In aerospace, AI isn’t replacing workers. It’s filling a shortage",
+      "url": "https://spacenews.com/in-aerospace-ai-isnt-replacing-workers-its-filling-a-shortage/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/apex-aries-assemblyline.jpeg?fit=1024%2C721&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-06-10"
+      "published_at": "2026-06-12"
     },
     {
-      "id": 38391,
-      "title": "Stoke Space completes Nova Stage 1 structural verification",
-      "url": "https://www.nasaspaceflight.com/2026/06/stoke-nova-update/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/IMG_4300.jpeg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-06-10"
+      "id": 38434,
+      "title": "Earth from Space: Buenos Aires",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Buenos_Aires",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/earth_from_space_buenos_aires/27315792-1-eng-GB/Earth_from_Space_Buenos_Aires_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-06-12"
     },
     {
-      "id": 38392,
-      "title": "Curiosity Blog: Sols 4913-4919: Planetary explorers, freewheeling to the Yardang unit!",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/june/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04916_opgs_edr_ncam_NLB_833905570EDR_S1221260NCAM00268M_.JPG",
+      "id": 38431,
+      "title": "Conversations in the sky: Galileo’s intersatellite links tested",
+      "url": "https://www.esa.int/Applications/Satellite_navigation/Conversations_in_the_sky_Galileo_s_intersatellite_links_tested",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/antenna_pointing_mechanism_for_galileo_second_generation_intersatellite_links_thales_alenia_space/27318988-1-eng-GB/Antenna_pointing_mechanism_for_Galileo_second_generation_intersatellite_links_Thales_Alenia_Space_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-06-12"
+    },
+    {
+      "id": 38430,
+      "title": "World Cup Fever in Guadalajara",
+      "url": "https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_tm5_19860413.jpg",
       "source": "NASA",
-      "published_at": "2026-06-10"
+      "published_at": "2026-06-12"
+    },
+    {
+      "id": 38429,
+      "title": "Live coverage: SpaceX to launch final Starlink mission as it begins publicly trade its stock on the Nasdaq for the first time",
+      "url": "https://spaceflightnow.com/2026/06/12/live-coverage-spacex-to-launch-final-starlink-mission-as-it-begins-publicly-trade-its-stock-on-the-nasdaq-for-the-first-time/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/10/20241022_Starlink_6-61_prelaunch_AB-1-678x445.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-06-12"
+    },
+    {
+      "id": 38428,
+      "title": "AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation",
+      "url": "https://spacenews.com/aac-clyde-space-wins-esa-contract-to-complete-maritime-monitoring-constellation/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/rsz_global_shipping_abstract_image.jpg?fit=879%2C684&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-06-12"
+    },
+    {
+      "id": 38427,
+      "title": "NASA Award Boosts Space Technology Research Capabilities",
+      "url": "https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2022/12/calibration-gas-system-cgs.png",
+      "source": "NASA",
+      "published_at": "2026-06-11"
+    },
+    {
+      "id": 38426,
+      "title": "NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
+      "image_url": "https://science.nasa.gov/wp-content/uploads/2026/06/sgrc.jpg",
+      "source": "NASA",
+      "published_at": "2026-06-11"
     }
   ]
 }
