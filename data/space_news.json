@@ -1,69 +1,69 @@
 {
-  "updated": "2026-06-12T10:08:19.422Z",
+  "updated": "2026-06-13T08:55:04.925Z",
   "items": [
     {
-      "id": 38435,
-      "title": "In aerospace, AI isn’t replacing workers. It’s filling a shortage",
-      "url": "https://spacenews.com/in-aerospace-ai-isnt-replacing-workers-its-filling-a-shortage/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/apex-aries-assemblyline.jpeg?fit=1024%2C721&ssl=1",
+      "id": 38449,
+      "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
+      "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281248250.jpg",
+      "source": "Arstechnica",
+      "published_at": "2026-06-12"
+    },
+    {
+      "id": 38448,
+      "title": "China successfully debuts tallest rocket, LandSpace prepares for second landing attempt",
+      "url": "https://www.nasaspaceflight.com/2026/06/china-roundup-061226/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/Chang-Zheng-12B-lifts-off-from-Jiuquan-Satellite-Launch-Center-CASC-_-Ren-Changsheng-640.webp",
+      "source": "NASASpaceflight",
+      "published_at": "2026-06-12"
+    },
+    {
+      "id": 38447,
+      "title": "SpaceX shares rise nearly 20% in historic IPO",
+      "url": "https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/spacexipo-celebration.jpeg?fit=1024%2C467&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-06-12"
     },
     {
-      "id": 38434,
-      "title": "Earth from Space: Buenos Aires",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Buenos_Aires",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/earth_from_space_buenos_aires/27315792-1-eng-GB/Earth_from_Space_Buenos_Aires_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-06-12"
-    },
-    {
-      "id": 38431,
-      "title": "Conversations in the sky: Galileo’s intersatellite links tested",
-      "url": "https://www.esa.int/Applications/Satellite_navigation/Conversations_in_the_sky_Galileo_s_intersatellite_links_tested",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/antenna_pointing_mechanism_for_galileo_second_generation_intersatellite_links_thales_alenia_space/27318988-1-eng-GB/Antenna_pointing_mechanism_for_Galileo_second_generation_intersatellite_links_Thales_Alenia_Space_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-06-12"
-    },
-    {
-      "id": 38430,
-      "title": "World Cup Fever in Guadalajara",
-      "url": "https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_tm5_19860413.jpg",
-      "source": "NASA",
-      "published_at": "2026-06-12"
-    },
-    {
-      "id": 38429,
-      "title": "Live coverage: SpaceX to launch final Starlink mission as it begins publicly trade its stock on the Nasdaq for the first time",
-      "url": "https://spaceflightnow.com/2026/06/12/live-coverage-spacex-to-launch-final-starlink-mission-as-it-begins-publicly-trade-its-stock-on-the-nasdaq-for-the-first-time/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/10/20241022_Starlink_6-61_prelaunch_AB-1-678x445.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-06-12"
-    },
-    {
-      "id": 38428,
-      "title": "AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation",
-      "url": "https://spacenews.com/aac-clyde-space-wins-esa-contract-to-complete-maritime-monitoring-constellation/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/rsz_global_shipping_abstract_image.jpg?fit=879%2C684&ssl=1",
+      "id": 38446,
+      "title": "Avanti trims GEO exposure with Hylas-3 sale",
+      "url": "https://spacenews.com/avanti-trims-geo-exposure-with-hylas-3-sale/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/JSAT-Comms-release.png?fit=1024%2C488&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-06-12"
     },
     {
-      "id": 38427,
-      "title": "NASA Award Boosts Space Technology Research Capabilities",
-      "url": "https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2022/12/calibration-gas-system-cgs.png",
-      "source": "NASA",
-      "published_at": "2026-06-11"
+      "id": 38445,
+      "title": "Astronomers fear orbital data centers will interfere with observations",
+      "url": "https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/spacexai2.jpeg?fit=1024%2C561&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-06-12"
     },
     {
-      "id": 38426,
-      "title": "NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center",
-      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
-      "image_url": "https://science.nasa.gov/wp-content/uploads/2026/06/sgrc.jpg",
+      "id": 38444,
+      "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
+      "url": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/34-resupply-return-coverage-june-12.jpg",
       "source": "NASA",
-      "published_at": "2026-06-11"
+      "published_at": "2026-06-12"
+    },
+    {
+      "id": 38443,
+      "title": "Latitude Ditches the Name Zephyr for Its Two-Stage Rocket",
+      "url": "https://europeanspaceflight.com/latitude-ditches-the-name-zephyr-for-its-two-stage-rocket/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/Latitude-Ditches-the-Name-Zephyr-for-Its-Two-Stage-Rocket.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-06-12"
+    },
+    {
+      "id": 38442,
+      "title": "Black Eye Galaxy",
+      "url": "https://www.nasa.gov/image-article/black-eye-galaxy/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/55158722798-9bb0f41f19-o.jpg",
+      "source": "NASA",
+      "published_at": "2026-06-12"
     }
   ]
 }
