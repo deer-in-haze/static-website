@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-13T08:55:04.925Z",
+  "updated": "2026-06-14T09:30:02.707Z",
   "items": [
+    {
+      "id": 38452,
+      "title": "Missile production push runs into solid rocket motor bottleneck",
+      "url": "https://spacenews.com/missile-production-push-runs-into-solid-rocket-motor-bottleneck/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-13-2026-at-11_55_33-AM.png?fit=1024%2C685&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-06-14"
+    },
+    {
+      "id": 38451,
+      "title": "Booster 20 Completes Cryo, As Ship 40 Nears Static Fire",
+      "url": "https://www.nasaspaceflight.com/2026/06/booster-20-cryo-ship-40-static-fire/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/COLLEEN-CRL01078-wmarked-scaled.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-06-14"
+    },
+    {
+      "id": 38450,
+      "title": "Revised Artemis lunar lander plans take shape",
+      "url": "https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/bluemoon-art3.jpeg?fit=1024%2C575&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-06-13"
+    },
     {
       "id": 38449,
       "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
@@ -39,30 +63,6 @@
       "url": "https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/",
       "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/spacexai2.jpeg?fit=1024%2C561&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-06-12"
-    },
-    {
-      "id": 38444,
-      "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
-      "url": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/34-resupply-return-coverage-june-12.jpg",
-      "source": "NASA",
-      "published_at": "2026-06-12"
-    },
-    {
-      "id": 38443,
-      "title": "Latitude Ditches the Name Zephyr for Its Two-Stage Rocket",
-      "url": "https://europeanspaceflight.com/latitude-ditches-the-name-zephyr-for-its-two-stage-rocket/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/Latitude-Ditches-the-Name-Zephyr-for-Its-Two-Stage-Rocket.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-06-12"
-    },
-    {
-      "id": 38442,
-      "title": "Black Eye Galaxy",
-      "url": "https://www.nasa.gov/image-article/black-eye-galaxy/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/55158722798-9bb0f41f19-o.jpg",
-      "source": "NASA",
       "published_at": "2026-06-12"
     }
   ]
