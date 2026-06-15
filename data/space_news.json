@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-14T09:30:02.707Z",
+  "updated": "2026-06-15T12:08:04.830Z",
   "items": [
+    {
+      "id": 38454,
+      "title": "Live coverage: SpaceX to launch its first Falcon 9 rocket since Nasdaq debut",
+      "url": "https://spaceflightnow.com/2026/06/14/live-coverage-spacex-to-launch-its-first-falcon-9-rocket-since-nasdaq-debut/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-06-14"
+    },
+    {
+      "id": 38453,
+      "title": "What’s Happening in Space Policy June 14-20, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-14-20-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/06/esa-300x133.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-06-14"
+    },
     {
       "id": 38452,
       "title": "Missile production push runs into solid rocket motor bottleneck",
@@ -46,22 +62,6 @@
       "title": "SpaceX shares rise nearly 20% in historic IPO",
       "url": "https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/",
       "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/spacexipo-celebration.jpeg?fit=1024%2C467&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-12"
-    },
-    {
-      "id": 38446,
-      "title": "Avanti trims GEO exposure with Hylas-3 sale",
-      "url": "https://spacenews.com/avanti-trims-geo-exposure-with-hylas-3-sale/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/JSAT-Comms-release.png?fit=1024%2C488&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-12"
-    },
-    {
-      "id": 38445,
-      "title": "Astronomers fear orbital data centers will interfere with observations",
-      "url": "https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/spacexai2.jpeg?fit=1024%2C561&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-06-12"
     }
