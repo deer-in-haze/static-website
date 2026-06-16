@@ -1,69 +1,69 @@
 {
-  "updated": "2026-06-15T12:08:04.830Z",
+  "updated": "2026-06-16T11:06:41.935Z",
   "items": [
     {
-      "id": 38454,
-      "title": "Live coverage: SpaceX to launch its first Falcon 9 rocket since Nasdaq debut",
-      "url": "https://spaceflightnow.com/2026/06/14/live-coverage-spacex-to-launch-its-first-falcon-9-rocket-since-nasdaq-debut/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
+      "id": 38477,
+      "title": "Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking",
+      "url": "https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Tianwen2-spacecraft-earth-oct2025release-CNSA.jpg?fit=1024%2C1024&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": 38476,
+      "title": "Nebraska’s Wide, Rolling Domain",
+      "url": "https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/nebraska%E2%80%99s-wide,-rolling-domain/nebraskasandhillswide_oli_20250819.jpg",
+      "source": "NASA",
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": 38475,
+      "title": "Astrobotic showcases Griffin-1 lander ahead of environmental testing in California",
+      "url": "https://spaceflightnow.com/2026/06/16/astrobotic-showcases-griffin-1-lander-ahead-of-environmental-testing-in-california/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260615_Astrobotic_Griffin-1_cleanroom-1.jpg",
       "source": "Spaceflight Now",
-      "published_at": "2026-06-14"
+      "published_at": "2026-06-16"
     },
     {
-      "id": 38453,
-      "title": "What’s Happening in Space Policy June 14-20, 2026",
-      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-14-20-2026/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/06/esa-300x133.jpg",
+      "id": 38474,
+      "title": "Astrobotic Unveils Griffin “Moon Base II” Lander",
+      "url": "https://spacepolicyonline.com/news/astrobotic-unveils-griffin-moon-base-ii-lander/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/06/Griffin-lander-June-15-2026-300x200.jpg",
       "source": "SpacePolicyOnline.com",
-      "published_at": "2026-06-14"
+      "published_at": "2026-06-16"
     },
     {
-      "id": 38452,
-      "title": "Missile production push runs into solid rocket motor bottleneck",
-      "url": "https://spacenews.com/missile-production-push-runs-into-solid-rocket-motor-bottleneck/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-13-2026-at-11_55_33-AM.png?fit=1024%2C685&ssl=1",
+      "id": 38473,
+      "title": "Explore JPL to Take Place Oct. 10, 11",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/explore-jpl-to-take-place-oct-10-11/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/misc-jpl-space-heros-2-original.png",
+      "source": "NASA",
+      "published_at": "2026-06-16"
+    },
+    {
+      "id": 38472,
+      "title": "Gilat to buy Comtech satcoms business six years after failed merger",
+      "url": "https://spacenews.com/gilat-to-buy-comtech-satcoms-business-six-years-after-failed-merger/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2018/02/Gilat-Optus-SC-4.jpg?fit=879%2C642&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-06-14"
+      "published_at": "2026-06-15"
     },
     {
-      "id": 38451,
-      "title": "Booster 20 Completes Cryo, As Ship 40 Nears Static Fire",
-      "url": "https://www.nasaspaceflight.com/2026/06/booster-20-cryo-ship-40-static-fire/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/COLLEEN-CRL01078-wmarked-scaled.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-06-14"
-    },
-    {
-      "id": 38450,
-      "title": "Revised Artemis lunar lander plans take shape",
-      "url": "https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/bluemoon-art3.jpeg?fit=1024%2C575&ssl=1",
+      "id": 38471,
+      "title": "Space Force orders two more GPS satellites from Lockheed Martin for $514 million",
+      "url": "https://spacenews.com/space-force-orders-two-more-gps-satellites-from-lockheed-martin-for-514-million/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Screenshot-2026-06-15-at-3.23.31-PM.png?fit=1024%2C570&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-06-13"
+      "published_at": "2026-06-15"
     },
     {
-      "id": 38449,
-      "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
-      "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281248250.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-06-12"
-    },
-    {
-      "id": 38448,
-      "title": "China successfully debuts tallest rocket, LandSpace prepares for second landing attempt",
-      "url": "https://www.nasaspaceflight.com/2026/06/china-roundup-061226/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/Chang-Zheng-12B-lifts-off-from-Jiuquan-Satellite-Launch-Center-CASC-_-Ren-Changsheng-640.webp",
-      "source": "NASASpaceflight",
-      "published_at": "2026-06-12"
-    },
-    {
-      "id": 38447,
-      "title": "SpaceX shares rise nearly 20% in historic IPO",
-      "url": "https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/spacexipo-celebration.jpeg?fit=1024%2C467&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-12"
+      "id": 38470,
+      "title": "NASA’s Chandra Finds Unexpected Fireworks in Aftermath of Stellar Explosions",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/m83.jpg",
+      "source": "NASA",
+      "published_at": "2026-06-15"
     }
   ]
 }
