@@ -1,69 +1,69 @@
 {
-  "updated": "2026-06-16T11:06:41.935Z",
+  "updated": "2026-06-17T10:51:28.655Z",
   "items": [
     {
-      "id": 38477,
-      "title": "Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking",
-      "url": "https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Tianwen2-spacecraft-earth-oct2025release-CNSA.jpg?fit=1024%2C1024&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-16"
+      "id": 38503,
+      "title": "ESA Impact: a look at ESA’s spring milestones",
+      "url": "https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2026_-_April-June",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/esa_impact_q2_highlight/27331237-1-eng-GB/ESA_Impact_Q2_highlight_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-06-17"
     },
     {
-      "id": 38476,
-      "title": "Nebraska’s Wide, Rolling Domain",
-      "url": "https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/nebraska%E2%80%99s-wide,-rolling-domain/nebraskasandhillswide_oli_20250819.jpg",
+      "id": 38502,
+      "title": "Dozens of dust devils hidden in plain sight",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dozens_of_dust_devils_hidden_in_plain_sight",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/dust_devils_galore_mars_express_visits_mamers_valles_on_mars/27330596-1-eng-GB/Dust_devils_galore_Mars_Express_visits_Mamers_Valles_on_Mars_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": 38504,
+      "title": "One robotic arm to rule them all",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/One_robotic_arm_to_rule_them_all",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/one_robotic_arm_to_rule_them_all/27329262-1-eng-GB/One_robotic_arm_to_rule_them_all_card_full.png",
+      "source": "ESA",
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": 38501,
+      "title": "Low Water at San Carlos Reservoir",
+      "url": "https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/low-water-at-san-carlos-reservoir/az_sancarlosres_oli_20230607.jpg",
       "source": "NASA",
-      "published_at": "2026-06-16"
+      "published_at": "2026-06-17"
     },
     {
-      "id": 38475,
-      "title": "Astrobotic showcases Griffin-1 lander ahead of environmental testing in California",
-      "url": "https://spaceflightnow.com/2026/06/16/astrobotic-showcases-griffin-1-lander-ahead-of-environmental-testing-in-california/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260615_Astrobotic_Griffin-1_cleanroom-1.jpg",
+      "id": 38500,
+      "title": "June 25:  Golden Dome: How Could Sensors Protect the United States?",
+      "url": "https://spacenews.com/golden-dome-sensors-event-june-25/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/2026-06-25-creative-2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-06-17"
+    },
+    {
+      "id": 38498,
+      "title": "Live coverage: SpaceX to launch 3 Block 2 BlueBird satellites for AST SpaceMobile",
+      "url": "https://spaceflightnow.com/2026/06/16/live-coverage-spacex-to-launch-3-block-2-bluebird-satellites-for-ast-spacemobile/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260615_Bluebird8910_encapsulation-1.jpg",
       "source": "Spaceflight Now",
       "published_at": "2026-06-16"
     },
     {
-      "id": 38474,
-      "title": "Astrobotic Unveils Griffin “Moon Base II” Lander",
-      "url": "https://spacepolicyonline.com/news/astrobotic-unveils-griffin-moon-base-ii-lander/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/06/Griffin-lander-June-15-2026-300x200.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-06-16"
-    },
-    {
-      "id": 38473,
-      "title": "Explore JPL to Take Place Oct. 10, 11",
-      "url": "https://www.nasa.gov/centers-and-facilities/jpl/explore-jpl-to-take-place-oct-10-11/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/misc-jpl-space-heros-2-original.png",
+      "id": 38499,
+      "title": "NASA’s Webb Catches Exoplanet Getting Roasted",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/06/STScI-01KTQRQV4XDP5XZRVJT8KB2MFA.jpg",
       "source": "NASA",
       "published_at": "2026-06-16"
     },
     {
-      "id": 38472,
-      "title": "Gilat to buy Comtech satcoms business six years after failed merger",
-      "url": "https://spacenews.com/gilat-to-buy-comtech-satcoms-business-six-years-after-failed-merger/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2018/02/Gilat-Optus-SC-4.jpg?fit=879%2C642&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-15"
-    },
-    {
-      "id": 38471,
-      "title": "Space Force orders two more GPS satellites from Lockheed Martin for $514 million",
-      "url": "https://spacenews.com/space-force-orders-two-more-gps-satellites-from-lockheed-martin-for-514-million/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Screenshot-2026-06-15-at-3.23.31-PM.png?fit=1024%2C570&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-15"
-    },
-    {
-      "id": 38470,
-      "title": "NASA’s Chandra Finds Unexpected Fireworks in Aftermath of Stellar Explosions",
-      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/m83.jpg",
-      "source": "NASA",
-      "published_at": "2026-06-15"
+      "id": 38497,
+      "title": "Amid launch bottleneck, Amazon has \"hundreds\" of satellites waiting to fly",
+      "url": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/amazon-leo.jpg",
+      "source": "Arstechnica",
+      "published_at": "2026-06-16"
     }
   ]
 }
