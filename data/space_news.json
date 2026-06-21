@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-20T08:52:23.601Z",
+  "updated": "2026-06-21T09:46:11.980Z",
   "items": [
+    {
+      "id": 38573,
+      "title": "Astrobotic says sale to Voyager will allow it to scale up",
+      "url": "https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/John-Thornton-Astrobotic-scaled.jpg?fit=1024%2C684&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-06-20"
+    },
+    {
+      "id": 38572,
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg",
+      "url": "https://spaceflightnow.com/2026/06/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-5/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260116_NROL-105_F9_pad.jpeg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-06-20"
+    },
     {
       "id": 38571,
       "title": "India’s Jio lays out sovereign LEO constellation plan ahead of IPO",
@@ -34,14 +50,6 @@
       "published_at": "2026-06-19"
     },
     {
-      "id": 38567,
-      "title": "The Voice in Orbit | Talking to Astronauts in Space | ESA Explores #20",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/The_Voice_in_Orbit_Talking_to_Astronauts_in_Space_ESA_Explores_20",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/the_voice_in_orbit_talking_to_astronauts_in_space_esa_explores_20/27337250-2-eng-GB/The_Voice_in_Orbit_Talking_to_Astronauts_in_Space_ESA_Explores_20_card_full.png",
-      "source": "ESA",
-      "published_at": "2026-06-19"
-    },
-    {
       "id": 38566,
       "title": "Northrop Grumman says industry ready to scale solid rocket production, with longer contracts",
       "url": "https://spacenews.com/northrop-grumman-says-industry-ready-to-scale-solid-rocket-production-with-longer-contracts/",
@@ -50,18 +58,10 @@
       "published_at": "2026-06-19"
     },
     {
-      "id": 38554,
-      "title": "Galileo signal updated for internet-of-things use",
-      "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_signal_updated_for_internet-of-things_use",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/11/how_can_digital_cities_foster_urban_innovation/22302267-1-eng-GB/How_can_digital_cities_foster_urban_innovation_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-06-19"
-    },
-    {
-      "id": 38565,
-      "title": "Week in images: 15-19 June 2026",
-      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_June_2026",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/earth_from_space_celebrates_1000_images/27336814-1-eng-GB/Earth_from_Space_celebrates_1000_images_card_full.jpg",
+      "id": 38567,
+      "title": "The Voice in Orbit | Talking to Astronauts in Space | ESA Explores #20",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/The_Voice_in_Orbit_Talking_to_Astronauts_in_Space_ESA_Explores_20",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/the_voice_in_orbit_talking_to_astronauts_in_space_esa_explores_20/27337250-2-eng-GB/The_Voice_in_Orbit_Talking_to_Astronauts_in_Space_ESA_Explores_20_card_full.png",
       "source": "ESA",
       "published_at": "2026-06-19"
     }
