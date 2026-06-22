@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-21T09:46:11.980Z",
+  "updated": "2026-06-22T11:49:03.350Z",
   "items": [
+    {
+      "id": 38576,
+      "title": "ESA Astronaut Tests European Spacesuit Prototype Aboard ISS",
+      "url": "https://europeanspaceflight.com/esa-astronaut-tests-european-spacesuit-prototype-aboard-iss/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/ESA-Sstronaut-Tests-European-Spacesuit-Prototype-Aboard-ISS.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-06-22"
+    },
+    {
+      "id": 38575,
+      "title": "NASA’s Nancy Grace Roman Space Telescope arrives in Florida",
+      "url": "https://spaceflightnow.com/2026/06/22/nasas-nancy-grace-roman-space-telescope-arrives-in-florida/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260621_nancy_grace_roman_telescope_KSC_VAB_AB.jpeg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-06-22"
+    },
+    {
+      "id": 38574,
+      "title": "What’s Happening in Space Policy June 21-27, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-21-27-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/06/Roger-Mason-300x300.png",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-06-21"
+    },
     {
       "id": 38573,
       "title": "Astrobotic says sale to Voyager will allow it to scale up",
@@ -39,30 +63,6 @@
       "url": "https://spacenews.com/mda-space-to-buy-blue-canyon-technologies-to-gain-foothold-in-u-s-market/",
       "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2020/07/Blackjack_Space_Image-copy.png?fit=1024%2C601&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-06-19"
-    },
-    {
-      "id": 38568,
-      "title": "ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million",
-      "url": "https://spacenews.com/elevationspace-secures-us-40-million-in-series-b-funding-bringing-total-raised-to-us-63-5-million/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/ELS_01_logo_white.png?fit=1024%2C1024&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-19"
-    },
-    {
-      "id": 38566,
-      "title": "Northrop Grumman says industry ready to scale solid rocket production, with longer contracts",
-      "url": "https://spacenews.com/northrop-grumman-says-industry-ready-to-scale-solid-rocket-production-with-longer-contracts/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Accelerating-Tomorrow-How-Northrop-Grumman-Leads-in-Solid-Rocket-Motor-Innovation_1-scaled.jpg?fit=1024%2C683&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-19"
-    },
-    {
-      "id": 38567,
-      "title": "The Voice in Orbit | Talking to Astronauts in Space | ESA Explores #20",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/The_Voice_in_Orbit_Talking_to_Astronauts_in_Space_ESA_Explores_20",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/the_voice_in_orbit_talking_to_astronauts_in_space_esa_explores_20/27337250-2-eng-GB/The_Voice_in_Orbit_Talking_to_Astronauts_in_Space_ESA_Explores_20_card_full.png",
-      "source": "ESA",
       "published_at": "2026-06-19"
     }
   ]
