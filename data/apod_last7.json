@@ -1,74 +1,74 @@
 {
-  "updated": "2026-06-21",
+  "updated": "2026-06-23",
   "items": [
     {
       "slot": 1,
-      "date": "2026-06-15",
-      "title": "Triple Shockwave from Sun Crossing Rocket",
-      "explanation": "What's happening to this Sun-crossing rocket?  The SpaceX Falcon 9 rocket, visible on the upper left, launched only about one minute before this amazing image was captured.  As it rose to low Earth orbit from Cape Canaveral, Florida, USA,  in late May, the rocket became supersonic before it crossed the disk of the distant Sun -- from the perspective of the well-placed photographer.  The spacecraft's high speed caused bow-shaped compressed-air shockwaves to form across leading surfaces, with at least three visible even outside the Sun's disk because they refract sunlight.  The trailing exhaust caused turbulence visible on the lower right. None of this was damaging to the robotic Starlink 10-53 mission, which delivered 29 communications satellites to low Earth orbit as planned.  And if that isn't amazing enough - the Sun had spots!    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2606/TripleSunShock_Winkopp_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2606/TripleSunShock_Winkopp_1108.jpg",
-      "image_path": "images/apod/1.jpg"
-    },
-    {
-      "slot": 2,
-      "date": "2026-06-16",
-      "title": "Moons, Rings, Shadows, Clouds: Saturn (Cassini)",
-      "explanation": "While cruising around Saturn, be on the lookout for picturesque arrangements of moons, rings, and shadows. One such striking sight occurred in 2005 and was captured by the then Saturn-orbiting Cassini spacecraft. In the featured image, moons Mimas (left) and Tethys (right) are visible on either side of Saturn's thin rings, which are seen nearly edge-on.  Across the top of Saturn are dark shadows of the wide rings, exhibiting their impressive complexity. The violet-light image brings up the texture of the backdrop: Saturn's clouds. Cassini orbited Saturn from 2004 until mid-2017, when the robotic spacecraft was directed to dive into Saturn to keep it from contaminating any moons.    Explore the Universe: Random APOD Generator",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg",
-      "image_path": "images/apod/2.jpg"
-    },
-    {
-      "slot": 3,
       "date": "2026-06-17",
       "title": "Longmore 8: The Hamster Wheel Nebula",
       "explanation": "How did a hamster wheel get into space? The Hamster Wheel Nebula (Longmore 8) was discovered by Andrew Longmore in 1976 as a part of a larger survey of the southern sky. This survey employed several improvements in photographic technology, including the use of highly sensitive film, to capture deeper and fainter objects on plates that were examined by eye and catalogued. The featured image, taken at Observatorio El Sauce in Chile, depicts an intricate wheel structure of glowing hydrogen that was thrown out into space by a dying star and ionized by the leftover white dwarf. This structure was barely visible on the original plate, emphasizing the power of modern telescopes and cameras. Two opposing clumps of red hydrogen gas encased in the blue veil of ionized oxygen hint at the presence of a companion to the bright white dwarf at the wheel’s center!",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2606/hamster_1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2606/hamster.jpg",
-      "image_path": "images/apod/3.jpg"
+      "image_path": "images/apod/1.jpg"
     },
     {
-      "slot": 4,
+      "slot": 2,
       "date": "2026-06-18",
       "title": "Possible Supernova Remnant in Galactic Center",
       "explanation": "Do you see that blue blob to the lower right of the image center?   Astronomers think that it shows where a massive star exploded as a supernova whose light reached Earth 1,700 years ago.   The image combines optical data from the PanSTARRS telescopes in Hawaii (background stars in red, green, and blue), radio from the MeerKAT telescope in South Africa (large red cloud) and X-rays from NASA's Chandra X-ray Observatory and ESA’s XMM-Newton (shown in blue).   The large cloud is a star forming region called Sagittarius C, which is approximately 50 light-years in extent and about 26,000 light-years from Earth.   It is located only about 260 light-years from the supermassive black hole in the center of the Galaxy (off to the left of the image).   If the blue blob is confirmed to be a supernova remnant, it would be one of the closest ever discovered to the Galactic Center.   In this dense region, the deaths of massive stars are connected to the birth of new stars through gas and magnetic fields in a complex way.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2606/sgrc.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2606/sgrc_lg.jpg",
-      "image_path": "images/apod/4.jpg"
+      "image_path": "images/apod/2.jpg"
     },
     {
-      "slot": 5,
+      "slot": 3,
       "date": "2026-06-19",
       "title": "Starry Night II",
       "explanation": "Does this scene look familiar? It is a modern recreation of the famous painting Starry Night by Vincent van Gogh.  Both the image and the painting depict a tall tree on the left, a crescent moon on the upper right, the planet Venus just to the right of the tree, a foreground horizon rising from left to right, and clouds above the horizon. Differences include that the photograph was taken in mid-April earlier this year in Cascavel, Brazil, while the painting was composed in Saint-Rémy-de-Provence, France, in 1889.  The original Starry Night is considered by many to be one of the three most famous paintings in the world today and a statement about the wonders of the night sky. Today is (roughly) the anniversary of the morning that van Gogh saw the sky that he later painted in his version of Starry Night.    Night Sky Jigsaw: Astronomy Puzzle of the Day",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_4080.jpg",
-      "image_path": "images/apod/5.jpg"
+      "image_path": "images/apod/3.jpg"
     },
     {
-      "slot": 6,
+      "slot": 4,
       "date": "2026-06-20",
       "title": "Daytime Moon Meets Evening Star",
       "explanation": "Venus is now appearing on the celestial stage as Earth's brilliant evening star, performing with the Moon, other wandering planets, and bright stars in western skies. For evening sky gazers on June 17, the celestial beacon rose after sunset close by a young, slender, crescent Moon. But from some locations the Moon could be seen to occult or pass in front of Venus. And from a backyard observatory in southern British Columbia, Canada, the lunar occultation was played out in daylight. This stunning telescopic snapshot captured a scene in dramatically cloudy skies, following Venus' hour long disappearance, as the evening star emerged beyond the bright lunar limb.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17_1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17.jpg",
-      "image_path": "images/apod/6.jpg"
+      "image_path": "images/apod/4.jpg"
     },
     {
-      "slot": 7,
+      "slot": 5,
       "date": "2026-06-21",
       "title": "Keogram: The Sky in 2025",
       "explanation": "What if you could see the entire sky -- all at once -- for an entire year? That, very nearly, is what is pictured here.  Every 15 seconds during 2025, an all-sky camera took an image of the sky over the Netherlands. Central columns from these images were then aligned and combined to create the featured keogram, with January at the top, December at the bottom, and the middle of the night running vertically just left of center. What do we see?  Most obviously, the daytime sky is mostly blue, while the nighttime sky is mostly black.  The twelve light bands crossing the night sky are caused by the glow of the Moon. The thinnest part of the black hourglass shape occurs during the summer solstice, like today, when days are the longest, while the thickest part occurs at the winter solstice. Equinoxes can also be located in the keogram, for example the northern-spring equinox from one year ago is about three-quarters of the way up.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2606/Keogram2025_Bassa_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2606/Keogram2025_Bassa_960.jpg",
+      "image_path": "images/apod/5.jpg"
+    },
+    {
+      "slot": 6,
+      "date": "2026-06-22",
+      "title": "M27: The Dumbbell Nebula",
+      "explanation": "Is this what will become of our Sun? Quite possibly.  The first hint of our Sun's future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier's list, now known as M27 or the Dumbbell Nebula, is a planetary nebula, one of the brightest planetary nebulas on the sky and visible with binoculars toward the constellation of the Fox (Vulpecula). It takes light about 1000 years to reach us from M27, featured here in colors enhanced by red for  hydrogen and blue for oxygen. We now know that in about 6 billion years, our Sun will shed its outer gases into a planetary nebula like M27, while its remaining center will become an X-ray hot white dwarf star.  Understanding the physics and significance of M27 was well beyond 18th century science, though. Even today, many things remain mysterious about planetary nebulas, including how their intricate shapes are created.",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2606/M27_antonucci_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2606/M27_antonucci_3090.jpg",
+      "image_path": "images/apod/6.jpg"
+    },
+    {
+      "slot": 7,
+      "date": "2026-06-23",
+      "title": "Flying Past Neptune's Moon Triton",
+      "explanation": "What would it look like to fly past Triton, the largest moon of planet Neptune?  Only one spacecraft has ever done this -- and the images of this dramatic encounter have been gathered into a video.  In 1989, the Voyager 2 robotic spacecraft shot through the Neptune system with cameras blazing.  Triton is slightly smaller than Earth's Moon but has ice volcanoes and a surface rich in frozen nitrogen.  The first sequence in the video shows Voyager's approach to Triton, which, with the exception of an overall false green tint, appears in approximately true color.  The mysterious cantaloupe terrain seen under the spacecraft soon changed from light to dark, with the terminator of night crossing underneath.  After closest approach, Voyager pivoted to see the departing moon, now visible as a diminishing crescent.  In 2015, the robotic New Horizons spacecraft famously flew past Pluto, an orb of similar size to Triton.   Almost Hyperspace: Random APOD Generator",
+      "media_type": "video",
+      "apod_url": "https://apod.nasa.gov/apod/image/2606/TritonPass_voyager2.mp4",
+      "hdurl": null,
       "image_path": "images/apod/7.jpg"
     }
   ]
