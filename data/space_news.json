@@ -1,69 +1,69 @@
 {
-  "updated": "2026-06-23T09:34:27.338Z",
+  "updated": "2026-06-24T09:24:38.500Z",
   "items": [
     {
-      "id": 38600,
-      "title": "Open opportunities with ESA Navigation",
-      "url": "https://www.esa.int/Applications/Satellite_navigation/Open_opportunities_with_ESA_Navigation",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/11/esa_navigation_at_cm25/26978586-1-eng-GB/ESA_Navigation_at_CM25_card_full.jpg",
+      "id": 38628,
+      "title": "End of the blue glow: BepiColombo turns off solar electric propulsion for Mercury arrival",
+      "url": "https://www.esa.int/Enabling_Support/Operations/End_of_the_blue_glow_BepiColombo_turns_off_solar_electric_propulsion_for_Mercury_arrival",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/end_of_bepicolombo_s_solar_electric_propulsion/27343532-1-eng-GB/End_of_BepiColombo_s_solar_electric_propulsion_card_full.jpg",
       "source": "ESA",
-      "published_at": "2026-06-23"
+      "published_at": "2026-06-24"
     },
     {
-      "id": 38598,
-      "title": "Rising Waters Swamp Lake Naivasha",
-      "url": "https://science.nasa.gov/earth/earth-observatory/rising-waters-swamp-lake-naivasha/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/rising-waters-swamp-lake-naivasha/kenyawater_tm5_20100130.jpg",
+      "id": 38627,
+      "title": "The art of hadrons",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/The_art_of_hadrons",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/the_art_of_hadrons/27332265-1-eng-GB/The_art_of_hadrons_card_full.png",
+      "source": "ESA",
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": 38626,
+      "title": "Curiosity Blog, Sols 4927–4933: Let’s Drive to That Smooth Area",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/june/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04928_opgs_edr_ncam_NLB_834986212EDR_F1222232NCAM00278M_.jpg",
       "source": "NASA",
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": 38625,
+      "title": "Playing the Moon Game",
+      "url": "https://science.nasa.gov/earth/earth-observatory/playing-the-moon-game/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/playing-the-moon-game-/tenthousandsmokes_oli2_20250929.jpg",
+      "source": "NASA",
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": 38624,
+      "title": "OHB raises funding for expansion, acquisitions",
+      "url": "https://spacenews.com/ohb-raises-funding-for-expansion-acquisitions/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/ohbhq.jpeg?fit=1024%2C544&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-06-24"
+    },
+    {
+      "id": 38623,
+      "title": "Launch Preview: Pegasus XL to launch amongst Falcon 9 and Chinese missions",
+      "url": "https://www.nasaspaceflight.com/2026/06/launch-preview-062326/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-2.jpeg",
+      "source": "NASASpaceflight",
       "published_at": "2026-06-23"
     },
     {
-      "id": 38597,
-      "title": "NASA IG Cites Dire NASA Launch Infrastructure Needs",
-      "url": "https://spacepolicyonline.com/news/nasa-ig-cites-dire-nasa-launch-infrastructure-needs/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/06/oig-1-300x201.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-06-23"
-    },
-    {
-      "id": 38596,
-      "title": "NASA and Boeing still uncertain about when Starliner will return to flight",
-      "url": "https://spacenews.com/nasa-and-boeing-still-uncertain-about-when-starliner-will-return-to-flight/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/06/starliner-cft-20240613.jpg?fit=1024%2C897&ssl=1",
+      "id": 38622,
+      "title": "NASA’s inspector general warns launch sites nearing capacity",
+      "url": "https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/fh-viasat3f3-scaled.jpeg?fit=1024%2C683&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-06-23"
     },
     {
-      "id": 38595,
-      "title": "Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’",
-      "url": "https://spaceflightnow.com/2026/06/23/live-coverage-spacex-to-launch-reentry-capsule-demo-mission-called-starfall/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260622_Starfall_overview.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-06-23"
-    },
-    {
-      "id": 38594,
-      "title": "Trump signs executive order to accelerate quantum space infrastructure",
-      "url": "https://spacenews.com/trump-signs-executive-order-to-accelerate-quantum-space-infrastructure/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/1-PIA26725-Astronaut_Jessica_Meir_Assists_with_Hardware_Updates_for_NASAs_-scaled.jpg?fit=1024%2C683&ssl=1",
+      "id": 38620,
+      "title": "Boeing wins $2 billion Space Force contract for communications satellites",
+      "url": "https://spacenews.com/boeing-wins-2-billion-space-force-contract-for-communications-satellites/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/01/8103353143_79569b1775_k.jpg?fit=1024%2C768&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-06-22"
-    },
-    {
-      "id": 38593,
-      "title": "Report: Kennedy Space Center not ready for era of super heavy rockets",
-      "url": "https://arstechnica.com/space/2026/06/report-kennedy-space-center-not-ready-for-era-of-super-heavy-rockets/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Artemis-I-Aug-19-2022-9057.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-06-22"
-    },
-    {
-      "id": 38592,
-      "title": "NASA Awards Solutions for Federal Enterprise Procurement Contracts",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-solutions-for-federal-enterprise-procurement-contracts/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-      "source": "NASA",
-      "published_at": "2026-06-22"
+      "published_at": "2026-06-23"
     }
   ]
 }
