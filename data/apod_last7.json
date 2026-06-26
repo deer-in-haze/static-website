@@ -1,74 +1,74 @@
 {
-  "updated": "2026-06-25",
+  "updated": "2026-06-26",
   "items": [
     {
       "slot": 1,
-      "date": "2026-06-19",
-      "title": "Starry Night II",
-      "explanation": "Does this scene look familiar? It is a modern recreation of the famous painting Starry Night by Vincent van Gogh.  Both the image and the painting depict a tall tree on the left, a crescent moon on the upper right, the planet Venus just to the right of the tree, a foreground horizon rising from left to right, and clouds above the horizon. Differences include that the photograph was taken in mid-April earlier this year in Cascavel, Brazil, while the painting was composed in Saint-Rémy-de-Provence, France, in 1889.  The original Starry Night is considered by many to be one of the three most famous paintings in the world today and a statement about the wonders of the night sky. Today is (roughly) the anniversary of the morning that van Gogh saw the sky that he later painted in his version of Starry Night.    Night Sky Jigsaw: Astronomy Puzzle of the Day",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_4080.jpg",
-      "image_path": "images/apod/1.jpg"
-    },
-    {
-      "slot": 2,
       "date": "2026-06-20",
       "title": "Daytime Moon Meets Evening Star",
       "explanation": "Venus is now appearing on the celestial stage as Earth's brilliant evening star, performing with the Moon, other wandering planets, and bright stars in western skies. For evening sky gazers on June 17, the celestial beacon rose after sunset close by a young, slender, crescent Moon. But from some locations the Moon could be seen to occult or pass in front of Venus. And from a backyard observatory in southern British Columbia, Canada, the lunar occultation was played out in daylight. This stunning telescopic snapshot captured a scene in dramatically cloudy skies, following Venus' hour long disappearance, as the evening star emerged beyond the bright lunar limb.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17_1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17.jpg",
-      "image_path": "images/apod/2.jpg"
+      "image_path": "images/apod/1.jpg"
     },
     {
-      "slot": 3,
+      "slot": 2,
       "date": "2026-06-21",
       "title": "Keogram: The Sky in 2025",
       "explanation": "What if you could see the entire sky -- all at once -- for an entire year? That, very nearly, is what is pictured here.  Every 15 seconds during 2025, an all-sky camera took an image of the sky over the Netherlands. Central columns from these images were then aligned and combined to create the featured keogram, with January at the top, December at the bottom, and the middle of the night running vertically just left of center. What do we see?  Most obviously, the daytime sky is mostly blue, while the nighttime sky is mostly black.  The twelve light bands crossing the night sky are caused by the glow of the Moon. The thinnest part of the black hourglass shape occurs during the summer solstice, like today, when days are the longest, while the thickest part occurs at the winter solstice. Equinoxes can also be located in the keogram, for example the northern-spring equinox from one year ago is about three-quarters of the way up.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2606/Keogram2025_Bassa_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2606/Keogram2025_Bassa_960.jpg",
-      "image_path": "images/apod/3.jpg"
+      "image_path": "images/apod/2.jpg"
     },
     {
-      "slot": 4,
+      "slot": 3,
       "date": "2026-06-22",
       "title": "M27: The Dumbbell Nebula",
       "explanation": "Is this what will become of our Sun? Quite possibly.  The first hint of our Sun's future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier's list, now known as M27 or the Dumbbell Nebula, is a planetary nebula, one of the brightest planetary nebulas on the sky and visible with binoculars toward the constellation of the Fox (Vulpecula). It takes light about 1000 years to reach us from M27, featured here in colors enhanced by red for  hydrogen and blue for oxygen. We now know that in about 6 billion years, our Sun will shed its outer gases into a planetary nebula like M27, while its remaining center will become an X-ray hot white dwarf star.  Understanding the physics and significance of M27 was well beyond 18th century science, though. Even today, many things remain mysterious about planetary nebulas, including how their intricate shapes are created.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2606/M27_antonucci_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2606/M27_antonucci_3090.jpg",
-      "image_path": "images/apod/4.jpg"
+      "image_path": "images/apod/3.jpg"
     },
     {
-      "slot": 5,
+      "slot": 4,
       "date": "2026-06-23",
       "title": "Flying Past Neptune's Moon Triton",
       "explanation": "What would it look like to fly past Triton, the largest moon of planet Neptune?  Only one spacecraft has ever done this -- and the images of this dramatic encounter have been gathered into a video.  In 1989, the Voyager 2 robotic spacecraft shot through the Neptune system with cameras blazing.  Triton is slightly smaller than Earth's Moon but has ice volcanoes and a surface rich in frozen nitrogen.  The first sequence in the video shows Voyager's approach to Triton, which, with the exception of an overall false green tint, appears in approximately true color.  The mysterious cantaloupe terrain seen under the spacecraft soon changed from light to dark, with the terminator of night crossing underneath.  After closest approach, Voyager pivoted to see the departing moon, now visible as a diminishing crescent.  In 2015, the robotic New Horizons spacecraft famously flew past Pluto, an orb of similar size to Triton.   Almost Hyperspace: Random APOD Generator",
       "media_type": "video",
       "apod_url": "https://apod.nasa.gov/apod/image/2606/TritonPass_voyager2.mp4",
       "hdurl": null,
-      "image_path": "images/apod/5.jpg"
+      "image_path": "images/apod/4.jpg"
     },
     {
-      "slot": 6,
+      "slot": 5,
       "date": "2026-06-24",
       "title": "SDO Observes a Coronal Mass Ejection",
       "explanation": "Why does the Sun throw stuff at us? The Sun’s surface is a churning soup of energetic electrons and ions called plasma. The motion of those charged particles creates magnetic field loops that are larger than the Earth. These loops twist, turn, and trap plasma. The featured time-lapse, taken over 2 hours on April 24th, 2026 by the Solar Dynamics Observatory, shows what happens when those magnetic fields become too stressed: they snap and expel billions of tons (trillions of kilograms) of plasma into space at millions of miles (or kilometers) per hour in what is called a coronal mass ejection (CME). The Sun releases a few CMEs each day when it is at the peak of its activity cycle, which passed in 2025. Some of these eruptions hit Earth and can disrupt power grids, disable satellites, and endanger astronauts, which is why space weather monitoring is so important.",
       "media_type": "video",
       "apod_url": "https://apod.nasa.gov/apod/image/2606/sdo_cme.mp4",
       "hdurl": null,
-      "image_path": "images/apod/6.jpg"
+      "image_path": "images/apod/5.jpg"
     },
     {
-      "slot": 7,
+      "slot": 6,
       "date": "2026-06-25",
       "title": "Anticrepuscular Rays over Sicily",
       "explanation": "The Sun has just set... in the opposite side of the sky.   Pictured here are anticrepuscular rays apparently converging in the east in this image of the limestone plateau in the heart of the Hyblaean Mountains of southeastern Sicily, in Italy.   How were these anticrepuscular rays formed, if the Sun wasn't there?   After the Sun set (in the west, as usual) its light still illuminated a cloud higher up in the sky.   Partially blocked by the cloud, the sunlight produced patterns of light and shadow, crossing the sky in parallel lines.   Perspective makes it look like they converge in the east, in the same way that train tracks appear to meet in the distance.   This effect can also happen at sunrise, only the directions are exchanged.   In rare cases, both crepuscular and anticrepuscular rays can be seen at the same time.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2606/crepuscular2_1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2606/crepuscular2.jpg",
+      "image_path": "images/apod/6.jpg"
+    },
+    {
+      "slot": 7,
+      "date": "2026-06-26",
+      "title": "Milky Way Urban Style",
+      "explanation": "In a cosmic vista you can never see, the Milky Way arcs through the night above Seoul, South Korea. Remarkably, this urban night skyscape reveals our galaxy's faintly luminous central region and dark obscuring dust clouds in spite of the brilliant city lights. To overcome the extreme light pollution of the metropolitan area and record faint cosmic details, an infrared filter was used to capture the night scene in a single exposure. While the filter transmits predominately infrared light, it still passes some visible light to give the scene a natural appearance. The view is from Seoul's Ttukseom Hangang Park, with the Han River and a well lit railway bridge across the foreground. The 123 story Lotte World Tower looms in the distance, the tallest building in South Korea.",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee800.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee.jpg",
       "image_path": "images/apod/7.jpg"
     }
   ]
