@@ -1,69 +1,69 @@
 {
-  "updated": "2026-06-26T09:20:51.928Z",
+  "updated": "2026-06-27T08:33:09.115Z",
   "items": [
     {
-      "id": 38675,
-      "title": "Cave training lab",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Cave_training_lab",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/cave_training_lab/27347804-1-eng-GB/Cave_training_lab_card_full.jpg",
-      "source": "ESA",
+      "id": 38696,
+      "title": "Rocket Lab launches 10th Synspective satellite",
+      "url": "https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/electron-strix10.jpeg?fit=1024%2C556&ssl=1",
+      "source": "SpaceNews",
       "published_at": "2026-06-26"
     },
     {
-      "id": 38674,
-      "title": "Earth from Space: Desert cropland",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Desert_cropland",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/earth_from_space_desert_cropland/27346937-1-eng-GB/Earth_from_Space_Desert_cropland_card_full.jpg",
-      "source": "ESA",
+      "id": 38695,
+      "title": "Next-gen astronaut Moon rovers aim for deployment ahead of Artemis 4 crew arrival",
+      "url": "https://spaceflightnow.com/2026/06/26/next-gen-astronaut-moon-rovers-aim-for-deployment-ahead-of-artemis-4-crew-arrival/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260626_CLV-1_Pegasus_combo.jpg",
+      "source": "Spaceflight Now",
       "published_at": "2026-06-26"
     },
     {
-      "id": 38673,
-      "title": "The Battle for Sullivan’s Island",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-battle-for-sullivan's-island/sc_sullivansisland_oli_20260603.jpg",
+      "id": 38694,
+      "title": "Spain-backed fund joins FOSSA’s sovereign satellite communications push",
+      "url": "https://spacenews.com/spain-backed-fund-joins-fossas-sovereign-satellite-communications-push/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/FOSSA-TEAM.jpg?fit=1024%2C683&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-06-26"
+    },
+    {
+      "id": 38693,
+      "title": "NASA Announces Winners for 2026 Human Lander Challenge",
+      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/hulc26-concept1-updated.png",
       "source": "NASA",
       "published_at": "2026-06-26"
     },
     {
-      "id": 38672,
-      "title": "Rocket Lab wins NASA award for three Electron launches",
-      "url": "https://spacenews.com/rocket-lab-wins-nasa-award-for-three-electron-launches/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55131288256_209cf1df3a_k.jpg?fit=1024%2C683&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-25"
+      "id": 38692,
+      "title": "Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work",
+      "url": "https://www.nasaspaceflight.com/2026/06/ship-40-single-engine/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/Ship-40-Single-Engine-Static-Fire-at-Masseys-scaled.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-06-26"
     },
     {
-      "id": 38671,
-      "title": "Weather Stream releases first light imagery from GEMS2 microwave radiometer",
-      "url": "https://spacenews.com/weather-stream-releases-first-light-imagery-from-gems2-microwave-radiometer/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/rsz_2gems2.png?fit=879%2C442&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-25"
-    },
-    {
-      "id": 38670,
-      "title": "Space Force’s new MUOS satellites to use Boeing’s 702MP spacecraft platform",
-      "url": "https://spacenews.com/space-forces-new-muos-satellites-to-use-boeings-702mp-spacecraft-platform/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Picture1000hiresolution-scaled.jpg?fit=1024%2C575&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-25"
-    },
-    {
-      "id": 38669,
-      "title": "Expedition 73 Crew Reflects on Science, Teamwork, and Life in Orbit",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/expedition-73-crew-reflects-on-science-teamwork-and-life-in-orbit/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/jsc2026e395621.jpg",
+      "id": 38691,
+      "title": "NASA Tests New Refuel Device for Future In-Space Refueling Missions",
+      "url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/03/recuperator.png",
       "source": "NASA",
-      "published_at": "2026-06-25"
+      "published_at": "2026-06-26"
     },
     {
-      "id": 38668,
-      "title": "NASA, US Small Business Administration to Announce Partnership",
-      "url": "https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+      "id": 38690,
+      "title": "Partners, NASA Ready for June Launch of Swift Boost Mission",
+      "url": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/2023/09/M31_Layered_UV_and_Optical.jpg",
       "source": "NASA",
-      "published_at": "2026-06-25"
+      "published_at": "2026-06-26"
+    },
+    {
+      "id": 38689,
+      "title": "Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?",
+      "url": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Berger-Ars-Live-2026-1.png",
+      "source": "Arstechnica",
+      "published_at": "2026-06-26"
     }
   ]
 }
