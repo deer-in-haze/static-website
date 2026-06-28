@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-27T08:33:09.115Z",
+  "updated": "2026-06-28T08:48:15.143Z",
   "items": [
+    {
+      "id": 38697,
+      "title": "Live coverage: SpaceX plans Sunday Starlink launch from Vandenberg Space Force Base",
+      "url": "https://spaceflightnow.com/2026/06/28/live-coverage-spacex-plans-sunday-starlink-launch-from-vandenberg-space-force-base/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260329_20260313_Starlink_G17_31.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-06-28"
+    },
     {
       "id": 38696,
       "title": "Rocket Lab launches 10th Synspective satellite",
@@ -55,14 +63,6 @@
       "url": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
       "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/2023/09/M31_Layered_UV_and_Optical.jpg",
       "source": "NASA",
-      "published_at": "2026-06-26"
-    },
-    {
-      "id": 38689,
-      "title": "Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?",
-      "url": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Berger-Ars-Live-2026-1.png",
-      "source": "Arstechnica",
       "published_at": "2026-06-26"
     }
   ]
