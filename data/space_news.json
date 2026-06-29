@@ -1,6 +1,46 @@
 {
-  "updated": "2026-06-28T08:48:15.143Z",
+  "updated": "2026-06-29T10:53:40.893Z",
   "items": [
+    {
+      "id": 38701,
+      "title": "Craft Prospect selected for The Sunday Times Scotland Fast 50",
+      "url": "https://spacenews.com/craft-prospect-selected-for-the-sunday-times-scotland-fast-50/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/SAME-SIZE-scaled.png?fit=1024%2C1024&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": 38702,
+      "title": "China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations",
+      "url": "https://spacenews.com/china-establishes-vleo-industry-alliance-as-satellites-demonstrate-sustained-low-orbit-operations/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Kinetica1-Y8-chutian-2-0102-JSLC-9nov2025-OS.jpg?fit=1024%2C588&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-06-29"
+    },
+    {
+      "id": 38700,
+      "title": "Euclid studies Milky Way center, supports future Roman observations",
+      "url": "https://www.nasaspaceflight.com/2026/06/euclid-galactic-bulge-survey/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/euclid_galactic_bulge_roman.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-06-28"
+    },
+    {
+      "id": 38699,
+      "title": "What’s Happening in Space Policy June 28-July 4, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-28-july-4-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/06/America250-logo-300x210.png",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-06-28"
+    },
+    {
+      "id": 38698,
+      "title": "Live coverage: SpaceX to launch 7.5-ton SiriusXM satellite as part of constellation refresh",
+      "url": "https://spaceflightnow.com/2026/06/28/live-coverage-spacex-to-launch-7-5-ton-siriusxm-satellite-as-part-of-constellation-refresh/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260628_SXM-11_satellite-1.jpeg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-06-28"
+    },
     {
       "id": 38697,
       "title": "Live coverage: SpaceX plans Sunday Starlink launch from Vandenberg Space Force Base",
@@ -23,46 +63,6 @@
       "url": "https://spaceflightnow.com/2026/06/26/next-gen-astronaut-moon-rovers-aim-for-deployment-ahead-of-artemis-4-crew-arrival/",
       "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260626_CLV-1_Pegasus_combo.jpg",
       "source": "Spaceflight Now",
-      "published_at": "2026-06-26"
-    },
-    {
-      "id": 38694,
-      "title": "Spain-backed fund joins FOSSA’s sovereign satellite communications push",
-      "url": "https://spacenews.com/spain-backed-fund-joins-fossas-sovereign-satellite-communications-push/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/FOSSA-TEAM.jpg?fit=1024%2C683&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-26"
-    },
-    {
-      "id": 38693,
-      "title": "NASA Announces Winners for 2026 Human Lander Challenge",
-      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/hulc26-concept1-updated.png",
-      "source": "NASA",
-      "published_at": "2026-06-26"
-    },
-    {
-      "id": 38692,
-      "title": "Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work",
-      "url": "https://www.nasaspaceflight.com/2026/06/ship-40-single-engine/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/Ship-40-Single-Engine-Static-Fire-at-Masseys-scaled.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-06-26"
-    },
-    {
-      "id": 38691,
-      "title": "NASA Tests New Refuel Device for Future In-Space Refueling Missions",
-      "url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/03/recuperator.png",
-      "source": "NASA",
-      "published_at": "2026-06-26"
-    },
-    {
-      "id": 38690,
-      "title": "Partners, NASA Ready for June Launch of Swift Boost Mission",
-      "url": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/2023/09/M31_Layered_UV_and_Optical.jpg",
-      "source": "NASA",
       "published_at": "2026-06-26"
     }
   ]
