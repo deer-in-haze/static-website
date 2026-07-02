@@ -1,69 +1,69 @@
 {
-  "updated": "2026-07-01T09:41:17.331Z",
+  "updated": "2026-07-02T08:52:09.752Z",
   "items": [
     {
-      "id": 38746,
-      "title": "Thousands of planets are hidden in this photo",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/thousands_of_planets_are_hidden_in_this_photo/27352534-8-eng-GB/Thousands_of_planets_are_hidden_in_this_photo_card_full.png",
+      "id": 38772,
+      "title": "Authorisation paves the way for Aeolus-2 wind mission",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Authorisation_paves_the_way_for_Aeolus-2_wind_mission",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/07/aeolus-2/27360039-1-eng-GB/Aeolus-2_card_full.jpg",
       "source": "ESA",
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": 38770,
+      "title": "What’s Up: July 2026 Skywatching Tips from NASA",
+      "url": "https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ciencia/ciencias-terrestres/2026/Moon_planets_July2026.png",
+      "source": "NASA",
+      "published_at": "2026-07-02"
+    },
+    {
+      "id": 38769,
+      "title": "Live coverage: ULA to launch final Atlas 5 rocket supporting Amazon Leo’s broadband internet satellite constellation",
+      "url": "https://spaceflightnow.com/2026/07/01/live-coverage-ula-to-launch-final-atlas-5-rocket-supporting-amazon-leos-broadband-internet-satellite-constellation/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/07/20260701-DSC_0022-Edit-2_Remote-setup_COPYRIGHT-2026-John-Pisani-1.jpeg",
+      "source": "Spaceflight Now",
       "published_at": "2026-07-01"
     },
     {
-      "id": 38745,
-      "title": "NASA awards nearly $600 million in lunar lander missions",
-      "url": "https://spacenews.com/nasa-awards-nearly-600-million-in-lunar-lander-missions/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/landers-june2026.jpeg?fit=1024%2C576&ssl=1",
+      "id": 38768,
+      "title": "Report links Starliner problems to overconfidence and unrealistic schedules",
+      "url": "https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/53988402529_bec93e5a26_k.jpg?fit=1024%2C683&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-06-30"
+      "published_at": "2026-07-01"
     },
     {
-      "id": 38744,
-      "title": "NASA Awards More CLPS Contracts, May Send Mars Rover Engineering Model to the Moon",
-      "url": "https://spacepolicyonline.com/news/nasa-awards-more-clps-contracts-may-send-mars-rover-engineering-model-to-the-moon/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/06/NASA-Moon-Base-infographic-300x168.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-06-30"
-    },
-    {
-      "id": 38743,
-      "title": "Astronauts ‘operate’ on space station’s broken robot arm",
-      "url": "https://spaceflightnow.com/2026/06/30/astronauts-operate-on-space-stations-broken-robot-arm/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260630_strongman_Chris_Williams.jpeg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-06-30"
-    },
-    {
-      "id": 38742,
-      "title": "Blue Origin outlines return to flight logistics for its New Glenn rockets",
-      "url": "https://spaceflightnow.com/2026/06/30/blue-origin-outlines-return-to-flight-logistics-for-its-new-glenn-rockets/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260630_News_NG-ReturnToFlight_ReadyToLaunch.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-06-30"
-    },
-    {
-      "id": 38741,
-      "title": "TechnoMile Recognized among Notable Vendors in Contract Lifecycle Management Platforms Landscape Report",
-      "url": "https://spacenews.com/technomile-recognized-among-notable-vendors-in-contract-lifecycle-management-platforms-landscape-report/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/technomile-logo-square.png?fit=1024%2C1024&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-06-30"
-    },
-    {
-      "id": 38740,
-      "title": "Launch Preview: Swift rescue mission, final Atlas satellite launch",
-      "url": "https://www.nasaspaceflight.com/2026/06/launch-preview-063026/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/09/Nov.-3-2023-Falcon-9-Starlink-6-26-Streak-Shot.jpg",
+      "id": 38767,
+      "title": "NASA announces new lander contracts for Moon Base Phase One",
+      "url": "https://www.nasaspaceflight.com/2026/07/nasa-moon-base-update/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/IMG_4718.jpeg",
       "source": "NASASpaceflight",
-      "published_at": "2026-06-30"
+      "published_at": "2026-07-01"
     },
     {
-      "id": 38739,
-      "title": "NASA may send a backup, nuclear-powered Mars rover to the Moon",
-      "url": "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/jpegPIA24528-1.jpg",
+      "id": 38766,
+      "title": "NASA’s Chandra Examines Milky Way at Arms’ Length",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-examines-milky-way-at-arms-length/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/arms_illus2.jpg",
+      "source": "NASA",
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": 38765,
+      "title": "NASA chief praises progress Blue Origin is making after launch failure",
+      "url": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/News_NG-ReturnToFlight_2-RocketLift.webp",
       "source": "Arstechnica",
-      "published_at": "2026-06-30"
+      "published_at": "2026-07-01"
+    },
+    {
+      "id": 38764,
+      "title": "FCC to vote on satellite licensing overhaul July 22",
+      "url": "https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/FCC-chairman-scaled.jpeg?fit=1024%2C704&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-01"
     }
   ]
 }
