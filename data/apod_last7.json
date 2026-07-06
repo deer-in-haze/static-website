@@ -1,74 +1,74 @@
 {
-  "updated": "2026-07-05",
+  "updated": "2026-07-06",
   "items": [
     {
       "slot": 1,
-      "date": "2026-06-29",
-      "title": "M82: Galaxy with a Supergalactic Wind",
-      "explanation": "Why is the Cigar Galaxy billowing red smoke?  M82, as this starburst galaxy is also known, was stirred up by a recent pass near large spiral galaxy M81.  This doesn't fully explain the source of the red-glowing outwardly expanding gas and dust, however.  Evidence indicates that this gas and dust is being driven out by the combined emerging particle winds of many stars, together creating a galactic superwind.  The dust particles are thought to originate in M82's interstellar medium and are actually similar in size to particles in cigar smoke.  The featured photographic mosaic combines images taken in visible light from the Hubble Space Telescope and images taken in infrared light from James Webb Space Telescope.  It shows the light-colored central galaxy nearly edge on across the image center with tremendous orange and red colored filaments of gas and dust extending both up and down.  The filaments extend for over 10,000 light years. The 12-million light-year distant Cigar Galaxy is the brightest galaxy in the sky in infrared light and can be seen in visible light with a small telescope towards the constellation of the Great Bear (Ursa Major).",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_5000.jpg",
-      "image_path": "images/apod/1.jpg"
-    },
-    {
-      "slot": 2,
       "date": "2026-06-30",
       "title": "Unusually Smooth Sections of Asteroid Itokawa",
       "explanation": "Why are parts of this asteroid's surface so smooth?  The answer seems likely to do with the dynamics of an asteroid that is a loose pile of rubble rather than a solid rock.  The unusual asteroid Itokawa was visited by the Japanese spacecraft Hayabusa in 2005 which imaged and documented its unusual structure and mysterious lack of craters.  Analyses of the border regions between smooth and rugged sections indicate that jostling of the asteroid might be creating segregation between large and small rocks near the surface, like the Brazil nut effect.  The robotic Hayabusa actually touched down on one of the smooth patches, dubbed the MUSES Sea, and collected soil samples. These samples were returned to Earth and are not only giving clues to the ancient history of this unusual asteroid, but also about the early years of our entire Solar System. Computer simulations show that 500-meter asteroid Itokawa may impact the Earth within the next few million years.   Rocking Space: Today is Asteroid Day",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2606/itokawa07_hayabusa_1080.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2606/itokawa07_hayabusa_1080.jpg",
-      "image_path": "images/apod/2.jpg"
+      "image_path": "images/apod/1.jpg"
     },
     {
-      "slot": 3,
+      "slot": 2,
       "date": "2026-07-01",
       "title": "The Cotton Candy Clouds of Rho Ophiuchi",
       "explanation": "Although they look like cotton candy, you cannot eat these clouds! Taken in Cádiz, Spain, today's image features the Rho Ophiuchi complex, a rich tapestry of young and old astronomical phenomena. This colorful cloud complex is a nearby star-forming region containing hundreds of young stellar objects, including protostars and T Tauri stars. Light from the triple star system at its center reflects off of small dust grains to create the blue reflection nebula. Ultraviolet light from hot stars ionizes the surrounding hydrogen gas, creating the red emission nebula. Antares, a red supergiant big enough to engulf the Solar System’s asteroid belt, lights up the yellow region. Dark interstellar dust blocks some of the complex’s color. Recent JWST observations exhibit shadows cast by hidden circumstellar disks, the beginning stages of planet formation. Messier 4, a globular cluster almost as old as the universe, sits in the bottom right and witnesses yet another chaotic burst of youth in the Milky Way.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/rho_ophiuchi_800.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2607/rho_ophiuchi_1024.png",
-      "image_path": "images/apod/3.jpg"
+      "image_path": "images/apod/2.jpg"
     },
     {
-      "slot": 4,
+      "slot": 3,
       "date": "2026-07-02",
       "title": "Sibling Supernova Remnants",
       "explanation": "What happens when one of the stars in a binary goes supernova?   This image combines visible (yellow), ultraviolet (purple) and infrared light (cyan, red and orange) to show two supernova remnants and their surrounding environment, about 6,000 light-years away.   The younger one is the well-known Jellyfish Nebula in the center (mostly in yellow).   If we could see it by eye, it would appear larger than the full moon in the sky.   The filament shown in purple is part of an older, overlapping supernova remnant, G189.6+3.3.   A new study used data from NASA's Fermi Gamma-ray Space Telescope to piece together their story.   Astronomers believe that there were two stars in a binary system, then the first one exploded as a supernova, kicking away its companion, which also exploded as a supernova tens of thousands of years later, creating the superimposed supernova remnants we see today.   The bright star on the right is actually a triple star system named Propus.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/sibling_supernovae_1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2607/sibling_supernovae.jpg",
-      "image_path": "images/apod/4.jpg"
+      "image_path": "images/apod/3.jpg"
     },
     {
-      "slot": 5,
+      "slot": 4,
       "date": "2026-07-03",
       "title": "Three Galaxies in Pavo",
       "explanation": "Some 190 million light-years away, far beyond the bright stars and nebulae of the Milky Way, these three galaxies are drawn together by gravity in a mesmerizing cosmic dance. Clearly distorted by galactic-scale gravitational interactions, large spiral galaxies NGC 6769 and NGC 6770 are seen face-on, with luminous galactic disks scarred by obscuring interstellar dust lanes. Their young blue star clusters along drawn out spiral arms are spawned in star forming regions that resulted from collisions of massive molecular clouds. Below, spiral NGC 6771 presents a more edge-on perspective, its boxy central bulge due to tidal star streams. Of course, in the distant future a merger of the three galaxies is inevitable. At the estimated distance of this galaxy trio, known to some as the Devil's Mask, the sharp telescopic frame spans over 300 thousand light-years within the boundaries of the far southern constellation Pavo.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026-1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026.jpg",
-      "image_path": "images/apod/5.jpg"
+      "image_path": "images/apod/4.jpg"
     },
     {
-      "slot": 6,
+      "slot": 5,
       "date": "2026-07-04",
       "title": "Pathfinder on Mars",
       "explanation": "On July 4th, 1997, using its own array of fireworks, a parachute, and a cocoon of airbags, the Mars Pathfinder spacecraft bounced like a giant beach ball at least 15 times before it came to rest on the surface of Mars at 10:07 AM Pacific Daylight Time. After its then novel airbag-assisted landing sequence was completed, Pathfinder transmitted this color mosaic to mission operators on Earth. In the scene from another world, the Mars Sojourner robot rover is visible in the foreground, crouched on top of the unfolded Pathfinder.  About the size of a large house cat, the six-wheeled, solar-powered Sojourner became the first successful Martian rover. Surrounding Pathfinder are deflated airbags and the rock-strewn terrain of the Ares Vallis floodplain. In the distance Martian hills appear against a dusty brownish sky. The Pathfinder lander was subsequently renamed the Carl Sagan Memorial Station.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2607/PIA00621.jpg",
-      "image_path": "images/apod/6.jpg"
+      "image_path": "images/apod/5.jpg"
     },
     {
-      "slot": 7,
+      "slot": 6,
       "date": "2026-07-05",
       "title": "Saturn's Iapetus: Painted Moon",
       "explanation": "What has happened to Saturn's moon Iapetus?  Vast sections of this strange world are dark as coal, while others are as bright as snow.  To help better understand this unusually tinted moon, in 2007 NASA directed the robotic Cassini spacecraft then orbiting Saturn to swoop within 2,000 kilometers.  Pictured here, from about 75,000 kilometers out, is the hemisphere of Iapetus that is always trailing.  A large impact crater seen in the south spans 500 kilometers and appears superposed on an older crater of similar size.  The dark material is seen increasingly coating the easternmost part of Iapetus, darkening craters and highlands alike.  A leading hypothesis is that the dark material is mostly a form of carbon-rich soil leftover from when relatively warm but dirty ice sublimates.  An initial coating of this dark material may have been effectively painted on by the accretion of meteor-liberated debris from other moons.   Jigsaw Moon: Astronomy Puzzle of the Day",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_4100.jpg",
+      "image_path": "images/apod/6.jpg"
+    },
+    {
+      "slot": 7,
+      "date": "2026-07-06",
+      "title": "Dueling Bands over the Atacama Desert",
+      "explanation": "What are these two bands in the sky?  The more commonly seen band is on the left and is the central band of our Milky Way galaxy.  Our Sun orbits in the disk of this spiral galaxy so that from inside, it appears as a band of comparable brightness all the way around the sky.  The less commonly seen band, on the right, is zodiacal light -- sunlight reflected from dust orbiting the Sun in our Solar System.  Zodiacal light is brightest near the Sun and so is best seen just before sunrise or just after sunset.  On some evenings, this ribbon of zodiacal light can appear quite prominent.  It was discovered only in this century that zodiacal dust was mostly expelled by comets that have passed near Jupiter.  The featured image was captured about a year ago from the Atacama Desert in Chile.",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_6125.jpg",
       "image_path": "images/apod/7.jpg"
     }
   ]
