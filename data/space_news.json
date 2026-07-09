@@ -1,69 +1,69 @@
 {
-  "updated": "2026-07-08T08:23:50.576Z",
+  "updated": "2026-07-09T09:34:48.015Z",
   "items": [
     {
-      "id": 38853,
-      "title": "Space Force adds Relativity, Impulse Space to national security launch program",
-      "url": "https://spacenews.com/space-force-adds-relativity-impulse-space-to-national-security-launch-program/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/08/Impulse-GEO-Rideshare.png?fit=1024%2C576&ssl=1",
+      "id": 38872,
+      "title": "Super Typhoon Bavi",
+      "url": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/super-typhoon-bavi/typhoonbavi_vir_20260705.jpg",
+      "source": "NASA",
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": 38871,
+      "title": "New Singapore space agency seeks to build up the country’s space industry",
+      "url": "https://spacenews.com/new-singapore-space-agency-seeks-to-build-up-the-countrys-space-industry/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/nsas-jaxa-scaled.jpeg?fit=1024%2C709&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": 38870,
+      "title": "Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 36th flight",
+      "url": "https://spaceflightnow.com/2026/07/09/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-36th-flight/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/12/20250827_Starlink_10_11_30.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": 38869,
+      "title": "Rocket Lab sees Electron gains, Neutron delays in first half of 2026",
+      "url": "https://www.nasaspaceflight.com/2026/07/rocket-lab-update-072026/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/HI6y7rubkAAjM8n.jpeg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-07-08"
+    },
+    {
+      "id": 38868,
+      "title": "ispace to send larger payloads to the moon on SpaceX’s Starship",
+      "url": "https://spacenews.com/ispace-to-send-larger-payloads-to-the-moon-on-spacexs-starship/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/ispace-mobilecargo.jpeg?fit=1024%2C724&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-07-08"
     },
     {
-      "id": 38851,
-      "title": "Cottonwood Fire Chars Utah",
-      "url": "https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cottonwood-fire-chars-utah/utcottonwoodfire_oli2_20260605.jpg",
+      "id": 38867,
+      "title": "Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion",
+      "url": "https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/06.29.26_Students_Connect_NASA_Science_With_Indigenous_Knowledge_to_Study_Coastal_Erosion.png",
       "source": "NASA",
       "published_at": "2026-07-08"
     },
     {
-      "id": 38850,
-      "title": "Skyroot prepares for first orbital launch attempt",
-      "url": "https://spacenews.com/skyroot-prepares-for-first-orbital-launch-attempt/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/vikram1-flagoff.jpeg?fit=1024%2C768&ssl=1",
-      "source": "SpaceNews",
+      "id": 38866,
+      "title": "Japan’s ispace Expanding into Lunar Infrastructure",
+      "url": "https://spacepolicyonline.com/news/japans-ispace-expanding-into-lunar-infrastructure/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Hakamada-Kamiya-2-300x166.jpg",
+      "source": "SpacePolicyOnline.com",
       "published_at": "2026-07-08"
     },
     {
-      "id": 38849,
-      "title": "D-Orbit signs launch-services contract with ArkEdge Space",
-      "url": "https://spacenews.com/d-orbit-signs-launch-services-contract-with-arkedge-space/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_render_of_gea_-_d-orbits_in-orbit_servicing_vehicle-1.jpg?fit=879%2C494&ssl=1",
+      "id": 38865,
+      "title": "Is this the year for a NASA authorization bill?",
+      "url": "https://spacenews.com/is-this-the-year-for-a-nasa-authorization-bill/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/housesci-20260204.jpeg?fit=1024%2C683&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-07-08"
-    },
-    {
-      "id": 38848,
-      "title": "Orbit Fab hires new CEO and raises funding to support satellite refueling business",
-      "url": "https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/04/orbittfab-shuttle.jpg?fit=1024%2C697&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-07-07"
-    },
-    {
-      "id": 38847,
-      "title": "RFA ONE Launch from SaxaVord Set for No Earlier Than 10 August",
-      "url": "https://europeanspaceflight.com/rfa-one-launch-from-saxavord-set-for-no-earlier-than-10-august/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/07/RFA-ONE-Launch-from-SaxaVord-Expected-No-Earlier-Than-10-August.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-07-07"
-    },
-    {
-      "id": 38845,
-      "title": "Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs",
-      "url": "https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Spirit-Electronics-Logo-1x1-Black-Background.jpg?fit=1024%2C1024&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-07-07"
-    },
-    {
-      "id": 38844,
-      "title": "Apolink makes contact with first relay satellite",
-      "url": "https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/DSC04781-1-scaled.jpg?fit=1024%2C683&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-07-07"
     }
   ]
 }
