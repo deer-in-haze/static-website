@@ -1,69 +1,69 @@
 {
-  "updated": "2026-07-09T09:34:48.015Z",
+  "updated": "2026-07-10T09:30:38.478Z",
   "items": [
     {
-      "id": 38872,
-      "title": "Super Typhoon Bavi",
-      "url": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/super-typhoon-bavi/typhoonbavi_vir_20260705.jpg",
+      "id": 38897,
+      "title": "Earth from Space: Great Bear Lake, Canada",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Great_Bear_Lake_Canada",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/earth_from_space_great_bear_lake_canada/27373021-1-eng-GB/Earth_from_Space_Great_Bear_Lake_Canada_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-07-10"
+    },
+    {
+      "id": 38896,
+      "title": "China becomes second country to recover orbital booster with Long March 10B",
+      "url": "https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/LongMarch10B-liftoff-10july2026-Ourspace.jpg?fit=1024%2C684&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-10"
+    },
+    {
+      "id": 38895,
+      "title": "Where Venezuela’s Earthquakes Shifted the Ground",
+      "url": "https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/where-venezuela%E2%80%99s-earthquakes-shifted-the-ground/venezuela_nisar_20260630.jpg",
+      "source": "NASA",
+      "published_at": "2026-07-10"
+    },
+    {
+      "id": 38898,
+      "title": "Training while flying: Inside BepiColombo's arrival simulations",
+      "url": "https://www.esa.int/Enabling_Support/Operations/Training_while_flying_Inside_BepiColombo_s_arrival_simulations",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/bepicolombo_mercury_arrival_phase_mission_control_team/27373136-1-eng-GB/BepiColombo_Mercury_arrival_phase_mission_control_team_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-07-10"
+    },
+    {
+      "id": 38894,
+      "title": "Interior Department requests information on offshore launch options",
+      "url": "https://spacenews.com/interior-department-requests-information-on-offshore-launch-options/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Seagate-Space-Platform-Firefly-Alpha-Rocket-Render-1024x576.jpg.jpeg?fit=1024%2C576&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": 38893,
+      "title": "SDA TAP Lab Evolves Into BMC3I TAP Lab And In Partnership With Catalyst Campus Launches A New Multi-Phased Program To Accelerate Mission-Focused Technology Development",
+      "url": "https://spacenews.com/sda-tap-lab-evolves-into-bmc3i-tap-lab-and-in-partnership-with-catalyst-campus-launches-a-new-multi-phased-program-to-accelerate-mission-focused-technology-development/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/BMC3I-TAP-Lab.png?fit=1024%2C1024&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-09"
+    },
+    {
+      "id": 38892,
+      "title": "NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/55267327642-59dd18ea25-k-1.jpg",
       "source": "NASA",
       "published_at": "2026-07-09"
     },
     {
-      "id": 38871,
-      "title": "New Singapore space agency seeks to build up the country’s space industry",
-      "url": "https://spacenews.com/new-singapore-space-agency-seeks-to-build-up-the-countrys-space-industry/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/nsas-jaxa-scaled.jpeg?fit=1024%2C709&ssl=1",
+      "id": 38890,
+      "title": "The Exploration Company establishes US entity to pursue government contracts",
+      "url": "https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/nyx-droptest.jpeg?fit=1024%2C683&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-07-09"
-    },
-    {
-      "id": 38870,
-      "title": "Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 36th flight",
-      "url": "https://spaceflightnow.com/2026/07/09/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-36th-flight/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/12/20250827_Starlink_10_11_30.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-07-09"
-    },
-    {
-      "id": 38869,
-      "title": "Rocket Lab sees Electron gains, Neutron delays in first half of 2026",
-      "url": "https://www.nasaspaceflight.com/2026/07/rocket-lab-update-072026/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/HI6y7rubkAAjM8n.jpeg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-07-08"
-    },
-    {
-      "id": 38868,
-      "title": "ispace to send larger payloads to the moon on SpaceX’s Starship",
-      "url": "https://spacenews.com/ispace-to-send-larger-payloads-to-the-moon-on-spacexs-starship/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/ispace-mobilecargo.jpeg?fit=1024%2C724&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-07-08"
-    },
-    {
-      "id": 38867,
-      "title": "Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion",
-      "url": "https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/06.29.26_Students_Connect_NASA_Science_With_Indigenous_Knowledge_to_Study_Coastal_Erosion.png",
-      "source": "NASA",
-      "published_at": "2026-07-08"
-    },
-    {
-      "id": 38866,
-      "title": "Japan’s ispace Expanding into Lunar Infrastructure",
-      "url": "https://spacepolicyonline.com/news/japans-ispace-expanding-into-lunar-infrastructure/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Hakamada-Kamiya-2-300x166.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-07-08"
-    },
-    {
-      "id": 38865,
-      "title": "Is this the year for a NASA authorization bill?",
-      "url": "https://spacenews.com/is-this-the-year-for-a-nasa-authorization-bill/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/housesci-20260204.jpeg?fit=1024%2C683&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-07-08"
     }
   ]
 }
