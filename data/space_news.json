@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-12T08:12:53.859Z",
+  "updated": "2026-07-13T09:21:19.357Z",
   "items": [
+    {
+      "id": 38922,
+      "title": "ESA welcomes new UK space and defence gateway",
+      "url": "https://www.esa.int/About_Us/Corporate_news/ESA_welcomes_new_UK_space_and_defence_gateway",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/his_majesty_king_charles_iii_meets_esa_representatives_at_the_harwell_campus/27375716-2-eng-GB/His_Majesty_King_Charles_III_meets_ESA_representatives_at_the_Harwell_campus_card_full.png",
+      "source": "ESA",
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": 38923,
+      "title": "AMAT: charting ESA’s path through the Solar System",
+      "url": "https://www.esa.int/Enabling_Support/Operations/AMAT_charting_ESA_s_path_through_the_Solar_System",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/amat_team_at_esa_s_esoc/27372229-1-eng-GB/AMAT_Team_at_ESA_s_ESOC_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": 38924,
+      "title": "China lines up methalox Long March 10C as commercial workhorse after first booster recovery",
+      "url": "https://spacenews.com/china-lines-up-methalox-long-march-10c-as-commercial-workhorse-after-first-booster-recovery/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/linghangzhe-CZ10B-recovered-10july2026-CASC.jpg?fit=1024%2C700&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": 38921,
+      "title": "SpaceX gears up for Starship Flight 13",
+      "url": "https://spacenews.com/spacex-gears-up-for-starship-flight-13/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starshipf13static.jpeg?fit=1024%2C682&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": 38920,
+      "title": "NASA’s Roman telescope into prelaunch servicing following arrival in Florida",
+      "url": "https://www.nasaspaceflight.com/2026/07/roman-prelaunch-update/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/KSC-20260626-PH-SER01_0002large.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-07-12"
+    },
+    {
+      "id": 38919,
+      "title": "What’s Happening in Space Policy July 12-18, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-12-18-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Lindsey-Graham-265x300.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-07-12"
+    },
     {
       "id": 38918,
       "title": "Parabilis tests propulsion system for maneuverable cubesats",
@@ -16,54 +64,6 @@
       "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/reflectorbital.jpeg?fit=1024%2C569&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-07-11"
-    },
-    {
-      "id": 38916,
-      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-      "url": "https://spaceflightnow.com/2026/07/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-10/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-07-10"
-    },
-    {
-      "id": 38915,
-      "title": "Booster 20 completes record duration Static Fire",
-      "url": "https://www.nasaspaceflight.com/2026/07/booster-20-record-static-fire/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/COLLEEN_-_DSC001-scaled.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-07-10"
-    },
-    {
-      "id": 38914,
-      "title": "Early Career Faculty (ECF) 2025 Awards",
-      "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/",
-      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-      "source": "NASA",
-      "published_at": "2026-07-10"
-    },
-    {
-      "id": 38913,
-      "title": "NASA Volunteers Help Zooniverse Reach 1 Billion Classifications",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/1_BILLION_CLASSIFICATIONS.png",
-      "source": "NASA",
-      "published_at": "2026-07-10"
-    },
-    {
-      "id": 38912,
-      "title": "Earth observation satellites pass telecom in European space industry sales",
-      "url": "https://spacenews.com/earth-observation-satellites-pass-telecom-in-european-space-industry-sales/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/Europe.A2015111.1050.250m-scaled.jpg?fit=1024%2C794&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-07-10"
-    },
-    {
-      "id": 38911,
-      "title": "China unveils members of state-backed commercial space consortium",
-      "url": "https://spacenews.com/china-unveils-members-of-state-backed-commercial-space-consortium/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/CZ12B-debut-sunset-JSLC-1-CASC.jpg?fit=1024%2C576&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-07-10"
     }
   ]
 }
