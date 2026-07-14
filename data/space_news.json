@@ -1,69 +1,69 @@
 {
-  "updated": "2026-07-13T09:21:19.357Z",
+  "updated": "2026-07-14T07:59:24.888Z",
   "items": [
     {
-      "id": 38922,
-      "title": "ESA welcomes new UK space and defence gateway",
-      "url": "https://www.esa.int/About_Us/Corporate_news/ESA_welcomes_new_UK_space_and_defence_gateway",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/his_majesty_king_charles_iii_meets_esa_representatives_at_the_harwell_campus/27375716-2-eng-GB/His_Majesty_King_Charles_III_meets_ESA_representatives_at_the_Harwell_campus_card_full.png",
-      "source": "ESA",
-      "published_at": "2026-07-13"
+      "id": 38977,
+      "title": "Fans of the Arctic",
+      "url": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fans-of-the-arctic/duelingalluvialfans_oli2_20250801.jpg",
+      "source": "NASA",
+      "published_at": "2026-07-14"
     },
     {
-      "id": 38923,
-      "title": "AMAT: charting ESA’s path through the Solar System",
-      "url": "https://www.esa.int/Enabling_Support/Operations/AMAT_charting_ESA_s_path_through_the_Solar_System",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/amat_team_at_esa_s_esoc/27372229-1-eng-GB/AMAT_Team_at_ESA_s_ESOC_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-07-13"
+      "id": 38976,
+      "title": "Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/july/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04942_opgs_edr_ncam_NLB_836217572EDR_F1230102NCAM00290M_.jpg",
+      "source": "NASA",
+      "published_at": "2026-07-14"
     },
     {
-      "id": 38924,
-      "title": "China lines up methalox Long March 10C as commercial workhorse after first booster recovery",
-      "url": "https://spacenews.com/china-lines-up-methalox-long-march-10c-as-commercial-workhorse-after-first-booster-recovery/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/linghangzhe-CZ10B-recovered-10july2026-CASC.jpg?fit=1024%2C700&ssl=1",
+      "id": 38975,
+      "title": "Flexell Space raises $20 Million in Series A round",
+      "url": "https://spacenews.com/flexell-space-raises-20-million-in-series-a-round/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/LOGO_FLEXELLBlack_jpg.jpg?fit=1024%2C1024&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-14"
+    },
+    {
+      "id": 38974,
+      "title": "Defense spending lifts Europe’s space economy",
+      "url": "https://spacenews.com/defense-spending-lifts-europes-space-economy/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/ESA-Space-Economy-2026-scaled.jpg?fit=1024%2C577&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-07-13"
     },
     {
-      "id": 38921,
-      "title": "SpaceX gears up for Starship Flight 13",
-      "url": "https://spacenews.com/spacex-gears-up-for-starship-flight-13/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starshipf13static.jpeg?fit=1024%2C682&ssl=1",
+      "id": 38973,
+      "title": "NASA Study Points to Smoother Air Taxi Rides",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2023/07/afrc2025-0184-36.jpg",
+      "source": "NASA",
+      "published_at": "2026-07-13"
+    },
+    {
+      "id": 38972,
+      "title": "L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network",
+      "url": "https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/",
+      "image_url": "https://spacenews.com/wp-content/uploads/2026/01/l3harris-sas-ss-satellites-production-l3harris-manufacuring-facility-1024x574.avif",
       "source": "SpaceNews",
       "published_at": "2026-07-13"
     },
     {
-      "id": 38920,
-      "title": "NASA’s Roman telescope into prelaunch servicing following arrival in Florida",
-      "url": "https://www.nasaspaceflight.com/2026/07/roman-prelaunch-update/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/KSC-20260626-PH-SER01_0002large.jpg",
+      "id": 38971,
+      "title": "Launch Preview: Soyuz to launch crew to ISS, Starship to fly another test flight",
+      "url": "https://www.nasaspaceflight.com/2026/07/launch-preview-071326/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/IMG_0920.jpeg",
       "source": "NASASpaceflight",
-      "published_at": "2026-07-12"
+      "published_at": "2026-07-13"
     },
     {
-      "id": 38919,
-      "title": "What’s Happening in Space Policy July 12-18, 2026",
-      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-12-18-2026/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Lindsey-Graham-265x300.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-07-12"
-    },
-    {
-      "id": 38918,
-      "title": "Parabilis tests propulsion system for maneuverable cubesats",
-      "url": "https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/DOTS-1.jpg?fit=786%2C576&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-07-11"
-    },
-    {
-      "id": 38917,
-      "title": "FCC approves first Reflect Orbital satellite",
-      "url": "https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/reflectorbital.jpeg?fit=1024%2C569&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-07-11"
+      "id": 38970,
+      "title": "Live coverage: SpaceX to launch a flight-proven Falcon booster for 600th time",
+      "url": "https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-a-flight-proven-falcon-booster-for-600th-time/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file-678x416.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-07-13"
     }
   ]
 }
