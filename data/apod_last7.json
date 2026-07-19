@@ -1,74 +1,74 @@
 {
-  "updated": "2026-07-18",
+  "updated": "2026-07-19",
   "items": [
     {
       "slot": 1,
-      "date": "2026-07-12",
-      "title": "Galaxy NGC 474: Shells and Star Streams",
-      "explanation": "What's happening to galaxy NGC 474?  The multiple layers of emission appear strangely complex given the relatively featureless appearance of the elliptical galaxy in less deep images.  The cause of the shells is a topic of research, but they are possibly tidal tails related to debris left over from absorbing numerous small galaxies in the past billion years.  Alternatively, the shells may be like ripples in a pond, where the ongoing collision with the spiral galaxy just to the right of NGC 474 is causing density waves to ripple through the galactic giant.  Regardless of the actual cause, the featured image dramatically highlights the increasing evidence that the halos of some elliptical galaxies are surprisingly complicated.  Similarly, the halo of our own Milky Way Galaxy is one example of such unexpected intricacies.  NGC 474 spans about 250,000 light years and lies about 100 million light years distant toward the constellation of the Fish (Pisces).",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_1500.jpg",
-      "image_path": "images/apod/1.jpg"
-    },
-    {
-      "slot": 2,
       "date": "2026-07-13",
       "title": "Auroras from Space",
       "explanation": "What do auroras look like from above? Behold!  From the ground, auroras dance high above clouds, frequently causing spectacular displays.  From space, they look a bit different. As the International Space Station (ISS) circles the Earth every 90 minutes, it sometimes sees auroras below that are active on the night side.  A one-hour time-lapse video showing auroras from above was captured about two weeks ago from the orbiting ISS.  The ISS -- and all objects in low Earth orbit -- will pass well above green auroras but just a bit above red glowing auroras.  The auroras' electron and proton streams are too thin to be a danger to the ISS, just as clouds pose little danger to airplanes.  From orbit, as magnetic fields change, auroras can appear to squiggle and crawl like giant snakes.  The featured one-minute video was captured by French astronaut Sophie Adenot of the ISS Expedition 74 crew.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
       "media_type": "video",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/Auroras_Esa.mp4",
       "hdurl": null,
-      "image_path": "images/apod/2.jpg"
+      "image_path": "images/apod/1.jpg"
     },
     {
-      "slot": 3,
+      "slot": 2,
       "date": "2026-07-14",
       "title": "Double Lobed Asteroid Torifune",
       "explanation": "Why is this asteroid a double?  Earlier this month the Japanese robotic spacecraft Hayabusa2 shot past asteroid 98943 Torifune and captured pictures. Although previous observations from distant Earth indicated that Torifune was oblong, Hayabusa2 found that Torifune actually has two joined lobes.  With a length of about four soccer fields, this space rock frequently comes near the Earth as it orbits the Sun, although it is not a threat.  Besides the two lobes, Torifune shows many large boulders, but, surprisingly, no obvious craters, likely because its surface is a pile of rubble.  Like asteroid Arrokoth, it appears that each lobe formed separately before colliding and becoming stuck together.  Hayabusa2 famously encountered asteroid Ryugu in 2018, and now heads for an encounter in 2031 with 1998 KY26, a smaller asteroid that rotates unusually fast and might have reservoirs of ice.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_1400.jpg",
-      "image_path": "images/apod/3.jpg"
+      "image_path": "images/apod/2.jpg"
     },
     {
-      "slot": 4,
+      "slot": 3,
       "date": "2026-07-15",
       "title": "Gigantic Jet Over the Tatacoa Desert",
       "explanation": "Is there an angry Sith using force lightning in the Tatacoa Desert?  This is not science fiction, but a gigantic jet with multiple red streamers! Ordinary lightning occurs when thundercloud particles collide, lose their electrons, and build up negative charge at the cloud bottom.  The cloud’s negative charge repels negative charge deeper into the Earth, leaving Earth’s surface positively charged.  The opposite charges attract, reaching towards each other and superheating the air into a white strike of plasma.  A gigantic jet occurs when internal cloud discharge escapes upward through a weak positive shielding layer, and shoots up from the cloud in less than a second.  They extend up into the mesosphere where the air is too thin for thunder.  The streamers at the top may resemble red sprites and get their color from heated molecular nitrogen.     Note: The text of this APOD has been revised.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2607/red_sprite.jpg",
-      "image_path": "images/apod/4.jpg"
+      "image_path": "images/apod/3.jpg"
     },
     {
-      "slot": 5,
+      "slot": 4,
       "date": "2026-07-16",
       "title": "NGC 300: A Cosmic Gemstone with Stars and Gas Clouds",
       "explanation": "This sparkling, colorful gemstone is a spiral galaxy, NGC 300.   It is one of the closest spiral galaxies to Earth, only about 6 million light-years away.     But does it really look like this?   Here is a more standard portrait of it.   This unusual image combines the light from the stars and dust within the galaxy with the light from ionized clouds of interstellar gas shown in red (Sulphur), green (Hydrogen) and blue (Oxygen).   Combining red and green light in different proportions makes yellow or orange light, most visible in the image.   Light from other ionized gases is also at work in neon signs, fluorescent tubes and street lights.   These massive clouds of ionized gas are typically created by young, massive stars that produce high-energy ultraviolet radiation capable of ionizing the gas.   Massive stars are short-lived, compared with lighter stars like our sun, and explode as supernovas at the end of their lives.   Some of the colorful clouds in the image could be hiding supernova remnants.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/ngc300_1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2607/ngc300.jpg",
-      "image_path": "images/apod/5.jpg"
+      "image_path": "images/apod/4.jpg"
     },
     {
-      "slot": 6,
+      "slot": 5,
       "date": "2026-07-17",
       "title": "The Dust Trail of Comet Tempel 2",
       "explanation": "Comet 10P/Tempel 2 orbits the Sun once every 5.4 years. Currently visible in binoculars or small telescopes toward the constellation Capricornus, the periodic comet is captured in this sharp telescopic image from July 11 sporting a bright nuclear region and pretty greenish coma. Remarkably, a thin dust trail, not a typical dust tail, is also seen extending both east and west of the Tempel 2 nucleus. Unlike a comet dust tail, which tends to temporarily fan out in a direction away from the Sun, this dust trail is due to the residual dust shed during many past orbits along this ancient periodic comet's orbital plane. In fact, Tempel 2's dust trail may get a little narrower and brighter from our perspective as Earth crosses through the comet's orbital plane on July 20. Comet 10P/Tempel 2 will reach a perihelion on August 2, and make its closest approach to Earth on August 3.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett2048.jpg",
+      "image_path": "images/apod/5.jpg"
+    },
+    {
+      "slot": 6,
+      "date": "2026-07-18",
+      "title": "Shadow and Rainbow",
+      "explanation": "At sunset, an alignment of rainbow and mountain shadow was captured in this remarkable snapshot. The stunning view was recorded from a fire lookout on Smith Peak in the Plumas National Forest near Portola, California on July 13.  Still, near sunset it's no accident that the majestic mountain shadow seems to point to the center of the graceful rainbow arc. Due to perspective and the long line of sight the mountain shadow naturally forms a tapering triangular shape, its apex positioned at the point opposite the Sun on the horizon. Following thunderstorms in the region, the rainbow arched across the early evening sky, with its colorful and characteristic 42 degree arc formed as sunlight is refracted and reflected by the atmospheric water droplets. The geometric center of a rainbow arc lies at the antisolar point. And in this scene from the golden hour on planet Earth, that's also opposite the setting Sun along the distant horizon.",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo1024.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo.jpg",
       "image_path": "images/apod/6.jpg"
     },
     {
       "slot": 7,
-      "date": "2026-07-18",
-      "title": "Shadow and Rainbow",
-      "explanation": "At sunset, an alignment of rainbow and mountain shadow was captured in this remarkable snapshot. The stunning view was recorded from a fire lookout on Smith Peak in the Plumas National Forest near Portola, California on July 13.  Still, near sunset it's no accident that the majestic mountain shadow seems to point to the center of the graceful rainbow arc. Due to perspective and the long line of sight the mountain shadow naturally forms a tapering triangular shape, its apex positioned at the point opposite the Sun on the horizon. Following thunderstorms across the region, the rainbow arcs across the early evening sky, with its colorful and characteristic 42 degree arc formed as sunlight is refracted and reflected by the atmospheric water droplets. The geometric center of a rainbow arc lies at the antisolar point. And in this scene from the golden hour on planet Earth, that's also oposite the setting Sun along the distant horizon.",
+      "date": "2026-07-19",
+      "title": "Flying Saucer Crash Lands in Utah Desert",
+      "explanation": "A flying saucer from outer space crash-landed in the Utah desert after being tracked by radar and chased by helicopters.  The year was 2004, and no space aliens were involved.  The saucer, pictured here, was the Genesis sample return capsule, part of a human-made robot Genesis spaceship launched in 2001 by NASA itself to study the Sun.  The unexpectedly hard landing at over 300 kilometers per hour occurred because the parachutes did not open as planned.  The Genesis mission had been orbiting the Sun collecting solar wind particles that are usually deflected away by Earth's magnetic field. Despite the crash landing, many return samples remained in good enough condition to analyze. Genesis-related discoveries included new details about the composition of the Sun and how the abundance of some types of elements differ across the Solar System. These results have provided intriguing clues into details of how the Sun and planets formed billions of years ago.    Almost Hyperspace: Random APOD Generator",
       "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo1024.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo.jpg",
+      "apod_url": "https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg",
       "image_path": "images/apod/7.jpg"
     }
   ]
