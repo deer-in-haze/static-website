@@ -1,6 +1,38 @@
 {
-  "updated": "2026-07-18T07:46:21.771Z",
+  "updated": "2026-07-19T08:12:03.371Z",
   "items": [
+    {
+      "id": 39064,
+      "title": "Mauritius becomes 70th nation to sign the Artemis Accords",
+      "url": "https://spacenews.com/mauritius-becomes-70th-nation-to-sign-the-artemis-accords/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/artemisaccords-70.jpeg?fit=1024%2C576&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-18"
+    },
+    {
+      "id": 39063,
+      "title": "Space Force triples launch contract ceiling amid rising demand",
+      "url": "https://spacenews.com/space-force-triples-launch-contract-ceiling-amid-rising-demand/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/260716-X-X0813-1002-scaled.jpeg?fit=1024%2C683&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-18"
+    },
+    {
+      "id": 39062,
+      "title": "Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites",
+      "url": "https://spacenews.com/pentagon-awards-7-1-million-to-expand-u-s-production-of-cover-glass-for-satellites/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Screenshot-2026-07-18-at-6.29.48-PM.png?fit=1024%2C445&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-18"
+    },
+    {
+      "id": 39061,
+      "title": "Skyroot Aerospace reaches orbit on first Vikram-1 launch",
+      "url": "https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/vikram1-1stlaunch.jpeg?fit=1024%2C577&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-18"
+    },
     {
       "id": 39060,
       "title": "NASA terminates Draper lunar lander mission",
@@ -31,38 +63,6 @@
       "url": "https://spacepolicyonline.com/news/serbia-mauritius-bring-artemis-accords-to-70/",
       "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Artemis-Accords-70-300x164.jpg",
       "source": "SpacePolicyOnline.com",
-      "published_at": "2026-07-17"
-    },
-    {
-      "id": 39056,
-      "title": "Establishing a VTE Risk Score for Astronauts Algorithm",
-      "url": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/10-1177-1358863x221086619-fig2.jpg",
-      "source": "NASA",
-      "published_at": "2026-07-17"
-    },
-    {
-      "id": 39055,
-      "title": "NASA Awards Facilities Support Services Contract for Ames Research Center",
-      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/",
-      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-      "source": "NASA",
-      "published_at": "2026-07-17"
-    },
-    {
-      "id": 39054,
-      "title": "NASA’s Chandra and IXPE Study Pulsar in Lighthouse Nebula",
-      "url": "https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/lighthouse-lg.jpg",
-      "source": "NASA",
-      "published_at": "2026-07-17"
-    },
-    {
-      "id": 39053,
-      "title": "La NASA invita a los medios de comunicación al lanzamiento del telescopio espacial Roman",
-      "url": "https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/roman.jpg",
-      "source": "NASA",
       "published_at": "2026-07-17"
     }
   ]
