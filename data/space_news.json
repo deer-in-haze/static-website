@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-19T08:12:03.371Z",
+  "updated": "2026-07-20T08:53:18.829Z",
   "items": [
+    {
+      "id": 39065,
+      "title": "What’s Happening in Space Policy July 19-26, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-19-26-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Aldrin-Moon-286x300.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-07-19"
+    },
     {
       "id": 39064,
       "title": "Mauritius becomes 70th nation to sign the Artemis Accords",
@@ -55,14 +63,6 @@
       "url": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/",
       "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26586/PIA26586.png",
       "source": "NASA",
-      "published_at": "2026-07-17"
-    },
-    {
-      "id": 39057,
-      "title": "Serbia, Mauritius Bring Artemis Accords to 70",
-      "url": "https://spacepolicyonline.com/news/serbia-mauritius-bring-artemis-accords-to-70/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Artemis-Accords-70-300x164.jpg",
-      "source": "SpacePolicyOnline.com",
       "published_at": "2026-07-17"
     }
   ]
