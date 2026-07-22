@@ -1,69 +1,69 @@
 {
-  "updated": "2026-07-21T08:23:47.027Z",
+  "updated": "2026-07-22T08:24:23.774Z",
   "items": [
     {
-      "id": 39085,
-      "title": "IHI explores Kuva hyperspectral satellites for Japan’s multi-sensor constellation",
-      "url": "https://spacenews.com/ihi-explores-kuva-hyperspectral-satellites-for-japans-multi-sensor-constellation/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/rsz_anomoaly_detection_-_defence_video.png?fit=879%2C494&ssl=1",
+      "id": 39117,
+      "title": "A Week of Smoky Skies Across North America",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ontario-wildfire-smoke-drifts-east/ontariofires_virs3_20260714_th.jpg",
+      "source": "NASA",
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": 39116,
+      "title": "NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica",
+      "url": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26617/PIA26617.png",
+      "source": "NASA",
+      "published_at": "2026-07-22"
+    },
+    {
+      "id": 39115,
+      "title": "Zenno Astronautics to relocate to the United States",
+      "url": "https://spacenews.com/zenno-astronautics-to-relocate-to-the-united-states/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_max_action_1.jpg?fit=879%2C456&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-07-21"
     },
     {
-      "id": 39083,
-      "title": "Italian startup ORiS raises funding for laser power-beaming technology",
-      "url": "https://spacenews.com/italian-startup-oris-raises-funding-for-laser-power-beaming-technology/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/oris-laser.jpeg?fit=1024%2C576&ssl=1",
+      "id": 39114,
+      "title": "SpaceX launches Northrop mission to extend the life of aging satellites",
+      "url": "https://spacenews.com/spacex-launches-northrop-mission-to-extend-the-life-of-aging-satellites/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Screenshot-2026-07-21-at-11.15.19-PM.png?fit=1024%2C503&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-07-21"
     },
     {
-      "id": 39082,
-      "title": "Why Maine’s Sandy Shorelines Turn Jagged",
-      "url": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/why-maine's-sandy-shorelines-turn-jagged/mainecoast_oli2_20250831.jpg",
+      "id": 39113,
+      "title": "NASA to Host Media Briefing on Roman Telescope, Launching Next Month",
+      "url": "https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/ksc-20260626-ph-ser01-0004large.jpg",
       "source": "NASA",
       "published_at": "2026-07-21"
     },
     {
-      "id": 39081,
-      "title": "Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch",
-      "url": "https://www.nasaspaceflight.com/2026/07/launch-preview-072026/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
+      "id": 39112,
+      "title": "Northrop adds to charges on Vulcan solid rocket motor program",
+      "url": "https://spacenews.com/northrop-adds-to-charges-on-vulcan-solid-rocket-motor-program/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/55091188472_c01b4e3cdc_k.jpg?fit=1024%2C732&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": 39111,
+      "title": "Commercial Space Federation (CSF) Welcomes Three New Associate Members",
+      "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-three-new-associate-members/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1024%2C883&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-21"
+    },
+    {
+      "id": 39110,
+      "title": "Falcon 9 to launch MRV-1 robotic servicing spacecraft for Northrop Grumman",
+      "url": "https://www.nasaspaceflight.com/2026/07/mrv-1-launch/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/IMG_4299.jpeg",
       "source": "NASASpaceflight",
-      "published_at": "2026-07-20"
-    },
-    {
-      "id": 39079,
-      "title": "NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/",
-      "image_url": "https://images-assets.nasa.gov/image/jsc2026e040446/jsc2026e040446~large.jpg",
-      "source": "NASA",
-      "published_at": "2026-07-20"
-    },
-    {
-      "id": 39078,
-      "title": "Making Progress: Relativity’s Terran R, Rocket Lab’s Neutron, and PLD Space’s Miura 5",
-      "url": "https://www.nasaspaceflight.com/2026/07/making-progress-terran-r-neutron-miura/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/NSF-2026-07-20-19-45-20-195.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-07-20"
-    },
-    {
-      "id": 39080,
-      "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
-      "url": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg",
-      "source": "NASA",
-      "published_at": "2026-07-20"
-    },
-    {
-      "id": 39076,
-      "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
-      "url": "https://www.nasa.gov/aeronautics/electrified-aircraft-propulsion/nasa-ge-hybrid-electric-flight/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg",
-      "source": "NASA",
-      "published_at": "2026-07-20"
+      "published_at": "2026-07-21"
     }
   ]
 }
