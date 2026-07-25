@@ -1,69 +1,69 @@
 {
-  "updated": "2026-07-24T08:23:41.749Z",
+  "updated": "2026-07-25T08:02:23.080Z",
   "items": [
     {
-      "id": 39155,
-      "title": "Earth from Space: Agricultural patchwork",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Agricultural_patchwork",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/earth_from_space_agricultural_patchwork/27388597-1-eng-GB/Earth_from_Space_Agricultural_patchwork_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-07-24"
+      "id": 39173,
+      "title": "Super Heavy-Starship rocket chalks up mostly successful test flight",
+      "url": "https://spaceflightnow.com/2026/07/25/super-heavy-starship-rocket-chalks-up-mostly-successful-test-flight/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/07/20260724_launch1.jpeg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-07-25"
     },
     {
-      "id": 39154,
-      "title": "Two new Galileo satellites enter service",
-      "url": "https://www.esa.int/Applications/Satellite_navigation/Two_new_Galileo_satellites_enter_service",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/02/galileo_satellite/23144341-1-eng-GB/Galileo_satellite_card_full.gif",
-      "source": "ESA",
-      "published_at": "2026-07-24"
+      "id": 39172,
+      "title": "SpaceX conducts 13th Starship test flight",
+      "url": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starship-flt13-liftoff.jpeg?fit=1024%2C569&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-25"
     },
     {
-      "id": 39153,
-      "title": "A Million-Panel Project",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-million-panel-project/solarutah_oli_20240616.jpg",
-      "source": "NASA",
-      "published_at": "2026-07-24"
-    },
-    {
-      "id": 39152,
-      "title": "Department of Commerce Takes Step Towards Mission Authorization",
-      "url": "https://spacepolicyonline.com/news/department-of-commerce-takes-step-towards-mission-authorization/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/osc-300x64.jpg",
+      "id": 39171,
+      "title": "Fires near Madrid Force Evacuation of NASA’s DSN Facility",
+      "url": "https://spacepolicyonline.com/news/fires-near-madrid-force-evacuation-of-nasas-dsn-facility/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Madrid-300x60.jpg",
       "source": "SpacePolicyOnline.com",
       "published_at": "2026-07-24"
     },
     {
-      "id": 39151,
-      "title": "Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/july/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04955_opgs_edr_ncam_NRB_837362437EDR_S1231344NCAM00594M_.jpg",
+      "id": 39170,
+      "title": "ULA deals with financial challenges caused by Vulcan grounding",
+      "url": "https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55090240803_a555b0ee7e_k.jpg?fit=1024%2C683&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": 39169,
+      "title": "Critical NASA Deep Space ground station in Spain evacuated due to wildfires",
+      "url": "https://spaceflightnow.com/2026/07/24/critical-nasa-deep-space-ground-station-in-spain-evacuated-due-to-wildfires/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/07/20260724_Madrid_DSN.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": 39168,
+      "title": "Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand",
+      "url": "https://www.nasaspaceflight.com/2026/07/blue-ng-gs2-hot-fires-stennis-b-2/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/NSF-2026-07-24-17-51-12-365.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-07-24"
+    },
+    {
+      "id": 39167,
+      "title": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
+      "url": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE%20Photo%20of%20Earth_Moon%201.png",
       "source": "NASA",
       "published_at": "2026-07-24"
     },
     {
-      "id": 39150,
-      "title": "NASA programs feel effects of workforce reductions",
-      "url": "https://spacenews.com/nasa-programs-feel-effects-of-workforce-reductions/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/isaacman-ames.jpeg?fit=1024%2C683&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-07-23"
-    },
-    {
-      "id": 39149,
-      "title": "Poland commits $745 million to EU’s IRIS² constellation project",
-      "url": "https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/",
-      "image_url": "https://spacenews.com/wp-content/uploads/2024/10/IRIS2-image.avif",
-      "source": "SpaceNews",
-      "published_at": "2026-07-23"
-    },
-    {
-      "id": 39148,
-      "title": "Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech",
-      "url": "https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2020/02/rsz_matossian.png?fit=879%2C586&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-07-23"
+      "id": 39166,
+      "title": "New Crew Members Welcomed to International Space Station",
+      "url": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/iss074e0814792orig.jpg",
+      "source": "NASA",
+      "published_at": "2026-07-24"
     }
   ]
 }
