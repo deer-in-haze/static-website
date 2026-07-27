@@ -1,74 +1,74 @@
 {
-  "updated": "2026-07-26",
+  "updated": "2026-07-27",
   "items": [
     {
       "slot": 1,
-      "date": "2026-07-20",
-      "title": "NGC 3576: The Statue of Liberty Nebula",
-      "explanation": "What's happening in the Statue of Liberty nebula?  Bright stars and interesting molecules are forming and being liberated. The complex nebula resides in the star forming region called RCW 57, and besides the iconic monument, to some looks like a flying superhero or a weeping angel.  This re-assigned color image showcases dense knots of dark interstellar dust, fields of glowing hydrogen gas ionized by these stars, and great loops of gas expelled by dying stars. A detailed study of NGC 3576, also known as NGC 3582 and NGC 3584, uncovered at least 33 massive stars in the end stages of formation, and the clear presence of the complex carbon molecules known as polycyclic aromatic hydrocarbons (PAHs). PAHs are thought to be created in the cooling gas of star forming regions, and their development in the Sun's formation nebula five billion years ago may have been an important step in the development of life on Earth.   Jigsaw Star Statue: Astronomy Puzzle of the Day",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_1830.jpg",
-      "image_path": "images/apod/1.jpg"
-    },
-    {
-      "slot": 2,
       "date": "2026-07-21",
       "title": "Turtle Rock on Mars",
       "explanation": "Is this a fossilized turtle on Mars?  No.  Although resembling a large Earth tortoise, this is a layered rock outcrop on Mars that is estimated to span about 15 meters, making it much larger than turtles on Earth. NASA’s robotic Curiosity rover came across this unusual mound, dubbed Miraflores, last month during its 4922nd Martian day exploring Mars.  The small butte may survive because it was somehow more resistant to erosion than surrounding rock.  More recent wind has now covered its top with orange Martian sand.  Below the top shell, many layers of stratified rock are visible, possibly indicating a long history of intermittent wind-blown sand being deposited and then hardened by ground water.  Similar wind-eroded layered landforms, such as yardangs in the Qaidam Desert of China, exist here on Earth. Curiosity and its companion rover Perseverance continue to investigate the ancient history of Mars as well as searching for signs of primeval life.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_1080.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_2048.jpg",
-      "image_path": "images/apod/2.jpg"
+      "image_path": "images/apod/1.jpg"
     },
     {
-      "slot": 3,
+      "slot": 2,
       "date": "2026-07-22",
       "title": "The Corona Australis Molecular Cloud and the Chandelier Cluster",
       "explanation": "The Southern Crown (Corona Australis) dazzles with young and ancient celestial jewels. The Corona Australis Cloud is a collage of reflection and emission nebulae on the left of today’s image. At 430 light years away, this cloud is one of the closest star-forming regions to Earth. It contains gas cool enough (-260 Celsius or -440 Fahrenheit) to collapse into protostars. Recently formed stars paint blue hues across the cloud as their light reflects off surrounding material. The waltz of the R Coronae Australis binary system stirs up the nebula NGC 6729. The younger of the pair ionizes nearby gas with its ultraviolet light, causing it to glow. The Chandelier Cluster (NGC 6723) dangles from the top right, but is actually tens of thousands of light years farther away than its apparent star-forming neighbor. While NGC 6723 experienced multiple periods of star formation creating slightly younger stars, the chandelier twinkles with stars almost as old as the universe.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2607/corona_australis.jpg",
-      "image_path": "images/apod/3.jpg"
+      "image_path": "images/apod/2.jpg"
     },
     {
-      "slot": 4,
+      "slot": 3,
       "date": "2026-07-23",
       "title": "The Large Magellanic Cloud",
       "explanation": "Have you ever seen another galaxy with your own eyes?   The featured image shows the Large Magellanic Cloud (LMC), one of the closest neighbors of our Milky Way.     If you are anywhere south of latitude 20° N (but the further south, the better), you can see it with the unaided eye if you go to a dark sky location, away from big cities and light polution.   It is a dwarf irregular galaxy about 163,000 light-years away, and a member of our Local Group of galaxies.   Despite being small, with a total mass approximately equivalent to 10% - 20% of the mass of the Milky Way, the LMC is very actively forming stars.   This is likely due in part to the gravitational push and pull of tides caused by the Milky Way on the LMC.   Some astronomers have predicted that it will collide with the Milky Way in in about 2 billion years.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2607/LMC.jpg",
-      "image_path": "images/apod/4.jpg"
+      "image_path": "images/apod/3.jpg"
     },
     {
-      "slot": 5,
+      "slot": 4,
       "date": "2026-07-24",
       "title": "RCW 86: Historical Supernova Remnant",
       "explanation": "In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism. That part of the sky is identified with part of the southern constellation Centaurus on modern star charts. In fact, the new star was reported to be visible to the naked eye for months before it faded from view, and is now thought to be the earliest recorded supernova. In this 21st century telescopic image, the wispy outlines of a faint emission nebula recognized as the remnant of that historical stellar explosion can be traced against a starry background. The ragged but roughly circular extent of the nebula, cataloged as RCW 86, represents interstellar gas ionized by the supernova's still expanding shock wave. Space-based images indicate an abundance of the element iron in RCW 86 and the absence of a neutron star or pulsar within the remnant, suggesting that the original supernova was Type Ia. Unlike the core collapse supernova explosion of a massive star, a Type Ia supernova is a thermonuclear detonation on a white dwarf star that has accreted material from its companion in a binary star system. Near the plane of our Milky Way galaxy and larger than the full moon on the sky this supernova remnant is too faint to be seen by eye though. RCW 86 is some 8,000 light-years distant and around 100 light-years across.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2607/RCW86Final2048.jpg",
-      "image_path": "images/apod/5.jpg"
+      "image_path": "images/apod/4.jpg"
     },
     {
-      "slot": 6,
+      "slot": 5,
       "date": "2026-07-25",
       "title": "Tranquility and Serenity",
       "explanation": "The Seas of Tranquility and Serenity are calm today. They're calm most every day though, since they are actually lunar maria, ancient lava flows filling in large impact basins on the Moon. Also known by Latin names Mare Tranquillitatis (right) and Mare Serenitatis, the smooth dark lunar \"seas\" are in stark contrast to the bright cratered lunar highlands surrounding them in this telescopic view. Of course their names are based on the historical, pre-telescopic designations of lunar maria. Easily visible to the unaided eye, the broad features on the Moon's near side were imagined to be like the expansive oceans of planet Earth. On July 20, 1969, the Apollo 11 lunar module Eagle touched down on the Mare Tranquillitatis (at lower right), establishing Tranquility base and the first human presence on the Moon.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/TranquilitySerenity1024c.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2607/TranquilitySerenity2048.jpg",
-      "image_path": "images/apod/6.jpg"
+      "image_path": "images/apod/5.jpg"
     },
     {
-      "slot": 7,
+      "slot": 6,
       "date": "2026-07-26",
       "title": "Simulation TNG50: A Galaxy Cluster Forms",
       "explanation": "How do clusters of galaxies form?  Since our universe moves too slowly to watch, faster-moving computer simulations are created to help find out.  One famous effort is TNG50 from IllustrisTNG, an upgrade of the famous Illustris Simulation. The first part of the featured video tracks cosmic gas (mostly hydrogen) as it evolves into galaxies and galaxy clusters from the early universe to today, with brighter colors marking faster moving gas.  As the universe matures, gas falls into gravitational wells, galaxies forms, galaxies spin, galaxies collide and merge, all while black holes form in galaxy centers and expel surrounding gas at high speeds. The second half of the video switches to tracking stars, showing a galaxy cluster coming together, complete with stellar streams.  The outflow from black holes in TNG50 is surprisingly complex and details are being compared with our real universe.  Studying how gas coalesced in the early universe helps humanity better understand how our Earth, Sun, and Solar System originally formed.   Explore the Universe: Random APOD Generator",
       "media_type": "video",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/ClusterFormation_TNG50.mp4",
       "hdurl": null,
+      "image_path": "images/apod/6.jpg"
+    },
+    {
+      "slot": 7,
+      "date": "2026-07-27",
+      "title": "NGC 7635: The Bubble Nebula",
+      "explanation": "What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of this cosmic bubble and its environment. Although it looks delicate, the 10 light-year diameter bubble offers evidence of violent processes at work. Seen here right of the Bubble's center, a bright hot star is embedded in the nebula's reflecting dust. A fierce stellar wind and intense radiation from the star, which likely has a mass 10 to 20 times that of the Sun, has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula lies a mere 11,000 light-years away toward the boastful constellation Cassiopeia.",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_1616.jpg",
       "image_path": "images/apod/7.jpg"
     }
   ]
