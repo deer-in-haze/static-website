@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-26T08:22:39.199Z",
+  "updated": "2026-07-27T09:46:34.053Z",
   "items": [
+    {
+      "id": 39182,
+      "title": "Meet space startups at ESA’s Industry Space Days",
+      "url": "https://www.esa.int/About_Us/Business_with_ESA/Meet_space_startups_at_ESA_s_Industry_Space_Days",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/space_startups_at_esa_s_industry_space_days/27388146-3-eng-GB/Space_startups_at_ESA_s_Industry_Space_Days_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": 39181,
+      "title": "ESA Ground Station in Spain Cleared to Return to Service After Wildfire Threat",
+      "url": "https://europeanspaceflight.com/esa-ground-station-in-spain-cleared-to-return-to-service-after-wildfire-threat/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/07/ESA-Ground-Station-in-Spain-Cleared-to-Return-to-Service-After-Wildfire-Threat.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": 39180,
+      "title": "Juno reveals surprising subsurface tempertures at Io, remarkably smooth surface",
+      "url": "https://www.nasaspaceflight.com/2026/07/juno-io-subsurface-temps/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/io-juno-oct-2023-e1785107357626.png",
+      "source": "NASASpaceflight",
+      "published_at": "2026-07-26"
+    },
+    {
+      "id": 39179,
+      "title": "What’s Happening in Space Policy July 26-August 1, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-26-august-1-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/ms28-williams-doll-better-300x169.png",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-07-26"
+    },
+    {
+      "id": 39178,
+      "title": "Soyuz MS-28 Back Home After 8 Months on ISS",
+      "url": "https://spacepolicyonline.com/news/soyuz-ms-28-back-home-after-8-months-on-iss/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/ms28-landed-300x169.png",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-07-26"
+    },
+    {
+      "id": 39177,
+      "title": "NASA Astronaut Chris Williams, Crewmates Return from Space Station",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/ms28-landing.png",
+      "source": "NASA",
+      "published_at": "2026-07-26"
+    },
     {
       "id": 39176,
       "title": "NASA and ESA facilities avoid major damage from wildfires in Spain",
@@ -16,54 +64,6 @@
       "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Starship-IFT13-liftoff-July-24-26-300x170.jpg",
       "source": "SpacePolicyOnline.com",
       "published_at": "2026-07-25"
-    },
-    {
-      "id": 39174,
-      "title": "Live Coverage: SpaceX Falcon 9 to launch Starlink satellites from West Coast",
-      "url": "https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-07-25"
-    },
-    {
-      "id": 39173,
-      "title": "Super Heavy-Starship rocket chalks up mostly successful test flight",
-      "url": "https://spaceflightnow.com/2026/07/25/super-heavy-starship-rocket-chalks-up-mostly-successful-test-flight/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/07/20260724_launch1.jpeg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-07-25"
-    },
-    {
-      "id": 39172,
-      "title": "SpaceX conducts 13th Starship test flight",
-      "url": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starship-flt13-liftoff.jpeg?fit=1024%2C569&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-07-25"
-    },
-    {
-      "id": 39171,
-      "title": "Fires near Madrid Force Evacuation of NASA’s DSN Facility",
-      "url": "https://spacepolicyonline.com/news/fires-near-madrid-force-evacuation-of-nasas-dsn-facility/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Madrid-300x60.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-07-24"
-    },
-    {
-      "id": 39170,
-      "title": "ULA deals with financial challenges caused by Vulcan grounding",
-      "url": "https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55090240803_a555b0ee7e_k.jpg?fit=1024%2C683&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-07-24"
-    },
-    {
-      "id": 39169,
-      "title": "Critical NASA Deep Space ground station in Spain evacuated due to wildfires",
-      "url": "https://spaceflightnow.com/2026/07/24/critical-nasa-deep-space-ground-station-in-spain-evacuated-due-to-wildfires/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/07/20260724_Madrid_DSN.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-07-24"
     }
   ]
 }
