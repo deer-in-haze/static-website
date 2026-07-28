@@ -1,69 +1,69 @@
 {
-  "updated": "2026-07-27T09:46:34.053Z",
+  "updated": "2026-07-28T08:29:32.246Z",
   "items": [
     {
-      "id": 39182,
-      "title": "Meet space startups at ESA’s Industry Space Days",
-      "url": "https://www.esa.int/About_Us/Business_with_ESA/Meet_space_startups_at_ESA_s_Industry_Space_Days",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/space_startups_at_esa_s_industry_space_days/27388146-3-eng-GB/Space_startups_at_ESA_s_Industry_Space_Days_card_full.jpg",
+      "id": 39202,
+      "title": "Vertical liftoff as Ariane 6 takes flight for the first time",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Vertical_liftoff_as_Ariane_6_takes_flight_for_the_first_time",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/vertical_liftoff_as_ariane_6_takes_flight_for_the_first_time/27393783-2-eng-GB/Vertical_liftoff_as_Ariane_6_takes_flight_for_the_first_time_card_full.jpg",
       "source": "ESA",
-      "published_at": "2026-07-27"
+      "published_at": "2026-07-28"
     },
     {
-      "id": 39181,
-      "title": "ESA Ground Station in Spain Cleared to Return to Service After Wildfire Threat",
-      "url": "https://europeanspaceflight.com/esa-ground-station-in-spain-cleared-to-return-to-service-after-wildfire-threat/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/07/ESA-Ground-Station-in-Spain-Cleared-to-Return-to-Service-After-Wildfire-Threat.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-07-27"
-    },
-    {
-      "id": 39180,
-      "title": "Juno reveals surprising subsurface tempertures at Io, remarkably smooth surface",
-      "url": "https://www.nasaspaceflight.com/2026/07/juno-io-subsurface-temps/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/io-juno-oct-2023-e1785107357626.png",
-      "source": "NASASpaceflight",
-      "published_at": "2026-07-26"
-    },
-    {
-      "id": 39179,
-      "title": "What’s Happening in Space Policy July 26-August 1, 2026",
-      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-26-august-1-2026/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/ms28-williams-doll-better-300x169.png",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-07-26"
-    },
-    {
-      "id": 39178,
-      "title": "Soyuz MS-28 Back Home After 8 Months on ISS",
-      "url": "https://spacepolicyonline.com/news/soyuz-ms-28-back-home-after-8-months-on-iss/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/ms28-landed-300x169.png",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-07-26"
-    },
-    {
-      "id": 39177,
-      "title": "NASA Astronaut Chris Williams, Crewmates Return from Space Station",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/ms28-landing.png",
+      "id": 39201,
+      "title": "Smoke Blankets Oregon",
+      "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-blankets-oregon/oregonfires_amo_20260726.jpg",
       "source": "NASA",
-      "published_at": "2026-07-26"
+      "published_at": "2026-07-28"
     },
     {
-      "id": 39176,
-      "title": "NASA and ESA facilities avoid major damage from wildfires in Spain",
-      "url": "https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/dsn-madrid-fire.jpeg?fit=1024%2C576&ssl=1",
+      "id": 39200,
+      "title": "Launch Preview: Falcon 9 and Chang Zheng rockets set to launch this week",
+      "url": "https://www.nasaspaceflight.com/2026/07/launch-preview-072726/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/Falcon-9-launch-and-landing-Credit-Julia-Bergeron-for-NSF-scaled.jpeg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": 39199,
+      "title": "Upper C-band auction offers another lift for GEO industry",
+      "url": "https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SES-Press-Release_SES-Completes-Acquisition-of-Intelsat_image-scaled-1.jpg?fit=1024%2C576&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-07-26"
+      "published_at": "2026-07-27"
     },
     {
-      "id": 39175,
-      "title": "Successful Flight for Starship IFT-13",
-      "url": "https://spacepolicyonline.com/news/successful-flight-for-starship-ift-13/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Starship-IFT13-liftoff-July-24-26-300x170.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-07-25"
+      "id": 39198,
+      "title": "Sphinx Defense wins $287 million contract for strategic satellite communications software",
+      "url": "https://spacenews.com/sphinx-defense-wins-287-million-contract-for-strategic-satellite-communications-software/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/MG_063025_ESS-Promo-Image_16_9_070125_300dpi.jpg?fit=1024%2C576&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": 39197,
+      "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/chris-williams-post-mission-conference-july-27.jpg",
+      "source": "NASA",
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": 39196,
+      "title": "Despite recent successes, rapid reuse of Starship remains a tough nut to crack",
+      "url": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/heat-shield-streaks.png",
+      "source": "Arstechnica",
+      "published_at": "2026-07-27"
+    },
+    {
+      "id": 39195,
+      "title": "NASA Science Soars During August Total Solar Eclipse",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse-2024/Eclipse_SwRI_mosaic_processed.jpg",
+      "source": "NASA",
+      "published_at": "2026-07-27"
     }
   ]
 }
