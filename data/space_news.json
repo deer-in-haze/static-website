@@ -1,69 +1,69 @@
 {
-  "updated": "2026-07-28T08:29:32.246Z",
+  "updated": "2026-07-29T08:36:04.832Z",
   "items": [
     {
-      "id": 39202,
-      "title": "Vertical liftoff as Ariane 6 takes flight for the first time",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Vertical_liftoff_as_Ariane_6_takes_flight_for_the_first_time",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/vertical_liftoff_as_ariane_6_takes_flight_for_the_first_time/27393783-2-eng-GB/Vertical_liftoff_as_Ariane_6_takes_flight_for_the_first_time_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-07-28"
-    },
-    {
-      "id": 39201,
-      "title": "Smoke Blankets Oregon",
-      "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-blankets-oregon/oregonfires_amo_20260726.jpg",
+      "id": 39213,
+      "title": "Sizing Up the Sargassum Belt",
+      "url": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sizing-up-the-sargassum-belt/sargassum_pace_202606.jpg",
       "source": "NASA",
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": 39212,
+      "title": "DOT Issues Proposed Rule to Waive Environmental Regulations for Space Launches",
+      "url": "https://spacepolicyonline.com/news/dot-issues-proposed-rule-to-waive-environmental-regulations-for-space-launches/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/07/Sean-Duffy-200x300.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": 39211,
+      "title": "Boeing still working with NASA to schedule next Starliner flight",
+      "url": "https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/NHQ202406030004large.jpg?fit=1024%2C705&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": 39210,
+      "title": "Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush",
+      "url": "https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/space-situational-awareness-ESA-scaled.jpg?fit=1024%2C533&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-29"
+    },
+    {
+      "id": 39209,
+      "title": "Swift reboost mission encounters attitude control problems",
+      "url": "https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/link-solarpanel.jpeg?fit=1024%2C670&ssl=1",
+      "source": "SpaceNews",
       "published_at": "2026-07-28"
     },
     {
-      "id": 39200,
-      "title": "Launch Preview: Falcon 9 and Chang Zheng rockets set to launch this week",
-      "url": "https://www.nasaspaceflight.com/2026/07/launch-preview-072726/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/Falcon-9-launch-and-landing-Credit-Julia-Bergeron-for-NSF-scaled.jpeg",
+      "id": 39208,
+      "title": "ESA opens call to repurpose Gateway communications module",
+      "url": "https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/gateway-full-configuration-hero-image-121123-scaled.png?fit=1024%2C576&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-07-28"
+    },
+    {
+      "id": 39207,
+      "title": "Ship 40’s flawless flight promotes next mission catch potential",
+      "url": "https://www.nasaspaceflight.com/2026/07/ship-40-catch-potential/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/NSF-2026-07-28-17-55-41-344.jpg",
       "source": "NASASpaceflight",
-      "published_at": "2026-07-27"
+      "published_at": "2026-07-28"
     },
     {
-      "id": 39199,
-      "title": "Upper C-band auction offers another lift for GEO industry",
-      "url": "https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SES-Press-Release_SES-Completes-Acquisition-of-Intelsat_image-scaled-1.jpg?fit=1024%2C576&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-07-27"
-    },
-    {
-      "id": 39198,
-      "title": "Sphinx Defense wins $287 million contract for strategic satellite communications software",
-      "url": "https://spacenews.com/sphinx-defense-wins-287-million-contract-for-strategic-satellite-communications-software/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/MG_063025_ESS-Promo-Image_16_9_070125_300dpi.jpg?fit=1024%2C576&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-07-27"
-    },
-    {
-      "id": 39197,
-      "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/chris-williams-post-mission-conference-july-27.jpg",
-      "source": "NASA",
-      "published_at": "2026-07-27"
-    },
-    {
-      "id": 39196,
-      "title": "Despite recent successes, rapid reuse of Starship remains a tough nut to crack",
-      "url": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/heat-shield-streaks.png",
-      "source": "Arstechnica",
-      "published_at": "2026-07-27"
-    },
-    {
-      "id": 39195,
-      "title": "NASA Science Soars During August Total Solar Eclipse",
-      "url": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse-2024/Eclipse_SwRI_mosaic_processed.jpg",
-      "source": "NASA",
-      "published_at": "2026-07-27"
+      "id": 39206,
+      "title": "Germany Considers Dedicated Launch Facility for its Armed Forces",
+      "url": "https://europeanspaceflight.com/germany-considers-dedicated-launch-facility-for-its-armed-forces/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/07/Germany-Considers-Dedicated-Launch-Facility-for-its-Armed-Forces-hero-image.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-07-28"
     }
   ]
 }
