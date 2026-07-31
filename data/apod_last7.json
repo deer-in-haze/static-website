@@ -1,74 +1,74 @@
 {
-  "updated": "2026-07-29",
+  "updated": "2026-07-31",
   "items": [
     {
       "slot": 1,
-      "date": "2026-07-23",
-      "title": "The Large Magellanic Cloud",
-      "explanation": "Have you ever seen another galaxy with your own eyes?   The featured image shows the Large Magellanic Cloud (LMC), one of the closest neighbors of our Milky Way.     If you are anywhere south of latitude 20° N (but the further south, the better), you can see it with the unaided eye if you go to a dark sky location, away from big cities and light polution.   It is a dwarf irregular galaxy about 163,000 light-years away, and a member of our Local Group of galaxies.   Despite being small, with a total mass approximately equivalent to 10% - 20% of the mass of the Milky Way, the LMC is very actively forming stars.   This is likely due in part to the gravitational push and pull of tides caused by the Milky Way on the LMC.   Some astronomers have predicted that it will collide with the Milky Way in in about 2 billion years.",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2607/LMC.jpg",
-      "image_path": "images/apod/1.jpg"
-    },
-    {
-      "slot": 2,
-      "date": "2026-07-24",
-      "title": "RCW 86: Historical Supernova Remnant",
-      "explanation": "In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism. That part of the sky is identified with part of the southern constellation Centaurus on modern star charts. In fact, the new star was reported to be visible to the naked eye for months before it faded from view, and is now thought to be the earliest recorded supernova. In this 21st century telescopic image, the wispy outlines of a faint emission nebula recognized as the remnant of that historical stellar explosion can be traced against a starry background. The ragged but roughly circular extent of the nebula, cataloged as RCW 86, represents interstellar gas ionized by the supernova's still expanding shock wave. Space-based images indicate an abundance of the element iron in RCW 86 and the absence of a neutron star or pulsar within the remnant, suggesting that the original supernova was Type Ia. Unlike the core collapse supernova explosion of a massive star, a Type Ia supernova is a thermonuclear detonation on a white dwarf star that has accreted material from its companion in a binary star system. Near the plane of our Milky Way galaxy and larger than the full moon on the sky this supernova remnant is too faint to be seen by eye though. RCW 86 is some 8,000 light-years distant and around 100 light-years across.",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2607/RCW86Final2048.jpg",
-      "image_path": "images/apod/2.jpg"
-    },
-    {
-      "slot": 3,
       "date": "2026-07-25",
       "title": "Tranquility and Serenity",
       "explanation": "The Seas of Tranquility and Serenity are calm today. They're calm most every day though, since they are actually lunar maria, ancient lava flows filling in large impact basins on the Moon. Also known by Latin names Mare Tranquillitatis (right) and Mare Serenitatis, the smooth dark lunar \"seas\" are in stark contrast to the bright cratered lunar highlands surrounding them in this telescopic view. Of course their names are based on the historical, pre-telescopic designations of lunar maria. Easily visible to the unaided eye, the broad features on the Moon's near side were imagined to be like the expansive oceans of planet Earth. On July 20, 1969, the Apollo 11 lunar module Eagle touched down on the Mare Tranquillitatis (at lower right), establishing Tranquility base and the first human presence on the Moon.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/TranquilitySerenity1024c.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2607/TranquilitySerenity2048.jpg",
-      "image_path": "images/apod/3.jpg"
+      "image_path": "images/apod/1.jpg"
     },
     {
-      "slot": 4,
+      "slot": 2,
       "date": "2026-07-26",
       "title": "Simulation TNG50: A Galaxy Cluster Forms",
       "explanation": "How do clusters of galaxies form?  Since our universe moves too slowly to watch, faster-moving computer simulations are created to help find out.  One famous effort is TNG50 from IllustrisTNG, an upgrade of the famous Illustris Simulation. The first part of the featured video tracks cosmic gas (mostly hydrogen) as it evolves into galaxies and galaxy clusters from the early universe to today, with brighter colors marking faster moving gas.  As the universe matures, gas falls into gravitational wells, galaxies forms, galaxies spin, galaxies collide and merge, all while black holes form in galaxy centers and expel surrounding gas at high speeds. The second half of the video switches to tracking stars, showing a galaxy cluster coming together, complete with stellar streams.  The outflow from black holes in TNG50 is surprisingly complex and details are being compared with our real universe.  Studying how gas coalesced in the early universe helps humanity better understand how our Earth, Sun, and Solar System originally formed.   Explore the Universe: Random APOD Generator",
       "media_type": "video",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/ClusterFormation_TNG50.mp4",
       "hdurl": null,
-      "image_path": "images/apod/4.jpg"
+      "image_path": "images/apod/2.jpg"
     },
     {
-      "slot": 5,
+      "slot": 3,
       "date": "2026-07-27",
       "title": "NGC 7635: The Bubble Nebula",
       "explanation": "What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of this cosmic bubble and its environment. Although it looks delicate, the 10 light-year diameter bubble offers evidence of violent processes at work. Seen here right of the Bubble's center, a bright hot star is embedded in the nebula's reflecting dust. A fierce stellar wind and intense radiation from the star, which likely has a mass 10 to 20 times that of the Sun, has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula lies a mere 11,000 light-years away toward the boastful constellation Cassiopeia.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_1616.jpg",
-      "image_path": "images/apod/5.jpg"
+      "image_path": "images/apod/3.jpg"
     },
     {
-      "slot": 6,
+      "slot": 4,
       "date": "2026-07-28",
       "title": "Barnards Loop over Twin Volcanoes",
       "explanation": "What's connecting these two volcanoes? In ancient folklore, the two volcanoes, Parinacota (left) and Pomerape (right), are connected by representing a mythical prince and princess who engaged in a forbidden romance.  Beneath the ground, the two peaks are not known to be connected by a common pool of hot magma, and neither volcano has erupted in the past 1000 years.  Above the ground, there is usually nothing in the sky that connects them -- except if you use careful timing and look from a specific location.  The featured well-planned image was captured from Bolivia in mid-April with a series of camera exposures taken on the same day and from the same location.  Then, Barnard's Loop appeared to connect the volcanic peaks. Also visible in the image is the Orion Nebula in the center, the star Betelgeuse on the right, and the Rosette Nebula on the upper right.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_5815.jpg",
-      "image_path": "images/apod/6.jpg"
+      "image_path": "images/apod/4.jpg"
     },
     {
-      "slot": 7,
+      "slot": 5,
       "date": "2026-07-29",
       "title": "Psyche Receives Gravity Assist from Mars",
       "explanation": "Solar System bodies make deep space exploration more fuel efficient! Today’s video shows the Psyche spacecraft gaining speed and changing its trajectory with minimal fuel spent due to a gravity assist from Mars in May 2026. Mars has an average orbital speed of almost 87,000 km/h (54,000 mph) around the Sun. Its orbital motion and its gravity allowed Mars to pull Psyche along with it, increasing the spacecraft’s speed. Gravity assists have been used since 1959’s Luna 3 mission to allow for spacecraft (the Voyagers, Cassini) to reach farther than they could with fuel alone. This assist helped the Psyche spacecraft on its journey to the Psyche asteroid, which it will reach in 2029. While passing Mars, the spacecraft tested instruments that will analyze the asteroid’s composition and magnetic field. This is the first mission to an asteroid thought to be largely made of metal, an essential building block for planets, rather than rock or ice.   Find dark skies and look up this August to witness the Perseid meteor shower uninhibited by the Moon!",
       "media_type": "video",
       "apod_url": "https://www.youtube.com/embed/6_cH5-daLjg?si=i9geSInQj3VMZwx3",
       "hdurl": null,
+      "image_path": "images/apod/5.jpg"
+    },
+    {
+      "slot": 6,
+      "date": "2026-07-30",
+      "title": "Red Sun through Wildfire Smoke",
+      "explanation": "This could be the view from an exoplanet orbiting around a red dwarf star, but it is our own Sun.   This image was taken on July 22, 2026, in the Okanagan region in the Canadian province of British Columbia.   Wildfire smoke from the Pacific Northwest acted as a solar filter, allowing the photographer to take this photo of the Sun directly.   Several sunspots are also visible in this eerie image; just below and right of the center is AR 4493, a fast evolving, giant active solar region and sunspot group.     The smoke is made of tiny particles that help block and scatter light with bluer colors, so the light we see coming from the Sun is dimmer and redder than usual (but it is never safe to stare directly at the Sun).   Sunsets and sunrises are also more colorful because of the smoke.      Some 6 billion years from now, the Sun will actually start to turn redder as it approaches its red giant phase.",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2607/red_sun.jpg",
+      "image_path": "images/apod/6.jpg"
+    },
+    {
+      "slot": 7,
+      "date": "2026-07-31",
+      "title": "NGC 4372 and the Dark Doodad",
+      "explanation": "The Dark Doodad Nebula drifts through southern skies, a tantalizing target for binoculars toward the small constellation Musca, The Fly. A dusty interstellar cloud, it's seen against rich starfields just south of the Coalsack Nebula and the Southern Cross. Stretching for about 3 degrees across this telescopic field of view, the Dark Doodad is punctuated near its southern tip (upper right) by yellowish globular star cluster NGC 4372. Of course NGC 4372 roams the halo of our Milky Way galaxy, a background object some 20,000 light-years away and only by chance along our line-of-sight to the Dark Doodad. About 700 light-years distant and over 30 light-years long, the Dark Doodad's well defined silhouette belongs to the potentially star-forming Musca molecular cloud. The dusty Dark Doodad's delightfully alliterative moniker was first coined by astro-imager and writer Dennis di Cicco in 1986 while observing Comet Halley from the Australian outback.",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_2048.jpg",
       "image_path": "images/apod/7.jpg"
     }
   ]
