@@ -1,69 +1,69 @@
 {
-  "updated": "2026-07-30T08:21:38.688Z",
+  "updated": "2026-08-01T08:15:55.438Z",
   "items": [
     {
-      "id": 39240,
-      "title": "NASA Johnson Interns Shaping the Future of Exploration",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/dsc03157.jpg",
+      "id": 39283,
+      "title": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
+      "url": "https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FullMoon28-7-2026BrankoNadj.jpg",
       "source": "NASA",
-      "published_at": "2026-07-30"
+      "published_at": "2026-08-01"
     },
     {
-      "id": 39238,
-      "title": "APOD: July 30 – Red Sun trough Wildfire Smoke",
-      "url": "https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/red_sun.jpg",
+      "id": 39282,
+      "title": "What’s Up: August 2026 Skywatching Tips from NASA",
+      "url": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/august/20260717%20Whats%20Up%20August%202026%20WHATSUp_2.jpg",
       "source": "NASA",
-      "published_at": "2026-07-30"
+      "published_at": "2026-07-31"
     },
     {
-      "id": 39239,
-      "title": "New Zealand’s Southern Wilderness",
-      "url": "https://science.nasa.gov/earth/earth-observatory/new-zealands-southern-wilderness/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-zealand's-southern-wilderness/nzstewartisland_oli2_20260514.jpg",
-      "source": "NASA",
-      "published_at": "2026-07-30"
+      "id": 39281,
+      "title": "Starbase Pad 1 Retrofits Progress as Block 3 Flights Start",
+      "url": "https://www.nasaspaceflight.com/2026/07/pad-1-retrofits-block-3-flights/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/DSC01537-wmarked-scaled.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-07-31"
     },
     {
-      "id": 39237,
-      "title": "Sophia Space and Caltech claim patent for space data centers",
-      "url": "https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_1tile.jpg?fit=879%2C494&ssl=1",
+      "id": 39280,
+      "title": "NASA to Host Florida Event Celebrating American Air, Space Leadership",
+      "url": "https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/1america250.jpg",
+      "source": "NASA",
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": 39279,
+      "title": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
+      "url": "https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/optimism.jpeg?fit=1024%2C716&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-07-30"
+      "published_at": "2026-07-31"
     },
     {
-      "id": 39235,
-      "title": "Live coverage: SpaceX to launch classified payload for National Reconnaissance Office",
-      "url": "https://spaceflightnow.com/2026/07/29/live-coverage-spacex-to-launch-classified-payload-for-national-reconnaissance-office/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/07/20260729_CC_NROL_95_DSC.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-07-29"
-    },
-    {
-      "id": 39236,
-      "title": "Proposed rule would exempt commercial launch licensing from environmental regulations",
-      "url": "https://spacenews.com/proposed-rule-would-exempt-commercial-launch-licensing-from-environmental-regulations/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starship-flt13-sunset.jpeg?fit=1024%2C576&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-07-29"
-    },
-    {
-      "id": 39234,
-      "title": "L3Harris delays missile business IPO to 2027 despite surging defense demand",
-      "url": "https://spacenews.com/l3harris-delays-missile-business-ipo-to-2027-despite-surging-defense-demand/",
-      "image_url": "https://spacenews.com/wp-content/uploads/2026/07/L3Harris-THAAD-Propulsion-Production-1220-1024x574.avif",
-      "source": "SpaceNews",
-      "published_at": "2026-07-29"
-    },
-    {
-      "id": 39233,
-      "title": "NASA Awards 2026 Innovative Technology Concepts",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-2026-innovative-technology-concepts/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/niac.png",
+      "id": 39278,
+      "title": "NASA’s Newest Wind Tunnel Opens at NASA Langley",
+      "url": "https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/55433508350-2d4abff2f1-o.jpg",
       "source": "NASA",
-      "published_at": "2026-07-29"
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": 39277,
+      "title": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2015/04/prepost-flammability-test-photo-of-natural-webbing.png",
+      "source": "NASA",
+      "published_at": "2026-07-31"
+    },
+    {
+      "id": 39276,
+      "title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket",
+      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/acd25-0156-012.jpg",
+      "source": "NASA",
+      "published_at": "2026-07-31"
     }
   ]
 }
