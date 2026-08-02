@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-01T08:15:55.438Z",
+  "updated": "2026-08-02T08:20:30.800Z",
   "items": [
+    {
+      "id": 39286,
+      "title": "Boeing’s Starliner set for potential 2026 cargo run to ISS",
+      "url": "https://www.nasaspaceflight.com/2026/08/boeing-starliner-2026-iss/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-01-22-12-28-760.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-08-01"
+    },
+    {
+      "id": 39285,
+      "title": "Space Force awards K2 Space $22.9 million for orbital laser communications demonstration",
+      "url": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/Screenshot-2023-09-19-at-8.07.27-AM.png?fit=1024%2C635&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-08-01"
+    },
+    {
+      "id": 39284,
+      "title": "China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat",
+      "url": "https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/TJS27A-B_CZ6A_TSLC-30july2026-OS.jpg?fit=1024%2C679&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-08-01"
+    },
     {
       "id": 39283,
       "title": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
@@ -39,30 +63,6 @@
       "url": "https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/",
       "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/optimism.jpeg?fit=1024%2C716&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-07-31"
-    },
-    {
-      "id": 39278,
-      "title": "NASA’s Newest Wind Tunnel Opens at NASA Langley",
-      "url": "https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/55433508350-2d4abff2f1-o.jpg",
-      "source": "NASA",
-      "published_at": "2026-07-31"
-    },
-    {
-      "id": 39277,
-      "title": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2015/04/prepost-flammability-test-photo-of-natural-webbing.png",
-      "source": "NASA",
-      "published_at": "2026-07-31"
-    },
-    {
-      "id": 39276,
-      "title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket",
-      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/acd25-0156-012.jpg",
-      "source": "NASA",
       "published_at": "2026-07-31"
     }
   ]
