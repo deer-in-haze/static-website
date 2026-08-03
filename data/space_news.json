@@ -1,6 +1,38 @@
 {
-  "updated": "2026-08-02T08:20:30.800Z",
+  "updated": "2026-08-03T09:38:47.004Z",
   "items": [
+    {
+      "id": 39291,
+      "title": "APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula",
+      "url": "https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/MeteorGecko_Burnett_4944.jpg",
+      "source": "NASA",
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": 39290,
+      "title": "What’s Happening in Space Policy August 2-8, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-2-8-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/07/Susan-Collins-cmte-2025-300x199.png",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-08-02"
+    },
+    {
+      "id": 39287,
+      "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
+      "url": "https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/gallery-gallery_ng2-8615.jpg?fit=1024%2C683&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-08-02"
+    },
+    {
+      "id": 39288,
+      "title": "APOD: 2026 August 2 – A Fire Rainbow over West Virginia",
+      "url": "https://science.nasa.gov/image-article/apod-2026-august-2-a-fire-rainbow-over-west-virginia/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FireRainbow_Harbig_4000.jpg",
+      "source": "NASA",
+      "published_at": "2026-08-02"
+    },
     {
       "id": 39286,
       "title": "Boeing’s Starliner set for potential 2026 cargo run to ISS",
@@ -32,38 +64,6 @@
       "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FullMoon28-7-2026BrankoNadj.jpg",
       "source": "NASA",
       "published_at": "2026-08-01"
-    },
-    {
-      "id": 39282,
-      "title": "What’s Up: August 2026 Skywatching Tips from NASA",
-      "url": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/august/20260717%20Whats%20Up%20August%202026%20WHATSUp_2.jpg",
-      "source": "NASA",
-      "published_at": "2026-07-31"
-    },
-    {
-      "id": 39281,
-      "title": "Starbase Pad 1 Retrofits Progress as Block 3 Flights Start",
-      "url": "https://www.nasaspaceflight.com/2026/07/pad-1-retrofits-block-3-flights/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/DSC01537-wmarked-scaled.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-07-31"
-    },
-    {
-      "id": 39280,
-      "title": "NASA to Host Florida Event Celebrating American Air, Space Leadership",
-      "url": "https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/1america250.jpg",
-      "source": "NASA",
-      "published_at": "2026-07-31"
-    },
-    {
-      "id": 39279,
-      "title": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
-      "url": "https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/optimism.jpeg?fit=1024%2C716&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-07-31"
     }
   ]
 }
