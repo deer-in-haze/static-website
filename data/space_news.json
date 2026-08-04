@@ -1,69 +1,69 @@
 {
-  "updated": "2026-08-03T09:38:47.004Z",
+  "updated": "2026-08-04T08:32:07.612Z",
   "items": [
     {
-      "id": 39291,
-      "title": "APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula",
-      "url": "https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/MeteorGecko_Burnett_4944.jpg",
+      "id": 39311,
+      "title": "ESA and Pokémon team up to celebrate World Space Week",
+      "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/pokemon_x_esa_collaboration/27401892-1-eng-GB/Pokemon_x_ESA_collaboration_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-08-04"
+    },
+    {
+      "id": 39310,
+      "title": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
+      "url": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_kreios-sede.jpg?fit=879%2C495&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-08-04"
+    },
+    {
+      "id": 39309,
+      "title": "NASA, SpaceX studying how to prevent future upper stage lunar collisions",
+      "url": "https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/f9-fireflyispace.jpg?fit=1024%2C682&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-08-04"
+    },
+    {
+      "id": 39308,
+      "title": "SpaceX Replacing MRAPs with Cybertrucks Beginning with Crew-13",
+      "url": "https://spacepolicyonline.com/news/spacex-replacing-mraps-with-cybertrucks-beginning-with-crew-13/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/08/MRAP-Kim-Shiflett-2024-300x200.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-08-04"
+    },
+    {
+      "id": 39307,
+      "title": "Launch Preview: Starlink, AST SpaceMobile, and Chinese missions fill launch manifest",
+      "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-080326/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/IMG_1145-scaled.jpeg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-08-03"
+    },
+    {
+      "id": 39306,
+      "title": "Louisiana Students Loft Payloads from NASA Balloon Facility in Texas",
+      "url": "https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/balloons-la-students-summer-2026.jpg",
       "source": "NASA",
       "published_at": "2026-08-03"
     },
     {
-      "id": 39290,
-      "title": "What’s Happening in Space Policy August 2-8, 2026",
-      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-2-8-2026/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/07/Susan-Collins-cmte-2025-300x199.png",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-08-02"
-    },
-    {
-      "id": 39287,
-      "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
-      "url": "https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/gallery-gallery_ng2-8615.jpg?fit=1024%2C683&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-08-02"
-    },
-    {
-      "id": 39288,
-      "title": "APOD: 2026 August 2 – A Fire Rainbow over West Virginia",
-      "url": "https://science.nasa.gov/image-article/apod-2026-august-2-a-fire-rainbow-over-west-virginia/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FireRainbow_Harbig_4000.jpg",
+      "id": 39305,
+      "title": "Guinea-Bissau Tidal Waters",
+      "url": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/bijagosarchipelago-oli-20251128-lrg.jpg",
       "source": "NASA",
-      "published_at": "2026-08-02"
+      "published_at": "2026-08-03"
     },
     {
-      "id": 39286,
-      "title": "Boeing’s Starliner set for potential 2026 cargo run to ISS",
-      "url": "https://www.nasaspaceflight.com/2026/08/boeing-starliner-2026-iss/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-01-22-12-28-760.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-08-01"
-    },
-    {
-      "id": 39285,
-      "title": "Space Force awards K2 Space $22.9 million for orbital laser communications demonstration",
-      "url": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/Screenshot-2023-09-19-at-8.07.27-AM.png?fit=1024%2C635&ssl=1",
+      "id": 39304,
+      "title": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
+      "url": "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/01/J-3-satellite--scaled.jpg?fit=1024%2C763&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-08-01"
-    },
-    {
-      "id": 39284,
-      "title": "China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat",
-      "url": "https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/TJS27A-B_CZ6A_TSLC-30july2026-OS.jpg?fit=1024%2C679&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-08-01"
-    },
-    {
-      "id": 39283,
-      "title": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
-      "url": "https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/FullMoon28-7-2026BrankoNadj.jpg",
-      "source": "NASA",
-      "published_at": "2026-08-01"
+      "published_at": "2026-08-03"
     }
   ]
 }
