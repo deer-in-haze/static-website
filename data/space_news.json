@@ -1,69 +1,69 @@
 {
-  "updated": "2026-08-05T08:31:32.243Z",
+  "updated": "2026-08-06T08:31:36.813Z",
   "items": [
     {
-      "id": 39339,
-      "title": "Think tank warns Europe’s orbital compute gap is widening",
-      "url": "https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Orbital.jpg?fit=1024%2C625&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-08-05"
-    },
-    {
-      "id": 39338,
-      "title": "Total solar eclipse: how to watch live from home",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/solar_eclipse_artist_impression/27150246-1-eng-GB/Solar_eclipse_artist_impression_card_full.png",
+      "id": 39357,
+      "title": "Webb opens a Treasure Chest filled with stars",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/webb_opens_a_treasure_chest_filled_with_stars/27404048-1-eng-GB/Webb_opens_a_Treasure_Chest_filled_with_stars_card_full.jpg",
       "source": "ESA",
-      "published_at": "2026-08-05"
+      "published_at": "2026-08-06"
     },
     {
-      "id": 39337,
-      "title": "Live coverage: SpaceX to launch 3 AST SpaceMobile BlueBird satellites on Falcon 9 rocket from Cape Canaveral",
-      "url": "https://spaceflightnow.com/2026/08/05/live-coverage-spacex-to-launch-3-ast-spacemobile-bluebird-satellites-on-falcon-9-rocket-from-cape-canaveral/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file-678x416.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-08-05"
+      "id": 39356,
+      "title": "APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability",
+      "url": "https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/SunFlowers_NSO_1901.jpg",
+      "source": "NASA",
+      "published_at": "2026-08-06"
     },
     {
-      "id": 39336,
-      "title": "Neuraspace raises $18 million to expand sovereign space awareness",
-      "url": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/rsz_1neuraspace_def.jpg?fit=879%2C581&ssl=1",
+      "id": 39355,
+      "title": "NASA and Roscosmos continue seat barter agreement",
+      "url": "https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/crew9-approach.jpg?fit=1024%2C687&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-08-06"
+    },
+    {
+      "id": 39354,
+      "title": "New Glenn explosion linked to rocket engine valve",
+      "url": "https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/08/BlueOrigin_BE4_EngineLineup.jpg?fit=1000%2C562&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-08-05"
     },
     {
-      "id": 39335,
-      "title": "Voyager seeks relaxed requirements in NASA commercial space station RFP",
-      "url": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Starlab_-_External_Config_2025_-_04.png?fit=1024%2C576&ssl=1",
-      "source": "SpaceNews",
+      "id": 39352,
+      "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
+      "url": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/newplot.png",
+      "source": "Arstechnica",
       "published_at": "2026-08-05"
     },
     {
-      "id": 39334,
-      "title": "Next Starship Will Deliver Operational V3 Starlinks to Orbit, Maybe Catch Ship",
-      "url": "https://spacepolicyonline.com/news/next-starship-will-deliver-operational-v3-starlinks-to-orbit-maybe-catch-ship/",
-      "image_url": "https://pbs.twimg.com/profile_images/548027983/Website_logo_400x400.jpg",
-      "source": "SpacePolicyOnline.com",
+      "id": 39351,
+      "title": "CNES Sets 2028 Target for Hot-Fire Test of New High-Thrust Rocket Engine",
+      "url": "https://europeanspaceflight.com/cnes-sets-2028-target-for-hot-fire-test-of-new-high-thrust-rocket-engine/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/08/CNES-Sets-2028-Target-for-Hot-Fire-Test-of-New-High-Thrust-Rocket-Engine.webp",
+      "source": "European Spaceflight",
       "published_at": "2026-08-05"
     },
     {
-      "id": 39333,
-      "title": "SpaceX to begin Starship orbital flights",
-      "url": "https://spacenews.com/spacex-to-begin-starship-orbital-flights/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/starship-flt13-liftoff2.jpeg?fit=1024%2C576&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-08-04"
+      "id": 39353,
+      "title": "NASA’s IXPE May Have Proven 90-Year-Old Theory",
+      "url": "https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/ixpe/IXPEMagnetarArtistsConcept_Web.png",
+      "source": "NASA",
+      "published_at": "2026-08-05"
     },
     {
-      "id": 39332,
-      "title": "Rocket Lab, STR win Space Force contracts for airborne-target tracking technologies",
-      "url": "https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/55351366801_693c568062_k.jpg?fit=1024%2C767&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-08-04"
+      "id": 39349,
+      "title": "Artemis III Orion Crew and Service Models Joined",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260730-ph-as01-6583.webp",
+      "source": "NASA",
+      "published_at": "2026-08-05"
     }
   ]
 }
