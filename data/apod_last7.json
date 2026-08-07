@@ -1,74 +1,74 @@
 {
-  "updated": "2026-08-06",
+  "updated": "2026-08-07",
   "items": [
     {
       "slot": 1,
-      "date": "2026-07-31",
-      "title": "NGC 4372 and the Dark Doodad",
-      "explanation": "The Dark Doodad Nebula drifts through southern skies, a tantalizing target for binoculars toward the small constellation Musca, The Fly. A dusty interstellar cloud, it's seen against rich starfields just south of the Coalsack Nebula and the Southern Cross. Stretching for about 3 degrees across this telescopic field of view, the Dark Doodad is punctuated near its southern tip (upper right) by yellowish globular star cluster NGC 4372. Of course NGC 4372 roams the halo of our Milky Way galaxy, a background object some 20,000 light-years away and only by chance along our line-of-sight to the Dark Doodad. About 700 light-years distant and over 30 light-years long, the Dark Doodad's well defined silhouette belongs to the potentially star-forming Musca molecular cloud. The dusty Dark Doodad's delightfully alliterative moniker was first coined by astro-imager and writer Dennis di Cicco in 1986 while observing Comet Halley from the Australian outback.",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_2048.jpg",
-      "image_path": "images/apod/1.jpg"
-    },
-    {
-      "slot": 2,
       "date": "2026-08-01",
       "title": "Buck Moon and Belt of Venus",
       "explanation": "The Buck Moon is a traditional name for the full moon of July. In this colorful Adriatic sea and skyscape captured on July 28 from Krk Island along the coast of Croatia, a full Buck Moon is just rising over distant mountains. Since a full moon rises as the Sun sets, Earth's shadow also rises in the twilight scene, a diffuse gray band extending above the mountainous southeastern horizon. Above Earth's shadow band is the pinkish antitwilight arch. That subtly tinted band of backscattered sunlight is more widely known as the Belt of Venus. As it shares the eastern horizon with the atmospheric shadow of Earth and Belt of Venus, this full Buck Moon seems to set the stage for the New Moon to come. The New Moon of August 12 will cast its shadow on planet Earth in a much anticipated total solar eclipse.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj.jpg",
-      "image_path": "images/apod/2.jpg"
+      "image_path": "images/apod/1.jpg"
     },
     {
-      "slot": 3,
+      "slot": 2,
       "date": "2026-08-02",
       "title": "A Fire Rainbow over West Virginia",
       "explanation": "What's happening to this cloud? Ice crystals in a distant cirrus cloud are acting like little floating prisms.  Known informally as a fire rainbow for its flame-like appearance, a circumhorizon arc appears parallel to the horizon. For a circumhorizontal arc to be visible, the Sun must be at least 58 degrees high in a sky where cirrus clouds present below --  in this case cirrus fibratus.  The numerous, flat, hexagonal ice-crystals that compose the cirrus cloud must be aligned horizontally to properly refract sunlight in a collectively similar manner.  Therefore, circumhorizontal arcs are somewhat unusual to see.  The featured fire rainbow was photographed in 2021 near North Fork Mountain in West Virginia, USA.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_4000.jpg",
-      "image_path": "images/apod/3.jpg"
+      "image_path": "images/apod/2.jpg"
     },
     {
-      "slot": 4,
+      "slot": 3,
       "date": "2026-08-03",
       "title": "Vaporizing Meteor Photobombs the Lacerta Nebula",
       "explanation": "What's happening to this meteor? This bright meteor streak appeared and disappeared quickly during a long exposure of the Great Lacerta Nebula, seen faintly in red toward the center of the image. The meteoroid, likely a small pebble, creates its glow partly by heating and exciting surrounding air in Earth's atmosphere, but itself vaporizes and leaves wind-blown gas and dust with colors that give clues to its composition.  The featured image was captured last month from Death Valley Observatories in Nevada, USA.  This month, though, is particularly good for seeing meteors. Presently there are three meteor showers ongoing, although they are currently competing for visibility with the glow of a bright gibbous Moon.  The most active of these showers, the Perseids, will be busiest in about 10 days -- after the Moon has dimmed considerably.  This year, the Perseids peak nearly coincides with not only a new Moon, but, from some locations, one that totally eclipses the Sun.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_4944.jpg",
-      "image_path": "images/apod/4.jpg"
+      "image_path": "images/apod/3.jpg"
     },
     {
-      "slot": 5,
+      "slot": 4,
       "date": "2026-08-04",
       "title": "Curious Cometary Knots in the Helix Nebula",
       "explanation": "What causes unusual knots of gas and dust in planetary nebulas?  Seen also in the Ring Nebula, the Dumbbell Nebula and NGC 2392, the knots' existence was not initially predicted, and their origins are still not well understood.  Pictured here is a fascinating image of part of the Helix Nebula by the James Webb Space Telescope showing tremendous detail in infrared light. The cometary knots have masses similar to the Earth but have sizes typically several times the orbit of Pluto.  One hypothesis for the fragmentation and evolution of the knots includes existing gas being driven out by a less dense but highly energetic stellar wind of the central evolving star.  The Helix Nebula is one of the closest examples of a planetary nebula created at the end of the life of a Sun-like star.  Given a technical designation of NGC 7293, the Helix Nebula lies about 650 light-years away towards the constellation of Water Carrier (Aquarius).   Open Science: Browse 4,000+ codes in the Astrophysics Source Code Library",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_2000.jpg",
-      "image_path": "images/apod/5.jpg"
+      "image_path": "images/apod/4.jpg"
     },
     {
-      "slot": 6,
+      "slot": 5,
       "date": "2026-08-05",
       "title": "Spokes on Saturn's B Ring",
       "explanation": "Don’t get spooked by Saturn’s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. If you look closely, a ghoulish shadow appears and disappears as  Saturn’s B ring  rotates. Decades of observation with  Voyager 2,  Cassini, and Hubble  show the appearance of Saturn’s spokes varies with  the planet’s seasons. Like Earth, Saturn’s  spin axis  is tilted compared to the plane of its orbit around the Sun. During Saturn’s  equinox, the rings are  less tilted  toward the Sun and they receive sunlight at a shallower angle. Saturn’s spokes may be electrically charged dust and ice temporarily levitated above the rings by electromagnetic forces. It is still uncertain, but the ring plasma and charge environment may be influenced by changing ultraviolet illumination, meteoroid impacts, or indirect effects from interactions between the solar wind and the planet’s magnetic field.   Note: The text of this APOD has been revised. Find dark skies and look up this August to witness the Perseid meteor shower uninhibited by the Moon!",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif",
       "hdurl": "https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif",
-      "image_path": "images/apod/6.gif"
+      "image_path": "images/apod/5.gif"
     },
     {
-      "slot": 7,
+      "slot": 6,
       "date": "2026-08-06",
       "title": "New Sharpest Image of the Sun Uncovers Instability",
-      "explanation": "What does the new sharpest image of our Sun show? Instability. To be clear, a certain kind of interactive process called the Kelvin-Helmholtz instability (KHI). This instability can create waves and swirls when two streams flow past each other -- in this case variable streams of solar magnetic plasma. Long hypothesized to occur on the Sun's surface, KHI streaks and swirls were confirmed in just-released dramatic high-resolution images taken recently by the Inouye Solar Telescope in Hawaii, USA.  The featured false-yellow image, actually taken in deep blue, is the highest resolution image yet of the Sun in visible light. It spans about the radius of the Earth, but its finest details are city sized.  Visible are several smooth tops of changing solar granules, while the edges of the flower-like structures have been found to harbor multiple KHI swirls.  Future research may investigate how the KHI helps move energy, magnetic fields, and may even heat the surrounding solar corona.",
+      "explanation": "What does the new sharpest image of our Sun show? Instability. To be clear, a certain kind of interactive process called the Kelvin-Helmholtz instability (KHI). This instability can create waves and swirls when two streams flow past each other -- in this case variable streams of solar magnetic plasma. Long hypothesized to occur on the Sun's surface, KHI streaks and swirls were confirmed in just-released dramatic high-resolution images taken recently by the Inouye Solar Telescope in Hawaii, USA.  The featured false-yellow image, actually taken in deep blue, is the highest resolution image yet of the Sun in visible light. It spans about the radius of the Earth, but its finest details are city sized.  Visible are several smooth tops of changing solar granules, while the edges of the flower-like structures have been found to harbor multiple KHI swirls.  Future research may investigate how the KHI helps move energy and magnetic fields, and may even heat the surrounding solar corona.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_1901.jpg",
+      "image_path": "images/apod/6.jpg"
+    },
+    {
+      "slot": 7,
+      "date": "2026-08-07",
+      "title": "Rubin's COSMOS field",
+      "explanation": "There are more than half a million galaxies in the central panel of this image from the NSF-DOE Vera C. Rubin Observatory in Chile.   This is the COSMOS field, a patch of sky several times larger than the full moon, first observed by Hubble.   It has also been observed by Webb and other telescopes because it contains comparatively few bright stars from our own galaxy, offering a relatively unimpeded view of other galaxies outside the Milky Way.   The outer panels, numbered 1-10, show zoomed-in views of the corresponding small regions highlighted in the central panel.   The variety of galaxy shapes and sizes is astonishing.   Some of them are so far away that their light has traveled for billions of years before reaching Earth.   Rubin will come back every couple of days to the COSMOS field as part of its ten-year Legacy Survey of Space and Time.   It will allow a dynamic view of the COSMOS field and how the sky changes over time.",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2608/noirlab2618b_1024.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2608/noirlab2618b.jpg",
       "image_path": "images/apod/7.jpg"
     }
   ]
