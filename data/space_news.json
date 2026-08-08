@@ -1,69 +1,69 @@
 {
-  "updated": "2026-08-07T07:11:10.026Z",
+  "updated": "2026-08-08T06:46:56.178Z",
   "items": [
     {
-      "id": 39370,
-      "title": "ASI Board Resigns to Allow for the Appointment of an Extraordinary Commissioner",
-      "url": "https://europeanspaceflight.com/asi-board-resigns-to-allow-for-the-appointment-of-an-extraordinary-commissioner/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/08/ASI-Board-Resigns-to-Allow-for-the-Appointment-of-an-Extraordinary-Commissioner.webp",
+      "id": 39392,
+      "title": "IRIS2 Gets Green Light With More Money and More Satellites",
+      "url": "https://europeanspaceflight.com/iris2-gets-green-light-with-more-money-and-more-satellites/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/08/IRIS2-Service-Gets-Green-Light-With-More-Money-and-More-Satellites.webp",
       "source": "European Spaceflight",
+      "published_at": "2026-08-08"
+    },
+    {
+      "id": 39391,
+      "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
+      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/10P_Tempel2_Globular_M30_20260729_DEBartlett.jpg",
+      "source": "NASA",
+      "published_at": "2026-08-08"
+    },
+    {
+      "id": 39389,
+      "title": "Relativity Space engine integration milestone for Terran-R first stage",
+      "url": "https://www.nasaspaceflight.com/2026/08/relativity-engine-integration-milestone-terran-r/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-07-21-46-19-317.jpg",
+      "source": "NASASpaceflight",
       "published_at": "2026-08-07"
     },
     {
-      "id": 39369,
-      "title": "Blue Origin identifies engine issue behind New Glenn explosion",
-      "url": "https://spaceflightnow.com/2026/08/06/blue-origin-identifies-engine-issue-behind-new-glenn-explosion/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260529_NG-4_static_fire_explosion.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-08-06"
-    },
-    {
-      "id": 39368,
-      "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
-      "url": "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ng4explosion.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-08-06"
-    },
-    {
-      "id": 39367,
-      "title": "How should Europe’s militaries respond to space threats",
-      "url": "https://spacenews.com/how-should-europes-militaries-respond-to-space-threats/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/space-minds-podcast-sse-astroscale-2000-1500.jpg?fit=1024%2C768&ssl=1",
+      "id": 39390,
+      "title": "Senate installs new chiefs for U.S. military space acquisition, spy satellites",
+      "url": "https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Screenshot-2026-07-14-at-4.00.08-PM.png?fit=1024%2C582&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-08-06"
+      "published_at": "2026-08-07"
     },
     {
-      "id": 39366,
-      "title": "Lessons for the future of NASA Mars exploration from a 1970s mission",
-      "url": "https://spacenews.com/lessons-for-the-future-of-nasa-mars-exploration-from-a-1970s-mission/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2020/07/PHOTO-3-VIKING.jpg?fit=1000%2C806&ssl=1",
+      "id": 39379,
+      "title": "2026 IGARSS Hyperwall Schedule",
+      "url": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/",
+      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+      "source": "NASA",
+      "published_at": "2026-08-07"
+    },
+    {
+      "id": 39378,
+      "title": "FCC Space Bureau deputy takes the reins amid licensing overhaul",
+      "url": "https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/FCC-chairman-scaled.jpeg?fit=1024%2C704&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-08-06"
+      "published_at": "2026-08-07"
     },
     {
-      "id": 39365,
-      "title": "Redwire to fly dedicated Starfall mission for microgravity research",
-      "url": "https://spacenews.com/redwire-to-fly-dedicated-starfall-mission-for-microgravity-research/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/starfall-reentry-scaled.jpeg?fit=1024%2C576&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-08-06"
+      "id": 39380,
+      "title": "NASA’s IXPE Studies Magnetar",
+      "url": "https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/ixpemagnetarartistsconcept-web.png",
+      "source": "NASA",
+      "published_at": "2026-08-07"
     },
     {
-      "id": 39364,
-      "title": "NASA, Northrop Grumman repurpose Gateway elements for Moon Base demo missions",
-      "url": "https://spaceflightnow.com/2026/08/06/nasa-northrop-grumman-repurpose-gateway-elements-for-moon-base-demo-missions/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260805_LIDS_Release_SP_HIGH_RES.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-08-06"
-    },
-    {
-      "id": 39362,
-      "title": "A match made in cleanrooms",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/A_match_made_in_cleanrooms",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/a_match_made_in_cleanrooms/27406754-1-eng-GB/A_match_made_in_cleanrooms_card_full.jpg",
+      "id": 39377,
+      "title": "Join us live and enjoy the total solar eclipse!",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Join_us_live_and_enjoy_the_total_solar_eclipse",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/join_us_live_and_enjoy_the_total_solar_eclipse/27409189-1-eng-GB/Join_us_live_and_enjoy_the_total_solar_eclipse_card_full.jpg",
       "source": "ESA",
-      "published_at": "2026-08-06"
+      "published_at": "2026-08-07"
     }
   ]
 }
