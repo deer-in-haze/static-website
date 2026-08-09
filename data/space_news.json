@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-08T06:46:56.178Z",
+  "updated": "2026-08-09T06:51:56.836Z",
   "items": [
+    {
+      "id": 39398,
+      "title": "Blue Origin working engine resolutions and dual pad future",
+      "url": "https://www.nasaspaceflight.com/2026/08/blue-origin-engine-resolutions-dual-pad/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-08-22-08-15-961.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-08-08"
+    },
+    {
+      "id": 39397,
+      "title": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
+      "url": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/northrop-lid.jpeg?fit=1024%2C576&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-08-08"
+    },
+    {
+      "id": 39396,
+      "title": "Ariane 6 Lightweight Upper Stage, Future Upgrades Cancelled",
+      "url": "https://www.spacescout.info/2026/08/ariane-6-lightweight-upper-stage-future-upgrades-cancelled/",
+      "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/08/image-1.png",
+      "source": "Space Scout",
+      "published_at": "2026-08-08"
+    },
+    {
+      "id": 39394,
+      "title": "Live Coverage: SpaceX West Coast launch surge continues with Starlink mission",
+      "url": "https://spaceflightnow.com/2026/08/08/live-coverage-spacex-west-coast-launch-surge-continues-with-starlink-mission/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260618_Falcon-9_NROL-179.jpeg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-08-08"
+    },
+    {
+      "id": 39393,
+      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+      "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/PIA26379-Sol-1295-Navcam-NLF_1295_0781909732_909RZS_N0603852NCAM02295_0A0195J01.jpg",
+      "source": "Arstechnica",
+      "published_at": "2026-08-08"
+    },
     {
       "id": 39392,
       "title": "IRIS2 Gets Green Light With More Money and More Satellites",
@@ -23,46 +63,6 @@
       "url": "https://www.nasaspaceflight.com/2026/08/relativity-engine-integration-milestone-terran-r/",
       "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-07-21-46-19-317.jpg",
       "source": "NASASpaceflight",
-      "published_at": "2026-08-07"
-    },
-    {
-      "id": 39390,
-      "title": "Senate installs new chiefs for U.S. military space acquisition, spy satellites",
-      "url": "https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Screenshot-2026-07-14-at-4.00.08-PM.png?fit=1024%2C582&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-08-07"
-    },
-    {
-      "id": 39379,
-      "title": "2026 IGARSS Hyperwall Schedule",
-      "url": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/",
-      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-      "source": "NASA",
-      "published_at": "2026-08-07"
-    },
-    {
-      "id": 39378,
-      "title": "FCC Space Bureau deputy takes the reins amid licensing overhaul",
-      "url": "https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/FCC-chairman-scaled.jpeg?fit=1024%2C704&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-08-07"
-    },
-    {
-      "id": 39380,
-      "title": "NASA’s IXPE Studies Magnetar",
-      "url": "https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/ixpemagnetarartistsconcept-web.png",
-      "source": "NASA",
-      "published_at": "2026-08-07"
-    },
-    {
-      "id": 39377,
-      "title": "Join us live and enjoy the total solar eclipse!",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Join_us_live_and_enjoy_the_total_solar_eclipse",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/join_us_live_and_enjoy_the_total_solar_eclipse/27409189-1-eng-GB/Join_us_live_and_enjoy_the_total_solar_eclipse_card_full.jpg",
-      "source": "ESA",
       "published_at": "2026-08-07"
     }
   ]
