@@ -1,6 +1,38 @@
 {
-  "updated": "2026-08-09T06:51:56.836Z",
+  "updated": "2026-08-10T07:27:02.451Z",
   "items": [
+    {
+      "id": 39402,
+      "title": "APOD: 2026 August 10 – Three Galaxy Pairs",
+      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Three3GalaxyPairs_Sampaio_2784.jpg",
+      "source": "NASA",
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": 39401,
+      "title": "Katalyst Space makes progress in restoring control of Swift servicing spacecraft",
+      "url": "https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/link-solarpanel.jpeg?fit=1024%2C670&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-08-10"
+    },
+    {
+      "id": 39400,
+      "title": "What’s Happening in Space Policy August 9-22, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-9-22-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/LTG-Doug-Schiess-USSF-240x300.avif",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-08-09"
+    },
+    {
+      "id": 39399,
+      "title": "Artemis progress building lunar return roadmap",
+      "url": "https://www.nasaspaceflight.com/2026/08/artemis-progress-lunar-return-roadmap/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-09-15-21-11-686.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-08-09"
+    },
     {
       "id": 39398,
       "title": "Blue Origin working engine resolutions and dual pad future",
@@ -32,38 +64,6 @@
       "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260618_Falcon-9_NROL-179.jpeg",
       "source": "Spaceflight Now",
       "published_at": "2026-08-08"
-    },
-    {
-      "id": 39393,
-      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-      "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/PIA26379-Sol-1295-Navcam-NLF_1295_0781909732_909RZS_N0603852NCAM02295_0A0195J01.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-08-08"
-    },
-    {
-      "id": 39392,
-      "title": "IRIS2 Gets Green Light With More Money and More Satellites",
-      "url": "https://europeanspaceflight.com/iris2-gets-green-light-with-more-money-and-more-satellites/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/08/IRIS2-Service-Gets-Green-Light-With-More-Money-and-More-Satellites.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-08-08"
-    },
-    {
-      "id": 39391,
-      "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
-      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/10P_Tempel2_Globular_M30_20260729_DEBartlett.jpg",
-      "source": "NASA",
-      "published_at": "2026-08-08"
-    },
-    {
-      "id": 39389,
-      "title": "Relativity Space engine integration milestone for Terran-R first stage",
-      "url": "https://www.nasaspaceflight.com/2026/08/relativity-engine-integration-milestone-terran-r/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-07-21-46-19-317.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-08-07"
     }
   ]
 }
