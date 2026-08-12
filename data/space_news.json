@@ -1,69 +1,69 @@
 {
-  "updated": "2026-08-11T07:02:15.015Z",
+  "updated": "2026-08-12T07:20:13.880Z",
   "items": [
     {
-      "id": 39424,
-      "title": "APOD: 2026 August 11 – Six Moons of Saturn",
-      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/2026-08-05-0609_7-SaturnSystem_c.jpg",
+      "id": 39455,
+      "title": "Rocket Lab Establishes German Subsidiary",
+      "url": "https://europeanspaceflight.com/rocket-lab-establishes-german-subsidiary/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/08/Rocket-Lab-Establishes-German-Subsidiary.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-08-12"
+    },
+    {
+      "id": 39454,
+      "title": "Stops Along the Path of Totality",
+      "url": "https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/stops-along-the-path-of-totality/iceland_oli2_20260725.jpg",
       "source": "NASA",
-      "published_at": "2026-08-11"
+      "published_at": "2026-08-12"
     },
     {
-      "id": 39425,
-      "title": "Bountiful Roebuck Bay",
-      "url": "https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/bountiful-roebuck-bay/broomewater_oli_20260318.jpg",
-      "source": "NASA",
-      "published_at": "2026-08-11"
+      "id": 39453,
+      "title": "Firefly increases vehicle production even as launches lag",
+      "url": "https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55143071969_a1ed891f84_k.jpg?fit=1024%2C683&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-08-12"
     },
     {
-      "id": 39423,
-      "title": "Chinese LM-7A Rocket Fails",
-      "url": "https://spacepolicyonline.com/news/chinese-lm-7a-rocket-fails/",
-      "image_url": "https://pbs.twimg.com/profile_images/548027983/Website_logo_400x400.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-08-11"
+      "id": 39452,
+      "title": "U.S. expands missile production as Army seeks more depth in its arsenal",
+      "url": "https://spacenews.com/u-s-expands-missile-production-as-army-seeks-more-depth-in-its-arsenal/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/mfc-thaad-sky-jpg-pc-adaptive-1280-medium-1116x627v1.jpeg?fit=1000%2C562&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-08-12"
     },
     {
-      "id": 39422,
-      "title": "Window for 2026 launch debut of Rocket Lab’s Neutron rocket ‘is narrowing’ as development continues",
-      "url": "https://spaceflightnow.com/2026/08/10/window-for-2026-launch-debut-of-rocket-labs-neutron-rocket-is-narrowing-as-development-continues/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260507_Neutron_launch_simulation.jpeg",
+      "id": 39451,
+      "title": "Firefly Aerospace pushes debut of Alpha Block 2 rocket to the fourth quarter of 2026",
+      "url": "https://spaceflightnow.com/2026/08/11/firefly-aerospace-pushes-debut-of-alpha-block-2-rocket-to-the-fourth-quarter-of-2026/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260811_Firefly_Alpha_update-678x381.jpeg",
       "source": "Spaceflight Now",
-      "published_at": "2026-08-10"
+      "published_at": "2026-08-11"
     },
     {
-      "id": 39421,
-      "title": "Rocket Lab builds deployable infrastructure for Electron launches",
-      "url": "https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/54452351061_f80cf5db9c_k.jpg?fit=1024%2C768&ssl=1",
+      "id": 39450,
+      "title": "Golden Dome faces 2027 funding cliff",
+      "url": "https://spacenews.com/golden-dome-faces-2027-funding-cliff/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/GuetleinSMD.png?fit=1024%2C570&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-08-10"
+      "published_at": "2026-08-11"
     },
     {
-      "id": 39420,
-      "title": "Kepler books Neutron for 2028 optical relay launch",
-      "url": "https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/HO6iYUea4AAYYav.jpeg?fit=1024%2C904&ssl=1",
+      "id": 39448,
+      "title": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
+      "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2023/02/nancy-grace-roman-space-telescope-visualization.jpeg",
+      "source": "NASA",
+      "published_at": "2026-08-11"
+    },
+    {
+      "id": 39449,
+      "title": "National lab visit boosts NASA’s confidence in space nuclear propulsion mission",
+      "url": "https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/isaacman-inl.jpeg?fit=1024%2C768&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-08-10"
-    },
-    {
-      "id": 39419,
-      "title": "Community College Instructors Bring Astronomy Textbook Into 21st Century",
-      "url": "https://science.nasa.gov/learning-resources/science-activation/community-college-instructors-bring-astronomy-textbook-into-21st-century/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/Community_College_Instructors_Bring_Astronomy_Textbook_Into_21st_Century.jpg",
-      "source": "NASA",
-      "published_at": "2026-08-10"
-    },
-    {
-      "id": 39418,
-      "title": "NASA+ Debuts on discovery+, Coming Soon to HBO Max",
-      "url": "https://www.nasa.gov/news-release/nasa-debuts-on-discovery-coming-soon-to-hbo-max/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/nasa-promo-image-horizontal.png",
-      "source": "NASA",
-      "published_at": "2026-08-10"
+      "published_at": "2026-08-11"
     }
   ]
 }
