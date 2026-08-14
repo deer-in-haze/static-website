@@ -1,69 +1,69 @@
 {
-  "updated": "2026-08-13T07:22:22.365Z",
+  "updated": "2026-08-14T07:20:01.149Z",
   "items": [
     {
-      "id": 39473,
-      "title": "APOD: 2026 August 13 – Total Solar Eclipse Over Spain",
-      "url": "https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/total_eclipse_spain26.jpg",
+      "id": 39489,
+      "title": "APOD: 2026 August 14 – Total Solar Eclipse from Greenland",
+      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/TSE2026DR_Madhaven.jpeg",
+      "source": "NASA",
+      "published_at": "2026-08-14"
+    },
+    {
+      "id": 39490,
+      "title": "A Sunflower’s View of Totality",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-sunflower's-view-of-totality/55460226954_564d105934_o.jpg",
+      "source": "NASA",
+      "published_at": "2026-08-14"
+    },
+    {
+      "id": 39488,
+      "title": "CesiumAstro buys semiconductor specialist to boost constellation plans",
+      "url": "https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_1shey_2026.png?fit=879%2C494&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-08-14"
+    },
+    {
+      "id": 39487,
+      "title": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
+      "url": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/06/photospace4-1.jpg.webp?fit=878%2C500&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": 39486,
+      "title": "NASA’s 737 Reveals New Paint",
+      "url": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/20260813-nasa-737paint.jpg",
       "source": "NASA",
       "published_at": "2026-08-13"
     },
     {
-      "id": 39472,
-      "title": "Virgin Galactic delays resumption of commercial flights to 2027",
-      "url": "https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/vg-spaceship-aug26.jpeg?fit=1024%2C576&ssl=1",
+      "id": 39485,
+      "title": "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
+      "url": "https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/dsc-0453-2.jpg",
+      "source": "NASA",
+      "published_at": "2026-08-13"
+    },
+    {
+      "id": 39484,
+      "title": "Space Command expands Alabama footprint as headquarters relocation advances",
+      "url": "https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/IMG_0400-scaled.jpg?fit=1024%2C768&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-08-13"
     },
     {
-      "id": 39471,
-      "title": "Space Force orders two more Impulse Space vehicles for maneuvering demonstrations",
-      "url": "https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Impulse-Mira-Spacecraft-1-scaled.png?fit=1024%2C683&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-08-12"
-    },
-    {
-      "id": 39470,
-      "title": "Pentagon missile buildup changing the factory floor",
-      "url": "https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Machine-Image-2.jpg.jpeg?fit=1024%2C576&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-08-12"
-    },
-    {
-      "id": 39469,
-      "title": "Space Command identifies capabilities it needs for the next space war",
-      "url": "https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Screenshot-2026-08-12-at-3.23.57-PM.png?fit=1024%2C500&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-08-12"
-    },
-    {
-      "id": 39468,
-      "title": "Mike Fincke, a 30-year astronaut with experience across four spacecraft, retires from NASA",
-      "url": "https://spaceflightnow.com/2026/08/12/mike-fincke-a-30-year-astronaut-with-experience-across-four-human-rated-spacecraft-retires-from-nasa/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260812_Mike_Fincke-1-678x381.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-08-12"
-    },
-    {
-      "id": 39467,
-      "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
-      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/pia00132orig.jpg",
+      "id": 39483,
+      "title": "Perseids Meteor Shower",
+      "url": "https://www.nasa.gov/image-article/perseids-meteor-shower-2/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp",
       "source": "NASA",
-      "published_at": "2026-08-12"
-    },
-    {
-      "id": 39466,
-      "title": "2026 Total Solar Eclipse in Spain",
-      "url": "https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg",
-      "source": "NASA",
-      "published_at": "2026-08-12"
+      "published_at": "2026-08-13"
     }
   ]
 }
