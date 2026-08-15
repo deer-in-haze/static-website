@@ -1,69 +1,69 @@
 {
-  "updated": "2026-08-14T07:20:01.149Z",
+  "updated": "2026-08-15T06:33:20.441Z",
   "items": [
     {
-      "id": 39489,
-      "title": "APOD: 2026 August 14 – Total Solar Eclipse from Greenland",
-      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/TSE2026DR_Madhaven.jpeg",
+      "id": 39514,
+      "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
+      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/PerseidsAPOD_P-MHeden.jpg",
       "source": "NASA",
+      "published_at": "2026-08-15"
+    },
+    {
+      "id": 39513,
+      "title": "Rocket Lab advances via series of announcements",
+      "url": "https://www.nasaspaceflight.com/2026/08/rocket-lab-advances-announcements/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-15-04-32-28-725.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-08-15"
+    },
+    {
+      "id": 39512,
+      "title": "NASA Administrator ‘extremely confident’ in Artemis 3 mission in 2027",
+      "url": "https://spaceflightnow.com/2026/08/14/nasa-administrator-extremely-confident-in-artemis-3-launch-in-2027/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260814_max_power_jared_SFN_AB-1.jpeg",
+      "source": "Spaceflight Now",
       "published_at": "2026-08-14"
     },
     {
-      "id": 39490,
-      "title": "A Sunflower’s View of Totality",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-sunflower's-view-of-totality/55460226954_564d105934_o.jpg",
-      "source": "NASA",
-      "published_at": "2026-08-14"
-    },
-    {
-      "id": 39488,
-      "title": "CesiumAstro buys semiconductor specialist to boost constellation plans",
-      "url": "https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_1shey_2026.png?fit=879%2C494&ssl=1",
+      "id": 39511,
+      "title": "U.S. Space Force adds second surveillance sensor to Japanese constellation",
+      "url": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/260814-X-X0813-1001.png?fit=768%2C1024&ssl=1",
       "source": "SpaceNews",
       "published_at": "2026-08-14"
     },
     {
-      "id": 39487,
-      "title": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
-      "url": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/06/photospace4-1.jpg.webp?fit=878%2C500&ssl=1",
+      "id": 39510,
+      "title": "Wallops gears up for an increase in launches",
+      "url": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/wallops-vaspace.jpeg?fit=1024%2C576&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-08-13"
+      "published_at": "2026-08-14"
     },
     {
-      "id": 39486,
-      "title": "NASA’s 737 Reveals New Paint",
-      "url": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/20260813-nasa-737paint.jpg",
+      "id": 39509,
+      "title": "Isaacman “Extremely Confident” Artemis III Will Launch in 2027",
+      "url": "https://spacepolicyonline.com/news/isaacman-extremely-confident-artemis-iii-will-launch-in-2027/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/06/Artemis-3-crew-Robt-Markowitz.webp-300x198.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-08-14"
+    },
+    {
+      "id": 39508,
+      "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/liveenable-im3-sustainabilitylogistics-withastros-1.png",
       "source": "NASA",
-      "published_at": "2026-08-13"
+      "published_at": "2026-08-14"
     },
     {
-      "id": 39485,
-      "title": "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
-      "url": "https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/dsc-0453-2.jpg",
+      "id": 39507,
+      "title": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/26-nasa-event-maxpower-fm-16x9-blue.jpg",
       "source": "NASA",
-      "published_at": "2026-08-13"
-    },
-    {
-      "id": 39484,
-      "title": "Space Command expands Alabama footprint as headquarters relocation advances",
-      "url": "https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/IMG_0400-scaled.jpg?fit=1024%2C768&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-08-13"
-    },
-    {
-      "id": 39483,
-      "title": "Perseids Meteor Shower",
-      "url": "https://www.nasa.gov/image-article/perseids-meteor-shower-2/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp",
-      "source": "NASA",
-      "published_at": "2026-08-13"
+      "published_at": "2026-08-14"
     }
   ]
 }
