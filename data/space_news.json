@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-15T06:33:20.441Z",
+  "updated": "2026-08-16T06:34:35.234Z",
   "items": [
+    {
+      "id": 39520,
+      "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
+      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/mwyellowstone_lane_1800.jpg",
+      "source": "NASA",
+      "published_at": "2026-08-16"
+    },
+    {
+      "id": 39519,
+      "title": "Live coverage: SpaceX to launch satellite replenishment mission for Globalstar from Cape Canaveral",
+      "url": "https://spaceflightnow.com/2026/08/15/live-coverage-spacex-to-launch-satellite-replenishment-mission-for-globalstar-from-cape-canaveral/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260815_CC_Globalstar_2_R_1_vertical.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-08-15"
+    },
+    {
+      "id": 39518,
+      "title": "Lunar orbiter among upcoming NASA CLPS task orders",
+      "url": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/lro-illus.jpeg?fit=1024%2C576&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-08-15"
+    },
+    {
+      "id": 39517,
+      "title": "Blue Origin overviews plan for dual pad ops at Cape Canaveral",
+      "url": "https://www.nasaspaceflight.com/2026/08/blue-origin-launch-pad-cape-canaveral/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-15-23-52-07-432.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-08-15"
+    },
+    {
+      "id": 39516,
+      "title": "Ukrainian Missiles Strike Russian Soyuz Rocket Factory",
+      "url": "https://spacepolicyonline.com/news/ukrainian-missiles-strike-russian-soyuz-rocket-factory/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Soyuz-MS-29-launch-Ingalls-300x273.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-08-15"
+    },
+    {
+      "id": 39515,
+      "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+      "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1774582700.jpg",
+      "source": "Arstechnica",
+      "published_at": "2026-08-15"
+    },
     {
       "id": 39514,
       "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
@@ -16,54 +64,6 @@
       "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-15-04-32-28-725.jpg",
       "source": "NASASpaceflight",
       "published_at": "2026-08-15"
-    },
-    {
-      "id": 39512,
-      "title": "NASA Administrator ‘extremely confident’ in Artemis 3 mission in 2027",
-      "url": "https://spaceflightnow.com/2026/08/14/nasa-administrator-extremely-confident-in-artemis-3-launch-in-2027/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260814_max_power_jared_SFN_AB-1.jpeg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-08-14"
-    },
-    {
-      "id": 39511,
-      "title": "U.S. Space Force adds second surveillance sensor to Japanese constellation",
-      "url": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/260814-X-X0813-1001.png?fit=768%2C1024&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-08-14"
-    },
-    {
-      "id": 39510,
-      "title": "Wallops gears up for an increase in launches",
-      "url": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/wallops-vaspace.jpeg?fit=1024%2C576&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-08-14"
-    },
-    {
-      "id": 39509,
-      "title": "Isaacman “Extremely Confident” Artemis III Will Launch in 2027",
-      "url": "https://spacepolicyonline.com/news/isaacman-extremely-confident-artemis-iii-will-launch-in-2027/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/06/Artemis-3-crew-Robt-Markowitz.webp-300x198.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-08-14"
-    },
-    {
-      "id": 39508,
-      "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/liveenable-im3-sustainabilitylogistics-withastros-1.png",
-      "source": "NASA",
-      "published_at": "2026-08-14"
-    },
-    {
-      "id": 39507,
-      "title": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/26-nasa-event-maxpower-fm-16x9-blue.jpg",
-      "source": "NASA",
-      "published_at": "2026-08-14"
     }
   ]
 }
