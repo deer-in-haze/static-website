@@ -1,74 +1,74 @@
 {
-  "updated": "2026-08-15",
+  "updated": "2026-08-16",
   "items": [
     {
       "slot": 1,
-      "date": "2026-08-09",
-      "title": "Contemplating the Sun",
-      "explanation": "Have you contemplated your home star recently?  Featured here, a Sun partially eclipsed on the top left by the Moon is also seen eclipsed by earthlings contemplating the eclipse below.  This spectacular menagerie of silhouettes was taken in 2012 from the Glen Canyon National Recreation Area near Page, Arizona, USA, where park rangers and astronomers expounded on the unusual event to interested gatherers.  Also, faintly visible on the Sun's disk, just to the lower right of the dark Moon's disk, is a group of sunspots.  A new solar eclipse will occur this week and give many people in northern North America, Europe, and northwestern Africa a new chance to contemplate a partially eclipsed Sun. A thin swath of Earth through Greenland and Spain will further experience a total solar eclipse. An open question is whether any meteors from the peaking Perseids will be visible during totality.",
-      "media_type": "image",
-      "apod_url": "https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_1024.jpg",
-      "image_path": "images/apod/1.jpg"
-    },
-    {
-      "slot": 2,
       "date": "2026-08-10",
       "title": "Three Galaxy Pairs",
       "explanation": "ch of these pairs of galaxies is different.  The two galaxies at the top are likely not interacting, at least presently.  However, the top galaxy with the blue stripe, NGC 4650A, is a polar ring galaxy and may be the result of a past galaxy collision. The two galaxies in the middle of the featured image appear like they could be interacting gravitationally -- but their relative speeds make this unlikely.  Of these two, the larger galaxy, NGC 4650, is a spiral galaxy with a bright bar of stars across its center.  The two galaxies at the bottom are actively interacting.  Possibly in a billion years or so, NGC 4622A and NGC 4622B will merge and become one single galaxy. All of these galaxies are likely members of the larger Centaurus Galaxy Cluster.    Explore the Universe: Random APOD Generator",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_2784.jpg",
-      "image_path": "images/apod/2.jpg"
+      "image_path": "images/apod/1.jpg"
     },
     {
-      "slot": 3,
+      "slot": 2,
       "date": "2026-08-11",
       "title": "Six Moons of Saturn",
       "explanation": "How many moons does Saturn have? While the total will likely continue to grow, as of June 2026 the ringed gas giant had 293 confirmed moons. That's easily more than any other planet of the Solar System, including ruling gas giant Jupiter with a mere 115 confirmed moons. Most of Saturn's known moons are small, irregular satellites. Many are only few kilometers to a fraction of a kilometer across and grouped in tilted outer orbits. Six of its largest satellites can be seen here, though, in this sharp telescopic Saturnian family portrait taken on August 5. Larger than Earth's Moon and even slightly larger than inner planet Mercury, Titan, with a diameter of 5,150 kilometers, is at lower right. You can also spot icy major moons Mimas, Tethys, Enceladus, Dione, and Rhea in the frame. Saturn's first known natural satellite, Titan was discovered in 1655 by Dutch astronomer Christiaan Huygens. During the space age Voyager and Cassini discoveries have added to the swelling ranks of Saturnian moons.  NASA Stream: August 12 Total Solar Eclipse.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2608/2026-08-05-0609_7-SaturnSystem_c.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2608/2026-08-05-0609_7-SaturnSystem_c.jpg",
-      "image_path": "images/apod/3.jpg"
+      "image_path": "images/apod/2.jpg"
     },
     {
-      "slot": 4,
+      "slot": 3,
       "date": "2026-08-12",
       "title": "Perseids Over a little Planet",
       "explanation": "It looks like a view from the Little Prince's planet.   The featured image is a throwback to the 2024 Perseid meteor shower, surrounded in this projection by the Bieszczady Mountains in Poland.   Visible in the sky is the arch of the Milky Way, along with several nebulas in red and over a hundred meteors pointing to the radiant.     The Perseids are easily visible and quite popular in the Northern Hemisphere summer. (Watching meteor showers in the winter is less convenient for a good reason).     This year they are expected to offer an even more dazzling spectacle than usual, because the peak coincides with a new moon.   The 2026 Perseid meteor shower will peak tonight with as many as 50-100 meteors per hour, when the Earth's path crosses through debris left behind by Comet Swift-Tuttle.   Typically, the best times for seeing the meteors are between midnight and pre-dawn.   You won't need binoculars to see the meteors, but a lawn chair and a dark sky location help.     Growing gallery: Solar Eclipse of 2026 August 12",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors_1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors.jpg",
-      "image_path": "images/apod/4.jpg"
+      "image_path": "images/apod/3.jpg"
     },
     {
-      "slot": 5,
+      "slot": 4,
       "date": "2026-08-13",
       "title": "Total Solar Eclipse Over Spain",
       "explanation": "On August 12th, 2026, the Moon totally eclipsed the Sun and cast its shadow across Siberia, Greenland, Iceland, Spain, and Portugal. Today’s image features two total solar eclipses viewed from Zaragoza, Spain, one over the Cathedral-Basilica of Our Lady of the Pillar and the other reflecting in the Ebro River. For a few moments, Spain saw its first major total solar eclipse since 1905. Those witnessing totality may experience a chill in the air, the quieting of birds, the confused chirps of insects, and the shared awe of many. It’s the corona’s time to shine as the Sun’s bright disk is blocked by the Moon. Among other reasons to study eclipses, they help scientists understand why the corona is millions of degrees hotter than the Sun’s surface. Enthusiastic citizens can contribute to these studies by recording how wildlife responds, imaging the corona, and monitoring air temperature and clouds.  More spectacular eclipse images: Solar Eclipse of 2026 August 12",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2608/total_solar_eclipse.jpg",
-      "image_path": "images/apod/5.jpg"
+      "image_path": "images/apod/4.jpg"
     },
     {
-      "slot": 6,
+      "slot": 5,
       "date": "2026-08-14",
       "title": "Total Solar Eclipse from Greenland",
       "explanation": "On August 12, the Moon's shadow reached out to touch our fair planet. Beginning in the Arctic Ocean, it swept along a narrow track that led the dark lunar umbra across parts of Greenland, Iceland, the Atlantic, Portugal, and northern Spain. And for a moment, denizens of Earth who found themselves with clear skies under the shadow of the Moon could witness a total solar eclipse. After dodging the weather by sea and making a landing along Rype Fjord on the Greenland east coast (at 71.07055N, 27.71252W), this hard-won snapshot was captured at 17:33:26 UTC. That's near the initial reach of clearing skies along the path of totality, so the image is likely one of the first unobstructed views of the totally eclipsed Sun. Through a break in the clouds, the stunning photo also records one of this eclipse's transient diamond rings and the magnificent solar corona emerging near the moment totality began.  More spectacular eclipse images: Solar Eclipse of 2026 August 12",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg",
       "hdurl": "https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven.jpeg",
-      "image_path": "images/apod/6.jpg"
+      "image_path": "images/apod/5.jpg"
     },
     {
-      "slot": 7,
+      "slot": 6,
       "date": "2026-08-15",
       "title": "Bright Perseids from Sweden",
       "explanation": "Known for its bright and fast meteors, the annual Perseid Meteor Shower comes to planet Earth's skies from a radiant in the heroic constellation Perseus. The popular northern summer celestial spectacle is created as grains of dust cast off along the orbit of periodic comet 109P/Swift-Tuttle vaporize in Earth's dense atmosphere, tracing brief, but beautiful streaks through the night. Taken near the shower's peak of activity on August 12, this composite image recorded two bright perseid meteors and one meteor's watery reflection from a location near the coastal village of Grisslehamn, Sweden.  Almost as bright as Altair, brightest star on the scene, the meteors appear along with the faint, diffuse background of the Milky Way. This year, the shower's peak activity coincided with a New Moon, so perseid meteor flashes were undiminished by bright moonlight. And for many skywatchers, this night of bright perseid meteors followed their viewing of the silhouette of the New Moon in a much anticipated solar eclipse.  Growing Gallery: Solar Eclipse of 2026 August 12",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg",
+      "image_path": "images/apod/6.jpg"
+    },
+    {
+      "slot": 7,
+      "date": "2026-08-16",
+      "title": "Milky Way over Yellowstone",
+      "explanation": "The Milky Way was not created by an evaporating lake.  The colorful pool of water, about 10 meters across, is known as Silex Spring and is located in Yellowstone National Park in Wyoming, USA.  Illuminated artificially, the colors are caused by layers of bacteria that grow in the hot spring.  Steam rises off the spring, heated by underground magma associated with the Yellowstone Hotspot.  Unrelated and far in the distance, the central band of our Milky Way Galaxy arches high overhead, a band lit by billions of stars.  The picture features a 16-image panorama taken in 2014.  If the Yellowstone Hotspot causes another supervolcanic eruption as it did about 640,000 years ago, a large part of North America would be affected.",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_1800.jpg",
       "image_path": "images/apod/7.jpg"
     }
   ]
