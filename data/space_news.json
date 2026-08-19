@@ -1,69 +1,69 @@
 {
-  "updated": "2026-08-18T06:38:09.356Z",
+  "updated": "2026-08-19T06:38:45.169Z",
   "items": [
     {
-      "id": 39549,
-      "title": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04976_opgs_edr_fcam_FLB_839253016EDR_F1240348FHAZ00337M_.jpg",
+      "id": 39571,
+      "title": "Behind the Lens: Meet NASA Johnson’s Photographers",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e408024-alt.jpg",
       "source": "NASA",
-      "published_at": "2026-08-17"
+      "published_at": "2026-08-19"
     },
     {
-      "id": 39548,
-      "title": "Launch Preview: Chang’e 7 headlines week of Chinese and Starlink launches",
-      "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-081726/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/10/Launch-first-timers-watch-the-Kuiper-KF-03-mission-from-SLC-40-last-week-scaled.jpeg",
+      "id": 39570,
+      "title": "APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor",
+      "url": "https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/",
+      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+      "source": "NASA",
+      "published_at": "2026-08-19"
+    },
+    {
+      "id": 39569,
+      "title": "Zhuque-3 Completes Second Flight with Successful First-Stage Landing",
+      "url": "https://www.nasaspaceflight.com/2026/08/zhuque-3-second-flight-successful-landing/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-19-04-15-16-283.jpg",
       "source": "NASASpaceflight",
-      "published_at": "2026-08-17"
+      "published_at": "2026-08-19"
     },
     {
-      "id": 39547,
-      "title": "HEO to use Planet satellites for non-Earth imaging",
-      "url": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Planet-x-HEO.png?fit=1024%2C576&ssl=1",
+      "id": 39568,
+      "title": "Space nuclear programs face near- and long-term challenges",
+      "url": "https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/sr-1-freedom.jpeg?fit=1024%2C552&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-08-17"
+      "published_at": "2026-08-19"
     },
     {
-      "id": 39546,
-      "title": "New EU sanctions target leaders of Russia’s space industry",
-      "url": "https://spacenews.com/new-eu-sanctions-target-leaders-of-russias-space-industry/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/moscow.jpg?fit=1024%2C640&ssl=1",
+      "id": 39567,
+      "title": "China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket",
+      "url": "https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Zhuque-3-Y2-liftoff-18aug2026-Landspace.jpg?fit=1024%2C573&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-08-17"
+      "published_at": "2026-08-19"
     },
     {
-      "id": 39545,
-      "title": "NASA Selects Companies to Provide Payload Processing Services",
-      "url": "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg",
-      "source": "NASA",
-      "published_at": "2026-08-17"
-    },
-    {
-      "id": 39544,
-      "title": "NASA Mission Studies Air Pollution Over Ethiopia",
-      "url": "https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/1-addis-ababa-city-view.jpg",
-      "source": "NASA",
-      "published_at": "2026-08-17"
-    },
-    {
-      "id": 39543,
-      "title": "Next Generation of Planetary Scientists Learn Public Engagement Skills",
-      "url": "https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/sciact/FORCE_leaders_sciact.jpg",
-      "source": "NASA",
-      "published_at": "2026-08-17"
-    },
-    {
-      "id": 39542,
-      "title": "ULA names Peller as new CEO",
-      "url": "https://spacenews.com/ula-names-peller-as-new-ceo/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55090240803_a555b0ee7e_k.jpg?fit=1024%2C683&ssl=1",
+      "id": 39566,
+      "title": "Rocket Lab to test Space Force data network connection in orbit in 2027",
+      "url": "https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Family-of-Spacecraft-V1-sm__FillWzEyMDAsNTQzXQ.jpg?fit=1024%2C463&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-08-17"
+      "published_at": "2026-08-18"
+    },
+    {
+      "id": 39565,
+      "title": "Astronauts remove failed antenna; run out of time to install a spare",
+      "url": "https://spaceflightnow.com/2026/08/18/astronauts-remove-failed-antenna-run-out-of-time-to-install-a-spare/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260818_antanna_stowed.jpeg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-08-18"
+    },
+    {
+      "id": 39564,
+      "title": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
+      "url": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/",
+      "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/lro/NASA_LRO_Falcon9impact_2026_GIF.gif",
+      "source": "NASA",
+      "published_at": "2026-08-18"
     }
   ]
 }
