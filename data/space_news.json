@@ -1,69 +1,69 @@
 {
-  "updated": "2026-08-19T06:38:45.169Z",
+  "updated": "2026-08-20T06:39:56.297Z",
   "items": [
     {
-      "id": 39571,
-      "title": "Behind the Lens: Meet NASA Johnson’s Photographers",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e408024-alt.jpg",
+      "id": 39594,
+      "title": "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus",
+      "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/IMG_5201_sgarbossa.jpeg",
       "source": "NASA",
+      "published_at": "2026-08-20"
+    },
+    {
+      "id": 39593,
+      "title": "Hypersonic missile startup Castelion raises $1 billion",
+      "url": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/081926-Castelion-Blackbeard.jpg-scaled.jpeg?fit=1024%2C683&ssl=1",
+      "source": "SpaceNews",
       "published_at": "2026-08-19"
     },
     {
-      "id": 39570,
-      "title": "APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor",
-      "url": "https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/",
-      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-      "source": "NASA",
+      "id": 39592,
+      "title": "Eartheye Space forges strategic partnership with IN2",
+      "url": "https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_eartheye_in2.png?fit=879%2C689&ssl=1",
+      "source": "SpaceNews",
       "published_at": "2026-08-19"
     },
     {
-      "id": 39569,
-      "title": "Zhuque-3 Completes Second Flight with Successful First-Stage Landing",
-      "url": "https://www.nasaspaceflight.com/2026/08/zhuque-3-second-flight-successful-landing/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-19-04-15-16-283.jpg",
+      "id": 39591,
+      "title": "Space Force Funding Could Be Record High, If Congress Agrees",
+      "url": "https://spacepolicyonline.com/news/space-force-funding-could-be-record-high-if-congress-agrees/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/08/sam-wilson-1-300x220.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-08-19"
+    },
+    {
+      "id": 39590,
+      "title": "Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut",
+      "url": "https://www.nasaspaceflight.com/2026/08/stoke-update-081926/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/AE14D6E5-F897-4488-A5CC-150A3985FC1C.jpeg",
       "source": "NASASpaceflight",
       "published_at": "2026-08-19"
     },
     {
-      "id": 39568,
-      "title": "Space nuclear programs face near- and long-term challenges",
-      "url": "https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/sr-1-freedom.jpeg?fit=1024%2C552&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-08-19"
-    },
-    {
-      "id": 39567,
-      "title": "China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket",
-      "url": "https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Zhuque-3-Y2-liftoff-18aug2026-Landspace.jpg?fit=1024%2C573&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-08-19"
-    },
-    {
-      "id": 39566,
-      "title": "Rocket Lab to test Space Force data network connection in orbit in 2027",
-      "url": "https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Family-of-Spacecraft-V1-sm__FillWzEyMDAsNTQzXQ.jpg?fit=1024%2C463&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-08-18"
-    },
-    {
-      "id": 39565,
-      "title": "Astronauts remove failed antenna; run out of time to install a spare",
-      "url": "https://spaceflightnow.com/2026/08/18/astronauts-remove-failed-antenna-run-out-of-time-to-install-a-spare/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260818_antanna_stowed.jpeg",
+      "id": 39589,
+      "title": "LandSpace becomes first commercial Chinese company to land an orbital-class booster",
+      "url": "https://spaceflightnow.com/2026/08/19/landspace-becomes-first-commercial-chinese-company-to-land-an-orbital-class-booster/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260819_LandSpace_booster_landing.jpg",
       "source": "Spaceflight Now",
-      "published_at": "2026-08-18"
+      "published_at": "2026-08-19"
     },
     {
-      "id": 39564,
-      "title": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
-      "url": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/",
-      "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/lro/NASA_LRO_Falcon9impact_2026_GIF.gif",
+      "id": 39588,
+      "title": "No-Go for Katalyst’s Reboost of NASA’s Swift Observatory",
+      "url": "https://spacepolicyonline.com/news/no-go-for-katalysts-reboost-of-nasas-swift-observatory/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Katalyst-LINK-Pegasus-300x203.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-08-19"
+    },
+    {
+      "id": 39587,
+      "title": "NASA TechLeap Prize: Orbital Clarity Challenge",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2023/02/techleap-logo-crop.jpeg",
       "source": "NASA",
-      "published_at": "2026-08-18"
+      "published_at": "2026-08-19"
     }
   ]
 }
