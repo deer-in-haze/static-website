@@ -1,69 +1,69 @@
 {
-  "updated": "2026-08-27T17:18:56.900Z",
+  "updated": "2026-08-28T18:11:19.202Z",
   "items": [
     {
-      "id": 39706,
-      "title": "ESA Awards €544 Million in European Launcher Challenge Contracts",
-      "url": "https://europeanspaceflight.com/esa-awards-e544-million-in-european-launcher-challenge-contracts/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/08/ESA-Awards-544-Million-Euros-in-European-Launcher-Challenge-Contracts.webp",
+      "id": 39722,
+      "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+      "url": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/congressional-space-medal-of-honor-ceremony-1.jpg",
+      "source": "NASA",
+      "published_at": "2026-08-28"
+    },
+    {
+      "id": 39721,
+      "title": "Trump calls for creation of a \"space academy\" to train future NASA leaders",
+      "url": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998.jpg",
+      "source": "Arstechnica",
+      "published_at": "2026-08-28"
+    },
+    {
+      "id": 39720,
+      "title": "President Trump Signs Executive Order to Create US Space Academy",
+      "url": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/eo-1.png",
+      "source": "NASA",
+      "published_at": "2026-08-28"
+    },
+    {
+      "id": 39718,
+      "title": "Orbex’s Sutherland Spaceport Assets Sold to Scottish Development Agency",
+      "url": "https://europeanspaceflight.com/orbexs-sutherland-spaceport-assets-sold-to-scottish-development-agency/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/08/Orbexs-Sutherland-Spaceport-Assets-Sold-to-Scottish-Development-Agency.webp",
       "source": "European Spaceflight",
-      "published_at": "2026-08-27"
+      "published_at": "2026-08-28"
     },
     {
-      "id": 39705,
-      "title": "NASA Astronaut Jonny Kim Departs Agency to Continue Military Service",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/",
-      "image_url": "https://images-assets.nasa.gov/image/jsc2024e067210_alt/jsc2024e067210_alt~large.jpg",
-      "source": "NASA",
-      "published_at": "2026-08-27"
-    },
-    {
-      "id": 39704,
-      "title": "The electronics ‘under the hood’ of space networking",
-      "url": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-innoflight-smallsat26-scaled.jpg?fit=1024%2C768&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-08-27"
-    },
-    {
-      "id": 39701,
-      "title": "First contracts kick off European Launcher Challenge",
-      "url": "https://www.esa.int/Enabling_Support/Space_Transportation/First_contracts_kick_off_European_Launcher_Challenge",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/european_launcher_challenge_visual/26128354-4-eng-GB/European_Launcher_Challenge_visual_card_full.png",
+      "id": 39719,
+      "title": "Sophie Adenot's third spacewalk (U.S. Spacewalk 99)",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Sophie_Adenot_s_third_spacewalk_U.S._Spacewalk_99",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/sophie_adenot_s_third_spacewalk_u.s._spacewalk_99/27440071-1-eng-GB/Sophie_Adenot_s_third_spacewalk_U.S._Spacewalk_99_card_full.png",
       "source": "ESA",
-      "published_at": "2026-08-27"
+      "published_at": "2026-08-28"
     },
     {
-      "id": 39700,
-      "title": "MTG-I2 ready for launch on Ariane 6",
-      "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_ready_for_launch_on_Ariane_6",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/mtg-i2_encapsulated/27433682-1-eng-GB/MTG-I2_encapsulated_card_full.jpg",
+      "id": 39716,
+      "title": "Week in images: 24-28 August 2026",
+      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_August_2026",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-987/27435962-2-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-98_card_full.jpg",
       "source": "ESA",
-      "published_at": "2026-08-27"
+      "published_at": "2026-08-28"
     },
     {
-      "id": 39699,
-      "title": "Watch live: BepiColombo begins its arrival at Mercury",
-      "url": "https://www.esa.int/Enabling_Support/Operations/Watch_live_BepiColombo_begins_its_arrival_at_Mercury",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/03/mercury_transfer_module_separation3/17405480-1-eng-GB/Mercury_Transfer_Module_separation_card_full.jpg",
+      "id": 39717,
+      "title": "Ariane 6 launch with MTG-I2 – highlights",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Ariane_6_launch_with_MTG-I2_highlights",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/ariane_6_launch_with_mtg-i2_highlights/27439862-1-eng-GB/Ariane_6_launch_with_MTG-I2_highlights_card_full.png",
       "source": "ESA",
-      "published_at": "2026-08-27"
+      "published_at": "2026-08-28"
     },
     {
-      "id": 39698,
-      "title": "APOD: 2026 August 27 – Colorful Aurora over an Icelandic Waterfall",
-      "url": "https://science.nasa.gov/image-article/apod-2026-august-27-colorful-aurora-over-an-icelandic-waterfall/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Aurora_over_Fall.jpg",
-      "source": "NASA",
-      "published_at": "2026-08-27"
-    },
-    {
-      "id": 39702,
-      "title": "Rare, Widespread Snow in the Atacama Desert",
-      "url": "https://science.nasa.gov/earth/earth-observatory/rare-widespread-snow-in-the-atacama-desert/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/rare,-widespread-snow-in-the-atacama-desert/atacamasnowzm_oli_20260806.jpg",
-      "source": "NASA",
-      "published_at": "2026-08-27"
+      "id": 39713,
+      "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
+      "url": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/European_Launcher_Challenge_launch_service_providers_initial_capacity_pillars.png",
+      "source": "Arstechnica",
+      "published_at": "2026-08-28"
     }
   ]
 }
