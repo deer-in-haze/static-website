@@ -1,6 +1,38 @@
 {
-  "updated": "2026-08-28T18:11:19.202Z",
+  "updated": "2026-08-29T12:16:18.324Z",
   "items": [
+    {
+      "id": 39726,
+      "title": "ESA awards first European Launcher Challenge contracts",
+      "url": "https://www.nasaspaceflight.com/2026/08/esa-european-launcher-challenge-contracts/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-29-11-53-55-612.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-08-29"
+    },
+    {
+      "id": 39725,
+      "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
+      "url": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg",
+      "source": "NASA",
+      "published_at": "2026-08-28"
+    },
+    {
+      "id": 39724,
+      "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/cerberuz-lunarecycle-winners.jpg",
+      "source": "NASA",
+      "published_at": "2026-08-28"
+    },
+    {
+      "id": 39723,
+      "title": "Trump Honors Artemis II Crew, Signs Executive Order to Establish a U.S. Space Academy",
+      "url": "https://spacepolicyonline.com/news/trump-honors-artemis-ii-crew-signs-executive-order-to-establish-a-u-s-space-academy/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Isaacman-official-Ingalls-240x300.webp",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-08-28"
+    },
     {
       "id": 39722,
       "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
@@ -31,38 +63,6 @@
       "url": "https://europeanspaceflight.com/orbexs-sutherland-spaceport-assets-sold-to-scottish-development-agency/",
       "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/08/Orbexs-Sutherland-Spaceport-Assets-Sold-to-Scottish-Development-Agency.webp",
       "source": "European Spaceflight",
-      "published_at": "2026-08-28"
-    },
-    {
-      "id": 39719,
-      "title": "Sophie Adenot's third spacewalk (U.S. Spacewalk 99)",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Sophie_Adenot_s_third_spacewalk_U.S._Spacewalk_99",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/sophie_adenot_s_third_spacewalk_u.s._spacewalk_99/27440071-1-eng-GB/Sophie_Adenot_s_third_spacewalk_U.S._Spacewalk_99_card_full.png",
-      "source": "ESA",
-      "published_at": "2026-08-28"
-    },
-    {
-      "id": 39716,
-      "title": "Week in images: 24-28 August 2026",
-      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_August_2026",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-987/27435962-2-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-98_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-08-28"
-    },
-    {
-      "id": 39717,
-      "title": "Ariane 6 launch with MTG-I2 – highlights",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Ariane_6_launch_with_MTG-I2_highlights",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/ariane_6_launch_with_mtg-i2_highlights/27439862-1-eng-GB/Ariane_6_launch_with_MTG-I2_highlights_card_full.png",
-      "source": "ESA",
-      "published_at": "2026-08-28"
-    },
-    {
-      "id": 39713,
-      "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
-      "url": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/European_Launcher_Challenge_launch_service_providers_initial_capacity_pillars.png",
-      "source": "Arstechnica",
       "published_at": "2026-08-28"
     }
   ]
