@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-29T12:16:18.324Z",
+  "updated": "2026-08-30T11:14:37.691Z",
   "items": [
+    {
+      "id": 39729,
+      "title": "Roman Space Telescope, NASA’s next ‘great observatory,’ poised for Sunday launch",
+      "url": "https://spaceflightnow.com/2026/08/29/roman-space-telescope-nasas-next-great-observatory-poised-for-sunday-launch/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2022/07/20220719roman.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-08-29"
+    },
+    {
+      "id": 39728,
+      "title": "NASA, SpaceX set to launch the Nancy Grace Roman Space Telescope from Florida on Sunday",
+      "url": "https://www.nasaspaceflight.com/2026/08/roman-telescope-launch/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/IMG_0596.jpeg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-08-29"
+    },
+    {
+      "id": 39727,
+      "title": "NASA’s Roman Space Telescope Go for Launch, Five Years of Discovery",
+      "url": "https://www.spacescout.info/2026/08/nasas-roman-space-telescope-go-for-launch/",
+      "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/08/image-19.png",
+      "source": "Space Scout",
+      "published_at": "2026-08-29"
+    },
     {
       "id": 39726,
       "title": "ESA awards first European Launcher Challenge contracts",
@@ -39,30 +63,6 @@
       "url": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
       "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/congressional-space-medal-of-honor-ceremony-1.jpg",
       "source": "NASA",
-      "published_at": "2026-08-28"
-    },
-    {
-      "id": 39721,
-      "title": "Trump calls for creation of a \"space academy\" to train future NASA leaders",
-      "url": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-08-28"
-    },
-    {
-      "id": 39720,
-      "title": "President Trump Signs Executive Order to Create US Space Academy",
-      "url": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/eo-1.png",
-      "source": "NASA",
-      "published_at": "2026-08-28"
-    },
-    {
-      "id": 39718,
-      "title": "Orbex’s Sutherland Spaceport Assets Sold to Scottish Development Agency",
-      "url": "https://europeanspaceflight.com/orbexs-sutherland-spaceport-assets-sold-to-scottish-development-agency/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/08/Orbexs-Sutherland-Spaceport-Assets-Sold-to-Scottish-Development-Agency.webp",
-      "source": "European Spaceflight",
       "published_at": "2026-08-28"
     }
   ]
