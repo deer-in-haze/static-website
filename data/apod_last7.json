@@ -1,74 +1,74 @@
 {
-  "updated": "2026-08-29",
+  "updated": "2026-08-30",
   "items": [
     {
       "slot": 1,
-      "date": "2026-08-23",
-      "title": "Cassini Approaches Saturn",
-      "explanation": "What would it look like to approach the grand planet Saturn? One doesn't have to just imagine -- the Cassini spacecraft did just this in 2004, recording thousands of images along the way, and hundreds of thousands more since entering orbit. Some of Cassini's early images have been digitally tweaked, cropped, and compiled into the featured inspiring video which is part of a larger IMAX movie project named In Saturn's Rings.  In the concluding sequence, Saturn looms increasingly large on approach as cloudy Titan swoops below. With Saturn whirling around in the background, Cassini is next depicted flying over Mimas, with large Herschel Crater clearly visible. Saturn's majestic rings then take over the show as Cassini crosses Saturn's thin ring plane. Dark shadows of the ring appear on Saturn itself. Finally, the enigmatic ice-geyser moon Enceladus appears in the distance and then is approached just as the video clip ends. After more than a decade of exploration and discovery, the Cassini spacecraft ran low on fuel in 2017 was directed to enter Saturn's atmosphere, where it surely melted.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
-      "media_type": "video",
-      "apod_url": "https://www.youtube.com/embed/UgxWkOXcdZU?si=GOlnR_CQR3sDtl-j&t=23",
-      "hdurl": null,
-      "image_path": "images/apod/1.jpg"
-    },
-    {
-      "slot": 2,
       "date": "2026-08-24",
       "title": "Comet 220P in Outburst",
       "explanation": "Comet 220P is unexpectedly bright. Normally, periodic Comet 220P/McNaught is so dim that to see it requires a telescope. Two surprising outbursts this year, however, have made it about 20,000 times brighter than usual, so that it is now visible with binoculars and long-duration camera exposures. As expected, Comet 220P continues to orbit the Sun between Mars and Jupiter with a period of over 5 years.  The featured long duration exposure, taken 10 days ago from South Africa, shows the comet's bright green head and short dust tail.  Reasons for Comet 220P's impressive outbursts are unknown but could be caused by the release of built-up subsurface gas or comet quakes.  Comet 220P will pass about one Earth-Sun distance from the Earth in October, after which it is expected to fade quickly  as it begins its return to the far part of its orbit.   APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2608/Comet220P_SA_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2608/Comet220P_SA_4104.jpg",
-      "image_path": "images/apod/2.jpg"
+      "image_path": "images/apod/1.jpg"
     },
     {
-      "slot": 3,
+      "slot": 2,
       "date": "2026-08-25",
       "title": "Earth's Shadow Visualized with Lunar Eclipses",
       "explanation": "What’s creating this giant hole in space? This is not a black hole — it’s a shadow.  It’s Earth’s shadow.  Since at least the time of Aristotle, people have noted that Earth's dark shadow on the Moon during a partial lunar eclipse is circular -- although never a whole circle.  Using modern digital technology, though, the images of multiple lunar eclipses can be combined to show Earth's complete shadow.  The featured image compilation by a perseistent astrophotographer is constructed from 22 years of lunar eclipses.  The Moon is not eclipsed every month (moon-th) because the Moon's orbit is slightly tilted relative to Earth's orbit.  Close inspection of some lunar eclipse images shows a faint blue band where  Earth’s atmosphere filters out more red sunlight than blue.  Later this week, a new lunar eclipse will occur and will be best visible in parts of North and South America, Europe, and Africa.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_4000.jpg",
-      "image_path": "images/apod/3.jpg"
+      "image_path": "images/apod/2.jpg"
     },
     {
-      "slot": 4,
+      "slot": 3,
       "date": "2026-08-26",
       "title": "JWST Images The Lion's Head Nebula",
       "explanation": "Are we looking at the future of our Sun? The James Webb Space Telescope captured today’s composite image of the Lion’s Head Nebula (NGC 2392) with its NIRCam and MIRI instruments. The Lion’s Head Nebula is the remnant of a Sun-like star. This star was unable to sustain the nuclear fusion in its core needed to remain stable. It began to shed layers of gas and dust into space, forming this planetary nebula. A hot stellar core, called a white dwarf, is left behind within the lion’s nose. Do not boop this nose! Intense radiation from the white dwarf is ionizing the gas as it expands, creating the irregular bubble that makes up the lion’s face. Dust clumps that have survived the white dwarf’s radiation and a cloud of ionized gas make up the lion’s mane. This new and more detailed view of the nebula will help humanity learn more about how the gas and dust interact with each other and the white dwarf radiation.",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg",
-      "image_path": "images/apod/4.jpg"
+      "image_path": "images/apod/3.jpg"
     },
     {
-      "slot": 5,
+      "slot": 4,
       "date": "2026-08-27",
       "title": "Colorful Aurora over Icelandic Waterfall",
       "explanation": "What a sight to behold, when a night sky became filled with colors that appeared to rain over the Skógafoss waterfall in Iceland.     This image was taken in a single 5 second exposure by the photographer in April 2025.   Seeing an aurora is on many people's bucket lists.   But it is not easy.   It requires high solar activity, dark and clear skies, and usually a viewing location at high latitude.   That makes the northern lights more easily seen than the corresponding southern lights, simply because there is less landmass in the Southern Hemisphere, especially around the Antarctic Circle.   Auroras are caused by charged particles from the solar wind that are captured by the Earth's magnetosphere and guided by the magnetic field to a region close to one of the poles, where they collide with gas particles in the atmosphere.   Different colors indicate interactions with different gases at different altitudes, like oxygen (red and green) and nitrogen (blue and pink).        APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall.jpg",
-      "image_path": "images/apod/5.jpg"
+      "image_path": "images/apod/4.jpg"
     },
     {
-      "slot": 6,
+      "slot": 5,
       "date": "2026-08-28",
       "title": "The Sky Turns Above Paranal",
       "explanation": "At the latitude of ESO's Paranal Observatory in Chile, about 25 degrees south, Earth's rotation moves the planet's surface eastward at over 1,500 kilometers per hour. And while that's faster than the speed of sound at sea level, the motion is imperceptible. Still, that motion can be revealed in the apparent rotation of the night sky by photographing star trails. This star trail image was composed from a digital stack of 300 consecutive 25-second exposures made with a camera fixed to a tripod to trace the star trail arcs. The graceful arcs are concentric and centered at the south celestial pole, the southern hemisphere extension of Earth's axis of rotation into space. One of the observatory's operating 1.8 meter auxiliary telescopes, AT 3, appears beneath the south celestial pole, faintly illuminated in the foreground of this well-planned scene from a rotating planet.   Growing Gallery: Lunar Eclipse of 2026 August 28 APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal.jpg",
-      "image_path": "images/apod/6.jpg"
+      "image_path": "images/apod/5.jpg"
     },
     {
-      "slot": 7,
+      "slot": 6,
       "date": "2026-08-29",
       "title": "Eclipse Pair",
       "explanation": "clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at both new moon and full moon during a single eclipse season close enough to produce a pair with both total solar and lunar eclipses. More often, partial eclipses are part of any eclipse season. But, the last eclipse season of 2026 did produce this fortnight-separated pairing of a total solar eclipse on August 12 (top) and an almost total lunar eclipse on the night of August 27/28. At New Moon, the solar eclipse was captured at Peñafiel, Spain near the begining of totality in this HDR composite image, revealing a flash of Bailey's beads and a golden solar corona. At the following Full Moon, the deep partial lunar eclipse was recorded from Sèvres, France. Also an HDR composite, the image shows this partial eclipse at closer to half its 93 percent maximum phase, so about half the visible lunar disk appears darkened and reddened within Earth's umbral shadow. The coming eclipse season will see an annular solar eclipse on 2027 February 6 paired with a penumbral lunar eclipse on February 20/21.   Growing Gallery: Lunar Eclipse of 2026 August 28 APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
       "media_type": "image",
       "apod_url": "https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg",
       "hdurl": "https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair.jpg",
+      "image_path": "images/apod/6.jpg"
+    },
+    {
+      "slot": 7,
+      "date": "2026-08-30",
+      "title": "M74: A Grand Design Spiral",
+      "explanation": "If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design of M74's graceful spiral arms are traced by bright blue star clusters and dark cosmic dust lanes.  Constructed from archival images, this sharp composite is from the Hubble Space Telescope.  Spanning about 30,000 light-years across the face of M74, it includes exposures recording emission from hydrogen atoms, highlighting the reddish glow of the galaxy's large star-forming regions.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "media_type": "image",
+      "apod_url": "https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2608/m74_hst_1280.jpg",
       "image_path": "images/apod/7.jpg"
     }
   ]
