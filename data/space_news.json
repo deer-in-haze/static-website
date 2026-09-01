@@ -1,69 +1,69 @@
 {
-  "updated": "2026-08-31T12:40:40.697Z",
+  "updated": "2026-09-01T11:04:57.820Z",
   "items": [
     {
-      "id": 39741,
-      "title": "SES Awards OHB €1 billion for IRIS2 MEO Satellites",
-      "url": "https://europeanspaceflight.com/ses-awards-ohb-e1-billion-for-iris2-meo-satellites/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/08/SES-Awards-OHB-1-billion-Euros-for-IRIS2-MEO-Satellites.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-08-31"
+      "id": 39788,
+      "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
+      "url": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2_FermiExplorer_HeroShot_01.png",
+      "source": "Arstechnica",
+      "published_at": "2026-09-01"
     },
     {
-      "id": 39739,
-      "title": "Roman lifts off on a mission to survey the infrared sky",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/roman_lifts_off_on_a_mission_to_survey_the_infrared_sky/27439669-7-eng-GB/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky_card_full.jpg",
+      "id": 39789,
+      "title": "Samba’s fiery farewell recorded",
+      "url": "https://www.esa.int/Space_Safety/Space_Debris/Samba_s_fiery_farewell_recorded",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/samba_s_reentry_recorded/27443967-1-eng-GB/Samba_s_reentry_recorded_card_full.png",
       "source": "ESA",
-      "published_at": "2026-08-31"
+      "published_at": "2026-09-01"
     },
     {
-      "id": 39738,
-      "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
-      "url": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/",
-      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+      "id": 39786,
+      "title": "APOD: 2026 September 1 – A Plane Lunar Eclipse",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-1-a-plane-lunar-eclipse/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneEclipse_Ferreira_1059.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-01"
+    },
+    {
+      "id": 39785,
+      "title": "Ice Island Survives Run-In With Joe Island",
+      "url": "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/greenland-sheds-its-largest-berg-of-the-season/petermannberg_oli_20260824.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-01"
+    },
+    {
+      "id": 39784,
+      "title": "NASA Welcomes Türkiye as Newest Artemis Accords Signatory",
+      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq202608310009large.jpg",
       "source": "NASA",
       "published_at": "2026-08-31"
     },
     {
-      "id": 39737,
-      "title": "SLS picks up the pace, four vehicles in production",
-      "url": "https://www.nasaspaceflight.com/2026/08/sls-pace-four-vehicles-production/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-31-01-01-10-310.jpg",
+      "id": 39783,
+      "title": "Launch Preview: Array of international launches planned this week",
+      "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-083126/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
       "source": "NASASpaceflight",
       "published_at": "2026-08-31"
     },
     {
-      "id": 39736,
-      "title": "What’s Happening in Space Policy August 30-September 5, 2026",
-      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-30-september-5-2026/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Roman-liftoff-Kraus-300x198.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-08-30"
-    },
-    {
-      "id": 39735,
-      "title": "Nancy Grace Roman Space Telescope Lifts Off to Open New Insights Into the Universe",
-      "url": "https://spacepolicyonline.com/news/nancy-grace-roman-space-telescope-lifts-off-to-open-new-insights-into-the-universe/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Roman-liftoff-Kraus-300x198.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-08-30"
-    },
-    {
-      "id": 39734,
-      "title": "Why it matters that President Trump just dialed into a NASA news conference",
-      "url": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/NHQ20260828_admin_0045large.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-08-30"
-    },
-    {
-      "id": 39731,
-      "title": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
-      "url": "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26779/PIA26779.jpg",
+      "id": 39782,
+      "title": "September 2026 Satellite Puzzler",
+      "url": "https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/satellite-puzzler/2026_septemberpuzzler.jpg",
       "source": "NASA",
-      "published_at": "2026-08-30"
+      "published_at": "2026-08-31"
+    },
+    {
+      "id": 39747,
+      "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
+      "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members-2/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1024%2C883&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-08-31"
     }
   ]
 }
