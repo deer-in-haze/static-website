@@ -1,69 +1,69 @@
 {
-  "updated": "2026-09-02T10:37:22.414Z",
+  "updated": "2026-09-03T10:39:30.858Z",
   "items": [
     {
-      "id": 39799,
-      "title": "HyImpulse Extends Series A Funding Round by €50 Million",
-      "url": "https://europeanspaceflight.com/hyimpulse-extends-series-a-funding-round-by-e50-million/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/HyImpulse-Extends-Series-A-Funding-Round-by-50-Million-Euros.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-09-02"
-    },
-    {
-      "id": 39798,
-      "title": "ESA’s first lunar rover rolls forward",
-      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_s_first_lunar_rover_rolls_forward",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/magpie_on_the_moon/27444725-1-eng-GB/MAGPIE_on_the_Moon_card_full.png",
+      "id": 39814,
+      "title": "Hubble's superbubble scene",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Hubble_s_superbubble_scene",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/hubble_s_superbubble_scene/27445597-2-eng-GB/Hubble_s_superbubble_scene_card_full.jpg",
       "source": "ESA",
+      "published_at": "2026-09-03"
+    },
+    {
+      "id": 39813,
+      "title": "ArcSpace to Demo On-Orbit Welding Tech in 2027",
+      "url": "https://europeanspaceflight.com/arcspace-to-demo-on-orbit-welding-tech-in-2027/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/ArcSpace-to-Demo-On-Orbit-Welding-Tech-in-2027-.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-09-03"
+    },
+    {
+      "id": 39811,
+      "title": "APOD: 2026 September 3 – The Eclipse and the Stork",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/eclipse_stork.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-03"
+    },
+    {
+      "id": 39812,
+      "title": "Peatland Fires Darken Skies in Indonesia",
+      "url": "https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/peatland-fires-darken-skies-in-indonesia/indonesiafires_amo_20260901.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-03"
+    },
+    {
+      "id": 39810,
+      "title": "Rocket Lab’s Hungry Hippo completes testing",
+      "url": "https://www.nasaspaceflight.com/2026/09/rocket-lab-update/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/16D158EF-E0FF-4622-ABD4-DA387D02F975.jpeg",
+      "source": "NASASpaceflight",
       "published_at": "2026-09-02"
     },
     {
-      "id": 39797,
-      "title": "House Clears FY2027 CR, Now to the President",
-      "url": "https://spacepolicyonline.com/news/house-clears-fy2027-cr-now-to-the-president/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/09/House-CR-300x174.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-09-01"
+      "id": 39808,
+      "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
+      "url": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/AxEVA_Brooks_TVACTesting_20251110_6698_AxEdit.jpg",
+      "source": "Arstechnica",
+      "published_at": "2026-09-02"
     },
     {
-      "id": 39796,
-      "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
-      "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+      "id": 39807,
+      "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
+      "url": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/",
+      "image_url": "https://images-assets.nasa.gov/image/iss072e838362/iss072e838362~large.jpg",
       "source": "NASA",
-      "published_at": "2026-09-01"
+      "published_at": "2026-09-02"
     },
     {
-      "id": 39795,
-      "title": "SpaceX to launch Starlink mission from West Coast",
-      "url": "https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-09-01"
-    },
-    {
-      "id": 39794,
-      "title": "What’s Up: September 2026 Skywatching Tips from NASA",
-      "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/september/Harvest%20Moon_212_Mike%20Linnihan_Used%20with%20Permission.jpg",
+      "id": 39805,
+      "title": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/09/STScI-01M0T8BARTCFQW684XQ932TNNM.png",
       "source": "NASA",
-      "published_at": "2026-09-01"
-    },
-    {
-      "id": 39793,
-      "title": "Launch Site and Facility Progress ahead of East Coast Starship debut",
-      "url": "https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/Roberts-Road-and-the-VAB-scaled.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-09-01"
-    },
-    {
-      "id": 39792,
-      "title": "Historic Engines Take Their Place on Artemis III",
-      "url": "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/",
-      "image_url": "https://images-assets.nasa.gov/image/KSC-20260825-PH-RCR01_0045/KSC-20260825-PH-RCR01_0045~large.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-01"
+      "published_at": "2026-09-02"
     }
   ]
 }
