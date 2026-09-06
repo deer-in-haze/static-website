@@ -1,6 +1,46 @@
 {
-  "updated": "2026-09-05T09:56:41.053Z",
+  "updated": "2026-09-06T10:15:04.027Z",
   "items": [
+    {
+      "id": 39844,
+      "title": "Isar Aerospace Completes First Successful Spectrum Flight",
+      "url": "https://europeanspaceflight.com/isar-aerospace-completes-first-successful-spectrum-flight/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Isar-Aerospace-Completes-First-Successful-Spectrum-Flight-hero.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-09-06"
+    },
+    {
+      "id": 39843,
+      "title": "Live coverage: SpaceX to launch 80th Starlink mission of 2026",
+      "url": "https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-09-05"
+    },
+    {
+      "id": 39842,
+      "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
+      "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/spectrum_launches_to_orbit/27452129-2-eng-GB/Spectrum_launches_to_orbit_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-09-05"
+    },
+    {
+      "id": 39841,
+      "title": "Isar Aerospace attempts launch of Spectrum rocket after months of delays",
+      "url": "https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/IMG_6221-scaled.jpeg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-09-05"
+    },
+    {
+      "id": 39840,
+      "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026Eclipse_WB57GoPro_Totality_H264_Abridged.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-05"
+    },
     {
       "id": 39839,
       "title": "Blue Origin expands test and launch sites across the Cape",
@@ -23,46 +63,6 @@
       "url": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/",
       "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/blindlowvision.jpg",
       "source": "NASA",
-      "published_at": "2026-09-04"
-    },
-    {
-      "id": 39835,
-      "title": "Blue Origin Nets NASA Mars Orbiter Contract",
-      "url": "https://www.spacescout.info/2026/09/blue-origin-nets-nasa-mars-orbiter-contract/",
-      "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/09/RingMTO.webp",
-      "source": "Space Scout",
-      "published_at": "2026-09-04"
-    },
-    {
-      "id": 39834,
-      "title": "Why did US space companies pull out of a French space meeting? It’s complicated.",
-      "url": "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2019/08/GettyImages-1164167940.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-09-04"
-    },
-    {
-      "id": 39832,
-      "title": "Lunar Occultation of Venus",
-      "url": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/",
-      "image_url": "https://images-assets.nasa.gov/image/NHQ202606170001/NHQ202606170001~large.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-04"
-    },
-    {
-      "id": 39836,
-      "title": "Media briefing ahead of FLEX and Sentinel-3C launch",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Media_briefing_ahead_of_FLEX_and_Sentinel-3C_launch",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/media_briefing_ahead_of_flex_and_sentinel-3c_launch/27445744-3-eng-GB/Media_briefing_ahead_of_FLEX_and_Sentinel-3C_launch_card_full.png",
-      "source": "ESA",
-      "published_at": "2026-09-04"
-    },
-    {
-      "id": 39831,
-      "title": "Isar Aerospace Calls Off 4 September Spectrum Launch Attempt",
-      "url": "https://europeanspaceflight.com/isar-aerospace-calls-off-4-september-spectrum-launch-attempt/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Isar-Aerospace-Calls-Off-4-September-Spectrum-Launch-Attempt.webp",
-      "source": "European Spaceflight",
       "published_at": "2026-09-04"
     }
   ]
