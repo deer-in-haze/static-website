@@ -1,6 +1,62 @@
 {
-  "updated": "2026-09-06T10:15:04.027Z",
+  "updated": "2026-09-07T11:34:23.731Z",
   "items": [
+    {
+      "id": 39851,
+      "title": "BepiColombo begins Mercury arrival with MTM separation success",
+      "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/mtm_separation_signal_confirmation/27452584-1-eng-GB/MTM_separation_signal_confirmation_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": 39850,
+      "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/isar_aerospace_achieves_first_launch_to_orbit_from_continental_europe/27452918-1-eng-GB/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": 39848,
+      "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Pelican_Killion_4800.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": 39849,
+      "title": "A Bright Spot at Mount Michael",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bright-spot-at-mount-michael/mountmichael_oli_20260824.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": 39847,
+      "title": "What’s Happening in Space Policy September 6-12, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-6-12-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/06/NASA-Moon-Base-infographic-300x168.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-09-06"
+    },
+    {
+      "id": 39846,
+      "title": "Starbase Infrastructure Advances Toward Flight 14",
+      "url": "https://www.nasaspaceflight.com/2026/09/starbase-infrastructure-spacex-flight-14/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/Launch-Site-September-3rd-scaled.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-09-06"
+    },
+    {
+      "id": 39845,
+      "title": "Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights",
+      "url": "https://www.nasaspaceflight.com/2026/09/cape-neighbors-stoke-relativity-advance-lc-14-lc-16/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-06-06-08-48-181.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-09-06"
+    },
     {
       "id": 39844,
       "title": "Isar Aerospace Completes First Successful Spectrum Flight",
@@ -8,62 +64,6 @@
       "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Isar-Aerospace-Completes-First-Successful-Spectrum-Flight-hero.webp",
       "source": "European Spaceflight",
       "published_at": "2026-09-06"
-    },
-    {
-      "id": 39843,
-      "title": "Live coverage: SpaceX to launch 80th Starlink mission of 2026",
-      "url": "https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-09-05"
-    },
-    {
-      "id": 39842,
-      "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
-      "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/spectrum_launches_to_orbit/27452129-2-eng-GB/Spectrum_launches_to_orbit_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-09-05"
-    },
-    {
-      "id": 39841,
-      "title": "Isar Aerospace attempts launch of Spectrum rocket after months of delays",
-      "url": "https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/IMG_6221-scaled.jpeg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-09-05"
-    },
-    {
-      "id": 39840,
-      "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026Eclipse_WB57GoPro_Totality_H264_Abridged.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-05"
-    },
-    {
-      "id": 39839,
-      "title": "Blue Origin expands test and launch sites across the Cape",
-      "url": "https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-04-20-18-03-569.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-09-04"
-    },
-    {
-      "id": 39838,
-      "title": "NASA Ames Fire Department Aircraft Firefighting Training",
-      "url": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/",
-      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-      "source": "NASA",
-      "published_at": "2026-09-04"
-    },
-    {
-      "id": 39837,
-      "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
-      "url": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/blindlowvision.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-04"
     }
   ]
 }
