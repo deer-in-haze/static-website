@@ -1,69 +1,69 @@
 {
-  "updated": "2026-09-10T10:36:01.926Z",
+  "updated": "2026-09-11T10:35:40.244Z",
   "items": [
     {
-      "id": 39884,
-      "title": "APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/LDN1295_giraffe.jpg",
+      "id": 39905,
+      "title": "Week in images: 07-11 Sep 2026",
+      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_ready_for_launch/27459766-1-eng-GB/FLEX_and_Sentinel-3C_ready_for_launch_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-09-11"
+    },
+    {
+      "id": 39904,
+      "title": "Avio Completes Integration of FD1 Rocket Demonstrator",
+      "url": "https://europeanspaceflight.com/avio-completes-integration-of-fd1-rocket-demonstrator/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Avio-Completes-Integration-of-FD1-Rocket-Demonstrator-hero.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-09-11"
+    },
+    {
+      "id": 39903,
+      "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
+      "url": "https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/teams_at_esoc_during_esa_s_flex_and_copernicus_sentinel-3c_launch_and_early_orbit_leop_simulations/27464737-3-eng-GB/Teams_at_ESOC_during_ESA_s_FLEX_and_Copernicus_Sentinel-3C_launch_and_early_orbit_LEOP_simulations_card_full.png",
+      "source": "ESA",
+      "published_at": "2026-09-11"
+    },
+    {
+      "id": 39901,
+      "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
+      "url": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/latconnect-60-logo-square-scaled.png?fit=1024%2C1024&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-09-11"
+    },
+    {
+      "id": 39900,
+      "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M83_Final2_1x.jpg",
       "source": "NASA",
+      "published_at": "2026-09-11"
+    },
+    {
+      "id": 39899,
+      "title": "NASA Invites Governors to Compete to be Home to the New U.S. Space Academy",
+      "url": "https://spacepolicyonline.com/news/nasa-invites-governors-to-compete-to-be-home-to-the-new-u-s-space-academy/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Trump-Space-Academy-EO-Aug-28-26-300x169.jpg",
+      "source": "SpacePolicyOnline.com",
       "published_at": "2026-09-10"
     },
     {
-      "id": 39885,
-      "title": "Dust Storm Sweeps Over Mali",
-      "url": "https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/dust-storm-sweeps-over-mali/malidust_tmo_20260905.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-10"
-    },
-    {
-      "id": 39883,
-      "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
-      "url": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260116_NROL-105_F9_pad.jpeg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-09-09"
-    },
-    {
-      "id": 39881,
-      "title": "As Europe flounders in space, a rising French star may show the way",
-      "url": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-09-09"
-    },
-    {
-      "id": 39882,
-      "title": "Flight 15 pairing undergo testing at Massey’s",
-      "url": "https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-09-21-05-05-614.jpg",
+      "id": 39898,
+      "title": "Roman telescope deploys solar array and communication systems, powers on Coronagraph Instrument",
+      "url": "https://www.nasaspaceflight.com/2026/09/roman-commissioning-update/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/RST_Unloading_Shot_4k_60_ProRes.00493_print.jpg",
       "source": "NASASpaceflight",
-      "published_at": "2026-09-09"
+      "published_at": "2026-09-10"
     },
     {
-      "id": 39880,
-      "title": "NASA Adds Relativity Space’s Terran R to Launch Services Contract",
-      "url": "https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/",
+      "id": 39897,
+      "title": "NASA Invites Media to Djibouti Artemis Accords Signing Ceremony",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/",
       "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
       "source": "NASA",
-      "published_at": "2026-09-09"
-    },
-    {
-      "id": 39879,
-      "title": "NASA’s Chandra Unveils Mysterious X-Ray Objects",
-      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/m101.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-09"
-    },
-    {
-      "id": 39878,
-      "title": "How 2 US, European Satellites Are Studying Hurricanes During El Niño",
-      "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/",
-      "image_url": "https://images-assets.nasa.gov/image/iss073e1044319/iss073e1044319~large.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-09"
+      "published_at": "2026-09-10"
     }
   ]
 }
