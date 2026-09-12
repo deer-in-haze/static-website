@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-11T10:35:40.244Z",
+  "updated": "2026-09-12T10:04:38.785Z",
   "items": [
+    {
+      "id": 39914,
+      "title": "First HyPrSpace Baguette One Launch Slips to 2027",
+      "url": "https://europeanspaceflight.com/first-hyprspace-baguette-one-launch-slips-to-2027/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/First-HyPrSpace-Baguette-One-Launch-Slips-to-2027.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-09-12"
+    },
+    {
+      "id": 39913,
+      "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/backgroundimage.001-Aimee_Schechter.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-11"
+    },
+    {
+      "id": 39912,
+      "title": "NASA’s Chandra Spots Galactic Gem",
+      "url": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-11"
+    },
+    {
+      "id": 39911,
+      "title": "NASA moving at warp speed to set up US Space Academy",
+      "url": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998-1789141845.jpg",
+      "source": "Arstechnica",
+      "published_at": "2026-09-11"
+    },
+    {
+      "id": 39910,
+      "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
+      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/crew-12-advisory-spet-11.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-11"
+    },
+    {
+      "id": 39909,
+      "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/art002e012702large.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-11"
+    },
     {
       "id": 39905,
       "title": "Week in images: 07-11 Sep 2026",
@@ -10,60 +58,12 @@
       "published_at": "2026-09-11"
     },
     {
-      "id": 39904,
-      "title": "Avio Completes Integration of FD1 Rocket Demonstrator",
-      "url": "https://europeanspaceflight.com/avio-completes-integration-of-fd1-rocket-demonstrator/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Avio-Completes-Integration-of-FD1-Rocket-Demonstrator-hero.webp",
-      "source": "European Spaceflight",
+      "id": 39906,
+      "title": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?",
+      "url": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv.jpg",
+      "source": "Arstechnica",
       "published_at": "2026-09-11"
-    },
-    {
-      "id": 39903,
-      "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
-      "url": "https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/teams_at_esoc_during_esa_s_flex_and_copernicus_sentinel-3c_launch_and_early_orbit_leop_simulations/27464737-3-eng-GB/Teams_at_ESOC_during_ESA_s_FLEX_and_Copernicus_Sentinel-3C_launch_and_early_orbit_LEOP_simulations_card_full.png",
-      "source": "ESA",
-      "published_at": "2026-09-11"
-    },
-    {
-      "id": 39901,
-      "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
-      "url": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/latconnect-60-logo-square-scaled.png?fit=1024%2C1024&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-09-11"
-    },
-    {
-      "id": 39900,
-      "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M83_Final2_1x.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-11"
-    },
-    {
-      "id": 39899,
-      "title": "NASA Invites Governors to Compete to be Home to the New U.S. Space Academy",
-      "url": "https://spacepolicyonline.com/news/nasa-invites-governors-to-compete-to-be-home-to-the-new-u-s-space-academy/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Trump-Space-Academy-EO-Aug-28-26-300x169.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-09-10"
-    },
-    {
-      "id": 39898,
-      "title": "Roman telescope deploys solar array and communication systems, powers on Coronagraph Instrument",
-      "url": "https://www.nasaspaceflight.com/2026/09/roman-commissioning-update/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/RST_Unloading_Shot_4k_60_ProRes.00493_print.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-09-10"
-    },
-    {
-      "id": 39897,
-      "title": "NASA Invites Media to Djibouti Artemis Accords Signing Ceremony",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-10"
     }
   ]
 }
