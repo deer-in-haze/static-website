@@ -1,6 +1,30 @@
 {
-  "updated": "2026-09-12T10:04:38.785Z",
+  "updated": "2026-09-13T11:04:51.380Z",
   "items": [
+    {
+      "id": 39917,
+      "title": "Sirius Space Fires Complete STAR-1 Rocket Engine for the First Time",
+      "url": "https://europeanspaceflight.com/sirius-space-fires-complete-star-1-rocket-engine-for-the-first-time/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Sirius-Space-Fires-Complete-STAR-1-Rocket-Engine-for-the-First-Time-.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-09-13"
+    },
+    {
+      "id": 39916,
+      "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
+      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+      "source": "NASA",
+      "published_at": "2026-09-13"
+    },
+    {
+      "id": 39915,
+      "title": "Europe’s commercial launch sector picking up the pace",
+      "url": "https://www.nasaspaceflight.com/2026/09/europes-commercial-launch-sector-pace/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-12-23-46-42-740.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-09-12"
+    },
     {
       "id": 39914,
       "title": "First HyPrSpace Baguette One Launch Slips to 2027",
@@ -39,30 +63,6 @@
       "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
       "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/crew-12-advisory-spet-11.jpg",
       "source": "NASA",
-      "published_at": "2026-09-11"
-    },
-    {
-      "id": 39909,
-      "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/art002e012702large.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-11"
-    },
-    {
-      "id": 39905,
-      "title": "Week in images: 07-11 Sep 2026",
-      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_ready_for_launch/27459766-1-eng-GB/FLEX_and_Sentinel-3C_ready_for_launch_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-09-11"
-    },
-    {
-      "id": 39906,
-      "title": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?",
-      "url": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv.jpg",
-      "source": "Arstechnica",
       "published_at": "2026-09-11"
     }
   ]
