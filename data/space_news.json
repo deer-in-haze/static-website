@@ -1,6 +1,62 @@
 {
-  "updated": "2026-09-13T11:04:51.380Z",
+  "updated": "2026-09-14T11:46:47.096Z",
   "items": [
+    {
+      "id": 39924,
+      "title": "ESA’s FLEX mission reveals the secret glow of plants",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/esa_s_flex_mission_reveals_the_secret_glow_of_plants/27465436-1-eng-GB/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants_card_full.png",
+      "source": "ESA",
+      "published_at": "2026-09-14"
+    },
+    {
+      "id": 39923,
+      "title": "FLEX and Sentinel-3C ready for liftoff on Vega-C",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_ready_for_launch/27459766-1-eng-GB/FLEX_and_Sentinel-3C_ready_for_launch_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-09-14"
+    },
+    {
+      "id": 39922,
+      "title": "APOD: 2026 September 14 – Where Your Elements Came From",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/ElementOrigins2_svs_6000.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-14"
+    },
+    {
+      "id": 39921,
+      "title": "An Early Look at Fall Color in Canada",
+      "url": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-early-look-at-fall-color-in-canada/northerncanada_oli2_20260727.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-14"
+    },
+    {
+      "id": 39920,
+      "title": "Vega C set to launch the ESA Sentinel-3C and FLEX missions from Kourou",
+      "url": "https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/AB9BC3AB-D87F-4E6B-96AE-9902C9A9F085-scaled.jpeg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-09-13"
+    },
+    {
+      "id": 39919,
+      "title": "What’s Happening in Space Policy September 13-19, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-13-19-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/09/Danielle-Severs-LinkedIn-300x300.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-09-13"
+    },
+    {
+      "id": 39918,
+      "title": "Live coverage: SpaceX to launch final 3 O3b mPOWER satellites for SES",
+      "url": "https://spaceflightnow.com/2026/09/13/live-coverage-spacex-to-launch-final-3-o3b-mpower-satellites-for-ses/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260913_O3b_mPOWER-F_delivery.jpeg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-09-13"
+    },
     {
       "id": 39917,
       "title": "Sirius Space Fires Complete STAR-1 Rocket Engine for the First Time",
@@ -8,62 +64,6 @@
       "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Sirius-Space-Fires-Complete-STAR-1-Rocket-Engine-for-the-First-Time-.webp",
       "source": "European Spaceflight",
       "published_at": "2026-09-13"
-    },
-    {
-      "id": 39916,
-      "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
-      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-      "source": "NASA",
-      "published_at": "2026-09-13"
-    },
-    {
-      "id": 39915,
-      "title": "Europe’s commercial launch sector picking up the pace",
-      "url": "https://www.nasaspaceflight.com/2026/09/europes-commercial-launch-sector-pace/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-12-23-46-42-740.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-09-12"
-    },
-    {
-      "id": 39914,
-      "title": "First HyPrSpace Baguette One Launch Slips to 2027",
-      "url": "https://europeanspaceflight.com/first-hyprspace-baguette-one-launch-slips-to-2027/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/First-HyPrSpace-Baguette-One-Launch-Slips-to-2027.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-09-12"
-    },
-    {
-      "id": 39913,
-      "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/backgroundimage.001-Aimee_Schechter.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-11"
-    },
-    {
-      "id": 39912,
-      "title": "NASA’s Chandra Spots Galactic Gem",
-      "url": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-11"
-    },
-    {
-      "id": 39911,
-      "title": "NASA moving at warp speed to set up US Space Academy",
-      "url": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998-1789141845.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-09-11"
-    },
-    {
-      "id": 39910,
-      "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
-      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/crew-12-advisory-spet-11.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-11"
     }
   ]
 }
