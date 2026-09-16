@@ -1,68 +1,68 @@
 {
-  "updated": "2026-09-15T11:03:35.430Z",
+  "updated": "2026-09-16T10:50:13.686Z",
   "items": [
     {
-      "id": 39947,
-      "title": "Avio Launches Second Successful Vega C Flight of 2026",
-      "url": "https://europeanspaceflight.com/avio-launches-second-successful-vega-c-flight-of-2026/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Avio-Launches-Second-Successful-Vega-C-Flight-of-2026-.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-09-15"
-    },
-    {
-      "id": 39945,
-      "title": "FLEX and Sentinel-3C launch highlights",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/FLEX_and_Sentinel-3C_launch_highlights",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/flex_and_sentinel-3c_launch_highlights/27518045-5-eng-GB/FLEX_and_Sentinel-3C_launch_highlights_card_full.png",
+      "id": 39963,
+      "title": "Purple swirls on the Red Planet",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/raspberry_ripples_near_mars_s_south_pole/27522585-1-eng-GB/Raspberry_ripples_near_Mars_s_south_pole_card_full.jpg",
       "source": "ESA",
-      "published_at": "2026-09-15"
+      "published_at": "2026-09-16"
     },
     {
-      "id": 39943,
-      "title": "Iceye’s global presence expands to address sovereign demand",
-      "url": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/rsz_iceye_korea.jpg?fit=879%2C494&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-09-15"
+      "id": 39962,
+      "title": "APOD: 2026 September 16 – Webb’s View of M64",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M64_Webb.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-16"
     },
     {
-      "id": 39946,
-      "title": "Relive the launch of FLEX and Sentinel-3C",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Relive_the_launch_of_FLEX_and_Sentinel-3C",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/relive_the_launch_of_flex_and_sentinel-3c/27517955-7-eng-GB/Relive_the_launch_of_FLEX_and_Sentinel-3C_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-09-15"
+      "id": 39961,
+      "title": "Progress MS-35 poised to launch cargo to ISS from Kazakhstan",
+      "url": "https://www.nasaspaceflight.com/2026/09/progress-ms-35-launch/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_9490.png",
+      "source": "NASASpaceflight",
+      "published_at": "2026-09-16"
     },
     {
-      "id": 39942,
-      "title": "APOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MoonVenus_Mariat_1410.jpg",
+      "id": 39960,
+      "title": "Starship to Attempt First Orbital Flight Next Week",
+      "url": "https://spacepolicyonline.com/news/starship-to-attempt-first-orbital-flight-next-week/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/Starship-with-dimensions-IFT10-276x300.png",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-09-16"
+    },
+    {
+      "id": 39959,
+      "title": "NASA Ames Stars of the Month: September 2026",
+      "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/nasa-arc-s-stars-of-the-mont-sep-2026.jpg",
       "source": "NASA",
       "published_at": "2026-09-15"
     },
     {
-      "id": 39941,
-      "title": "Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes",
-      "url": "https://spaceflightnow.com/2026/09/15/avio-launches-pair-of-climate-monitoring-european-spacecraft-to-study-plants-oceans-and-atmospheric-changes/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260914_Vega-C_takes_FLEX_and_Sentinel-3C_into_orbit.jpeg",
+      "id": 39958,
+      "title": "Live coverage: SpaceX to launch national security payload for the U.S. Space Force on Falcon 9 rocket from Vandenberg",
+      "url": "https://spaceflightnow.com/2026/09/15/live-coverage-spacex-to-launch-national-security-payload-for-the-u-s-space-force-on-falcon-9-rocket-from-vandenberg/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260915-USSF-259-on-Pad.jpg",
       "source": "Spaceflight Now",
       "published_at": "2026-09-15"
     },
     {
-      "id": 39940,
-      "title": "FLEX and Sentinel-3C launched",
-      "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_launched",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/vega-c_takes_flex_and_sentinel-3c_into_orbit/27517898-2-eng-GB/Vega-C_takes_FLEX_and_Sentinel-3C_into_orbit_card_full.jpg",
-      "source": "ESA",
+      "id": 39957,
+      "title": "Open Cosmos Raises €300 Million as Investors Back Europe’s Space Push",
+      "url": "https://europeanspaceflight.com/open-cosmos-raises-e300-million-as-investors-back-europes-space-push/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Open-Cosmos-Raises-300-Million-Euros-as-Investors-Back-Europes-Space-Push-.webp",
+      "source": "European Spaceflight",
       "published_at": "2026-09-15"
     },
     {
-      "id": 39939,
-      "title": "State Department Launches Space Catalyst Partnership",
-      "url": "https://spacepolicyonline.com/news/state-department-launches-space-catalyst-partnership/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/09/Djibouti-Sept-14-26-300x265.jpg",
-      "source": "SpacePolicyOnline.com",
+      "id": 39956,
+      "title": "NASA Invites Media to International Observe the Moon Night",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/",
+      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+      "source": "NASA",
       "published_at": "2026-09-15"
     }
   ]
