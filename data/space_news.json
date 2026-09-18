@@ -1,69 +1,69 @@
 {
-  "updated": "2026-09-17T10:57:04.571Z",
+  "updated": "2026-09-18T10:33:45.510Z",
   "items": [
     {
-      "id": 39982,
-      "title": "MTG-I2 timelapse : from arrival at Europe’s Spaceport to launch",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTG-I2_timelapse_from_arrival_at_Europe_s_Spaceport_to_launch",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/mtg-i2_timelapse_from_arrival_at_europe_s_spaceport_to_launch/27523389-1-eng-GB/MTG-I2_timelapse_from_arrival_at_Europe_s_Spaceport_to_launch_card_full.jpg",
+      "id": 39998,
+      "title": "A galaxy spinning out of sync",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/a_galaxy_spinning_out_of_sync/27523332-1-eng-GB/A_galaxy_spinning_out_of_sync_card_full.jpg",
       "source": "ESA",
-      "published_at": "2026-09-17"
+      "published_at": "2026-09-18"
     },
     {
-      "id": 39981,
-      "title": "EnduroSat Raise Pushes European NewSpace Funding Above €1 Billion for September",
-      "url": "https://europeanspaceflight.com/endurosat-raise-pushes-european-newspace-funding-above-e1-billion-for-september/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/EnduroSat-Raise-Pushes-European-NewSpace-Funding-Above-1-Billion-Euros-for-September.webp",
+      "id": 39999,
+      "title": "Earth from Space: Laguna Colorada",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/earth_from_space_laguna_colorada/27528365-1-eng-GB/Earth_from_Space_Laguna_Colorada_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-09-18"
+    },
+    {
+      "id": 39997,
+      "title": "ESA Awards €20M in Contracts to Study Future IRIS2 Services",
+      "url": "https://europeanspaceflight.com/esa-awards-e20m-in-contracts-to-study-future-iris2-services/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/ESA-Awards-20M-Euros-in-Contracts-to-Study-Future-IRIS2-Services.webp",
       "source": "European Spaceflight",
-      "published_at": "2026-09-17"
+      "published_at": "2026-09-18"
     },
     {
-      "id": 39980,
-      "title": "Three space companies win ESA awards for excellence and innovation",
-      "url": "https://www.esa.int/About_Us/Business_with_ESA/Three_space_companies_win_ESA_awards_for_excellence_and_innovation",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/company_awards_at_industry_space_days_2026/27524588-2-eng-GB/Company_awards_at_Industry_Space_Days_2026_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-09-17"
+      "id": 39996,
+      "title": "APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/m33m14_rasa3NM.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-18"
     },
     {
-      "id": 39983,
-      "title": "Galileo's first civil authenticated position fix in spoofing conditions",
-      "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_in_spoofing_conditions",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_signal_authentication_service_test_in_norway/27526219-1-eng-GB/Galileo_Signal_Authentication_Service_test_in_Norway_card_full.png",
-      "source": "ESA",
-      "published_at": "2026-09-17"
+      "id": 39995,
+      "title": "Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape",
+      "url": "https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-18-00-37-57-984.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-09-18"
     },
     {
-      "id": 39979,
-      "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/JWST_Treasure_Chest.jpg",
+      "id": 39994,
+      "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
       "source": "NASA",
       "published_at": "2026-09-17"
     },
     {
-      "id": 39978,
-      "title": "Summer Goes Out With a Heat Dome",
-      "url": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/summer-goes-out-with-a-heat-dome/heatdome_geos5_20260915.jpg",
+      "id": 39993,
+      "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/spacex35.jpg",
       "source": "NASA",
       "published_at": "2026-09-17"
     },
     {
-      "id": 39977,
-      "title": "Passion Meets Precision at NASA’s Flight Research Lab",
-      "url": "https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/",
-      "image_url": "https://images-assets.nasa.gov/image/AFRC2026-0179-08/AFRC2026-0179-08~large.jpg",
+      "id": 39991,
+      "title": "NASA Unveils Enterprise, the First Space Shuttle",
+      "url": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/9467279838-faa6134db8-o.jpg",
       "source": "NASA",
-      "published_at": "2026-09-16"
-    },
-    {
-      "id": 39976,
-      "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
-      "url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lro/McGetchin_Discovery_Reenactment.png",
-      "source": "NASA",
-      "published_at": "2026-09-16"
+      "published_at": "2026-09-17"
     }
   ]
 }
