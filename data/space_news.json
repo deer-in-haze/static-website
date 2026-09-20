@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-19T10:17:42.866Z",
+  "updated": "2026-09-20T10:36:51.779Z",
   "items": [
+    {
+      "id": 40010,
+      "title": "ESA x TPCI - Pikachu in the Cupola",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_x_tpci_-_pikachu_in_the_cupola/27530034-1-eng-GB/ESA_x_TPCI_-_Pikachu_in_the_Cupola_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-09-21"
+    },
     {
       "id": 40012,
       "title": "Pikachu in the Cupola",
@@ -10,12 +18,28 @@
       "published_at": "2026-09-21"
     },
     {
-      "id": 40010,
-      "title": "ESA x TPCI - Pikachu in the Cupola",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_x_tpci_-_pikachu_in_the_cupola/27530034-1-eng-GB/ESA_x_TPCI_-_Pikachu_in_the_Cupola_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-09-21"
+      "id": 40017,
+      "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CallanishAnalemma_Petricca_1280.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-20"
+    },
+    {
+      "id": 40016,
+      "title": "Russian Progress cargo ship arrives at International Space Station",
+      "url": "https://spaceflightnow.com/2026/09/19/russian-progress-cargo-ship-arrives-at-international-space-station/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260919-Progress-Final-Approach.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-09-19"
+    },
+    {
+      "id": 40015,
+      "title": "Live coverage: SpaceX to launch 27 Starlink V2 Mini satellites on Falcon 9 rocket from Vandenberg",
+      "url": "https://spaceflightnow.com/2026/09/19/live-coverage-spacex-to-launch-27-starlink-v2-mini-satellites-on-falcon-9-rocket-from-vandenberg/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260329_20260313_Starlink_G17_31.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-09-19"
     },
     {
       "id": 40014,
@@ -39,30 +63,6 @@
       "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience",
       "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_x_tpci_-_pikachu_in_the_cupola/27530034-1-eng-GB/ESA_x_TPCI_-_Pikachu_in_the_Cupola_card_full.jpg",
       "source": "ESA",
-      "published_at": "2026-09-18"
-    },
-    {
-      "id": 40009,
-      "title": "China progresses plans for Mars sample return, asteroid flyby and more launch sites",
-      "url": "https://www.nasaspaceflight.com/2026/09/china-roundup-202609/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/ZhuQue-3-ascends-on-maiden-launch-Aug-2026-close-drone-shot-above-video-still-Landspace-scaled.png",
-      "source": "NASASpaceflight",
-      "published_at": "2026-09-18"
-    },
-    {
-      "id": 40008,
-      "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/cropped-nasa-meatball-1.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-18"
-    },
-    {
-      "id": 40007,
-      "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
-      "url": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/xrism/News/2026/wind-accreting-pulsar/GX_301-2_spectrum_med.jpg",
-      "source": "NASA",
       "published_at": "2026-09-18"
     }
   ]
