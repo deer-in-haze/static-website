@@ -1,14 +1,6 @@
 {
-  "updated": "2026-09-20T10:36:51.779Z",
+  "updated": "2026-09-21T11:58:55.876Z",
   "items": [
-    {
-      "id": 40010,
-      "title": "ESA x TPCI - Pikachu in the Cupola",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_x_tpci_-_pikachu_in_the_cupola/27530034-1-eng-GB/ESA_x_TPCI_-_Pikachu_in_the_Cupola_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-09-21"
-    },
     {
       "id": 40012,
       "title": "Pikachu in the Cupola",
@@ -18,52 +10,60 @@
       "published_at": "2026-09-21"
     },
     {
-      "id": 40017,
-      "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CallanishAnalemma_Petricca_1280.jpg",
+      "id": 40010,
+      "title": "ESA x TPCI - Pikachu in the Cupola",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_x_tpci_-_pikachu_in_the_cupola/27530034-1-eng-GB/ESA_x_TPCI_-_Pikachu_in_the_Cupola_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-09-21"
+    },
+    {
+      "id": 40023,
+      "title": "Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/vol-better.jpg",
       "source": "NASA",
+      "published_at": "2026-09-21"
+    },
+    {
+      "id": 40022,
+      "title": "ESA and ISRO extend and broaden cooperation agreement",
+      "url": "https://www.esa.int/About_Us/Corporate_news/ESA_and_ISRO_extend_and_broaden_cooperation_agreement",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa-isro/27532710-2-eng-GB/ESA-ISRO_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-09-21"
+    },
+    {
+      "id": 40021,
+      "title": "ESA Acknowledges Ariane 6 Delays Following Reports of Turbopump Issue",
+      "url": "https://europeanspaceflight.com/esa-acknowledges-ariane-6-delays-following-reports-of-turbopump-issue/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/ESA-Acknowledges-Ariane-6-Delays-Following-Reports-of-Turbopump-Issue-.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-09-21"
+    },
+    {
+      "id": 40020,
+      "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Cocoon_Czerski_3000.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-21"
+    },
+    {
+      "id": 40019,
+      "title": "LRO discovers large new lunar crater, finds interesting thermal emission phenomenon",
+      "url": "https://www.nasaspaceflight.com/2026/09/lro-mcgetchin-crater/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/McGetchinLRONAC-1-e1789935709592.jpeg",
+      "source": "NASASpaceflight",
       "published_at": "2026-09-20"
     },
     {
-      "id": 40016,
-      "title": "Russian Progress cargo ship arrives at International Space Station",
-      "url": "https://spaceflightnow.com/2026/09/19/russian-progress-cargo-ship-arrives-at-international-space-station/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260919-Progress-Final-Approach.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-09-19"
-    },
-    {
-      "id": 40015,
-      "title": "Live coverage: SpaceX to launch 27 Starlink V2 Mini satellites on Falcon 9 rocket from Vandenberg",
-      "url": "https://spaceflightnow.com/2026/09/19/live-coverage-spacex-to-launch-27-starlink-v2-mini-satellites-on-falcon-9-rocket-from-vandenberg/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260329_20260313_Starlink_G17_31.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-09-19"
-    },
-    {
-      "id": 40014,
-      "title": "DLR’s Suborbital MAPHEUS-17 Mission to Launch as Early as 1 October",
-      "url": "https://europeanspaceflight.com/dlrs-suborbital-mapheus-17-mission-to-launch-as-early-as-1-october/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/DLRs-Suborbital-MAPHEUS-17-Mission-to-Launch-as-Early-as-1-October-.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-09-19"
-    },
-    {
-      "id": 40013,
-      "title": "APOD: 2026 September 19 – A Zodiacal Night",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-19"
-    },
-    {
-      "id": 40011,
-      "title": "ESA and The Pokémon Company International reveal Europe-wide exhibition and astronaut Pikachu experience",
-      "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_x_tpci_-_pikachu_in_the_cupola/27530034-1-eng-GB/ESA_x_TPCI_-_Pikachu_in_the_Cupola_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-09-18"
+      "id": 40018,
+      "title": "What’s Happening in Space Policy September 20-26, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-20-26-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/09/Djibouti-Sept-14-26-300x265.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-09-20"
     }
   ]
 }
