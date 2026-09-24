@@ -1,69 +1,69 @@
 {
-  "updated": "2026-09-23T10:45:38.270Z",
+  "updated": "2026-09-24T11:06:04.370Z",
   "items": [
     {
-      "id": 40051,
-      "title": "A hitchhiker’s guide to Hera’s target asteroids",
-      "url": "https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/an_imaginary_astronaut_s_view_of_the_didymos_and_dimorphos_asteroids/27530597-2-eng-GB/An_imaginary_astronaut_s_view_of_the_Didymos_and_Dimorphos_asteroids_card_full.png",
+      "id": 40073,
+      "title": "Record participation in ESA’s Industry Space Days 2026",
+      "url": "https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/industry_space_days_20263/27536066-2-eng-GB/Industry_Space_Days_2026_card_full.jpg",
       "source": "ESA",
-      "published_at": "2026-09-23"
+      "published_at": "2026-09-24"
     },
     {
-      "id": 40050,
-      "title": "Rocket Factory Augsburg ‘Boost!’ extension in run-up to first launch",
-      "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Rocket_Factory_Augsburg_Boost!_extension_in_run-up_to_first_launch",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/11/rfa_one_rocket/25184937-1-eng-GB/RFA_One_rocket_card_full.png",
-      "source": "ESA",
-      "published_at": "2026-09-23"
-    },
-    {
-      "id": 40049,
-      "title": "Italy to Spend Over $5 Billion to Send Two Astronauts to the Moon",
-      "url": "https://europeanspaceflight.com/italy-to-spend-over-5-billion-to-send-two-astronauts-to-the-moon/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Italy-to-Spend-Over-5-Billion-Dollars-to-Send-Two-Astronauts-to-the-Moon.webp",
+      "id": 40072,
+      "title": "ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations",
+      "url": "https://europeanspaceflight.com/esa-awards-rfa-e2-7-million-in-new-funding-for-saxavord-operations/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/ESA-Awards-RFA-2.7-Million-Euros-in-New-Funding-for-SaxaVord-Operations.webp",
       "source": "European Spaceflight",
-      "published_at": "2026-09-23"
+      "published_at": "2026-09-24"
     },
     {
-      "id": 40047,
-      "title": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/content_mcgetchin_after.jpg",
+      "id": 40070,
+      "title": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/5SNR_Auriga_2000.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-24"
+    },
+    {
+      "id": 40071,
+      "title": "Cloudy Cloak Over the Northwest",
+      "url": "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-24"
+    },
+    {
+      "id": 40069,
+      "title": "Swift Rescue Mission May Not Have Succeeded, But No Regrets",
+      "url": "https://spacepolicyonline.com/news/swift-rescue-mission-may-not-have-succeeded-but-no-regrets/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Katalyst-LINK-Pegasus-300x203.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-09-24"
+    },
+    {
+      "id": 40068,
+      "title": "NASA Modernizes Commercial Airline Systems",
+      "url": "https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/acd26-0034-011.jpg",
       "source": "NASA",
       "published_at": "2026-09-23"
     },
     {
-      "id": 40048,
-      "title": "Boom Year for Desert Blooms",
-      "url": "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/boom-year-for-desert-blooms/australiawildflowes_oli_20250819.jpg",
-      "source": "NASA",
+      "id": 40067,
+      "title": "SpaceX stack Starship and Super Heavy for first orbital flight",
+      "url": "https://spaceflightnow.com/2026/09/23/spacex-stack-starship-and-super-heavy-for-first-orbital-flight/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260923_Starship_Flight-14_stacked.jpg",
+      "source": "Spaceflight Now",
       "published_at": "2026-09-23"
     },
     {
-      "id": 40046,
-      "title": "Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40",
-      "url": "https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-23-03-24-32-721-wmarked.jpg",
+      "id": 40066,
+      "title": "Ship 41 and Booster 21 head into key pre-flight test",
+      "url": "https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-23-21-19-26-175.jpg",
       "source": "NASASpaceflight",
       "published_at": "2026-09-23"
-    },
-    {
-      "id": 40045,
-      "title": "Curiosity Blog, Sols 5010-5015: Checking out the Bands",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05014_opgs_edr_ncam_NRB_842619188EDR_S1250000NCAM00259M_.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-23"
-    },
-    {
-      "id": 40042,
-      "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
-      "url": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/pfo-dcs-vte-working-group-photo.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-22"
     }
   ]
 }
