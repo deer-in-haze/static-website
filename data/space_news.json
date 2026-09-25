@@ -1,69 +1,69 @@
 {
-  "updated": "2026-09-24T11:06:04.370Z",
+  "updated": "2026-09-25T11:07:43.914Z",
   "items": [
     {
-      "id": 40073,
-      "title": "Record participation in ESA’s Industry Space Days 2026",
-      "url": "https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/industry_space_days_20263/27536066-2-eng-GB/Industry_Space_Days_2026_card_full.jpg",
+      "id": 40095,
+      "title": "ESA and the EU partner with Museo Galileo on new exhibition",
+      "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/armillary_sphere_in_the_museo_galileo/27537430-2-eng-GB/Armillary_sphere_in_the_Museo_Galileo_card_full.png",
       "source": "ESA",
-      "published_at": "2026-09-24"
+      "published_at": "2026-09-25"
     },
     {
-      "id": 40072,
-      "title": "ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations",
-      "url": "https://europeanspaceflight.com/esa-awards-rfa-e2-7-million-in-new-funding-for-saxavord-operations/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/ESA-Awards-RFA-2.7-Million-Euros-in-New-Funding-for-SaxaVord-Operations.webp",
+      "id": 40094,
+      "title": "Earth from Space: Venetian Lagoon",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/earth_from_space_venetian_lagoon/27535878-1-eng-GB/Earth_from_Space_Venetian_Lagoon_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-09-25"
+    },
+    {
+      "id": 40093,
+      "title": "MIRROR robot reflects future of in-orbit assembly",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/MIRROR_robot_reflects_future_of_in-orbit_assembly",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/mirror_robot_reflects_future_of_in-orbit_assembly/27537076-2-eng-GB/MIRROR_robot_reflects_future_of_in-orbit_assembly_card_full.gif",
+      "source": "ESA",
+      "published_at": "2026-09-25"
+    },
+    {
+      "id": 40092,
+      "title": "Callisto Reusable Rocket Demonstrator Takes Shape Ahead of 2027 Hop Test",
+      "url": "https://europeanspaceflight.com/callisto-reusable-rocket-demonstrator-takes-shape-ahead-of-2027-hop-test/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Callisto-Reusable-Rocket-Demonstrator-Takes-Shape-Ahead-of-2027-Hop-Test.webp",
       "source": "European Spaceflight",
-      "published_at": "2026-09-24"
+      "published_at": "2026-09-25"
     },
     {
-      "id": 40070,
-      "title": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/5SNR_Auriga_2000.jpg",
+      "id": 40091,
+      "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/NGC5139CadenasParra.jpg",
       "source": "NASA",
-      "published_at": "2026-09-24"
+      "published_at": "2026-09-25"
     },
     {
-      "id": 40071,
-      "title": "Cloudy Cloak Over the Northwest",
-      "url": "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919.jpg",
+      "id": 40090,
+      "title": "Explosive Intensification for Hurricane Polo",
+      "url": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923.jpg",
       "source": "NASA",
-      "published_at": "2026-09-24"
+      "published_at": "2026-09-25"
     },
     {
-      "id": 40069,
-      "title": "Swift Rescue Mission May Not Have Succeeded, But No Regrets",
-      "url": "https://spacepolicyonline.com/news/swift-rescue-mission-may-not-have-succeeded-but-no-regrets/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Katalyst-LINK-Pegasus-300x203.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-09-24"
-    },
-    {
-      "id": 40068,
-      "title": "NASA Modernizes Commercial Airline Systems",
-      "url": "https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/acd26-0034-011.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-23"
-    },
-    {
-      "id": 40067,
-      "title": "SpaceX stack Starship and Super Heavy for first orbital flight",
-      "url": "https://spaceflightnow.com/2026/09/23/spacex-stack-starship-and-super-heavy-for-first-orbital-flight/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260923_Starship_Flight-14_stacked.jpg",
+      "id": 40089,
+      "title": "NASA announces new space telescope ‘PRIMA’ to launch in 2033",
+      "url": "https://spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260924_PRIMA_rendering.jpg",
       "source": "Spaceflight Now",
-      "published_at": "2026-09-23"
+      "published_at": "2026-09-24"
     },
     {
-      "id": 40066,
-      "title": "Ship 41 and Booster 21 head into key pre-flight test",
-      "url": "https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-23-21-19-26-175.jpg",
+      "id": 40088,
+      "title": "Expedition 75 astronauts continue science work as Crew-13 readies for launch",
+      "url": "https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/IMG_7485.jpeg",
       "source": "NASASpaceflight",
-      "published_at": "2026-09-23"
+      "published_at": "2026-09-24"
     }
   ]
 }
