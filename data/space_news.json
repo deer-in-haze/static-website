@@ -1,69 +1,69 @@
 {
-  "updated": "2026-09-25T11:07:43.914Z",
+  "updated": "2026-09-26T10:48:17.894Z",
   "items": [
     {
-      "id": 40095,
-      "title": "ESA and the EU partner with Museo Galileo on new exhibition",
-      "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/armillary_sphere_in_the_museo_galileo/27537430-2-eng-GB/Armillary_sphere_in_the_Museo_Galileo_card_full.png",
-      "source": "ESA",
-      "published_at": "2026-09-25"
-    },
-    {
-      "id": 40094,
-      "title": "Earth from Space: Venetian Lagoon",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/earth_from_space_venetian_lagoon/27535878-1-eng-GB/Earth_from_Space_Venetian_Lagoon_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-09-25"
-    },
-    {
-      "id": 40093,
-      "title": "MIRROR robot reflects future of in-orbit assembly",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/MIRROR_robot_reflects_future_of_in-orbit_assembly",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/mirror_robot_reflects_future_of_in-orbit_assembly/27537076-2-eng-GB/MIRROR_robot_reflects_future_of_in-orbit_assembly_card_full.gif",
-      "source": "ESA",
-      "published_at": "2026-09-25"
-    },
-    {
-      "id": 40092,
-      "title": "Callisto Reusable Rocket Demonstrator Takes Shape Ahead of 2027 Hop Test",
-      "url": "https://europeanspaceflight.com/callisto-reusable-rocket-demonstrator-takes-shape-ahead-of-2027-hop-test/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Callisto-Reusable-Rocket-Demonstrator-Takes-Shape-Ahead-of-2027-Hop-Test.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-09-25"
-    },
-    {
-      "id": 40091,
-      "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/NGC5139CadenasParra.jpg",
+      "id": 40109,
+      "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg",
       "source": "NASA",
-      "published_at": "2026-09-25"
+      "published_at": "2026-09-26"
     },
     {
-      "id": 40090,
-      "title": "Explosive Intensification for Hurricane Polo",
-      "url": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-25"
-    },
-    {
-      "id": 40089,
-      "title": "NASA announces new space telescope ‘PRIMA’ to launch in 2033",
-      "url": "https://spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260924_PRIMA_rendering.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-09-24"
-    },
-    {
-      "id": 40088,
-      "title": "Expedition 75 astronauts continue science work as Crew-13 readies for launch",
-      "url": "https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/IMG_7485.jpeg",
+      "id": 40108,
+      "title": "Flight 14 waits on approval as a near-term manifest sketches Starship’s next steps",
+      "url": "https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-26-04-55-29-205.jpg",
       "source": "NASASpaceflight",
-      "published_at": "2026-09-24"
+      "published_at": "2026-09-26"
+    },
+    {
+      "id": 40107,
+      "title": "NASA, Boeing to Provide Update on Starliner Development",
+      "url": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-25"
+    },
+    {
+      "id": 40106,
+      "title": "SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast",
+      "url": "https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260925-Falcon-9-File.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-09-25"
+    },
+    {
+      "id": 40105,
+      "title": "NASA Welcomes San Marino Signing the Artemis Accords",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/san-marino.jpeg",
+      "source": "NASA",
+      "published_at": "2026-09-25"
+    },
+    {
+      "id": 40104,
+      "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
+      "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
+      "image_url": "https://images-assets.nasa.gov/image/933/933~large.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-25"
+    },
+    {
+      "id": 40103,
+      "title": "2026-2027 DWU: Middle School Design Challenge",
+      "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-ms-web.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-25"
+    },
+    {
+      "id": 40102,
+      "title": "2026-2027 DWU: High School Engineering Challenge",
+      "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-hs-web.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-25"
     }
   ]
 }
