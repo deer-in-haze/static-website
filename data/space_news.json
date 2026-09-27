@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-26T10:48:17.894Z",
+  "updated": "2026-09-27T11:23:30.226Z",
   "items": [
+    {
+      "id": 40111,
+      "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M31Before_Scherer_4298.jpg",
+      "source": "NASA",
+      "published_at": "2026-09-27"
+    },
+    {
+      "id": 40110,
+      "title": "Next crew bound for the space station arrive in Florida",
+      "url": "https://spaceflightnow.com/2026/09/26/next-crew-bound-for-the-space-station-arrive-in-florida/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260926_NASA_crew-13_JP-1.jpeg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-09-26"
+    },
     {
       "id": 40109,
       "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
@@ -46,22 +62,6 @@
       "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
       "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
       "image_url": "https://images-assets.nasa.gov/image/933/933~large.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-25"
-    },
-    {
-      "id": 40103,
-      "title": "2026-2027 DWU: Middle School Design Challenge",
-      "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-ms-web.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-25"
-    },
-    {
-      "id": 40102,
-      "title": "2026-2027 DWU: High School Engineering Challenge",
-      "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-hs-web.jpg",
       "source": "NASA",
       "published_at": "2026-09-25"
     }
