@@ -1,69 +1,69 @@
 {
-  "updated": "2026-09-30T11:54:41.159Z",
+  "updated": "2026-10-01T12:25:45.923Z",
   "items": [
     {
-      "id": 40166,
-      "title": "ESA Selects Airbus and OHB to Lead European Space Station Studies",
-      "url": "https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/ESA-Selects-Airbus-and-OHB-to-Lead-European-Space-Station-Studies.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-09-30"
-    },
-    {
-      "id": 40165,
-      "title": "Science begins for Smile",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/smile_s_first_ultraviolet_image_shows_auroral_substorm/27545329-1-eng-GB/Smile_s_first_ultraviolet_image_shows_auroral_substorm_card_full.png",
+      "id": 40184,
+      "title": "EarthCARE’s view of volcanic plume boosts air safety",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_view_of_volcanic_plume_boosts_air_safety",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/anak_krakatau_eruption_by_sentinel-3/27456765-1-eng-GB/Anak_Krakatau_eruption_by_Sentinel-3_card_full.jpg",
       "source": "ESA",
-      "published_at": "2026-09-30"
+      "published_at": "2026-10-01"
     },
     {
-      "id": 40163,
-      "title": "APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NGC772_Robert_Eder.jpg",
+      "id": 40182,
+      "title": "APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Harvest%20Moon%20Trail%20With%20Venus%20Belt%20and%20Erupting%20Mount%20Etna%204%20LD.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-01"
+    },
+    {
+      "id": 40183,
+      "title": "An Agricultural “Island” in the Saskatchewan River Delta",
+      "url": "https://science.nasa.gov/earth/earth-observatory/an-agricultural-island-in-the-saskatchewan-river-delta/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-agricultural-%E2%80%9Cisland%E2%80%9D-in-the-saskatchewan-river-delta/manitobaharvest_oli2_20260702.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-01"
+    },
+    {
+      "id": 40181,
+      "title": "Live coverage: NASA, SpaceX to launch next crewed mission to the International Space Station",
+      "url": "https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260930_Crew-13_Dragon_MC-1.jpeg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-10-01"
+    },
+    {
+      "id": 40180,
+      "title": "LTG David Miller Nominated as Next Leader of U.S. Space Command",
+      "url": "https://spacepolicyonline.com/news/ltg-david-miller-nominated-as-next-leader-of-u-s-space-command/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/09/LTG-David-Miller-Sept-2026-240x300.avif",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-10-01"
+    },
+    {
+      "id": 40179,
+      "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
+      "url": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/galileo-logo-square-submission.png?fit=1024%2C1024&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-10-01"
+    },
+    {
+      "id": 40178,
+      "title": "Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_msss_05016_mhli_5016MH0001930001804259R00_DXXX.jpg",
       "source": "NASA",
       "published_at": "2026-09-30"
     },
     {
-      "id": 40164,
-      "title": "Powerful Storms Continue to Prowl the Pacific",
-      "url": "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/powerful-storms-continue-to-prowl-the-pacific/polonolo_epic_20260927.jpg",
+      "id": 40177,
+      "title": "Help Overlap Zoo Reveal Cosmic Dust",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/STScI-01GE08RNPH8RBMMGMC52JD3R93-Trevor_Butrum.jpg",
       "source": "NASA",
       "published_at": "2026-09-30"
-    },
-    {
-      "id": 40162,
-      "title": "Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO",
-      "url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092926/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Gy7aFPMXMAAkg8X.jpeg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-09-29"
-    },
-    {
-      "id": 40161,
-      "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
-      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/2027-hulc-graphic-header-conceptual-lunar-communications-and-navigation-orbiter.png",
-      "source": "NASA",
-      "published_at": "2026-09-29"
-    },
-    {
-      "id": 40159,
-      "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/",
-      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-      "source": "NASA",
-      "published_at": "2026-09-29"
-    },
-    {
-      "id": 40160,
-      "title": "NASA Features Exploration, Science at International Space Conference",
-      "url": "https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/iac.jpg",
-      "source": "NASA",
-      "published_at": "2026-09-29"
     }
   ]
 }
