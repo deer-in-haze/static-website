@@ -1,69 +1,69 @@
 {
-  "updated": "2026-10-08T12:48:11.893Z",
+  "updated": "2026-10-09T12:33:42.619Z",
   "items": [
     {
-      "id": 40294,
-      "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/05/solar_orbiter_at_perihelion_26_march_2022/24071526-1-eng-GB/Solar_Orbiter_at_perihelion_26_March_2022_card_full.png",
+      "id": 40314,
+      "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55092272338_83965929d0_o-1776275319.jpg",
+      "source": "Arstechnica",
+      "published_at": "2026-10-09"
+    },
+    {
+      "id": 40313,
+      "title": "Earth from Space: Namibia’s biggest salt pan",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_namibia_s_biggest_salt_pan/27564541-1-eng-GB/Earth_from_Space_Namibia_s_biggest_salt_pan_card_full.jpg",
       "source": "ESA",
+      "published_at": "2026-10-09"
+    },
+    {
+      "id": 40311,
+      "title": "APOD: 2026 October 9 – Stickney Crater",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/PSP_007769_9010_IRB_Stickney.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-09"
+    },
+    {
+      "id": 40312,
+      "title": "Floodwaters Overwhelm Thailand",
+      "url": "https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/floodwaters-overwhelm-thailand/thailandflooding_oli_20251007.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-09"
+    },
+    {
+      "id": 40310,
+      "title": "Crew-12 Back on Earth as ISS Keeps Busy",
+      "url": "https://spacepolicyonline.com/news/crew-12-back-on-earth-as-iss-keeps-busy/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Crew12-splashdown-Keegan-300x200.jpg",
+      "source": "SpacePolicyOnline.com",
       "published_at": "2026-10-08"
     },
     {
-      "id": 40295,
-      "title": "The director’s take: telling Galileo’s story through film",
-      "url": "https://www.esa.int/Applications/Satellite_navigation/The_director_s_take_telling_Galileo_s_story_through_film",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/navigation_documentary_filming_at_estec/27553947-1-eng-GB/Navigation_documentary_filming_at_ESTEC_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-10-08"
-    },
-    {
-      "id": 40293,
-      "title": "Keeping the sky dark and quiet",
-      "url": "https://www.esa.int/Space_Safety/Clean_Space/Keeping_the_sky_dark_and_quiet",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/one_hour_of_satellites_over_the_northern_atacama_desert_in_chile/27563255-1-eng-GB/One_hour_of_satellites_over_the_northern_Atacama_Desert_in_Chile_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-10-08"
-    },
-    {
-      "id": 40290,
-      "title": "APOD: 2026 October 8 – The Saturn System Smörgåsbord",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026-09-21-2349_3-TW-RGB-Sat2_1.5x_Labelled.png",
+      "id": 40309,
+      "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+      "url": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2023/04/mmx-mars-mission.jpg",
       "source": "NASA",
       "published_at": "2026-10-08"
     },
     {
-      "id": 40289,
-      "title": "Fighting Drought in Texas Cotton Country",
-      "url": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-drought-in-texas-cotton-country/texasdrought_oli_20250922.jpg",
+      "id": 40308,
+      "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
       "source": "NASA",
       "published_at": "2026-10-08"
     },
     {
-      "id": 40287,
-      "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/spacex-35.jpg",
+      "id": 40305,
+      "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/otter-2.png",
       "source": "NASA",
-      "published_at": "2026-10-07"
-    },
-    {
-      "id": 40285,
-      "title": "NASA’s SpaceX 35th Commercial Resupply Mission Overview",
-      "url": "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-falcon9-dragon.png",
-      "source": "NASA",
-      "published_at": "2026-10-07"
-    },
-    {
-      "id": 40286,
-      "title": "NASA’s PRIMA Spacecraft (Artist’s Concept)",
-      "url": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26355/PIA26355.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-07"
+      "published_at": "2026-10-08"
     }
   ]
 }
