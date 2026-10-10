@@ -1,69 +1,69 @@
 {
-  "updated": "2026-10-09T12:33:42.619Z",
+  "updated": "2026-10-10T11:54:17.884Z",
   "items": [
     {
-      "id": 40314,
-      "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
-      "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55092272338_83965929d0_o-1776275319.jpg",
+      "id": 40340,
+      "title": "ESA astronaut Sophie Adenot returns from her first mission to the International Space Station",
+      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/sophie_is_back_in_europe2/27568712-2-eng-GB/Sophie_is_back_in_Europe_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-10-10"
+    },
+    {
+      "id": 40339,
+      "title": "APOD: 2026 October 10 – Lunar Farside",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-10"
+    },
+    {
+      "id": 40338,
+      "title": "SpaceX to make another attempt to launch 21 data satellites for Space Development Agency",
+      "url": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261009-SDA-Fairing.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-10-09"
+    },
+    {
+      "id": 40337,
+      "title": "NASA issues long-awaited call to industry for private space stations",
+      "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2012/11/323069main_s119e009662.jpg",
       "source": "Arstechnica",
       "published_at": "2026-10-09"
     },
     {
-      "id": 40313,
-      "title": "Earth from Space: Namibia’s biggest salt pan",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_namibia_s_biggest_salt_pan/27564541-1-eng-GB/Earth_from_Space_Namibia_s_biggest_salt_pan_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-10-09"
-    },
-    {
-      "id": 40311,
-      "title": "APOD: 2026 October 9 – Stickney Crater",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/PSP_007769_9010_IRB_Stickney.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-09"
-    },
-    {
-      "id": 40312,
-      "title": "Floodwaters Overwhelm Thailand",
-      "url": "https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/floodwaters-overwhelm-thailand/thailandflooding_oli_20251007.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-09"
-    },
-    {
-      "id": 40310,
-      "title": "Crew-12 Back on Earth as ISS Keeps Busy",
-      "url": "https://spacepolicyonline.com/news/crew-12-back-on-earth-as-iss-keeps-busy/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Crew12-splashdown-Keegan-300x200.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-10-08"
-    },
-    {
-      "id": 40309,
-      "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
-      "url": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2023/04/mmx-mars-mission.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-08"
-    },
-    {
-      "id": 40308,
-      "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
+      "id": 40321,
+      "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
+      "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
       "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
       "source": "NASA",
-      "published_at": "2026-10-08"
+      "published_at": "2026-10-09"
     },
     {
-      "id": 40305,
-      "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
-      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/otter-2.png",
+      "id": 40320,
+      "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0185943.jpg",
       "source": "NASA",
-      "published_at": "2026-10-08"
+      "published_at": "2026-10-09"
+    },
+    {
+      "id": 40319,
+      "title": "Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing",
+      "url": "https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Ship40-4-2-wmarked-scaled.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-10-09"
+    },
+    {
+      "id": 40317,
+      "title": "Cosmic House of Mirrors",
+      "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-09"
     }
   ]
 }
