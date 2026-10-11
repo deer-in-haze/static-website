@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-10T11:54:17.884Z",
+  "updated": "2026-10-11T12:05:47.431Z",
   "items": [
+    {
+      "id": 40342,
+      "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/deephole_icecube_4000.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-11"
+    },
+    {
+      "id": 40341,
+      "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+      "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-10"
+    },
     {
       "id": 40340,
       "title": "ESA astronaut Sophie Adenot returns from her first mission to the International Space Station",
@@ -46,22 +62,6 @@
       "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
       "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
       "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0185943.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-09"
-    },
-    {
-      "id": 40319,
-      "title": "Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing",
-      "url": "https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Ship40-4-2-wmarked-scaled.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-10-09"
-    },
-    {
-      "id": 40317,
-      "title": "Cosmic House of Mirrors",
-      "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg",
       "source": "NASA",
       "published_at": "2026-10-09"
     }
