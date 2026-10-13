@@ -1,69 +1,69 @@
 {
-  "updated": "2026-10-12T14:24:41.622Z",
+  "updated": "2026-10-13T13:33:40.736Z",
   "items": [
     {
-      "id": 40354,
-      "title": "Welcome home, Sophie Adenot",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Welcome_home_Sophie_Adenot",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/welcome_home_sophie_adenot/27571908-1-eng-GB/Welcome_home_Sophie_Adenot_card_full.png",
-      "source": "ESA",
-      "published_at": "2026-10-12"
-    },
-    {
-      "id": 40353,
-      "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
-      "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/jenaoptronik.png?fit=719%2C719&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-10-12"
-    },
-    {
-      "id": 40350,
-      "title": "ExoMars rover twin rehearses first drive",
-      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_twin_rehearses_first_drive",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mars_rover_rolls_down_the_ramp/27567393-1-eng-GB/Mars_rover_rolls_down_the_ramp_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-10-12"
-    },
-    {
-      "id": 40348,
-      "title": "Rolling onto Mars - testing a rover’s lander",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Rolling_onto_Mars_-_testing_a_rover_s_lander",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/rolling_onto_mars_-_testing_a_rover_s_lander/27569566-1-eng-GB/Rolling_onto_Mars_-_testing_a_rover_s_lander_card_full.png",
-      "source": "ESA",
-      "published_at": "2026-10-12"
-    },
-    {
-      "id": 40349,
-      "title": "Preparing for a first drive on Mars",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Preparing_for_a_first_drive_on_Mars",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/preparing_for_a_first_drive_on_mars/27569566-1-eng-GB/Preparing_for_a_first_drive_on_Mars_card_full.png",
-      "source": "ESA",
-      "published_at": "2026-10-12"
-    },
-    {
-      "id": 40351,
-      "title": "NovaMoon mission patch",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/NovaMoon_mission_patch",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/novamoon_mission_patch/27569359-1-eng-GB/NovaMoon_mission_patch_card_full.png",
-      "source": "ESA",
-      "published_at": "2026-10-12"
-    },
-    {
-      "id": 40352,
-      "title": "Introducing NovaMoon",
-      "url": "https://www.esa.int/Applications/Satellite_navigation/Introducing_NovaMoon",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/novamoon_mission_patch/27569359-1-eng-GB/NovaMoon_mission_patch_card_full.png",
-      "source": "ESA",
-      "published_at": "2026-10-12"
-    },
-    {
-      "id": 40347,
-      "title": "APOD: 2026 October 12 – Jupiter and the Moons",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/JupiterMoons_Upreti_3105.jpg",
+      "id": 40365,
+      "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+      "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26708-grifffin-tvac-wings.jpeg",
       "source": "NASA",
-      "published_at": "2026-10-12"
+      "published_at": "2026-10-13"
+    },
+    {
+      "id": 40364,
+      "title": "Mars moon lander set to launch on 19 October",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_from_launch_to_phobos/27573728-1-eng-GB/MMX_from_launch_to_Phobos_card_full.png",
+      "source": "ESA",
+      "published_at": "2026-10-13"
+    },
+    {
+      "id": 40363,
+      "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
+      "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/nasa-spacex-35th-commercial-resupply-services-launch.png",
+      "source": "NASA",
+      "published_at": "2026-10-13"
+    },
+    {
+      "id": 40362,
+      "title": "Press conference: ESA astronaut Sophie Adenot returns to Europe",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Press_conference_ESA_astronaut_Sophie_Adenot_returns_to_Europe",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/press_conference_esa_astronaut_sophie_adenot_returns_to_europe/27575398-1-eng-GB/Press_conference_ESA_astronaut_Sophie_Adenot_returns_to_Europe_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-10-13"
+    },
+    {
+      "id": 40361,
+      "title": "Norway Details Funding Allocation for Second Andøya Launch Pad",
+      "url": "https://europeanspaceflight.com/norway-details-funding-allocation-for-second-andoya-launch-pad/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Norway-Details-Funding-Allocation-for-Second-Andoya-Launch-Pad-.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-10-13"
+    },
+    {
+      "id": 40360,
+      "title": "APOD: 2026 October 13 – Desert Stairway to Heaven",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Stairway2Heaven_Looten_6750.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-13"
+    },
+    {
+      "id": 40359,
+      "title": "An Impact Structure With Legs",
+      "url": "https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-impact-structure-with-legs/aus_spidercrater_oli2_20260920.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-13"
+    },
+    {
+      "id": 40358,
+      "title": "Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
+      "url": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261012-F9-CRS-Sunset.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-10-13"
     }
   ]
 }
