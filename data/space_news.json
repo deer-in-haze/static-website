@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-13T13:33:40.736Z",
+  "updated": "2026-10-14T11:10:15.876Z",
   "items": [
+    {
+      "id": 40369,
+      "title": "Ship 40 Back At Starbase After Surprise Reentry Survival",
+      "url": "https://spacepolicyonline.com/news/ship-40-back-at-starbase-after-surprise-reentry-survival/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Starship-intact-ocean-July-24-26-300x173.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-10-14"
+    },
+    {
+      "id": 40368,
+      "title": "Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week",
+      "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-101326/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/07/IMG_2367-scaled.jpeg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-10-13"
+    },
+    {
+      "id": 40367,
+      "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems:A Two-Mode Interaction Perspective",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/two-mode-interaction-in-a-lightly-damped-system.png",
+      "source": "NASA",
+      "published_at": "2026-10-13"
+    },
+    {
+      "id": 40366,
+      "title": "SpaceX launches NASA science and cargo to the International Space Station",
+      "url": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261013_CRS-35_MC-1.jpeg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-10-13"
+    },
     {
       "id": 40365,
       "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
@@ -31,38 +63,6 @@
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Press_conference_ESA_astronaut_Sophie_Adenot_returns_to_Europe",
       "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/press_conference_esa_astronaut_sophie_adenot_returns_to_europe/27575398-1-eng-GB/Press_conference_ESA_astronaut_Sophie_Adenot_returns_to_Europe_card_full.jpg",
       "source": "ESA",
-      "published_at": "2026-10-13"
-    },
-    {
-      "id": 40361,
-      "title": "Norway Details Funding Allocation for Second Andøya Launch Pad",
-      "url": "https://europeanspaceflight.com/norway-details-funding-allocation-for-second-andoya-launch-pad/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Norway-Details-Funding-Allocation-for-Second-Andoya-Launch-Pad-.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-10-13"
-    },
-    {
-      "id": 40360,
-      "title": "APOD: 2026 October 13 – Desert Stairway to Heaven",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Stairway2Heaven_Looten_6750.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-13"
-    },
-    {
-      "id": 40359,
-      "title": "An Impact Structure With Legs",
-      "url": "https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-impact-structure-with-legs/aus_spidercrater_oli2_20260920.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-13"
-    },
-    {
-      "id": 40358,
-      "title": "Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
-      "url": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261012-F9-CRS-Sunset.jpg",
-      "source": "Spaceflight Now",
       "published_at": "2026-10-13"
     }
   ]
