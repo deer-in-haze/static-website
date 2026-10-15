@@ -1,69 +1,69 @@
 {
-  "updated": "2026-10-14T11:10:15.876Z",
+  "updated": "2026-10-15T10:50:57.160Z",
   "items": [
     {
-      "id": 40369,
-      "title": "Ship 40 Back At Starbase After Surprise Reentry Survival",
-      "url": "https://spacepolicyonline.com/news/ship-40-back-at-starbase-after-surprise-reentry-survival/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Starship-intact-ocean-July-24-26-300x173.jpg",
-      "source": "SpacePolicyOnline.com",
+      "id": 40393,
+      "title": "Trace Gas Orbiter — Facts and figures",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Trace_Gas_Orbiter_Facts_and_figures",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/trace_gas_orbiter_facts_and_figures/27578650-1-eng-GB/Trace_Gas_Orbiter_Facts_and_figures_card_full.png",
+      "source": "ESA",
+      "published_at": "2026-10-15"
+    },
+    {
+      "id": 40392,
+      "title": "Drilling down for the Moon",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Drilling_down_for_the_Moon",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/drilling_down_for_the_moon/27577973-1-eng-GB/Drilling_down_for_the_Moon_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-10-15"
+    },
+    {
+      "id": 40391,
+      "title": "Swarming robots to tackle space debris",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Swarming_robots_to_tackle_space_debris",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/swarming_robots_to_tackle_space_debris/27577419-1-eng-GB/Swarming_robots_to_tackle_space_debris_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-10-15"
+    },
+    {
+      "id": 40390,
+      "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Manhattan%20Milkyway.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-15"
+    },
+    {
+      "id": 40389,
+      "title": "Fires Arrive in the Amazon Rainforest",
+      "url": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-arrive-in-the-amazon-rainforest/amazofires_amo_20261012.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-15"
+    },
+    {
+      "id": 40388,
+      "title": "Artemis III SLS teams prepare short stack for pad tanking test",
+      "url": "https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-14-23-01-17-060.jpg",
+      "source": "NASASpaceflight",
       "published_at": "2026-10-14"
     },
     {
-      "id": 40368,
-      "title": "Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week",
-      "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-101326/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/07/IMG_2367-scaled.jpeg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-10-13"
-    },
-    {
-      "id": 40367,
-      "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems:A Two-Mode Interaction Perspective",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/two-mode-interaction-in-a-lightly-damped-system.png",
+      "id": 40387,
+      "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
+      "url": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
+      "image_url": "https://images-assets.nasa.gov/image/iss075e0011109/iss075e0011109~large.jpg",
       "source": "NASA",
-      "published_at": "2026-10-13"
+      "published_at": "2026-10-14"
     },
     {
-      "id": 40366,
-      "title": "SpaceX launches NASA science and cargo to the International Space Station",
-      "url": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261013_CRS-35_MC-1.jpeg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-10-13"
-    },
-    {
-      "id": 40365,
-      "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
-      "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26708-grifffin-tvac-wings.jpeg",
+      "id": 40386,
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/florida-student-downlink-oct-14.jpg",
       "source": "NASA",
-      "published_at": "2026-10-13"
-    },
-    {
-      "id": 40364,
-      "title": "Mars moon lander set to launch on 19 October",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_from_launch_to_phobos/27573728-1-eng-GB/MMX_from_launch_to_Phobos_card_full.png",
-      "source": "ESA",
-      "published_at": "2026-10-13"
-    },
-    {
-      "id": 40363,
-      "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
-      "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/nasa-spacex-35th-commercial-resupply-services-launch.png",
-      "source": "NASA",
-      "published_at": "2026-10-13"
-    },
-    {
-      "id": 40362,
-      "title": "Press conference: ESA astronaut Sophie Adenot returns to Europe",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Press_conference_ESA_astronaut_Sophie_Adenot_returns_to_Europe",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/press_conference_esa_astronaut_sophie_adenot_returns_to_europe/27575398-1-eng-GB/Press_conference_ESA_astronaut_Sophie_Adenot_returns_to_Europe_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-10-13"
+      "published_at": "2026-10-14"
     }
   ]
 }
