@@ -1,69 +1,69 @@
 {
-  "updated": "2026-10-15T10:50:57.160Z",
+  "updated": "2026-10-16T10:41:13.501Z",
   "items": [
     {
-      "id": 40393,
-      "title": "Trace Gas Orbiter — Facts and figures",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Trace_Gas_Orbiter_Facts_and_figures",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/trace_gas_orbiter_facts_and_figures/27578650-1-eng-GB/Trace_Gas_Orbiter_Facts_and_figures_card_full.png",
-      "source": "ESA",
-      "published_at": "2026-10-15"
+      "id": 40413,
+      "title": "Blue Origin is going all in on the New Glenn rocket",
+      "url": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Blue-Origin-Upper-Stage-Facility-Still-Render.png",
+      "source": "Arstechnica",
+      "published_at": "2026-10-16"
     },
     {
-      "id": 40392,
-      "title": "Drilling down for the Moon",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Drilling_down_for_the_Moon",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/drilling_down_for_the_moon/27577973-1-eng-GB/Drilling_down_for_the_Moon_card_full.jpg",
+      "id": 40412,
+      "title": "Earth from Space: West Antarctica",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_West_Antarctica",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_west_antarctica/27579693-1-eng-GB/Earth_from_Space_West_Antarctica_card_full.jpg",
       "source": "ESA",
-      "published_at": "2026-10-15"
+      "published_at": "2026-10-16"
     },
     {
-      "id": 40391,
-      "title": "Swarming robots to tackle space debris",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Swarming_robots_to_tackle_space_debris",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/swarming_robots_to_tackle_space_debris/27577419-1-eng-GB/Swarming_robots_to_tackle_space_debris_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-10-15"
-    },
-    {
-      "id": 40390,
-      "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Manhattan%20Milkyway.jpg",
+      "id": 40410,
+      "title": "APOD: 2026 October 16 – Chasing the International Space Station",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
+      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
       "source": "NASA",
-      "published_at": "2026-10-15"
+      "published_at": "2026-10-16"
     },
     {
-      "id": 40389,
-      "title": "Fires Arrive in the Amazon Rainforest",
-      "url": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-arrive-in-the-amazon-rainforest/amazofires_amo_20261012.jpg",
+      "id": 40411,
+      "title": "Isaias Dims the Gulf Coast",
+      "url": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/isaias-dims-the-gulf-coast/isaias_bmhd_202608.jpg",
       "source": "NASA",
-      "published_at": "2026-10-15"
+      "published_at": "2026-10-16"
     },
     {
-      "id": 40388,
-      "title": "Artemis III SLS teams prepare short stack for pad tanking test",
-      "url": "https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-14-23-01-17-060.jpg",
+      "id": 40409,
+      "title": "Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027",
+      "url": "https://www.nasaspaceflight.com/2026/10/carbon-fibre-force-rocket-lab-delay-neutron-debut/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-16-04-46-59-168.jpg",
       "source": "NASASpaceflight",
-      "published_at": "2026-10-14"
+      "published_at": "2026-10-16"
     },
     {
-      "id": 40387,
-      "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
-      "url": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
-      "image_url": "https://images-assets.nasa.gov/image/iss075e0011109/iss075e0011109~large.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-14"
+      "id": 40408,
+      "title": "JAXA’S MMX Mars Mission Readies for Launch with Two NASA Instruments",
+      "url": "https://spacepolicyonline.com/news/jaxas-mmx-mars-mission-readies-for-launch-with-two-nasa-instruments/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Mars-Phobos-Deimos-NASA-300x154.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-10-16"
     },
     {
-      "id": 40386,
-      "title": "NASA Astronauts to Answer Questions from Florida Students",
-      "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/florida-student-downlink-oct-14.jpg",
+      "id": 40407,
+      "title": "Oct. 29: Applying AI to the GEOINT Mission",
+      "url": "https://spacenews.com/applying-ai-to-the-geoint-mission-event/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-10-29-vantor-spacenews_2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-10-15"
+    },
+    {
+      "id": 40406,
+      "title": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
+      "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/mmx/jaxa-mmx-spacecraft.png",
       "source": "NASA",
-      "published_at": "2026-10-14"
+      "published_at": "2026-10-15"
     }
   ]
 }
