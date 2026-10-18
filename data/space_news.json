@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-17T10:08:09.867Z",
+  "updated": "2026-10-18T10:22:54.127Z",
   "items": [
+    {
+      "id": 40424,
+      "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
+      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+      "source": "NASA",
+      "published_at": "2026-10-18"
+    },
     {
       "id": 40423,
       "title": "APOD: 2026 October 17 – 3D 67P",
@@ -55,14 +63,6 @@
       "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
       "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC1827_1_flat_FINAL.jpg",
       "source": "NASA",
-      "published_at": "2026-10-16"
-    },
-    {
-      "id": 40413,
-      "title": "Blue Origin is going all in on the New Glenn rocket",
-      "url": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Blue-Origin-Upper-Stage-Facility-Still-Render.png",
-      "source": "Arstechnica",
       "published_at": "2026-10-16"
     }
   ]
