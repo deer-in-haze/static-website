@@ -1,69 +1,69 @@
 {
-  "updated": "2026-10-19T12:06:43.111Z",
+  "updated": "2026-10-20T10:55:15.335Z",
   "items": [
     {
-      "id": 40435,
-      "title": "Euclid discovers new comet",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/comet_c_2026_s1_euclid_streaks_across_the_sky/27582276-1-eng-GB/Comet_C_2026_S1_Euclid_streaks_across_the_sky_card_full.gif",
-      "source": "ESA",
-      "published_at": "2026-10-19"
+      "id": 40488,
+      "title": "French MPs propose symbolic €1 budget line for VORTEX spaceplane",
+      "url": "https://europeanspaceflight.com/french-mps-propose-symbolic-e1-budget-line-for-vortex-spaceplane/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/French-MPs-propose-symbolic-E1-budget-line-for-VORTEX-spaceplane.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-10-20"
     },
     {
-      "id": 40432,
-      "title": "Space materials lab marks 10 years of innovation",
-      "url": "https://www.esa.int/Space_in_Member_States/United_Kingdom/Space_materials_lab_marks_10_years_of_innovation",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/the_esa-ral_advanced_manufacturing_lab_marks_10_years_of_operations/27580847-1-eng-GB/The_ESA-RAL_Advanced_Manufacturing_Lab_marks_10_years_of_operations_card_full.jpg",
+      "id": 40487,
+      "title": "New brain for Galileo",
+      "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/New_brain_for_Galileo",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/galileo_second_generation_radiofrequency_output_module/27582093-1-eng-GB/Galileo_Second_Generation_radiofrequency_output_module_card_full.jpg",
       "source": "ESA",
-      "published_at": "2026-10-19"
+      "published_at": "2026-10-20"
     },
     {
-      "id": 40433,
-      "title": "Science and technology for the Moon",
-      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Science_and_technology_for_the_Moon",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/moonset_1_of_6/27385453-2-eng-GB/Moonset_1_of_6_card_full.jpg",
+      "id": 40486,
+      "title": "MMX lifts off to Mars’s moon Phobos",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_lifts_off_to_mars_s_moon_phobos/27583877-2-eng-GB/MMX_lifts_off_to_Mars_s_moon_Phobos_card_full.gif",
       "source": "ESA",
-      "published_at": "2026-10-19"
+      "published_at": "2026-10-20"
     },
     {
-      "id": 40430,
-      "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/trebleclef.jpg",
+      "id": 40483,
+      "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/AntiRainbow_Esposti_5120.jpg",
       "source": "NASA",
-      "published_at": "2026-10-19"
+      "published_at": "2026-10-20"
     },
     {
-      "id": 40431,
-      "title": "Autumn Paints Poland’s Bieszczady Mountains",
-      "url": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-paints-poland's-bieszczady-mountains/poland_bieszczady_oli2_20261008.jpg",
+      "id": 40484,
+      "title": "The Human Fingerprint on Earth’s Water Cycle",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-human-fingerprint-on-earth%E2%80%99s-water-cycle/terrestrialwaterstorage_trends.jpg",
       "source": "NASA",
-      "published_at": "2026-10-19"
+      "published_at": "2026-10-20"
     },
     {
-      "id": 40428,
-      "title": "Falcon 9 set to launch Bandwagon-5 rideshare mission from Florida",
-      "url": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/8194EC01-F52C-4218-BDD9-A460FAF2AB63.jpeg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-10-18"
+      "id": 40482,
+      "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05037_opgs_edr_ncam_NRB_844669907EDR_S1250558NCAM00543M_.JPG",
+      "source": "NASA",
+      "published_at": "2026-10-20"
     },
     {
-      "id": 40427,
-      "title": "What’s Happening in Space Policy October 18-24, 2026",
-      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-18-24-2026/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/10/MMX-JAXA-on-NASA-300x237.jpg",
+      "id": 40481,
+      "title": "JAXA’s MMX Enroute to Mars To Return Samples of Phobos",
+      "url": "https://spacepolicyonline.com/news/jaxas-mmx-enroute-to-mars-to-return-samples-of-phobos/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/10/MMX-liftoff-300x169.jpg",
       "source": "SpacePolicyOnline.com",
-      "published_at": "2026-10-18"
+      "published_at": "2026-10-20"
     },
     {
-      "id": 40426,
-      "title": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
-      "url": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261017_Bandwagon-5_payloads.jpeg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-10-18"
+      "id": 40480,
+      "title": "NASA Improves Shock, Vibration Analysis",
+      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260924-ph-rcr01-0036.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-19"
     }
   ]
 }
