@@ -1,69 +1,69 @@
 {
-  "updated": "2026-10-20T10:55:15.335Z",
+  "updated": "2026-10-21T11:09:05.989Z",
   "items": [
     {
-      "id": 40488,
-      "title": "French MPs propose symbolic €1 budget line for VORTEX spaceplane",
-      "url": "https://europeanspaceflight.com/french-mps-propose-symbolic-e1-budget-line-for-vortex-spaceplane/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/French-MPs-propose-symbolic-E1-budget-line-for-VORTEX-spaceplane.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-10-20"
-    },
-    {
-      "id": 40487,
-      "title": "New brain for Galileo",
-      "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/New_brain_for_Galileo",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/galileo_second_generation_radiofrequency_output_module/27582093-1-eng-GB/Galileo_Second_Generation_radiofrequency_output_module_card_full.jpg",
+      "id": 40504,
+      "title": "Finding Our Way: Inside the Galileo Project: 2 - The people behind the signal",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_2_-_The_people_behind_the_signal",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/finding_our_way_inside_the_galileo_project_2_-_the_people_behind_the_signal/27585629-1-eng-GB/Finding_Our_Way_Inside_the_Galileo_Project_2_-_The_people_behind_the_signal_card_full.png",
       "source": "ESA",
-      "published_at": "2026-10-20"
+      "published_at": "2026-10-21"
     },
     {
-      "id": 40486,
-      "title": "MMX lifts off to Mars’s moon Phobos",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_lifts_off_to_mars_s_moon_phobos/27583877-2-eng-GB/MMX_lifts_off_to_Mars_s_moon_Phobos_card_full.gif",
+      "id": 40503,
+      "title": "Finding Our Way: Inside the Galileo Project: 1 – A European vision",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_1_A_European_vision",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/finding_our_way_inside_the_galileo_project_1_a_european_vision/27585539-1-eng-GB/Finding_Our_Way_Inside_the_Galileo_Project_1_A_European_vision_card_full.png",
       "source": "ESA",
-      "published_at": "2026-10-20"
+      "published_at": "2026-10-21"
     },
     {
-      "id": 40483,
-      "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/AntiRainbow_Esposti_5120.jpg",
+      "id": 40505,
+      "title": "Finding Our Way: Inside the Galileo Project: 3 - A symphony of precision",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_3_-_A_symphony_of_precision",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/finding_our_way_inside_the_galileo_project_3_-_a_symphony_of_precision/27585719-1-eng-GB/Finding_Our_Way_Inside_the_Galileo_Project_3_-_A_symphony_of_precision_card_full.png",
+      "source": "ESA",
+      "published_at": "2026-10-21"
+    },
+    {
+      "id": 40501,
+      "title": "APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/IC63.png",
       "source": "NASA",
-      "published_at": "2026-10-20"
+      "published_at": "2026-10-21"
     },
     {
-      "id": 40484,
-      "title": "The Human Fingerprint on Earth’s Water Cycle",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-human-fingerprint-on-earth%E2%80%99s-water-cycle/terrestrialwaterstorage_trends.jpg",
+      "id": 40502,
+      "title": "Extratropical Cyclone Whips Past Iceland",
+      "url": "https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014.jpg",
       "source": "NASA",
+      "published_at": "2026-10-21"
+    },
+    {
+      "id": 40500,
+      "title": "Making SpaceX and Tesla a single company has \"a lot of merit,\" Musk says",
+      "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tesla-in-space.jpg",
+      "source": "Arstechnica",
       "published_at": "2026-10-20"
     },
     {
-      "id": 40482,
-      "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05037_opgs_edr_ncam_NRB_844669907EDR_S1250558NCAM00543M_.JPG",
-      "source": "NASA",
+      "id": 40499,
+      "title": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
+      "source": "Spaceflight Now",
       "published_at": "2026-10-20"
     },
     {
-      "id": 40481,
-      "title": "JAXA’s MMX Enroute to Mars To Return Samples of Phobos",
-      "url": "https://spacepolicyonline.com/news/jaxas-mmx-enroute-to-mars-to-return-samples-of-phobos/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/10/MMX-liftoff-300x169.jpg",
-      "source": "SpacePolicyOnline.com",
+      "id": 40498,
+      "title": "Does anyone actually want to win the medium-lift race in the United States?",
+      "url": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/428da033c0ad14482819d3e20c503b86ad29b17f-9504x6336-1.avif",
+      "source": "Arstechnica",
       "published_at": "2026-10-20"
-    },
-    {
-      "id": 40480,
-      "title": "NASA Improves Shock, Vibration Analysis",
-      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260924-ph-rcr01-0036.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-19"
     }
   ]
 }
