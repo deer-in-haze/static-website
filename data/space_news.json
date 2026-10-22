@@ -1,69 +1,69 @@
 {
-  "updated": "2026-10-21T11:09:05.989Z",
+  "updated": "2026-10-22T11:08:42.166Z",
   "items": [
     {
-      "id": 40504,
-      "title": "Finding Our Way: Inside the Galileo Project: 2 - The people behind the signal",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_2_-_The_people_behind_the_signal",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/finding_our_way_inside_the_galileo_project_2_-_the_people_behind_the_signal/27585629-1-eng-GB/Finding_Our_Way_Inside_the_Galileo_Project_2_-_The_people_behind_the_signal_card_full.png",
+      "id": 40525,
+      "title": "ESA Open Days 2026",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/esa_open_days_2026/27587076-1-eng-GB/ESA_Open_Days_2026_card_full.png",
       "source": "ESA",
-      "published_at": "2026-10-21"
+      "published_at": "2026-10-22"
     },
     {
-      "id": 40503,
-      "title": "Finding Our Way: Inside the Galileo Project: 1 – A European vision",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_1_A_European_vision",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/finding_our_way_inside_the_galileo_project_1_a_european_vision/27585539-1-eng-GB/Finding_Our_Way_Inside_the_Galileo_Project_1_A_European_vision_card_full.png",
+      "id": 40523,
+      "title": "Stars brewing in a nebulous cauldron",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
       "source": "ESA",
-      "published_at": "2026-10-21"
+      "published_at": "2026-10-22"
     },
     {
-      "id": 40505,
-      "title": "Finding Our Way: Inside the Galileo Project: 3 - A symphony of precision",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_3_-_A_symphony_of_precision",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/finding_our_way_inside_the_galileo_project_3_-_a_symphony_of_precision/27585719-1-eng-GB/Finding_Our_Way_Inside_the_Galileo_Project_3_-_A_symphony_of_precision_card_full.png",
+      "id": 40524,
+      "title": "Moon crane to take a load off lunar landers",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Moon_crane_to_take_a_load_off_lunar_landers",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/moon_crane_to_take_a_load_off_lunar_landers/27582872-2-eng-GB/Moon_crane_to_take_a_load_off_lunar_landers_card_full.jpg",
       "source": "ESA",
-      "published_at": "2026-10-21"
+      "published_at": "2026-10-22"
     },
     {
-      "id": 40501,
-      "title": "APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/IC63.png",
+      "id": 40522,
+      "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/green_wd_mark-garlick_annotated2.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-22"
+    },
+    {
+      "id": 40521,
+      "title": "Fires Char New Guinea",
+      "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-guinea-on-fire/papuanewguinea_vir_20261011.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-22"
+    },
+    {
+      "id": 40520,
+      "title": "Faster to Science: A Letter to the Science Community",
+      "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
+      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+      "source": "NASA",
+      "published_at": "2026-10-22"
+    },
+    {
+      "id": 40519,
+      "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
+      "url": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg",
       "source": "NASA",
       "published_at": "2026-10-21"
     },
     {
-      "id": 40502,
-      "title": "Extratropical Cyclone Whips Past Iceland",
-      "url": "https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014.jpg",
-      "source": "NASA",
+      "id": 40518,
+      "title": "China readies first commercial resupply craft, first booster reflight, and next landing attempt",
+      "url": "https://www.nasaspaceflight.com/2026/10/china-roundup-102026/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/The-Long-March-10B-Y1-vehicle-lifting-off-from-the-Wenchang-Commercial-Space-Launch-Site-on-July-10th-2026-CASC.webp",
+      "source": "NASASpaceflight",
       "published_at": "2026-10-21"
-    },
-    {
-      "id": 40500,
-      "title": "Making SpaceX and Tesla a single company has \"a lot of merit,\" Musk says",
-      "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tesla-in-space.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-10-20"
-    },
-    {
-      "id": 40499,
-      "title": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-      "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-10-20"
-    },
-    {
-      "id": 40498,
-      "title": "Does anyone actually want to win the medium-lift race in the United States?",
-      "url": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/428da033c0ad14482819d3e20c503b86ad29b17f-9504x6336-1.avif",
-      "source": "Arstechnica",
-      "published_at": "2026-10-20"
     }
   ]
 }
