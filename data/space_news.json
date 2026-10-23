@@ -1,69 +1,69 @@
 {
-  "updated": "2026-10-22T11:08:42.166Z",
+  "updated": "2026-10-23T10:59:47.748Z",
   "items": [
     {
-      "id": 40525,
-      "title": "ESA Open Days 2026",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/esa_open_days_2026/27587076-1-eng-GB/ESA_Open_Days_2026_card_full.png",
+      "id": 40537,
+      "title": "Earth from Space: The pink city",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_The_pink_city",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_the_pink_city/27589033-1-eng-GB/Earth_from_Space_The_pink_city_card_full.jpg",
       "source": "ESA",
-      "published_at": "2026-10-22"
+      "published_at": "2026-10-23"
     },
     {
-      "id": 40523,
-      "title": "Stars brewing in a nebulous cauldron",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-10-22"
+      "id": 40536,
+      "title": "NASA Safety Panel Concerned About Artemis IV, Future Access to LEO",
+      "url": "https://spacepolicyonline.com/news/nasa-safety-panel-concerned-about-artemis-iv-future-access-to-leo/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-Earthset-Apr-6-26-1-300x200.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-10-23"
     },
     {
-      "id": 40524,
-      "title": "Moon crane to take a load off lunar landers",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Moon_crane_to_take_a_load_off_lunar_landers",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/moon_crane_to_take_a_load_off_lunar_landers/27582872-2-eng-GB/Moon_crane_to_take_a_load_off_lunar_landers_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-10-22"
-    },
-    {
-      "id": 40522,
-      "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/green_wd_mark-garlick_annotated2.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-22"
-    },
-    {
-      "id": 40521,
-      "title": "Fires Char New Guinea",
-      "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-guinea-on-fire/papuanewguinea_vir_20261011.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-22"
-    },
-    {
-      "id": 40520,
-      "title": "Faster to Science: A Letter to the Science Community",
-      "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
-      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-      "source": "NASA",
-      "published_at": "2026-10-22"
-    },
-    {
-      "id": 40519,
-      "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
-      "url": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-21"
-    },
-    {
-      "id": 40518,
-      "title": "China readies first commercial resupply craft, first booster reflight, and next landing attempt",
-      "url": "https://www.nasaspaceflight.com/2026/10/china-roundup-102026/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/The-Long-March-10B-Y1-vehicle-lifting-off-from-the-Wenchang-Commercial-Space-Launch-Site-on-July-10th-2026-CASC.webp",
+      "id": 40535,
+      "title": "ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13",
+      "url": "https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/iss075e0226575orig-scaled.jpg",
       "source": "NASASpaceflight",
-      "published_at": "2026-10-21"
+      "published_at": "2026-10-22"
+    },
+    {
+      "id": 40534,
+      "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+      "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx.jpeg",
+      "source": "Arstechnica",
+      "published_at": "2026-10-22"
+    },
+    {
+      "id": 40533,
+      "title": "Moon’s South Pole Not the Only Compelling Location for Human Exploration",
+      "url": "https://spacepolicyonline.com/news/moons-south-pole-not-the-only-compelling-location-for-human-exploration/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/10/NASEM-full-chart-228x300.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-10-22"
+    },
+    {
+      "id": 40532,
+      "title": "Rethinking networks in space with Aalyria’s Brian Barritt",
+      "url": "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-Aalyria-2000-1500.jpg?fit=1024%2C768&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-10-22"
+    },
+    {
+      "id": 40530,
+      "title": "ESA Provides New Details on Failed Space Rider Drop Test",
+      "url": "https://europeanspaceflight.com/esa-provides-new-details-on-failed-space-rider-drop-test/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/ESA-Provides-New-Details-on-Failed-Space-Rider-Drop-Test.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-10-22"
+    },
+    {
+      "id": 40531,
+      "title": "350th ESA Council: Media information session",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/350th_ESA_Council_Media_information_session",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/350th_esa_council_media_information_session/27588859-3-eng-GB/350th_ESA_Council_Media_information_session_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-10-22"
     }
   ]
 }
