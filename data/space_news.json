@@ -1,69 +1,69 @@
 {
-  "updated": "2026-10-23T10:59:47.748Z",
+  "updated": "2026-10-24T10:16:22.358Z",
   "items": [
     {
-      "id": 40537,
-      "title": "Earth from Space: The pink city",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_The_pink_city",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_the_pink_city/27589033-1-eng-GB/Earth_from_Space_The_pink_city_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-10-23"
+      "id": 40546,
+      "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/ESA_Rosetta_Philae_CIVA_141007.png",
+      "source": "NASA",
+      "published_at": "2026-10-24"
     },
     {
-      "id": 40536,
-      "title": "NASA Safety Panel Concerned About Artemis IV, Future Access to LEO",
-      "url": "https://spacepolicyonline.com/news/nasa-safety-panel-concerned-about-artemis-iv-future-access-to-leo/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-Earthset-Apr-6-26-1-300x200.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-10-23"
-    },
-    {
-      "id": 40535,
-      "title": "ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13",
-      "url": "https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/iss075e0226575orig-scaled.jpg",
+      "id": 40545,
+      "title": "NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths",
+      "url": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-24-03-48-44-239.jpg",
       "source": "NASASpaceflight",
-      "published_at": "2026-10-22"
+      "published_at": "2026-10-24"
     },
     {
-      "id": 40534,
-      "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
-      "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx.jpeg",
+      "id": 40544,
+      "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur.jpg",
       "source": "Arstechnica",
-      "published_at": "2026-10-22"
+      "published_at": "2026-10-23"
     },
     {
-      "id": 40533,
-      "title": "Moon’s South Pole Not the Only Compelling Location for Human Exploration",
-      "url": "https://spacepolicyonline.com/news/moons-south-pole-not-the-only-compelling-location-for-human-exploration/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/10/NASEM-full-chart-228x300.jpg",
+      "id": 40543,
+      "title": "NASA is Full Steam Ahead on Artemis III, IV and V",
+      "url": "https://spacepolicyonline.com/news/nasa-is-full-steam-ahead-on-artemis-iii-iv-and-v/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/10/group-300x167.jpg",
       "source": "SpacePolicyOnline.com",
-      "published_at": "2026-10-22"
+      "published_at": "2026-10-23"
     },
     {
-      "id": 40532,
-      "title": "Rethinking networks in space with Aalyria’s Brian Barritt",
-      "url": "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-Aalyria-2000-1500.jpg?fit=1024%2C768&ssl=1",
+      "id": 40547,
+      "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+      "image_url": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-23"
+    },
+    {
+      "id": 40548,
+      "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+      "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-23"
+    },
+    {
+      "id": 40549,
+      "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+      "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-23"
+    },
+    {
+      "id": 40542,
+      "title": "Nov. 5: Satellite Mission Management at the Edge",
+      "url": "https://spacenews.com/satellite-mission-management-at-the-edge-event/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-11-05-RTX-SpaceNews-2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
       "source": "SpaceNews",
-      "published_at": "2026-10-22"
-    },
-    {
-      "id": 40530,
-      "title": "ESA Provides New Details on Failed Space Rider Drop Test",
-      "url": "https://europeanspaceflight.com/esa-provides-new-details-on-failed-space-rider-drop-test/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/ESA-Provides-New-Details-on-Failed-Space-Rider-Drop-Test.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-10-22"
-    },
-    {
-      "id": 40531,
-      "title": "350th ESA Council: Media information session",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/350th_ESA_Council_Media_information_session",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/350th_esa_council_media_information_session/27588859-3-eng-GB/350th_ESA_Council_Media_information_session_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-10-22"
+      "published_at": "2026-10-23"
     }
   ]
 }
