@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-24T10:16:22.358Z",
+  "updated": "2026-10-25T10:42:27.442Z",
   "items": [
+    {
+      "id": 40556,
+      "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+      "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-25"
+    },
     {
       "id": 40546,
       "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
@@ -55,14 +63,6 @@
       "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
       "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg",
       "source": "NASA",
-      "published_at": "2026-10-23"
-    },
-    {
-      "id": 40542,
-      "title": "Nov. 5: Satellite Mission Management at the Edge",
-      "url": "https://spacenews.com/satellite-mission-management-at-the-edge-event/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-11-05-RTX-SpaceNews-2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
-      "source": "SpaceNews",
       "published_at": "2026-10-23"
     }
   ]
