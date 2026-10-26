@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-25T10:42:27.442Z",
+  "updated": "2026-10-26T12:14:47.581Z",
   "items": [
+    {
+      "id": 40561,
+      "title": "Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg",
+      "url": "https://europeanspaceflight.com/australia-counters-esas-offer-for-mission-to-iss-for-bennell-pegg/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Australia-Counters-ESAs-Offer-for-Mission-to-ISS-for-Bennell-Pegg.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-10-26"
+    },
+    {
+      "id": 40562,
+      "title": "Ice mission CRISTAL opens its wings",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/testing_cristal_s_solar_panel_deployment/27590593-1-eng-GB/Testing_CRISTAL_s_solar_panel_deployment_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-10-26"
+    },
+    {
+      "id": 40560,
+      "title": "2026 October 26 – M42: The Great Nebula in Orion",
+      "url": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/OrionSword_Palaia_2000.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-26"
+    },
+    {
+      "id": 40559,
+      "title": "Hunting Red Leaves with Satellites",
+      "url": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/red-leaf-hunting-/fallfoliagephenology_pace_20261004.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-26"
+    },
+    {
+      "id": 40558,
+      "title": "What’s Happening in Space Policy October 25-November 1, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-25-november-1-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Nicky-Fox-2026-240x300.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-10-25"
+    },
+    {
+      "id": 40557,
+      "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
+      "url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Gigabay-and-the-VAB-Julia-2-scaled.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-10-25"
+    },
     {
       "id": 40556,
       "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
@@ -16,54 +64,6 @@
       "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/ESA_Rosetta_Philae_CIVA_141007.png",
       "source": "NASA",
       "published_at": "2026-10-24"
-    },
-    {
-      "id": 40545,
-      "title": "NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths",
-      "url": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-24-03-48-44-239.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-10-24"
-    },
-    {
-      "id": 40544,
-      "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-10-23"
-    },
-    {
-      "id": 40543,
-      "title": "NASA is Full Steam Ahead on Artemis III, IV and V",
-      "url": "https://spacepolicyonline.com/news/nasa-is-full-steam-ahead-on-artemis-iii-iv-and-v/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/10/group-300x167.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-10-23"
-    },
-    {
-      "id": 40547,
-      "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-      "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-      "image_url": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-23"
-    },
-    {
-      "id": 40548,
-      "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-      "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-23"
-    },
-    {
-      "id": 40549,
-      "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-      "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-23"
     }
   ]
 }
