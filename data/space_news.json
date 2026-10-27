@@ -1,69 +1,69 @@
 {
-  "updated": "2026-10-26T12:14:47.581Z",
+  "updated": "2026-10-27T11:35:18.678Z",
   "items": [
     {
-      "id": 40561,
-      "title": "Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg",
-      "url": "https://europeanspaceflight.com/australia-counters-esas-offer-for-mission-to-iss-for-bennell-pegg/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Australia-Counters-ESAs-Offer-for-Mission-to-ISS-for-Bennell-Pegg.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-10-26"
-    },
-    {
-      "id": 40562,
-      "title": "Ice mission CRISTAL opens its wings",
-      "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/testing_cristal_s_solar_panel_deployment/27590593-1-eng-GB/Testing_CRISTAL_s_solar_panel_deployment_card_full.jpg",
+      "id": 40599,
+      "title": "ESA procures four new Galileo Second Generation satellites",
+      "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_satellite_navigation_constellation/27537524-1-eng-GB/Galileo_satellite_navigation_constellation_card_full.jpg",
       "source": "ESA",
-      "published_at": "2026-10-26"
+      "published_at": "2026-10-27"
     },
     {
-      "id": 40560,
-      "title": "2026 October 26 – M42: The Great Nebula in Orion",
-      "url": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/OrionSword_Palaia_2000.jpg",
+      "id": 40597,
+      "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
+      "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/image.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-27"
+    },
+    {
+      "id": 40596,
+      "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NocClouds_Hofer_6048.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-27"
+    },
+    {
+      "id": 40595,
+      "title": "A-81 Reaches South Georgia",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-81-reaches-south-georgia/iceberga81_tmo_20261020.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-27"
+    },
+    {
+      "id": 40594,
+      "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
+      "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/04/20250401_Starlink_G9_10_Vertical_Sunset.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-10-27"
+    },
+    {
+      "id": 40593,
+      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26816/PIA26816_low_res.jpg",
       "source": "NASA",
       "published_at": "2026-10-26"
     },
     {
-      "id": 40559,
-      "title": "Hunting Red Leaves with Satellites",
-      "url": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/red-leaf-hunting-/fallfoliagephenology_pace_20261004.jpg",
+      "id": 40590,
+      "title": "Tinga’s Tale",
+      "url": "https://science.nasa.gov/blog/tingas-tale/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2009_0845281389_428EBY_N0911496ZCAM10039_1100LMJ.jpg",
       "source": "NASA",
       "published_at": "2026-10-26"
     },
     {
-      "id": 40558,
-      "title": "What’s Happening in Space Policy October 25-November 1, 2026",
-      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-25-november-1-2026/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Nicky-Fox-2026-240x300.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-10-25"
-    },
-    {
-      "id": 40557,
-      "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
-      "url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Gigabay-and-the-VAB-Julia-2-scaled.jpg",
+      "id": 40589,
+      "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
+      "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-1.jpeg",
       "source": "NASASpaceflight",
-      "published_at": "2026-10-25"
-    },
-    {
-      "id": 40556,
-      "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
-      "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-25"
-    },
-    {
-      "id": 40546,
-      "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/ESA_Rosetta_Philae_CIVA_141007.png",
-      "source": "NASA",
-      "published_at": "2026-10-24"
+      "published_at": "2026-10-26"
     }
   ]
 }
