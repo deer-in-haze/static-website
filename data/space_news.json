@@ -1,69 +1,69 @@
 {
-  "updated": "2026-10-27T11:35:18.678Z",
+  "updated": "2026-10-28T12:06:22.969Z",
   "items": [
     {
-      "id": 40599,
-      "title": "ESA procures four new Galileo Second Generation satellites",
-      "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_satellite_navigation_constellation/27537524-1-eng-GB/Galileo_satellite_navigation_constellation_card_full.jpg",
-      "source": "ESA",
+      "id": 40614,
+      "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_msss_05048_mhli_5048MH0009170001804540R00_DXXX.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-28"
+    },
+    {
+      "id": 40613,
+      "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
+      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+      "source": "NASA",
+      "published_at": "2026-10-28"
+    },
+    {
+      "id": 40612,
+      "title": "The Land of the Standing-Up Rocks",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-land-of-the-standing-up-rocks/chiricahua_oli2_20260702.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-28"
+    },
+    {
+      "id": 40611,
+      "title": "Ukrainian startup, GomSpace test satellite for future communications network",
+      "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.41.11-PM.png?fit=1024%2C588&ssl=1",
+      "source": "SpaceNews",
       "published_at": "2026-10-27"
     },
     {
-      "id": 40597,
-      "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
-      "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/image.jpg",
+      "id": 40610,
+      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg",
       "source": "NASA",
       "published_at": "2026-10-27"
     },
     {
-      "id": 40596,
-      "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NocClouds_Hofer_6048.jpg",
+      "id": 40609,
+      "title": "NASA’s Neo Surveyor Sunshade",
+      "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg",
       "source": "NASA",
       "published_at": "2026-10-27"
     },
     {
-      "id": 40595,
-      "title": "A-81 Reaches South Georgia",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-81-reaches-south-georgia/iceberga81_tmo_20261020.jpg",
-      "source": "NASA",
+      "id": 40608,
+      "title": "A small star is eating a brown dwarf so slowly that the meal could last billions of years, and the two orbit each other every 87 minutes inside a space that would fit within the Sun",
+      "url": "https://spacedaily.com/a-small-star-is-eating-a-brown-dwarf-so-slowly-that-the-meal-could-last-billions-of-years-and-the-two-orbit-each-other-every-87-minutes-inside-a-space-that-would-fit-within-the-sun/",
+      "image_url": "https://spacedaily.com/wp-content/uploads/2026/10/Keck_obervatories.jpg",
+      "source": "SpaceDaily",
       "published_at": "2026-10-27"
     },
     {
-      "id": 40594,
-      "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
-      "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
-      "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/04/20250401_Starlink_G9_10_Vertical_Sunset.jpg",
-      "source": "Spaceflight Now",
+      "id": 40604,
+      "title": "ESA’s INVICTUS Hypersonic Programme Clears First Major Review",
+      "url": "https://europeanspaceflight.com/esas-invictus-hypersonic-programme-clears-first-major-review/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/ESAs-INVICTUS-Hypersonic-Programme-Clears-First-Design-Review.webp",
+      "source": "European Spaceflight",
       "published_at": "2026-10-27"
-    },
-    {
-      "id": 40593,
-      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
-      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26816/PIA26816_low_res.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-26"
-    },
-    {
-      "id": 40590,
-      "title": "Tinga’s Tale",
-      "url": "https://science.nasa.gov/blog/tingas-tale/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2009_0845281389_428EBY_N0911496ZCAM10039_1100LMJ.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-26"
-    },
-    {
-      "id": 40589,
-      "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
-      "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-1.jpeg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-10-26"
     }
   ]
 }
