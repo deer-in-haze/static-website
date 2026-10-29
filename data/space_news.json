@@ -1,69 +1,69 @@
 {
-  "updated": "2026-10-28T12:06:22.969Z",
+  "updated": "2026-10-29T12:16:26.486Z",
   "items": [
     {
-      "id": 40614,
-      "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_msss_05048_mhli_5048MH0009170001804540R00_DXXX.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-28"
+      "id": 40633,
+      "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+      "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots.jpg",
+      "source": "Arstechnica",
+      "published_at": "2026-10-29"
     },
     {
-      "id": 40613,
-      "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
-      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-      "source": "NASA",
-      "published_at": "2026-10-28"
-    },
-    {
-      "id": 40612,
-      "title": "The Land of the Standing-Up Rocks",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-land-of-the-standing-up-rocks/chiricahua_oli2_20260702.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-28"
-    },
-    {
-      "id": 40611,
-      "title": "Ukrainian startup, GomSpace test satellite for future communications network",
-      "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.41.11-PM.png?fit=1024%2C588&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-10-27"
-    },
-    {
-      "id": 40610,
-      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-27"
-    },
-    {
-      "id": 40609,
-      "title": "NASA’s Neo Surveyor Sunshade",
-      "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-27"
-    },
-    {
-      "id": 40608,
-      "title": "A small star is eating a brown dwarf so slowly that the meal could last billions of years, and the two orbit each other every 87 minutes inside a space that would fit within the Sun",
-      "url": "https://spacedaily.com/a-small-star-is-eating-a-brown-dwarf-so-slowly-that-the-meal-could-last-billions-of-years-and-the-two-orbit-each-other-every-87-minutes-inside-a-space-that-would-fit-within-the-sun/",
-      "image_url": "https://spacedaily.com/wp-content/uploads/2026/10/Keck_obervatories.jpg",
-      "source": "SpaceDaily",
-      "published_at": "2026-10-27"
-    },
-    {
-      "id": 40604,
-      "title": "ESA’s INVICTUS Hypersonic Programme Clears First Major Review",
-      "url": "https://europeanspaceflight.com/esas-invictus-hypersonic-programme-clears-first-major-review/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/ESAs-INVICTUS-Hypersonic-Programme-Clears-First-Design-Review.webp",
+      "id": 40630,
+      "title": "UK MOD Awards £15 Million Orbital Warfare Project to Astroscale",
+      "url": "https://europeanspaceflight.com/uk-mod-awards-15-million-orbital-warfare-project-to-astroscale/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/UK-MOD-Awards-15-million-Orbital-Warfare-Project-to-Astroscale-.webp",
       "source": "European Spaceflight",
-      "published_at": "2026-10-27"
+      "published_at": "2026-10-29"
+    },
+    {
+      "id": 40628,
+      "title": "APOD: 29 October 2026 – The Horns of Venus",
+      "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/venus_20261024a.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-29"
+    },
+    {
+      "id": 40627,
+      "title": "Arnab Strikes India",
+      "url": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-29"
+    },
+    {
+      "id": 40626,
+      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/wiseman-portrait-crop-for-portal.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-29"
+    },
+    {
+      "id": 40629,
+      "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
+      "url": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
+      "image_url": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-10-28"
+    },
+    {
+      "id": 40624,
+      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-vietnam-78-102826.jpg",
+      "source": "NASA",
+      "published_at": "2026-10-28"
+    },
+    {
+      "id": 40622,
+      "title": "Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana",
+      "url": "https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/kscvsstarbasecomparison.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-10-28"
     }
   ]
 }
