@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-01T12:39:52.573Z",
+  "updated": "2026-11-02T14:44:53.402Z",
   "items": [
+    {
+      "id": 40677,
+      "title": "ESA to Support Industry-Led Reusable Booster Flight Demonstrations",
+      "url": "https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-to-Support-Industry-Led-Reusable-Booster-Flight-Demonstrations.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-11-02"
+    },
+    {
+      "id": 40676,
+      "title": "How to Expand Reliable, Flexible Access to Space",
+      "url": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/SpaceNews_AD-1-1.png?fit=1024%2C794&ssl=1",
+      "source": "SpaceNews",
+      "published_at": "2026-11-02"
+    },
+    {
+      "id": 40675,
+      "title": "CubeSat achieves challenging laser link to ground",
+      "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/11/illustration_of_three_ermis_technology_demonstration_cubesats_in_orbit/27596682-1-eng-GB/Illustration_of_three_ERMIS_technology_demonstration_CubeSats_in_orbit_card_full.jpg",
+      "source": "ESA",
+      "published_at": "2026-11-02"
+    },
+    {
+      "id": 40674,
+      "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg",
+      "source": "NASA",
+      "published_at": "2026-11-02"
+    },
+    {
+      "id": 40673,
+      "title": "Pennsylvania’s Grand Canyon",
+      "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pennsylvania%E2%80%99s-grand-canyon/pinecreekgorge_oli_20261025.jpg",
+      "source": "NASA",
+      "published_at": "2026-11-02"
+    },
+    {
+      "id": 40672,
+      "title": "What’s Happening in Space Policy November 1-8, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-1-8-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/max-power-aircraft-300x120.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-11-01"
+    },
     {
       "id": 40671,
       "title": "Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement",
@@ -16,54 +64,6 @@
       "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg",
       "source": "NASA",
       "published_at": "2026-11-01"
-    },
-    {
-      "id": 40669,
-      "title": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
-      "url": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-11-01-03-15-37-109-wmarked.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-11-01"
-    },
-    {
-      "id": 40668,
-      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/Hverir_Vetter_1300.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-31"
-    },
-    {
-      "id": 40667,
-      "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
-      "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
-      "image_url": "https://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-10-30"
-    },
-    {
-      "id": 40666,
-      "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
-      "url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Booster-22-Static-fire-scaled.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-10-30"
-    },
-    {
-      "id": 40665,
-      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
-      "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg",
-      "source": "NASA",
-      "published_at": "2026-10-30"
-    },
-    {
-      "id": 40664,
-      "title": "ESI supplying solar array components to missile defense programs",
-      "url": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/ESI-Motion-Square-Logo-Blue-PNG.png?fit=969%2C1024&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-10-30"
     }
   ]
 }
