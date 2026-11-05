@@ -1,69 +1,69 @@
 {
-  "updated": "2026-11-04T13:45:38.524Z",
+  "updated": "2026-11-05T13:58:21.998Z",
   "items": [
     {
-      "id": 40701,
-      "title": "PLD Space Completes MIURA 5 Flight Termination System Test",
-      "url": "https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/PLD-Space-Completes-MIURA-5-Flight-Termination-System-Test.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-11-04"
-    },
-    {
-      "id": 40702,
-      "title": "Time to wake up MetOp-SG-B1 weather satellite",
-      "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite",
-      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/11/removing_metop-sg-b1_from_its_transport_container/27598342-1-eng-GB/Removing_MetOp-SG-B1_from_its_transport_container_card_full.jpg",
-      "source": "ESA",
-      "published_at": "2026-11-04"
-    },
-    {
-      "id": 40699,
-      "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/ic342.png",
+      "id": 40746,
+      "title": "Hubble Learns Galactic History From Stars",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg",
       "source": "NASA",
+      "published_at": "2026-11-05"
+    },
+    {
+      "id": 40745,
+      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png",
+      "source": "NASA",
+      "published_at": "2026-11-05"
+    },
+    {
+      "id": 40744,
+      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+      "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010.jpg",
+      "source": "NASA",
+      "published_at": "2026-11-05"
+    },
+    {
+      "id": 40743,
+      "title": "Former NASA Chief Economist is New Head of Canadian Space Agency",
+      "url": "https://spacepolicyonline.com/news/former-nasa-chief-economist-is-new-head-of-canadian-space-agency/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Alex-MacDonald-300x300.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-11-05"
+    },
+    {
+      "id": 40742,
+      "title": "Two giant black holes at the heart of one galaxy may circle each other every 121 to 146 days and could merge in as little as 100 years",
+      "url": "https://spacedaily.com/two-giant-black-holes-at-the-heart-of-one-galaxy-may-circle-each-other-every-121-to-146-days-and-could-merge-in-as-little-as-100-years/",
+      "image_url": "https://spacedaily.com/wp-content/uploads/2026/10/Artists-impression-of-the-core-of-Markarian-501-scaled.png",
+      "source": "SpaceDaily",
+      "published_at": "2026-11-05"
+    },
+    {
+      "id": 40741,
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/nasa-x-70-image.png",
+      "source": "NASA",
+      "published_at": "2026-11-05"
+    },
+    {
+      "id": 40740,
+      "title": "Farewell Swift",
+      "url": "https://spacepolicyonline.com/news/farewell-swift/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Katalyst-LINK-Pegasus-300x203.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-11-05"
+    },
+    {
+      "id": 40729,
+      "title": "Trump Issues “American Declaration of Freedom in Space”",
+      "url": "https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/A3-crew-all-5-Shiflett-Sept-2-26-300x156.jpg",
+      "source": "SpacePolicyOnline.com",
       "published_at": "2026-11-04"
-    },
-    {
-      "id": 40700,
-      "title": "Before the Dawn in America’s Heartland",
-      "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/before-the-dawn-in-america%E2%80%99s-heartland/ISS075-E-226709.jpg",
-      "source": "NASA",
-      "published_at": "2026-11-04"
-    },
-    {
-      "id": 40698,
-      "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
-      "url": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/simera-space.png?fit=1024%2C1024&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-11-03"
-    },
-    {
-      "id": 40697,
-      "title": "This space company is betting its future on a propellant available everywhere",
-      "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-11-03"
-    },
-    {
-      "id": 40696,
-      "title": "Astronaut and Earth",
-      "url": "https://www.nasa.gov/image-article/astronaut-and-earth/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg",
-      "source": "NASA",
-      "published_at": "2026-11-03"
-    },
-    {
-      "id": 40695,
-      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-10-fig-1.png",
-      "source": "NASA",
-      "published_at": "2026-11-03"
     }
   ]
 }
