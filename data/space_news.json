@@ -1,69 +1,69 @@
 {
-  "updated": "2026-11-05T13:58:21.998Z",
+  "updated": "2026-11-06T13:43:42.314Z",
   "items": [
     {
-      "id": 40746,
-      "title": "Hubble Learns Galactic History From Stars",
-      "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg",
+      "id": 40761,
+      "title": "Avio Scales Back Demonstrator Programme Amid Technical Challenges",
+      "url": "https://europeanspaceflight.com/avio-scales-back-demonstrator-programme-amid-technical-challenges/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Avio-Scales-Back-Demonstrator-Programme-Amid-Technical-Challenges.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-11-06"
+    },
+    {
+      "id": 40760,
+      "title": "APOD: 2026 November 6 – A Farewell to Swift",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg",
       "source": "NASA",
-      "published_at": "2026-11-05"
+      "published_at": "2026-11-06"
     },
     {
-      "id": 40745,
-      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png",
+      "id": 40759,
+      "title": "Taking a Gander at Utah’s Goosenecks",
+      "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/taking-a-gander-at-utah%E2%80%99s-goosenecks/ISS075-E-188830.jpg",
       "source": "NASA",
+      "published_at": "2026-11-06"
+    },
+    {
+      "id": 40758,
+      "title": "ISS astronauts install final iROSA solar panel to augment aging ISS power systems",
+      "url": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_9798.jpeg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-11-06"
+    },
+    {
+      "id": 40757,
+      "title": "Blue Origin announces rocket upgrades aimed at lower costs, more performance",
+      "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine.webp",
+      "source": "Arstechnica",
+      "published_at": "2026-11-06"
+    },
+    {
+      "id": 40755,
+      "title": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
+      "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
+      "image_url": "https://spaceflightnow.com/wp-content/uploads/2026/11/GS3.png",
+      "source": "Spaceflight Now",
       "published_at": "2026-11-05"
     },
     {
-      "id": 40744,
-      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
-      "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010.jpg",
-      "source": "NASA",
+      "id": 40756,
+      "title": "As it happened: spacewalkers install space station’s eighth and final upgraded solar array",
+      "url": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/",
+      "image_url": "https://spaceflightnow.com/wp-content/uploads/2026/11/Kutryk-1024x726.jpg",
+      "source": "Spaceflight Now",
       "published_at": "2026-11-05"
     },
     {
-      "id": 40743,
-      "title": "Former NASA Chief Economist is New Head of Canadian Space Agency",
-      "url": "https://spacepolicyonline.com/news/former-nasa-chief-economist-is-new-head-of-canadian-space-agency/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Alex-MacDonald-300x300.jpg",
-      "source": "SpacePolicyOnline.com",
+      "id": 40754,
+      "title": "Spacewalkers complete five-year effort to upgrade space station power supply",
+      "url": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/",
+      "image_url": "https://spaceflightnow.com/wp-content/uploads/2026/11/irosa-wings-3-4-delivery.jpg",
+      "source": "Spaceflight Now",
       "published_at": "2026-11-05"
-    },
-    {
-      "id": 40742,
-      "title": "Two giant black holes at the heart of one galaxy may circle each other every 121 to 146 days and could merge in as little as 100 years",
-      "url": "https://spacedaily.com/two-giant-black-holes-at-the-heart-of-one-galaxy-may-circle-each-other-every-121-to-146-days-and-could-merge-in-as-little-as-100-years/",
-      "image_url": "https://spacedaily.com/wp-content/uploads/2026/10/Artists-impression-of-the-core-of-Markarian-501-scaled.png",
-      "source": "SpaceDaily",
-      "published_at": "2026-11-05"
-    },
-    {
-      "id": 40741,
-      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/nasa-x-70-image.png",
-      "source": "NASA",
-      "published_at": "2026-11-05"
-    },
-    {
-      "id": 40740,
-      "title": "Farewell Swift",
-      "url": "https://spacepolicyonline.com/news/farewell-swift/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Katalyst-LINK-Pegasus-300x203.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-11-05"
-    },
-    {
-      "id": 40729,
-      "title": "Trump Issues “American Declaration of Freedom in Space”",
-      "url": "https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/A3-crew-all-5-Shiflett-Sept-2-26-300x156.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-11-04"
     }
   ]
 }
