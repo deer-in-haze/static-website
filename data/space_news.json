@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-07T12:26:14.346Z",
+  "updated": "2026-11-08T12:44:44.297Z",
   "items": [
+    {
+      "id": 40774,
+      "title": "APOD: 2026 November 8 – Major Fireball Meteor",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg",
+      "source": "NASA",
+      "published_at": "2026-11-08"
+    },
+    {
+      "id": 40773,
+      "title": "NASA’s Moon Base plan gains a PROMISE",
+      "url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/00-36-55_promise-lunar-surface-render.png",
+      "source": "NASASpaceflight",
+      "published_at": "2026-11-08"
+    },
+    {
+      "id": 40772,
+      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg",
+      "source": "NASA",
+      "published_at": "2026-11-07"
+    },
+    {
+      "id": 40771,
+      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+      "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg",
+      "source": "NASA",
+      "published_at": "2026-11-07"
+    },
+    {
+      "id": 40770,
+      "title": "NASA announces search for new astronauts",
+      "url": "https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/jsc2025e075919_altlarge.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-11-07"
+    },
     {
       "id": 40769,
       "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
@@ -23,46 +63,6 @@
       "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
       "image_url": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-F9-File-Feature-Image.jpg",
       "source": "Spaceflight Now",
-      "published_at": "2026-11-06"
-    },
-    {
-      "id": 40766,
-      "title": "Stoke Space evaluating expansion of Cape site for second Nova pad",
-      "url": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-20-58-09-237.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-11-06"
-    },
-    {
-      "id": 40765,
-      "title": "AST SpaceMobile is so desperate for launch they're building their own rocket",
-      "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-11-06"
-    },
-    {
-      "id": 40763,
-      "title": "M30’s Sparkling Stars",
-      "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg",
-      "source": "NASA",
-      "published_at": "2026-11-06"
-    },
-    {
-      "id": 40764,
-      "title": "Supercomputing Tech Demo Schedule",
-      "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
-      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-      "source": "NASA",
-      "published_at": "2026-11-06"
-    },
-    {
-      "id": 40762,
-      "title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
-      "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-15-16-17-030.jpg",
-      "source": "NASASpaceflight",
       "published_at": "2026-11-06"
     }
   ]
