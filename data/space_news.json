@@ -1,69 +1,69 @@
 {
-  "updated": "2026-11-12T14:36:32.358Z",
+  "updated": "2026-11-13T13:54:48.075Z",
   "items": [
     {
-      "id": 40823,
-      "title": "How ESA astronauts return from space",
-      "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/how-esa-astronauts-return-from-space",
-      "image_url": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-      "source": "ESA",
-      "published_at": "2026-11-12"
+      "id": 40839,
+      "title": "ULA’s Vulcan rocket plans return to flight with launch of 40 Leo satellites for Amazon",
+      "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+      "image_url": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Vulcan-LV-01-Pad-logos.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-11-13"
     },
     {
-      "id": 40822,
-      "title": "ESA astronaut reserve celebrates completion of training",
-      "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/esa-astronaut-reserve-celebrates-completion-of-training",
-      "image_url": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-      "source": "ESA",
-      "published_at": "2026-11-12"
+      "id": 40838,
+      "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery.jpeg",
+      "source": "Arstechnica",
+      "published_at": "2026-11-13"
     },
     {
-      "id": 40821,
-      "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_lenscollage_P18085_ok4_noletters.tif",
-      "source": "NASA",
-      "published_at": "2026-11-12"
-    },
-    {
-      "id": 40820,
-      "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2023/03/690852main_ED12-0317-012_full.jpg",
-      "source": "NASA",
-      "published_at": "2026-11-12"
-    },
-    {
-      "id": 40819,
-      "title": "ESA Explains Delay in Signing MaiaSpace Launcher Challenge Contract",
-      "url": "https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-Explains-Delay-in-Signing-MaiaSpace-Launcher-Challenge-Contract.webp",
+      "id": 40837,
+      "title": "ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations",
+      "url": "https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-Confirms-Latest-Prometheus-Tests-Not-Connected-to-Themis-Hop-Preparations.webp",
       "source": "European Spaceflight",
-      "published_at": "2026-11-12"
+      "published_at": "2026-11-13"
     },
     {
-      "id": 40817,
-      "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/conjunction-bubak.jpg",
+      "id": 40836,
+      "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+      "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "source": "NASA",
-      "published_at": "2026-11-12"
+      "published_at": "2026-11-13"
     },
     {
-      "id": 40818,
-      "title": "Scotland’s Flow Country",
-      "url": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland%E2%80%99s-flow-country-/scotland_flowcountry_oli2_20240304.jpg",
+      "id": 40835,
+      "title": "A Global Rebound for Mangroves",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_tm5_20100214.jpg",
       "source": "NASA",
-      "published_at": "2026-11-12"
+      "published_at": "2026-11-13"
     },
     {
-      "id": 40816,
-      "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/november/https___mars.nasa.gov_msl-raw-images_msss_05067_mhli_5067MH0009180001804584C00_DXXX.jpg",
-      "source": "NASA",
-      "published_at": "2026-11-12"
+      "id": 40834,
+      "title": "Senate Appropriations CJS Subcommittee Proposes $24.9 Billion for NASA in FY2027",
+      "url": "https://spacepolicyonline.com/news/senate-appropriations-cjs-subcommittee-proposes-24-9-billion-for-nasa-in-fy2027/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Senate-CJS-table-230x300.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-11-13"
+    },
+    {
+      "id": 40833,
+      "title": "Starship Flight 15 to attempt first catch of both stages",
+      "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-13-03-14-56-684.jpg",
+      "source": "NASASpaceflight",
+      "published_at": "2026-11-13"
+    },
+    {
+      "id": 40832,
+      "title": "NASA Looking for New Ways to Return Perseverance Samples From Mars",
+      "url": "https://spacepolicyonline.com/news/nasa-looking-for-new-ways-to-return-perseverance-samples-from-mars/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/05/MSR-architecture-April-30-25-300x160.png",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-11-13"
     }
   ]
 }
