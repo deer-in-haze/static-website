@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-15T13:25:38.146Z",
+  "updated": "2026-11-16T14:46:30.253Z",
   "items": [
+    {
+      "id": 40854,
+      "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/weic2620a.jpg",
+      "source": "NASA",
+      "published_at": "2026-11-16"
+    },
+    {
+      "id": 40855,
+      "title": "The Last Ice on Puncak Jaya",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_tm5_1988308.jpg",
+      "source": "NASA",
+      "published_at": "2026-11-16"
+    },
+    {
+      "id": 40853,
+      "title": "What’s Happening in Space Policy November 15-21, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-15-21-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/IFT15-catch-2-300x221.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-11-15"
+    },
+    {
+      "id": 40852,
+      "title": "Vulcan’s Return-to-Flight Fails",
+      "url": "https://spacepolicyonline.com/news/vulcans-return-to-flight-fails/",
+      "image_url": "https://pbs.twimg.com/profile_images/548027983/Website_logo_400x400.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-11-15"
+    },
+    {
+      "id": 40851,
+      "title": "Starship Returns to its Launch Pad From Orbit",
+      "url": "https://www.spacescout.info/2026/11/starship-returns-to-its-launch-pad-from-orbit/",
+      "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/11/Remotes_Logo-7-scaled.jpg",
+      "source": "Space Scout",
+      "published_at": "2026-11-15"
+    },
+    {
+      "id": 40850,
+      "title": "ULA suffers first total mission failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+      "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+      "image_url": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261114-Vulcan-LV-01-launch.jpg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-11-15"
+    },
     {
       "id": 40849,
       "title": "APOD: 2026 November 15 – Leonid Meteors Through Orion",
@@ -16,54 +64,6 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389.jpg",
       "source": "Arstechnica",
       "published_at": "2026-11-15"
-    },
-    {
-      "id": 40847,
-      "title": "SpaceX Catches a Starship",
-      "url": "https://spacepolicyonline.com/news/spacex-catches-a-starship/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/IFT-15-before-launch-3-278x300.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-11-14"
-    },
-    {
-      "id": 40846,
-      "title": "Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late",
-      "url": "https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Next-Vega-C-Launch-Edges-Closer-to-Christmas-Day-as-Satellites-Arrive-Late.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-11-14"
-    },
-    {
-      "id": 40845,
-      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-11-14"
-    },
-    {
-      "id": 40844,
-      "title": "Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?",
-      "url": "https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/IFT-15-before-launch-3-278x300.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-11-13"
-    },
-    {
-      "id": 40843,
-      "title": "Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch",
-      "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
-      "image_url": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Starship-wide.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-11-13"
-    },
-    {
-      "id": 40842,
-      "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
-      "url": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1024%2C883&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-11-13"
     }
   ]
 }
