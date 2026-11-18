@@ -1,69 +1,69 @@
 {
-  "updated": "2026-11-17T15:28:53.763Z",
+  "updated": "2026-11-18T15:05:05.703Z",
   "items": [
     {
-      "id": 40870,
-      "title": "ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio",
-      "url": "https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ICEYE-Launches-2.05B-Euros-Takeover-Bid-for-Italian-Rocket-Builder-Avio.webp",
+      "id": 40887,
+      "title": "PLD Space Investor Selects MIURA 5 to Launch Demo Mission",
+      "url": "https://europeanspaceflight.com/pld-space-investor-selects-miura-5-to-launch-demo-mission/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/PLD-Space-Investor-Selects-MIURA-5-to-Launch-Demo-Mission.webp",
       "source": "European Spaceflight",
-      "published_at": "2026-11-17"
+      "published_at": "2026-11-18"
     },
     {
-      "id": 40869,
-      "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
-      "url": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/",
-      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/cosmo-bee-scaled.jpg?fit=1024%2C1024&ssl=1",
-      "source": "SpaceNews",
-      "published_at": "2026-11-17"
-    },
-    {
-      "id": 40867,
-      "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
-      "image_url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "id": 40886,
+      "title": "APOD: 2026 November 18 – An M-class Solar Flare",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg",
       "source": "NASA",
-      "published_at": "2026-11-17"
+      "published_at": "2026-11-18"
     },
     {
-      "id": 40868,
-      "title": "Tossing Fireworks from Cloud to Cloud",
-      "url": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
-      "image_url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/tossing-fireworks-from-cloud-to-cloud/ISS075-E-250951.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "id": 40885,
+      "title": "Sierra Snow Season Spins Up",
+      "url": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sierra-snow-season-spins-up/sierranevada_tmo_20261112.jpg",
       "source": "NASA",
-      "published_at": "2026-11-17"
+      "published_at": "2026-11-18"
     },
     {
-      "id": 40866,
-      "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
-      "url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2023_0846533367_473EBY_N0930000ZCAM10057_1100LMJ.jpg",
-      "source": "NASA",
-      "published_at": "2026-11-16"
+      "id": 40884,
+      "title": "ULA Investigating Low Booster Performance in Vulcan Launch Failure",
+      "url": "https://spacepolicyonline.com/news/ula-investigating-low-booster-performance-in-vulcan-launch-failure/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Vulcan-liftoff-300x292.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-11-18"
     },
     {
-      "id": 40865,
-      "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
-      "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26804/PIA26804.jpg",
-      "source": "NASA",
-      "published_at": "2026-11-16"
-    },
-    {
-      "id": 40864,
-      "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_1966.jpeg",
+      "id": 40881,
+      "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+      "url": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/04020AD5-BE6D-4D2C-A1B6-15A4C73131D8-1.jpeg",
       "source": "NASASpaceflight",
-      "published_at": "2026-11-16"
+      "published_at": "2026-11-17"
     },
     {
-      "id": 40863,
-      "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
-      "url": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
+      "id": 40882,
+      "title": "NASA Launches Nuclear Power Systems Student Contest",
+      "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg",
       "source": "NASA",
-      "published_at": "2026-11-16"
+      "published_at": "2026-11-17"
+    },
+    {
+      "id": 40883,
+      "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
+      "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/open-science/Space%20Apps%20Challenge%202026%20Brazil.jpeg",
+      "source": "NASA",
+      "published_at": "2026-11-17"
+    },
+    {
+      "id": 40878,
+      "title": "BPS Digital AVATAR Challenge",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/",
+      "image_url": "https://images-assets.nasa.gov/image/EMU_CHIP_GLOVE_DYE_L2/EMU_CHIP_GLOVE_DYE_L2~large.jpg",
+      "source": "NASA",
+      "published_at": "2026-11-17"
     }
   ]
 }
