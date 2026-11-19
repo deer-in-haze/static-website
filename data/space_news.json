@@ -1,69 +1,69 @@
 {
-  "updated": "2026-11-18T15:05:05.703Z",
+  "updated": "2026-11-19T15:14:04.075Z",
   "items": [
     {
-      "id": 40887,
-      "title": "PLD Space Investor Selects MIURA 5 to Launch Demo Mission",
-      "url": "https://europeanspaceflight.com/pld-space-investor-selects-miura-5-to-launch-demo-mission/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/PLD-Space-Investor-Selects-MIURA-5-to-Launch-Demo-Mission.webp",
+      "id": 40910,
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/ssc-20261118-s01364.jpg",
+      "source": "NASA",
+      "published_at": "2026-11-19"
+    },
+    {
+      "id": 40909,
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-light-day-horizontal.png",
+      "source": "NASA",
+      "published_at": "2026-11-19"
+    },
+    {
+      "id": 40908,
+      "title": "To make Moon landings easier, NASA is making life harder for Orion",
+      "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e012476large.jpg",
+      "source": "Arstechnica",
+      "published_at": "2026-11-19"
+    },
+    {
+      "id": 40907,
+      "title": "ESA Awards OHB €102M Contract for ClearSpace-1 Debris Removal Mission",
+      "url": "https://europeanspaceflight.com/esa-awards-ohb-e102m-contract-for-clearspace-1-debris-removal-mission/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-Awards-OHB-102M-Euro-Contract-for-ClearSpace-1-Debris-Removal-Mission.webp",
       "source": "European Spaceflight",
-      "published_at": "2026-11-18"
+      "published_at": "2026-11-19"
     },
     {
-      "id": 40886,
-      "title": "APOD: 2026 November 18 – An M-class Solar Flare",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg",
+      "id": 40906,
+      "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg",
       "source": "NASA",
-      "published_at": "2026-11-18"
+      "published_at": "2026-11-19"
     },
     {
-      "id": 40885,
-      "title": "Sierra Snow Season Spins Up",
-      "url": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sierra-snow-season-spins-up/sierranevada_tmo_20261112.jpg",
+      "id": 40905,
+      "title": "El Niño Rains Paint the Atacama",
+      "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-ni%C3%B1o-rains-paint-the-atacama/atacamabloom_oli_20260914.jpg",
       "source": "NASA",
-      "published_at": "2026-11-18"
+      "published_at": "2026-11-19"
     },
     {
-      "id": 40884,
-      "title": "ULA Investigating Low Booster Performance in Vulcan Launch Failure",
-      "url": "https://spacepolicyonline.com/news/ula-investigating-low-booster-performance-in-vulcan-launch-failure/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Vulcan-liftoff-300x292.jpg",
+      "id": 40904,
+      "title": "Voyager 1 Reaches New Milestone: One Light-Day from Earth",
+      "url": "https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/pale-blue-dot-300x161.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-11-19"
+    },
+    {
+      "id": 40903,
+      "title": "NASA and FCC Nominations Advance Out of Committee Despite Democratic Boycott",
+      "url": "https://spacepolicyonline.com/news/nasa-and-fcc-nominations-advance-out-of-committee-despite-democratic-boycott/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/thumann-300x163.jpg",
       "source": "SpacePolicyOnline.com",
       "published_at": "2026-11-18"
-    },
-    {
-      "id": 40881,
-      "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
-      "url": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/04020AD5-BE6D-4D2C-A1B6-15A4C73131D8-1.jpeg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-11-17"
-    },
-    {
-      "id": 40882,
-      "title": "NASA Launches Nuclear Power Systems Student Contest",
-      "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg",
-      "source": "NASA",
-      "published_at": "2026-11-17"
-    },
-    {
-      "id": 40883,
-      "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
-      "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/open-science/Space%20Apps%20Challenge%202026%20Brazil.jpeg",
-      "source": "NASA",
-      "published_at": "2026-11-17"
-    },
-    {
-      "id": 40878,
-      "title": "BPS Digital AVATAR Challenge",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/",
-      "image_url": "https://images-assets.nasa.gov/image/EMU_CHIP_GLOVE_DYE_L2/EMU_CHIP_GLOVE_DYE_L2~large.jpg",
-      "source": "NASA",
-      "published_at": "2026-11-17"
     }
   ]
 }
