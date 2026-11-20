@@ -1,69 +1,69 @@
 {
-  "updated": "2026-11-19T15:14:04.075Z",
+  "updated": "2026-11-20T14:52:52.026Z",
   "items": [
     {
-      "id": 40910,
-      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
-      "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/ssc-20261118-s01364.jpg",
+      "id": 40921,
+      "title": "Danish Soldiers Are Sneaking Starlink Terminals into Greenland",
+      "url": "https://europeanspaceflight.com/danish-soldiers-are-sneaking-starlink-terminals-into-greenland/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Danish-Soldiers-Are-Sneaking-Starlink-Terminals-into-Greenland.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-11-20"
+    },
+    {
+      "id": 40920,
+      "title": "APOD: 2026 November 20 – V-G-R",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/IMG_4364N_Kyriazis.jpg",
       "source": "NASA",
+      "published_at": "2026-11-20"
+    },
+    {
+      "id": 40919,
+      "title": "The Stormy Southwest Pacific",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-stormy-southwest-pacific--/cyclonexavier_amo_20261116.jpg",
+      "source": "NASA",
+      "published_at": "2026-11-20"
+    },
+    {
+      "id": 40918,
+      "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+      "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+      "image_url": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261119_USSF_317_Vertical.jpg",
+      "source": "Spaceflight Now",
       "published_at": "2026-11-19"
     },
     {
-      "id": 40909,
-      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
-      "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-light-day-horizontal.png",
-      "source": "NASA",
+      "id": 40917,
+      "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+      "url": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_2841.jpeg",
+      "source": "NASASpaceflight",
       "published_at": "2026-11-19"
     },
     {
-      "id": 40908,
-      "title": "To make Moon landings easier, NASA is making life harder for Orion",
-      "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e012476large.jpg",
+      "id": 40916,
+      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+      "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3.jpg",
       "source": "Arstechnica",
       "published_at": "2026-11-19"
     },
     {
-      "id": 40907,
-      "title": "ESA Awards OHB €102M Contract for ClearSpace-1 Debris Removal Mission",
-      "url": "https://europeanspaceflight.com/esa-awards-ohb-e102m-contract-for-clearspace-1-debris-removal-mission/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-Awards-OHB-102M-Euro-Contract-for-ClearSpace-1-Debris-Removal-Mission.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-11-19"
-    },
-    {
-      "id": 40906,
-      "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg",
+      "id": 40915,
+      "title": "Challenge: Public Input on Life and the World in 2075",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2015/07/kerho-concept-v2.jpg",
       "source": "NASA",
       "published_at": "2026-11-19"
     },
     {
-      "id": 40905,
-      "title": "El Niño Rains Paint the Atacama",
-      "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-ni%C3%B1o-rains-paint-the-atacama/atacamabloom_oli_20260914.jpg",
-      "source": "NASA",
+      "id": 40914,
+      "title": "The sweet spot for constellation size",
+      "url": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/jan-smolders-2-scaled.jpg?fit=1024%2C768&ssl=1",
+      "source": "SpaceNews",
       "published_at": "2026-11-19"
-    },
-    {
-      "id": 40904,
-      "title": "Voyager 1 Reaches New Milestone: One Light-Day from Earth",
-      "url": "https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/pale-blue-dot-300x161.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-11-19"
-    },
-    {
-      "id": 40903,
-      "title": "NASA and FCC Nominations Advance Out of Committee Despite Democratic Boycott",
-      "url": "https://spacepolicyonline.com/news/nasa-and-fcc-nominations-advance-out-of-committee-despite-democratic-boycott/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/thumann-300x163.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-11-18"
     }
   ]
 }
