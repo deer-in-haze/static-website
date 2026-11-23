@@ -1,69 +1,69 @@
 {
-  "updated": "2026-11-22T14:01:15.716Z",
+  "updated": "2026-11-23T17:22:57.468Z",
   "items": [
     {
-      "id": 40931,
-      "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/JupiterSwirls_JunoBrealey_3709.jpg",
+      "id": 40940,
+      "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
+      "url": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/",
+      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
       "source": "NASA",
+      "published_at": "2026-11-23"
+    },
+    {
+      "id": 40937,
+      "title": "Eutelsat Wins $60 Million US Space Force Contract",
+      "url": "https://europeanspaceflight.com/eutelsat-wins-60-million-us-space-force-contract/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Eutelsat-Wins-60-Million-Dollar-US-Space-Force-Contract.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-11-23"
+    },
+    {
+      "id": 40939,
+      "title": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/11/STScI-01M6PRXJ9A7S81CH1C9SJP1MB0.jpg",
+      "source": "NASA",
+      "published_at": "2026-11-23"
+    },
+    {
+      "id": 40935,
+      "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Ldn1251Comparison_Cruz_2160.jpg",
+      "source": "NASA",
+      "published_at": "2026-11-23"
+    },
+    {
+      "id": 40936,
+      "title": "Laser Focus at the Top of the World",
+      "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/laser-focus-at-the-top-of-the-world/svalbardzm_oli2_20260730.jpg",
+      "source": "NASA",
+      "published_at": "2026-11-23"
+    },
+    {
+      "id": 40934,
+      "title": "China details its path to a crewed Moon landing before 2030",
+      "url": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/Mengzhou-and-Lanyue-docking-in-orbit-render-3-Hero-CCTV.png",
+      "source": "NASASpaceflight",
       "published_at": "2026-11-22"
     },
     {
-      "id": 40930,
-      "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
-      "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
-      "image_url": "https://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
-      "source": "Spaceflight Now",
-      "published_at": "2026-11-21"
+      "id": 40933,
+      "title": "What’s Happening in Space Policy November 22-29, 2026",
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-22-29-2026/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/ESA-BepiColombo-300x169.jpg",
+      "source": "SpacePolicyOnline.com",
+      "published_at": "2026-11-22"
     },
     {
-      "id": 40929,
-      "title": "Denmark’s GomSpace Secures €8M Contract for Blue Origin Moon Mission",
-      "url": "https://europeanspaceflight.com/denmarks-gomspace-secures-e8m-contract-for-blue-origin-moon-mission/",
-      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Denmarks-GomSpace-Secures-8-Million-Euro-Contract-for-Blue-Origin-Moon-Mission.webp",
-      "source": "European Spaceflight",
-      "published_at": "2026-11-21"
-    },
-    {
-      "id": 40928,
-      "title": "APOD: 2026 November 21 – Voyager’s Neptune",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Neptune-South-Pole-Voyager-2_2327x1670.jpg",
+      "id": 40932,
+      "title": "65 Years of Human Spaceflight at NASA Johnson",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/20261106-artemiscelebrationgala-sl1-4202.jpg",
       "source": "NASA",
-      "published_at": "2026-11-21"
-    },
-    {
-      "id": 40927,
-      "title": "Curiosity Spots Drifting Twilight Clouds",
-      "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26805/PIA26805.jpg",
-      "source": "NASA",
-      "published_at": "2026-11-20"
-    },
-    {
-      "id": 40926,
-      "title": "Incoming House chair threatens SpaceX funding over Ukraine controversy",
-      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757.jpg",
-      "source": "Arstechnica",
-      "published_at": "2026-11-20"
-    },
-    {
-      "id": 40925,
-      "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
-      "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/elementium-illustration.png",
-      "source": "NASA",
-      "published_at": "2026-11-20"
-    },
-    {
-      "id": 40924,
-      "title": "Following Ship 42’s catch, SpaceX looks to the future",
-      "url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-20-19-36-16-464.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-11-20"
+      "published_at": "2026-11-22"
     }
   ]
 }
