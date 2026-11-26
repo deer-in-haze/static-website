@@ -1,69 +1,69 @@
 {
-  "updated": "2026-11-25T16:46:22.259Z",
+  "updated": "2026-11-26T16:22:35.498Z",
   "items": [
     {
-      "id": 40973,
-      "title": "Eye of the Sahara",
-      "url": "https://www.nasa.gov/image-article/eye-of-the-sahara/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg",
+      "id": 40983,
+      "title": "Thales Alenia Space to Establish Dedicated Company for Cargo Return Services",
+      "url": "https://europeanspaceflight.com/thales-alenia-space-to-establish-dedicated-company-for-cargo-return-services/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Thales-Alenia-Space-to-Establish-Dedicated-Company-for-Cargo-Return-Services.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-11-26"
+    },
+    {
+      "id": 40981,
+      "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Milky_Way_Lencois.jpg",
       "source": "NASA",
-      "published_at": "2026-11-25"
+      "published_at": "2026-11-26"
     },
     {
-      "id": 40972,
-      "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/milky-way/Hubble_GalacticBulge_HD70_1_FINAL.jpg",
+      "id": 40982,
+      "title": "Seeking Refuge on Resolution Island",
+      "url": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/seeking-refuge-on-resolution-island/nzresolution_oli2_20251212.jpg",
       "source": "NASA",
-      "published_at": "2026-11-25"
+      "published_at": "2026-11-26"
     },
     {
-      "id": 40971,
-      "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
-      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-      "source": "NASA",
-      "published_at": "2026-11-25"
+      "id": 40980,
+      "title": "FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites",
+      "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/",
+      "image_url": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261125_Starmind_rendering.jpeg",
+      "source": "Spaceflight Now",
+      "published_at": "2026-11-26"
     },
     {
-      "id": 40970,
-      "title": "Georgia’s Pecan Belt",
-      "url": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/georgia%E2%80%99s-pecan-belt/georgiapecans_oli_20261023.jpg",
-      "source": "NASA",
-      "published_at": "2026-11-25"
-    },
-    {
-      "id": 40969,
-      "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-      "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
-      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/09/Nov.-3-2023-Falcon-9-Starlink-6-26-Streak-Shot.jpg",
-      "source": "NASASpaceflight",
-      "published_at": "2026-11-25"
-    },
-    {
-      "id": 40968,
-      "title": "First Pakistani Astronaut Enroute to Tiangong",
-      "url": "https://spacepolicyonline.com/news/first-pakistani-astronaut-enroute-to-tiangong/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/shenzhou-24-liftoff-300x135.jpg",
+      "id": 40979,
+      "title": "FCC Approves Elon Musk’s One Million Orbital Data Centers",
+      "url": "https://spacepolicyonline.com/news/fcc-approves-elon-musks-one-million-orbital-data-centers/",
+      "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f1fa-1f1f8.png",
       "source": "SpacePolicyOnline.com",
+      "published_at": "2026-11-26"
+    },
+    {
+      "id": 40978,
+      "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+      "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/lrs00622.jpg",
+      "source": "NASA",
       "published_at": "2026-11-25"
     },
     {
-      "id": 40967,
-      "title": "White House Requests Billions for NASA, Golden Dome in Next CR",
-      "url": "https://spacepolicyonline.com/news/white-house-requests-billions-for-nasa-golden-dome-in-next-cr/",
-      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Moon-Base-Phase-1-NASA-300x169.jpg",
-      "source": "SpacePolicyOnline.com",
-      "published_at": "2026-11-24"
+      "id": 40977,
+      "title": "MaiaSpace Ships Maia Mechanical Models to Launch Site",
+      "url": "https://europeanspaceflight.com/maiaspace-ships-maia-mechanical-models-to-launch-site/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/MaiaSpace-Ships-Maia-Mechanical-Models-to-Launch-Site.webp",
+      "source": "European Spaceflight",
+      "published_at": "2026-11-25"
     },
     {
-      "id": 40966,
-      "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
-      "url": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
-      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/nasa-promo-image-horizontal-1.jpg",
-      "source": "NASA",
-      "published_at": "2026-11-24"
+      "id": 40975,
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/starmind.jpeg",
+      "source": "Arstechnica",
+      "published_at": "2026-11-25"
     }
   ]
 }
